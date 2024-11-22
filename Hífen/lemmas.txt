@@ -2817,7 +2817,7 @@ Curlândia
 Curral de Dentro
 Curupira
 Curvelo
-Custóias
+Custoias
 Cutberto
 Cuteberto
 Cuthbert
@@ -13130,7 +13130,6 @@ alfinete de ama
 alfinete de dama
 alfinete de fralda
 alfinete de segurança
-alfinete-de-ama
 alfisol
 alfissolo
 alfonsim
@@ -13850,7 +13849,6 @@ alúmina
 alúvio
 ama
 ama de leite
-ama-de-leite
 ama-seca
 amabilidade
 amaciante
@@ -14195,7 +14193,6 @@ amigo na necessidade é amigo de verdade
 amigo oculto
 amigo por correspondência
 amigo secreto
-amigo-da-onça
 amigona
 amigue
 amiguinha
@@ -15693,7 +15690,6 @@ anti-isquêmico
 anti-replay
 anti-rock
 anti-spyware
-anti-ético
 antiabolicionismo
 antiabolicionista
 antiabortista
@@ -18604,7 +18600,6 @@ arqueozoico
 arqueozoologia
 arqueozoológico
 arqueozoólogo
-arqueozóico
 arquetipicamente
 arquetípico
 arqueu
@@ -19679,7 +19674,6 @@ até que
 até que a morte nos separe
 até que enfim
 até-logo
-atéia
 atê
 atêrro
 atípico
@@ -19799,7 +19793,6 @@ auto
 auto da fé
 auto-
 auto-obsessão
-auto-sabotagem
 auto-ódio
 autoajuda
 autoanticorpo
@@ -20557,6 +20550,7 @@ banana-da-terra
 banana-pão
 bananada
 bananeira
+bananinha
 banca
 bancada
 bancada de cozinha
@@ -22543,6 +22537,7 @@ burocraticamente
 burocratizar
 burocrático
 burqa
+burquíni
 burra
 burrego
 burrice
@@ -22649,7 +22644,6 @@ bóer
 bófia
 bóhrio
 bói
-bóia salva-vidas
 bólide
 bólido
 bólingue
@@ -24523,7 +24517,6 @@ caçador de recompensas
 caçador-coletor
 caçador-recoletor
 caçadora
-caçadora-recolectora
 caçadora-recoletora
 caçamba
 caçamba de entulho
@@ -24564,7 +24557,6 @@ cedro
 cedê
 cedência
 cefaleia
-cefaléia
 cefalópode
 cega
 cegamente
@@ -25906,8 +25898,6 @@ co'a breca
 co-
 co-hipónimo
 co-hipônimo
-co-secante
-co-tangente
 coabitante
 coabitar
 coach
@@ -27236,8 +27226,6 @@ contra-argumentar
 contra-argumento
 contra-atacar
 contra-ataque
-contra-reforma
-contra-revolução
 contrabaixo
 contrabalancear
 contrabalançar
@@ -31546,6 +31534,7 @@ diácope
 diádico
 diálise
 diálogo
+diária
 diário
 diáspora
 diástole
@@ -34924,6 +34913,7 @@ estocástico
 estofa
 estofado
 estofo
+estoica
 estoicismo
 estoico
 estoirar
@@ -35172,7 +35162,6 @@ estígio
 estímulo
 estípula
 estírio
-estóico
 estólido
 estónia
 estónio
@@ -35987,6 +35976,7 @@ fanfarrona
 fanfarronice
 fanfarrão
 fanfic
+fanficar
 fanfiqueira
 fanfiqueiro
 fanga
@@ -36706,7 +36696,7 @@ filosofia
 filosofia analítica
 filosoficamente
 filosófico
-filotraquéia
+filotraqueia
 filoxera
 filtrante
 filtrar
@@ -39917,7 +39907,6 @@ herético
 heròicamente
 heróe
 herói
-heróico
 hesitante
 hesitar
 hesitação
@@ -40010,7 +39999,6 @@ hidrelétrico
 hidreto
 hidreto de lítio
 hidro-
-hidro-elétrico
 hidroavião
 hidrobiologia
 hidrocarboneto
@@ -44020,8 +44008,8 @@ liberal
 liberalidade
 liberalismo
 liberalmente
+liberaloide
 liberalíssimo
-liberalóide
 liberar
 liberação
 liberdade
@@ -47344,6 +47332,7 @@ monopolizar
 monopolização
 monopolo
 monopólio
+monoquíni
 monossacarídeo
 monossacarídio
 monossacárido
@@ -49179,7 +49168,6 @@ nó górdio
 nódoa
 nódoa negra
 nódulo
-nóia
 nóis
 nómada
 nómade
@@ -52526,7 +52514,6 @@ pintável
 pinyin
 pináculo
 pinça
-pinóia
 pio
 piolhento
 piolho
@@ -54447,7 +54434,6 @@ proselitismo
 proselitizar
 prosencéfalo
 prosopopeia
-prosopopéia
 prospectar
 prospectivo
 prospecção
@@ -54511,11 +54497,7 @@ proteômica
 proteômico
 protista
 proto-
-proto-eslavo
-proto-germânico
 proto-indo-europeu
-proto-itálico
-proto-língua
 proto-sino-tibetano
 protoactínio
 protoanemonina
@@ -54684,7 +54666,6 @@ psalmo
 pschent
 pseudo-
 pseudo-hifa
-pseudo-randômico
 pseudoaleatório
 pseudocereal
 pseudocientificamente
@@ -54694,6 +54675,7 @@ pseudoefedrina
 pseudofruto
 pseudogota
 pseudorraiva
+pseudorrandômico
 pseudosciencia
 pseudónimo
 pseudônimo
@@ -57457,6 +57439,7 @@ rodagem
 rodamoinho
 rodapé
 rodar
+rodar a baiana
 rodeado
 rodear
 rodeio
@@ -58706,12 +58689,6 @@ semestral
 semestralmente
 semestre
 semi-
-semi-automática
-semi-deus
-semi-final
-semi-nu
-semi-recta
-semi-reta
 semianalfabeto
 semiautomática
 semiautomático
@@ -59545,7 +59522,6 @@ sobre salto
 sobre-
 sobre-estimar
 sobre-humano
-sobre-salto
 sobreanca
 sobreaquecer
 sobreavaliação
