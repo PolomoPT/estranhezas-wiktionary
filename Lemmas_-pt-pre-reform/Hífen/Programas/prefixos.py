@@ -1,15 +1,15 @@
 import re
 
-caminho_input = 'Hífen\\com_hifen.txt'
+caminho_input = 'Lemmas_-pt-pre-reform\\Hífen\\com_hifen.txt'
 
-caminho_vogais = 'Hífen\\sem_vogais_iguais.txt'
-caminho_b = 'Hífen\\com_b.txt'
-caminho_co_re = 'Hífen\\com_co_re.txt'
-caminho_in_des = 'Hífen\\com_in_des.txt'
-caminho_m_n = 'Hífen\\com_m_n.txt'
-caminho_mal = 'Hífen\\com_mal.txt'
-caminho_fallback = 'Hífen\\fallback.txt'
-caminho_ultrafallback = 'Hífen\\ultrafallback.txt'
+caminho_vogais = 'Lemmas_-pt-pre-reform\\Hífen\\sem_vogais_iguais.txt'
+caminho_b = 'Lemmas_-pt-pre-reform\\Hífen\\com_b.txt'
+caminho_co_re = 'Lemmas_-pt-pre-reform\\Hífen\\com_co_re.txt'
+caminho_in_des = 'Lemmas_-pt-pre-reform\\Hífen\\com_in_des.txt'
+caminho_m_n = 'Lemmas_-pt-pre-reform\\Hífen\\com_m_n.txt'
+caminho_mal = 'Lemmas_-pt-pre-reform\\Hífen\\com_mal.txt'
+caminho_fallback = 'Lemmas_-pt-pre-reform\\Hífen\\fallback.txt'
+caminho_ultrafallback = 'Lemmas_-pt-pre-reform\\Hífen\\ultrafallback.txt'
 
 
 arquivo_input = open(caminho_input, 'r', encoding='utf-8')
