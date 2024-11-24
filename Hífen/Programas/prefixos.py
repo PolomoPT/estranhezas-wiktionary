@@ -29,7 +29,7 @@ for line in arquivo_input:
     match_prefixo_a = re.search('(^|\\s)(contra|extra|infra|intra|mega|supra|ultra)-(?!a|á|à|â|ã|h)', line)
     match_prefixo_e = re.search('(^|\\s)(ante|entre|sobre|tele)-(?!e|é|ê|h)', line)
     match_prefixo_i = re.search('(^|\\s)(alvi|anti|arqui|maxi|multi|pluri|poli|semi|tri)-(?!i|í|h)', line)
-    match_prefixo_o = re.search('(^|\\s)(aero|agro|auto|ciclo|eletro|foto|geo|hidro|macro|micro|moto|nano|neo|proto|pseudo|retro|socio|vaso|video)-(?!o|ó|ô|õ|h)', line)
+    match_prefixo_o = re.search('(^|\\s)(aero|agro|anarco|auto|ciclo|eletro|foto|geo|hidro|macro|micro|moto|nano|neo|proto|pseudo|retro|socio|vaso|video)-(?!o|ó|ô|õ|h)', line)
     match_in_des = re.search('(^|\\s)(des|in)-h', line)
     match_m_n = re.search('(^|\\s)(circum|pan)-(?!h|m|n|a|á|à|â|ã|e|é|ê|i|í|o|ó|ô|õ|u|ú)', line)
     match_b =  re.search('(^|\\s)(sob|sub)-(?!h|r|b)', line)
