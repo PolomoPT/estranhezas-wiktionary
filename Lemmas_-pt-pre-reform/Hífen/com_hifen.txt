@@ -236,13 +236,10 @@ ampère-espira
 ampère-hora
 amêijoa-gigante
 amígdalo-hipocampectomia
-anarco-capitalista
-anarco-comunismo
 anarco-comunista
 anarco-feminista
 anarco-primitivismo
 anarco-punk
-anarco-sindicalismo
 anarco-sindicalista
 andorinha-das-barreiras
 andorinha-das-chaminés
@@ -387,7 +384,6 @@ araticum-do-brejo
 arbusto-da-independência
 arcado-cipriota
 arco-da-velha
-arco-e-flecha
 arco-íris
 areia-gulosa
 arqui-herege
@@ -397,10 +393,10 @@ arraia-miúda
 arranha-céu
 arranha-céus
 arrasa-quarteirão
+arrasta-pé
 arroz-agulha
 arroz-bravo
 arroz-de-espinho
-arroz-de-leite
 arroz-de-rato
 arroz-de-telhado
 arroz-doce
@@ -503,7 +499,6 @@ bicho-carpinteiro
 bicho-da-farinha
 bicho-da-seda
 bicho-de-conta
-bicho-de-sete-cabeças
 bicho-galo
 bicho-geográfico
 bicho-gordo
@@ -525,8 +520,6 @@ boa-pinta
 boa-tarde
 boas-vindas
 bobo-pequeno
-boca-de-fumo
-boca-de-incêndio
 boca-de-leão
 boca-de-lobo
 boca-livre
@@ -535,8 +528,6 @@ boi-almiscarado
 boi-de-corcova
 boia salva-vidas
 boia-fria
-bola-ao-cesto
-bola-de-berlim
 bolacha-da-praia
 bolha das ponto-com
 bolha do ponto-com
@@ -577,11 +568,8 @@ caixa-prego
 caixa-preta
 cajá-manga
 cala-te, boca
-calcanhar-de-Aquiles
 caldo-verde
 calça-jeans
-calças à boca-de-sino
-caminho-de-ferro
 caminhão-tanque
 camisa-castanha
 camisa-de-vénus
@@ -595,7 +583,6 @@ caneta marca-texto
 caneta-tinteiro
 capim-doce
 capim-limão
-cara-de-pau
 cara-metade
 cara-pintada
 cara-pálida
@@ -626,7 +613,9 @@ caça-níqueis
 caça-níquel
 caça-palavras
 caçador-coletor
+caçador-recolector
 caçador-recoletor
+caçadora-recolectora
 caçadora-recoletora
 cação-anjo
 cebolinha-verde
@@ -643,8 +632,6 @@ chapa-branca
 chapim-azul
 chapim-preto
 chapéu-coco
-chapéu-de-chuva
-chapéu-de-coco
 chapéu-mexicano
 chave-mestra
 check-up
@@ -679,7 +666,6 @@ cipó-cruz
 cipó-cururu
 cipó-d'alho
 cipó-d'água
-cipó-de-boi
 cipó-de-cobra
 cipó-de-fogo
 cipó-de-imbé
@@ -724,11 +710,9 @@ cobra-lisa-austríaca
 cobra-real
 codorna-comum
 cogumelo-do-sol
-coisa-em-si
 coisa-ruim
 colete salva-vidas
 com-sigo
-comandante-em-chefe
 comigo-ninguém-pode
 complexo de vira-lata
 complexo de vira-latas
@@ -745,8 +729,6 @@ contra-atacar
 contra-ataque
 conversor analógico-digital
 copo-de-leite
-cor-de-burro-quando-foge
-cor-de-cobre
 cor-de-rosa
 coração-de-boi
 corre-corre
@@ -838,7 +820,6 @@ dois-pontos
 dolce-amarga
 dom-fafe
 dom-rodrigo
-dona-de-casa
 doninha-fedorenta
 dorme-dorme
 dou-lhe uma, dou-lhe duas, dou-lhe três
@@ -855,6 +836,7 @@ e-mail
 eixo-badeixo
 el-Rei
 el-rei
+electrão-volt
 elefante-africano
 elefante-asiático
 elefante-da-floresta
@@ -910,9 +892,7 @@ estar-se nas tintas
 este-sudeste
 este-sueste
 estivo-outonal
-estrada-de-ferro
 estraga-prazeres
-estrela-de-davi
 estrela-do-mar
 eu-lírico
 ex-BBB
@@ -940,11 +920,9 @@ feijão-carito
 feijão-casado
 feijão-catarino
 feijão-caupi
-feijão-com-arroz
 feijão-comum
 feijão-de-frade
 feijão-de-porco
-feijão-de-tropeiro
 feijão-encarnado
 feijão-frade
 feijão-fradinho
@@ -967,7 +945,6 @@ figueira-de-Bengala
 figueira-de-bengala
 figueira-do-diabo
 figueira-do-inferno
-filho-da-puta
 fino-úgrico
 first-person shooter
 fita-cola
@@ -978,17 +955,13 @@ fito-hormônio
 fiu-fiu
 fla-flu
 flip-flop
-flor-de-lis
 fluido pré-ejaculatório
 foca-monge-do-havaí
 foda-se
 foder-se para
 fogo-corredor
-fogo-de-santelmo
 fogo-fátuo
 foot-ball
-fora-de-jogo
-fora-de-lei
 forma-pensamento
 forma-sonata
 formicar-se
@@ -1022,8 +995,6 @@ fura-olho
 furta-cor
 fã-arte
 fã-clube
-gaita-de-beiços
-gaita-de-foles
 gaivota-parda
 galacto-oligossacarídeo
 galaico-português
@@ -1127,6 +1098,8 @@ ifrita-de-coroa-azul
 indo-europeu
 indo-europeística
 infra-hepático
+infra-sónico
+infra-sônico
 inglês sul-africano
 inter-racial
 inter-relação
@@ -1137,7 +1110,6 @@ jabuti-tinga
 jacaré-americano
 jacaré-açu
 jambo-rosa
-jardim-de-infância
 jasmim-pipoca
 javali-africano
 jet-pack
@@ -1191,7 +1163,6 @@ leão-americano
 leão-asiático
 leão-baio
 leão-da-montanha
-leão-de-chácara
 leão-do-atlas
 leão-do-cabo
 leão-marinho
@@ -1217,7 +1188,6 @@ locomotiva-tênder
 longa-metragem
 lontra-gigante
 louva-a-deus
-lua-de-mel
 lufa-lufa
 lugar-comum
 lula-colossal
@@ -1272,7 +1242,6 @@ maria-chuteira
 maria-farinha
 maria-fumaça
 maria-rapaz
-maria-vai-com-as-outras
 marimbondo-chapéu
 marmeleira-da-índia
 marmeleiro-da-índia
@@ -1292,11 +1261,9 @@ mau-olhado
 maus-tratos
 maçarico-branco
 maçarico-galego
-maçã-de-Adão
 megleno-romeno
 meia-boca
 meia-calça
-meia-de-leite
 meia-dúzia
 meia-dúzia de gato-pingado
 meia-dúzia de gatos-pingados
@@ -1325,10 +1292,8 @@ melro-d'água
 melro-peixeiro
 melão-de-são-caetano
 menino-mija
-mesa-de-cabeceira
 mesa-tenista
 mesa-tenístico
-mesinha-de-cabeceira
 mesão-friense
 meter-se em
 mexe-mexe
@@ -1361,14 +1326,10 @@ mudam-se os tempos, mudam-se os costumes
 má-formação
 má-formação arteriovenosa
 má-fé
-máquina-de-escrever
 máquina-ferramenta
-mãe-de-santo
 mãe-velha
 mão-aberta
 mão-cheia
-mão-de-obra
-mão-de-vaca
 mão-furada
 mão-leve
 mão-pelada
@@ -1379,7 +1340,6 @@ nacional-socialismo
 nacional-socialista
 nadador-salvador
 narciso-das-areias
-nariz-de-cera
 narrador não-confiável
 natureza-morta
 navio-almirante
@@ -1388,6 +1348,7 @@ navio-tanque
 nazi-fascismo
 nem-nem
 nhe-nhe-nhem
+nimbo-cúmulo
 ningres-ningres
 nogueira-pecã
 norte-americano
@@ -1408,7 +1369,6 @@ não-sei-quê
 não-te-esqueças
 objecto voador não-identificado
 objeto voador não-identificado
-oitavos-de-final
 olho-d'água
 on-line
 onça-d'água
@@ -1419,7 +1379,6 @@ orelha-de-judas
 organização não-governamental
 ouriço-cacheiro
 ouriço-do-mar
-pai-de-santo
 palavra-chave
 palavra-passe
 palavra-valise
@@ -1464,7 +1423,6 @@ part-time
 passa-palavra
 passe-bem
 passe-vite
-passo-a-passo
 passou-bem
 pastel-dos-tintureiros
 pastor-alemão
@@ -1477,7 +1435,6 @@ pato-selvagem
 pato-vapor
 pau-brasil
 pau-d'arco
-pau-de-arara
 pau-farinha
 pau-ferro
 pau-furado
@@ -1485,7 +1442,6 @@ pau-mandado
 pau-preto
 pau-rosa
 pavão-real
-pedra-da-lua
 pedra-papel-tesoura
 pedra-pomes
 pedra-tesoura-papel
@@ -1501,6 +1457,7 @@ peixe-bruxa
 peixe-de-briga
 peixe-de-são-pedro
 peixe-diabo
+peixe-eléctrico
 peixe-elétrico
 peixe-escorpião
 peixe-espada
@@ -1516,6 +1473,7 @@ peixe-palhaço
 peixe-papagaio
 peixe-pescador
 peixe-piloto
+peixe-pilôto
 peixe-sapo
 peixe-voador
 peixe-zebra
@@ -1530,7 +1488,6 @@ perca-amarela
 perdiz-cinzenta
 perereca-de-banheiro
 periquito-australiano
-perna-de-pau
 pesa-papéis
 pia-máter
 pica-pau
@@ -1580,12 +1537,8 @@ pombo-das-rochas
 pombo-doméstico
 pombo-passageiro
 pombo-torcaz
-pomo-de-Adão
-pomo-de-adão
-ponta-de-lança
 ponte-limense
 ponto-cruz
-ponto-e-vírgula
 pop-up
 porca-sara
 porco-da-terra
@@ -1593,7 +1546,6 @@ porco-espim
 porco-espinho
 porco-formigueiro
 porquinho-da-índia
-porta-a-porta
 porta-aviões
 porta-bagagem
 porta-bagagens
@@ -1624,15 +1576,16 @@ prima-dona
 prima-donna
 primeira-dama
 primeira-ministra
-primeiro-de-abril
 primeiro-ministro
 primeiro-tenente
 princípio da não-agressão
 promiscuir-se
 pronto-socorro
-proto-indo-europeu
-proto-sino-tibetano
+proto-indo-europeia
+proto-indo-européia
+protoindo-europeia
 protoindo-europeu
+protossino-tibetano
 pré-bélico
 pré-clássico
 pré-colombiano
@@ -1661,6 +1614,7 @@ príncipe-eleitor
 pró-ativo
 pró-reitor
 pseudo-hifa
+pseudo-randômico
 puxa-saco
 pára-brisa
 pára-brisas
@@ -1670,26 +1624,14 @@ pátria-mãe
 pão-de-galinha
 pão-de-galo
 pão-de-leite
-pão-de-ló
 pão-de-passarinho
 pão-de-pobre
 pão-de-pássaros
 pão-duro
-pão-por-deus
-pé-de-altar
-pé-de-atleta
-pé-de-cabra
 pé-de-cana
-pé-de-chinelo
-pé-de-chumbo
-pé-de-galinha
-pé-de-gato
 pé-de-meia
-pé-de-moleque
-pé-de-pato
 pé-direito
 pé-grande
-pé-no-saco
 pé-rachado
 pé-rapado
 pé-vela
@@ -1717,7 +1659,6 @@ quarta-feira
 quarta-feira de cinzas
 quartel-general
 quartel-mestre
-quartos-de-final
 quati-de-nariz-branco
 quati-mundéu
 quatro-momento
@@ -1734,7 +1675,6 @@ quebra-molas
 quebra-nozes
 quebra-pau
 queda-d'água
-queijo-de-coalho
 queima-roupa
 quem-nós-sabemos
 quero-quero
@@ -1742,7 +1682,6 @@ quilowatt-hora
 quinta-essencial
 quinta-feira
 rabirruivo-de-testa-branca
-rabo-de-cavalo
 raio-X
 raiz-forte
 raposa-cinzenta
@@ -1763,14 +1702,12 @@ rega-bofe
 rei-dos-ratos
 rendez-vous
 repolho-gambá
-respiração boca-a-boca
 retrato-robô
 ribeira-penense
 rinoceronte-negro
 rio-branquense
 rio-grandense
 rio-platense
-risca-de-giz
 rocha-mãe
 roda-gigante
 roda-viva
@@ -1780,8 +1717,8 @@ roleta-russa
 rom-rom
 rosa-canina
 rosa-choque
+rosa-da-china
 rosa-de-cão
-rosa-dos-ventos
 roupa-velha
 rubro-negro
 ruiva-dos-tintureiros
@@ -1802,7 +1739,6 @@ salto-alto
 saltos-altos
 salva-vidas
 salve-se quem puder
-salve-se-quem-puder
 salvo-conduto
 samba-canção
 samba-exaltação
@@ -1824,7 +1760,9 @@ sem-noção
 sem-teto
 sem-vergonha
 sem-vergonhice
-sempre-em-pé
+semi-recta
+semi-reta
+sempre-viva
 senso-comum
 serbo-croata
 serra tico-tico
@@ -1835,12 +1773,11 @@ sexta-feira
 sexta-feira santa
 show-biz
 si-próprio
-signo-de-salomão
 sino-japonês
 situação-problema
-sobe-e-desce
 sobre-estimar
 sobre-humano
+sobre-salto
 sobrinha-neta
 sobrinho-neto
 social-democracia
@@ -1925,8 +1862,8 @@ tenente-coronel
 tentilhão-montês
 ter bicho-carpinteiro
 terceiro-mundista
-terno risca-de-giz
 terça-feira
+testa-de-ferro
 tetraz-grande-das-serras
 tia-avó
 tico-tico
@@ -1945,7 +1882,6 @@ tira-olhos
 toca-CD
 toca-discos
 todo-poderoso
-toma-lá-dá-cá
 tomate-coração-de-boi
 topa-tudo
 torda-mergulheira
@@ -1993,6 +1929,8 @@ tá-se bem
 táxi-lotação
 tão-pouco
 tête-à-tête
+ultra-sónico
+ultra-sônico
 unha-de-asno
 unha-de-cavalo
 unha-de-gato
@@ -2076,7 +2014,6 @@ vin-d'alho
 vinha-d'alho
 vinha-d'alhos
 vinha-da-judeia
-vinte-e-um
 vira-casaca
 vira-casacas
 vira-lata
@@ -2095,6 +2032,7 @@ vá-se foder
 vídeo-game
 walkie-talkie
 wi-fi
+x-acto
 x-ato
 x-ésimo
 xaque-mate
@@ -2109,7 +2047,6 @@ zé-prequeté
 Áustria-Hungria
 à queima-roupa
 á-bê-cê
-água-de-cheiro
 água-de-colónia
 água-de-colônia
 água-forte
@@ -2127,7 +2064,6 @@ zé-prequeté
 álcool-gel
 árvore rubro-negra
 árvore-da-independência
-árvore-da-vida
 ântero-distal
 ântero-dorsal
 ântero-dorsalmente

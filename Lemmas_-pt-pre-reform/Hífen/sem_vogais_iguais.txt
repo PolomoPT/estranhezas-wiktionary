@@ -1,10 +1,7 @@
-|anarco-capitalista
-|anarco-comunismo
 |anarco-comunista
 |anarco-feminista
 |anarco-primitivismo
 |anarco-punk
-|anarco-sindicalismo
 |anarco-sindicalista
 |anti-G
 |anti-Markovnikov
@@ -14,4 +11,12 @@
 |anti-replay
 |anti-rock
 |anti-spyware
+|infra-sónico
+|infra-sônico
+|pseudo-randômico
+|semi-recta
+|semi-reta
+|sobre-salto
+|ultra-sónico
+|ultra-sônico
 |video-tape

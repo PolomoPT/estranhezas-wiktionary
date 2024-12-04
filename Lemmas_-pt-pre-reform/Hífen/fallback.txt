@@ -145,6 +145,7 @@
 |arranha-céu
 |arranha-céus
 |arrasa-quarteirão
+|arrasta-pé
 |asa-delta
 |astro-rei
 |austro-alemão
@@ -260,6 +261,7 @@
 |caça-níqueis
 |caça-níquel
 |caça-palavras
+|caçadora-recolectora
 |caçadora-recoletora
 |cação-anjo
 |cebolinha-verde
@@ -362,6 +364,7 @@
 |e-girl
 |e-mail
 |eixo-badeixo
+|electrão-volt
 |elefante-africano
 |elefante-asiático
 |elefante-marinho
@@ -660,6 +663,7 @@
 |navio-farol
 |navio-tanque
 |nazi-fascismo
+|nimbo-cúmulo
 |nogueira-pecã
 |norte-americano
 |norte-coreano
@@ -734,6 +738,7 @@
 |peixe-papagaio
 |peixe-pescador
 |peixe-piloto
+|peixe-pilôto
 |peixe-sapo
 |peixe-voador
 |peixe-zebra
@@ -804,7 +809,9 @@
 |primeiro-tenente
 |princípio da não-agressão
 |pronto-socorro
+|protoindo-europeia
 |protoindo-europeu
+|protossino-tibetano
 |puxa-saco
 |pára-brisa
 |pára-brisas
@@ -882,6 +889,7 @@
 |sapo-cururu
 |secretário-geral
 |segunda-feira
+|sempre-viva
 |senso-comum
 |serbo-croata
 |serra tico-tico
