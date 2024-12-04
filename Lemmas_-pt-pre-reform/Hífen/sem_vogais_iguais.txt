@@ -11,12 +11,4 @@
 |anti-replay
 |anti-rock
 |anti-spyware
-|infra-sónico
-|infra-sônico
-|pseudo-randômico
-|semi-recta
-|semi-reta
-|sobre-salto
-|ultra-sónico
-|ultra-sônico
 |video-tape

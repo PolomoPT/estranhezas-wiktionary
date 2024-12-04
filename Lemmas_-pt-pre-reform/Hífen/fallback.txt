@@ -261,7 +261,6 @@
 |caça-níqueis
 |caça-níquel
 |caça-palavras
-|caçadora-recolectora
 |caçadora-recoletora
 |cação-anjo
 |cebolinha-verde
@@ -364,7 +363,6 @@
 |e-girl
 |e-mail
 |eixo-badeixo
-|electrão-volt
 |elefante-africano
 |elefante-asiático
 |elefante-marinho

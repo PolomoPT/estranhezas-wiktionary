@@ -572,8 +572,6 @@ caldo-verde
 calça-jeans
 caminhão-tanque
 camisa-castanha
-camisa-de-vénus
-camisa-de-vênus
 camisa-marrom
 camisa-parda
 camisa-verde
@@ -613,9 +611,7 @@ caça-níqueis
 caça-níquel
 caça-palavras
 caçador-coletor
-caçador-recolector
 caçador-recoletor
-caçadora-recolectora
 caçadora-recoletora
 cação-anjo
 cebolinha-verde
@@ -836,7 +832,6 @@ e-mail
 eixo-badeixo
 el-Rei
 el-rei
-electrão-volt
 elefante-africano
 elefante-asiático
 elefante-da-floresta
@@ -1098,8 +1093,6 @@ ifrita-de-coroa-azul
 indo-europeu
 indo-europeística
 infra-hepático
-infra-sónico
-infra-sônico
 inglês sul-africano
 inter-racial
 inter-relação
@@ -1457,7 +1450,6 @@ peixe-bruxa
 peixe-de-briga
 peixe-de-são-pedro
 peixe-diabo
-peixe-eléctrico
 peixe-elétrico
 peixe-escorpião
 peixe-espada
@@ -1581,8 +1573,6 @@ primeiro-tenente
 princípio da não-agressão
 promiscuir-se
 pronto-socorro
-proto-indo-europeia
-proto-indo-européia
 protoindo-europeia
 protoindo-europeu
 protossino-tibetano
@@ -1614,7 +1604,6 @@ príncipe-eleitor
 pró-ativo
 pró-reitor
 pseudo-hifa
-pseudo-randômico
 puxa-saco
 pára-brisa
 pára-brisas
@@ -1760,8 +1749,6 @@ sem-noção
 sem-teto
 sem-vergonha
 sem-vergonhice
-semi-recta
-semi-reta
 sempre-viva
 senso-comum
 serbo-croata
@@ -1777,7 +1764,6 @@ sino-japonês
 situação-problema
 sobre-estimar
 sobre-humano
-sobre-salto
 sobrinha-neta
 sobrinho-neto
 social-democracia
@@ -1863,7 +1849,6 @@ tentilhão-montês
 ter bicho-carpinteiro
 terceiro-mundista
 terça-feira
-testa-de-ferro
 tetraz-grande-das-serras
 tia-avó
 tico-tico
@@ -1929,8 +1914,6 @@ tá-se bem
 táxi-lotação
 tão-pouco
 tête-à-tête
-ultra-sónico
-ultra-sônico
 unha-de-asno
 unha-de-cavalo
 unha-de-gato
@@ -2032,7 +2015,6 @@ vá-se foder
 vídeo-game
 walkie-talkie
 wi-fi
-x-acto
 x-ato
 x-ésimo
 xaque-mate

@@ -68,8 +68,6 @@
 |cabra-de-leque
 |cachorrinho-da-terra
 |cachorro-do-mato
-|camisa-de-vénus
-|camisa-de-vênus
 |cana-de-açúcar
 |castanha-da-índia
 |castanha-de-caju
@@ -256,8 +254,6 @@
 |porco-da-terra
 |porquinho-da-índia
 |preá-da-índia
-|proto-indo-europeia
-|proto-indo-européia
 |pão-de-galinha
 |pão-de-galo
 |pão-de-leite
@@ -298,7 +294,6 @@
 |tatu-de-folha
 |tatu-de-jardim
 |tatuzinho-de-jardim
-|testa-de-ferro
 |tetraz-grande-das-serras
 |tigre-da-tasmânia
 |tigre-de-bengala
