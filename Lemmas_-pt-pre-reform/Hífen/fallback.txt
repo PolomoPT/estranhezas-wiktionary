@@ -216,6 +216,7 @@
 |bote salva-vidas
 |branco-neve
 |bufo-real
+|bugio-ruivo
 |bunda-mole
 |bunda-suja
 |búfalo-asiático
@@ -268,7 +269,6 @@
 |ceifeira-debulhadora
 |cenoura-brava
 |centro-africano
-|centro-avante
 |chama-maré
 |chamo-me
 |chapa-branca
@@ -736,7 +736,6 @@
 |peixe-papagaio
 |peixe-pescador
 |peixe-piloto
-|peixe-pilôto
 |peixe-sapo
 |peixe-voador
 |peixe-zebra
@@ -811,10 +810,6 @@
 |protoindo-europeu
 |protossino-tibetano
 |puxa-saco
-|pára-brisa
-|pára-brisas
-|pára-quedas
-|pára-raios
 |pátria-mãe
 |pão-duro
 |pêssego-careca

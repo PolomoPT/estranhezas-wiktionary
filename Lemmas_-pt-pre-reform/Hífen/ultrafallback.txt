@@ -269,11 +269,13 @@
 |cipó-tuíra
 |circum-navegar
 |circum-navegação
+|co-herdeiro
 |co-hipónimo
 |co-hipônimo
 |com-sigo
 |condição Marshall-Lerner
 |condição de Marshall-Lerner
+|contra-almirante
 |contra-alíseos
 |contra-argumentar
 |contra-argumento

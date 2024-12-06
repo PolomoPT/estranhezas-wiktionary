@@ -236,11 +236,6 @@ ampère-espira
 ampère-hora
 amêijoa-gigante
 amígdalo-hipocampectomia
-anarco-comunista
-anarco-feminista
-anarco-primitivismo
-anarco-punk
-anarco-sindicalista
 andorinha-das-barreiras
 andorinha-das-chaminés
 andorinha-de-bando
@@ -544,6 +539,7 @@ brema-do-mar
 brinco-de-princesa
 brinco-de-viúva
 bufo-real
+bugio-ruivo
 bunda-mole
 bunda-suja
 bê-á-bá
@@ -619,7 +615,6 @@ cegonha-branca
 ceifeira-debulhadora
 cenoura-brava
 centro-africano
-centro-avante
 cessar-fogo
 chacal-dourado
 chama-maré
@@ -694,6 +689,7 @@ cisne-negro
 cisne-real
 claro-escuro
 close-up
+co-herdeiro
 co-hipónimo
 co-hipônimo
 cobra-capelo
@@ -718,6 +714,7 @@ condição de Marshall-Lerner
 condor-da-califórnia
 condor-dos-andes
 conta-gotas
+contra-almirante
 contra-alíseos
 contra-argumentar
 contra-argumento
@@ -1465,7 +1462,6 @@ peixe-palhaço
 peixe-papagaio
 peixe-pescador
 peixe-piloto
-peixe-pilôto
 peixe-sapo
 peixe-voador
 peixe-zebra
@@ -1605,10 +1601,6 @@ pró-ativo
 pró-reitor
 pseudo-hifa
 puxa-saco
-pára-brisa
-pára-brisas
-pára-quedas
-pára-raios
 pátria-mãe
 pão-de-galinha
 pão-de-galo
