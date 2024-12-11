@@ -15,8 +15,7 @@ connection = mariadb.connect(
     host=host,
     user=user,
     password=password,
-    database=database,
-    charset="utf8mb4"
+    database=database
 )
 
 try:
@@ -38,10 +37,7 @@ try:
                  );"""
         cursor.execute(sql)
         results = cursor.fetchall()
-        
-        # Open the file to write the results
         with open("sem Brazil 1990\\lemmas.txt", "w", encoding="utf-8") as file:
-            # Write each page_title to the file
             for result in results:
                 file.write(result["page_title"] + "\n")
                 
