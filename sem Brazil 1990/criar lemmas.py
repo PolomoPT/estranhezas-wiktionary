@@ -30,9 +30,7 @@ try:
                      SELECT cl_from 
                      FROM categorylinks 
                      WHERE cl_to IN (
-                         "Portuguese forms superseded by AO1990", 
-                         "Brazilian Portuguese forms superseded by AO1990", 
-                         "European Portuguese forms superseded by AO1990"
+                         "Brazilian Portuguese forms superseded by AO1990"
                      )
                  );"""
         cursor.execute(sql)
