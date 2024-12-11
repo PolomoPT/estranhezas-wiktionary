@@ -1,4 +1,4 @@
-import pymysql
+import mariadb
 import json
 
 with open("mycredentials.json", "r") as f:
@@ -11,17 +11,16 @@ password = credentials["password"]
 database = "enwiktionary_p"
 
 # Establish the connection
-connection = pymysql.connect(
+connection = mariadb.connect(
     host=host,
     user=user,
     password=password,
     database=database,
-    charset="utf8mb4",
-    cursorclass=pymysql.cursors.DictCursor
+    charset="utf8mb4"
 )
 
 try:
-    with connection.cursor() as cursor:
+    with connection.cursor(dictionary=True) as cursor:
         # Get all Portuguese lemmas not in pre-1990 categories
         sql = """SELECT DISTINCT page_title 
                  FROM page 
