@@ -133,7 +133,6 @@ abducção
 abjecto
 abjecção
 abobada
-abração
 absinthio
 absintho
 abstracto
@@ -151,7 +150,6 @@ accordar
 accreditar
 accusar
 acetyleno
-acontecerão
 acrolectal
 acrolecto
 acta
@@ -192,14 +190,12 @@ afectivo
 afecto
 affirmar
 affluxo
-afirmavão
 agradavel
 agua
 aguia
 aguia real
 ahi
 ahinda
-ajuntarão
 alem
 alfarrabio
 alivio
@@ -211,7 +207,6 @@ almario
 alphabeto
 altheia
 alumno
-amanhecerão
 amharico
 amphitheatro
 ampolla
@@ -240,13 +235,11 @@ area
 armario
 arquitecto
 arquitectura
-arrastão
 aryano
 aspero
 assedio
 assignalar
 assignar
-assombrarão
 assumpto
 assyriologia
 atractivamente
@@ -303,7 +296,6 @@ catechizar
 catheter
 catholico
 cathólico
-cativarão
 cavalleiro
 cavallo
 caçador-recolector
@@ -312,19 +304,15 @@ ceo
 cepticismo
 cerimonia
 chamaleão
-chamão
 character
 characterização
 charácter
-chegarão
 cherubim
 chimico
 chirurgião
 chirúrgico
-chorão
 christão
 chrónica
-cifrão
 circunspecção
 ciumes
 co-adopção
@@ -531,7 +519,6 @@ funccionalidade
 funccionalmente
 funccionamento
 funccionar
-furtão
 gallo
 geraes
 geógrapho
