@@ -30,8 +30,9 @@ try:
         JOIN categorylinks cl2 ON page_id = cl2.cl_from 
         WHERE page_namespace = 0 
         AND cl1.cl_to = "Portuguese_lemmas" 
-        AND cl2.cl_to IN ("Portuguese_forms_superseded_in_1911", "Portuguese_forms_superseded_in_1943");"""
-        
+        AND cl2.cl_to IN ("Portuguese_forms_superseded_in_1911", "Portuguese_forms_superseded_in_1943")
+        ORDER BY page_title;"""
+
         cursor.execute(sql)
         results = cursor.fetchall()
         with open("1911 ou 1943\\lemmas.txt", "w", encoding="utf-8") as file:
