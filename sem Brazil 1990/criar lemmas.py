@@ -6,7 +6,7 @@ with open("mycredentials.json", "r", encoding='utf-8') as f:
 
 # Connection details
 host = "127.0.0.1"
-port = "3306"
+port = 3306
 user = credentials["user"]
 password = credentials["password"]
 database = "enwiktionary_p"
