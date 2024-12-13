@@ -1,4 +1,5 @@
 -acção
+-aes
 -aria
 -ario
 -gramma
@@ -150,6 +151,7 @@ accordar
 accreditar
 accusar
 acetyleno
+acontecerão
 acrolectal
 acrolecto
 acta
@@ -190,12 +192,14 @@ afectivo
 afecto
 affirmar
 affluxo
+afirmavão
 agradavel
 agua
 aguia
 aguia real
 ahi
 ahinda
+ajuntarão
 alem
 alfarrabio
 alivio
@@ -207,6 +211,7 @@ almario
 alphabeto
 altheia
 alumno
+amanhecerão
 amharico
 amphitheatro
 ampolla
@@ -221,7 +226,10 @@ apparente
 appellidar
 applicar
 approvar
+aquella
+aquellas
 aquelle
+aquelles
 aquillo
 archaista
 archeologia
@@ -238,6 +246,7 @@ aspero
 assedio
 assignalar
 assignar
+assombrarão
 assumpto
 assyriologia
 atractivamente
@@ -271,6 +280,7 @@ bibliotheca
 bibliothecário
 bijectivo
 bijecção
+cahio
 cahir
 calcanhar de Achiles
 calefacção
@@ -293,6 +303,7 @@ catechizar
 catheter
 catholico
 cathólico
+cativarão
 cavalleiro
 cavallo
 caçador-recolector
@@ -301,9 +312,11 @@ ceo
 cepticismo
 cerimonia
 chamaleão
+chamão
 character
 characterização
 charácter
+chegarão
 cherubim
 chimico
 chirurgião
@@ -338,6 +351,7 @@ collocar
 columna
 cometter
 commeter
+commeterão
 commetter
 comprehender
 comquanto
@@ -368,6 +382,10 @@ damnado
 defecção
 dejecto
 dejecção
+della
+dellas
+delle
+delles
 desactivado
 desactivar
 descontracção
@@ -468,6 +486,7 @@ esophago
 espectacular
 esphenoide
 esphera
+estavamos
 estenographar
 estereotypo
 esthetica
@@ -503,6 +522,7 @@ factorizar
 factura
 facturar
 fluctuar
+fossemos
 fraccionamento
 fractura
 fracturar
@@ -511,7 +531,9 @@ funccionalidade
 funccionalmente
 funccionamento
 funccionar
+furtão
 gallo
+geraes
 geógrapho
 gotta
 gotteira
@@ -643,6 +665,7 @@ nocturno
 objectar
 objectiva
 objectivamente
+objectivas
 objectividade
 objectivo
 objecto
@@ -848,6 +871,7 @@ ultimo
 unctar
 unico
 vacca
+vae
 vector
 vectorial
 walsa
