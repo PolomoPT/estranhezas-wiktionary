@@ -26,16 +26,14 @@ try:
         sql = """
         SELECT DISTINCT page_title
         FROM page
-        JOIN categorylinks cl1 ON page_id = cl1.cl_from
-        JOIN categorylinks cl2 ON page_id = cl2.cl_from
+        JOIN categorylinks ON page_id = cl_from
         WHERE page_namespace = 0
-        AND cl1.cl_to = "Portuguese_non-lemma_forms"
-        AND cl2.cl_to IN ("Portuguese_forms_superseded_in_1911", "Portuguese_forms_superseded_in_1943")
+        AND cl_to IN ("Portuguese_forms_superseded_in_1911", "Portuguese_forms_superseded_in_1943")
         ORDER BY page_title;"""
 
         cursor.execute(sql)
         results = cursor.fetchall()
-        with open("1911 ou 1943 non-lemma\\lista.txt", "w", encoding="utf-8") as file:
+        with open("1911 1943\\lista.txt", "w", encoding="utf-8") as file:
             for result in results:
                 page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
                 page_title = page_title.replace("_", " ")

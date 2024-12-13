@@ -1,20 +1,28 @@
-# 1911 ou 1943
+# 1911 1943
 try:
-    with open("1911 ou 1943\\programa\\criar lista.py", encoding='utf-8') as f:
+    with open("1911 1943\\programa\\criar lista.py", encoding='utf-8') as f:
         exec(f.read())
-    print("Executed 'criar lista.py' in 1911 ou 1943")
-    with open("1911 ou 1943\\programa\\acento.py", encoding='utf-8') as f:
+    print("Executed 'criar lista.py' in 1911 1943")
+    with open("1911 1943\\programa\\acento.py", encoding='utf-8') as f:
         exec(f.read())
 except Exception as e:
-    print(f"Error executing '1911 ou 1943\\programa\\criar lista.py': {e}")
+    print(f"Error executing '1911 1943\\programa\\criar lista.py': {e}")
 
-# 1911 ou 1943 non-lemma
+# 1911
 try:
-    with open("1911 ou 1943 non-lemma\\programa\\criar lista.py", encoding='utf-8') as f:
+    with open("1911 non-lemma\\programa\\criar lista.py", encoding='utf-8') as f:
         exec(f.read())
     print("Executed 'criar lista.py' in 1911 ou 1943 non-lemma")
 except Exception as e:
-    print(f"Error executing '1911 ou 1943 non-lemma\\programa\\criar lista.py': {e}")
+    print(f"Error executing '1911 non-lemma\\programa\\criar lista.py': {e}")
+
+# 1943
+try:
+    with open("1943 non-lemma\\programa\\criar lista.py", encoding='utf-8') as f:
+        exec(f.read())
+    print("Executed 'criar lista.py' in 1943 non-lemma")
+except Exception as e:
+    print(f"Error executing '1943 non-lemma\\programa\\criar lista.py': {e}")
 
 # 1945
 try:
