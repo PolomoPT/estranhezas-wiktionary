@@ -33,14 +33,14 @@ try:
             SELECT cl_from 
             FROM categorylinks 
             WHERE cl_to IN (
-                "Brazilian_Portuguese_forms_superseded_by_AO1990"
+                "Portuguese_forms_superseded_in_1945"
             )
         )
         ORDER BY page_title;"""
 
         cursor.execute(sql)
         results = cursor.fetchall()
-        with open("sem Brazil 1990\\lemmas.txt", "w", encoding="utf-8") as file:
+        with open("sem 1945\\lemmas.txt", "w", encoding="utf-8") as file:
             for result in results:
                 page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
                 page_title = page_title.replace("_", " ")

@@ -24,10 +24,10 @@ try:
     with connection.cursor(dictionary=True) as cursor:
         # Get all Portuguese lemmas not in pre-1990 categories
         sql = """
-        SELECT DISTINCT page_title 
-        FROM page 
-        JOIN categorylinks ON page_id = cl_from 
-        WHERE page_namespace = 0 
+        SELECT DISTINCT page_title
+        FROM page
+        JOIN categorylinks ON page_id = cl_from
+        WHERE page_namespace = 0
         AND cl_to IN ("Portuguese_forms_superseded_in_1911", "Portuguese_forms_superseded_in_1943")
         ORDER BY page_title;"""
 
