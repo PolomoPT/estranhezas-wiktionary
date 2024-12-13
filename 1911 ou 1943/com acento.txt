@@ -19,6 +19,7 @@
 |charácter
 |chirúrgico
 |chrónica
+|céo
 |cíthara
 |escriptório
 |esóphago
