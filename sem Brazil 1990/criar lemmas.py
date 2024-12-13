@@ -28,7 +28,7 @@ try:
         FROM page
         JOIN categorylinks ON page_id = cl_from
         WHERE page_namespace = 0
-        AND cl_to IN ("Portuguese_lemmas", "Portuguese non-lemma forms") 
+        AND cl_to = "Portuguese_lemmas"
         AND page_id NOT IN (
             SELECT cl_from 
             FROM categorylinks 
