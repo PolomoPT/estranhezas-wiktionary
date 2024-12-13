@@ -1,18 +1,19 @@
 import mariadb
 import json
 
-with open("mycredentials.json", "r") as f:
+with open("mycredentials.json", "r", encoding='utf-8') as f:
     credentials = json.load(f)
 
 # Connection details
-host = "s4.analytics.db.svc.wikimedia.cloud"
+host = "127.0.0.1"
+port = "3306"
 user = credentials["user"]
 password = credentials["password"]
 database = "enwiktionary_p"
 
-# Establish the connection
 connection = mariadb.connect(
     host=host,
+    port = port,
     user=user,
     password=password,
     database=database
