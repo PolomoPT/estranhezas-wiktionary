@@ -63,7 +63,9 @@ try:
         AND page_id NOT IN (
             SELECT DISTINCT pl_from
             FROM pagelinks
-            JOIN categorylinks ON page_title
+            JOIN linktarget ON pl_target_id = lt_id
+            JOIN page ON lt_namespace = page_namespace AND lt_title = page_title
+            JOIN categorylinks ON page_id = cl_from
             WHERE cl_to = "Portuguese_forms_prescribed_by_the_1931_Agreement"
         )
         ORDER BY page_title;"""

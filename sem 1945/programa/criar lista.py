@@ -54,8 +54,8 @@ try:
         WHERE page_namespace = 0
         AND cl_to = "Portuguese_non-lemma_forms"
         AND page_id NOT IN (
-            SELECT cl_from 
-            FROM categorylinks 
+            SELECT cl_from
+            FROM categorylinks
             WHERE cl_to IN (
                 "Portuguese_forms_superseded_in_1945"
             )
@@ -63,7 +63,9 @@ try:
         AND page_id NOT IN (
             SELECT DISTINCT pl_from
             FROM pagelinks
-            JOIN categorylinks ON page_title
+            JOIN linktarget ON pl_target_id = lt_id
+            JOIN page ON lt_namespace = page_namespace AND lt_title = page_title
+            JOIN categorylinks ON page_id = cl_from
             WHERE cl_to = "Portuguese_forms_superseded_in_1945"
         )
         ORDER BY page_title;"""
