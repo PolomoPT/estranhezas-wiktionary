@@ -1,9 +1,7 @@
 -acção
 Abril
 Agosto
-Antigo Egipto
 Dezembro
-Egipto Antigo
 Fevereiro
 Janeiro
 Julho
@@ -13,8 +11,6 @@ Março
 Novembro
 Outubro
 Setembro
-abjecto
-abjecção
 abstracto
 abstracção
 accionar
@@ -47,20 +43,8 @@ adjectivamente
 adjectivar
 adjectivação
 adjectivo
-adoptar
 adoptivo
-adopção
-afectado
-afectar
-afectivo
-afecto
 anteacto
-arquitecto
-arquitectura
-atractivamente
-atractivo
-atractor
-atracção
 autodidacta
 baptismal
 baptismo
@@ -241,12 +225,10 @@ reacção
 receptador
 receptar
 recolector
-recta
 rectal
 rectangular
 rectificar
 rectificação
-recto
 redactor
 redactora
 redacção
@@ -277,7 +259,6 @@ subjectividade
 subjectivo
 subtracção
 tacticamente
-tecto
 tractor
 tracção
 trajecto
