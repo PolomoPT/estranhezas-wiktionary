@@ -14,7 +14,7 @@ Alpheu
 Amaltheia
 Andromeda
 Antichristo
-Antigo Egipto
+Antigo Egypto
 Antonio
 Apollo
 Archibaldo
@@ -47,8 +47,8 @@ Cyrenaica
 Cyrene
 Dezembro
 Dorotheia
-Egipto Antigo
 Egypto
+Egypto Antigo
 Elysio
 Epheso
 Eschilo
@@ -130,8 +130,6 @@ abbacial
 abbade
 abbadessa
 abducção
-abjecto
-abjecção
 abobada
 absinthio
 absintho
@@ -181,13 +179,11 @@ adjectivar
 adjectivação
 adjectivo
 admiravel
-adoptar
-adoptivo
-adopção
-afectado
-afectar
-afectivo
-afecto
+affectado
+affectar
+affectivo
+affecto
+affectuoso
 affirmar
 affluxo
 agradavel
@@ -229,33 +225,35 @@ aquillo
 archaista
 archeologia
 archipelago
+architecto
 architectura
 archonte
 area
 armario
-arquitecto
-arquitectura
 aryano
 aspero
 assedio
 assignalar
 assignar
 assumpto
+assumpção
 assyriologia
-atractivamente
-atractivo
-atractor
-atracção
 atravez
 attacar
 attentar
 attinente
+attractivamente
+attractivo
+attractor
+attracção
+attrahir
 attribuição
 attrito
 aucthoridade
 augmentar
 authoridade
 autodidacta
+avido
 açucar
 bahia
 bahiano
@@ -322,8 +320,6 @@ coccyx
 cohorte
 coleccionador
 coleccionar
-colecta
-colectar
 colectivamente
 colectivismo
 colectivizar
@@ -349,6 +345,7 @@ conflicto
 conjunccional
 conjuncção
 conteudo
+contracto
 contracção
 contradicção
 contrafacção
@@ -385,6 +382,7 @@ dialecto
 diccionario
 dictador
 dictadura
+didactico
 differente
 differença
 differençar
@@ -665,8 +663,6 @@ omnidireccional
 onyx
 ophthalmologista
 ophídio
-optimismo
-optimista
 optimizado
 optimizar
 optimização
@@ -761,12 +757,10 @@ reacção
 receptador
 receptar
 recolector
-recta
 rectal
 rectangular
 rectificar
 rectificação
-recto
 redactor
 redactora
 redacção
@@ -827,7 +821,6 @@ syncope
 syntaxe
 systematizar
 tacticamente
-tecto
 theatro
 thema
 theodiceia
