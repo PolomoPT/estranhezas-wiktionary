@@ -267,6 +267,7 @@ basilecto
 bello
 bemaventurança
 beneficio
+bibliophilia
 bibliotheca
 bibliothecário
 bijectivo
@@ -482,6 +483,7 @@ estylo
 esóphago
 esôphago
 ether
+etheromania
 ethmoide
 etymologia
 eucalypto
@@ -495,6 +497,7 @@ excepção
 excommungado
 excommungar
 exhalar
+exhaurir
 exhausto
 exhibir
 extender
@@ -507,6 +510,7 @@ factorial
 factorizar
 factura
 facturar
+fallar
 fluctuar
 fossemos
 fraccionamento
@@ -527,6 +531,7 @@ grammatical
 gratis
 gráphico
 góthico
+haver-de
 hemorrhagia
 historia
 hombro
@@ -821,6 +826,7 @@ syncope
 syntaxe
 systematizar
 tacticamente
+tambem
 theatro
 thema
 theodiceia
@@ -854,6 +860,7 @@ vacca
 vae
 vector
 vectorial
+vintem
 walsa
 zygoma
 zygomatico

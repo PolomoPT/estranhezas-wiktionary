@@ -152,6 +152,7 @@ fraccionamento
 fractura
 fracturar
 fracção
+haver-de
 inactivar
 inactivação
 inactividade
