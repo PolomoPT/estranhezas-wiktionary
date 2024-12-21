@@ -1,7 +1,7 @@
 import re
 
-input_file_path = '1911 1943\\lista.txt'
-output_file_path = '1911 1943\\com acento.txt'
+input_file_path = '1911 ou 1943\\lista.txt'
+output_file_path = '1911 ou 1943\\com acento.txt'
 
 with open(input_file_path, 'r', encoding='utf-8') as input_file, open(output_file_path, 'w', encoding='utf-8') as output_file:
     for line in input_file:

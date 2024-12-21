@@ -33,7 +33,7 @@ try:
 
         cursor.execute(sql)
         results = cursor.fetchall()
-        with open("1911 1943\\lista.txt", "w", encoding="utf-8") as file:
+        with open("1911 ou 1943\\lista.txt", "w", encoding="utf-8") as file:
             for result in results:
                 page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
                 page_title = page_title.replace("_", " ")
