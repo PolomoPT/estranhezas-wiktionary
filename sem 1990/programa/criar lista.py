@@ -33,14 +33,14 @@ try:
             SELECT cl_from 
             FROM categorylinks 
             WHERE cl_to IN (
-                "Brazilian_Portuguese_forms_superseded_by_AO1990"
+                "Portuguese_forms_superseded_by_AO1990"
             )
         )
         ORDER BY page_title;"""
 
         cursor.execute(sql)
         results = cursor.fetchall()
-        with open("sem Brazil 1990\\lista.txt", "w", encoding="utf-8") as file:
+        with open("sem 1990\\lista.txt", "w", encoding="utf-8") as file:
             for result in results:
                 page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
                 page_title = page_title.replace("_", " ")
@@ -57,7 +57,7 @@ try:
             SELECT cl_from 
             FROM categorylinks 
             WHERE cl_to IN (
-                "Brazilian_Portuguese_forms_superseded_by_AO1990"
+                "Portuguese_forms_superseded_by_AO1990"
             )
         )
         AND page_id NOT IN (
@@ -66,13 +66,13 @@ try:
             JOIN linktarget ON pl_target_id = lt_id
             JOIN page ON lt_namespace = page_namespace AND lt_title = page_title
             JOIN categorylinks ON page_id = cl_from
-            WHERE cl_to = "Brazilian_Portuguese_forms_superseded_by_AO1990"
+            WHERE cl_to = "Portuguese_forms_superseded_by_AO1990"
         )
         ORDER BY page_title;"""
 
         cursor.execute(sql)
         results = cursor.fetchall()
-        with open("sem Brazil 1990\\lista.txt", "a", encoding="utf-8") as file:
+        with open("sem 1990\\lista.txt", "a", encoding="utf-8") as file:
             for result in results:
                 page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
                 page_title = page_title.replace("_", " ")

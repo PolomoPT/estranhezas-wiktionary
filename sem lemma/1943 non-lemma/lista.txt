@@ -4,8 +4,8 @@ abobada
 activo
 actualizado
 adjectivo
-afectado
-afecto
+affectado
+affecto
 agua
 alem
 alivio
@@ -14,6 +14,7 @@ ancora
 aquella
 aquellas
 aquelles
+architecto
 assedio
 baptizado
 beneficio
@@ -25,9 +26,9 @@ capitulo
 caçadora-recolectora
 cerimonia
 chrónica
-colecta
 commeterão
 condemnado
+contracto
 copia
 cynica
 damnado
@@ -68,7 +69,6 @@ principio
 privilegio
 prohibido
 projecto
-recta
 remedio
 rhetórica
 seleccionado
