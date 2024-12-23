@@ -4,7 +4,9 @@ ABC
 AEB
 ALUPEK
 AM
+AR
 Aalesund
+Aaraõ
 Aasvero
 Aasverus
 Abadã
@@ -25,9 +27,12 @@ Abkhasia
 Abkhazia
 Abkhásia
 Abkházia
+Abo
 Abomei
 Abomé
+Abrahaõ
 Abrahão
+Absalaõ
 Absalom
 Abuquir
 Abúndio
@@ -39,7 +44,10 @@ Acra
 Adamastor
 Adamnão
 Adomnan
+Adriático
 Aesir
+Afganistão
+Afghanistão
 Agamemnon
 Agamenon
 Agamêmnon
@@ -63,8 +71,12 @@ Aladin
 Alahabad
 Alambra
 Alaska
+Alberta
+Albertville
+Alcides
 Alcmena
 Alcmene
+Alcoraõ
 Alcoólicos Anônimos
 Aldebaran
 Alectrion
@@ -74,13 +86,17 @@ Alesund
 Alexandria
 Alfonso
 Allah
+Allahabad
+Allemanha
 Allá
 Almajesto
 Almería
+Alor Star
 Alpes-Maritimes
 Alpes-de-Haute-Provence
 Altai
 Althing
+Alverca
 Amalec
 Amaltea
 Amalthea
@@ -105,6 +121,7 @@ Andra Pradesh
 Andréia
 Angelina
 Angkor Wat
+Angola
 Angora
 Angostura
 Anguilha
@@ -121,9 +138,13 @@ Apia
 Apolion
 Apollo
 Appalaches
+Apulha
 Aqaba
 Aquarius
+Aquilles
 Aquisgrão
+Aragam
+Aragaõ
 Araks
 Ararate
 Araucânia
@@ -136,15 +157,21 @@ Arezo
 Areópoli
 Argos
 Ariadna
+Ariaman
 Ariege
 Arimane
+Arizona
 Armagedom
 Armagnac
 Arquivos Akáshicos
+Arraial do Tijuco
+Arran
 Arthur
 Artémis
 Arwad
+Arábia
 Arécio
+Ascalon
 Ascalão
 Asdi
 Ashkelon
@@ -167,6 +194,7 @@ Baikal
 Baja California
 Baja Califórnia
 Baku
+Baleares
 Bali
 Bamaco
 Bandar Seri Begawan
@@ -175,6 +203,7 @@ Bangladeche
 Bangladesh
 Baptista
 Barein
+Bari
 Basseterre
 Batman
 Bavária
@@ -182,47 +211,83 @@ Baía
 Baía de Guantánamo
 Beijing
 Beja
+Belarus
+Belgica
 Belize
+Belém
 Benedicto
 Berlin
+Bia
 Bialystok
 Biblo
+Biel
 Bois le Duc
+Borneo
 Bosna
 Brahman
 Brandemburgo
+Brasil
+Brazil
+Brazir
+Breslau
+Bretanha
+Bristol
 Brito
 Brooklin
+Bruna
 Bryansk
 Buffalo
 Bukhara
 Buriatia
 Byblos
+Bósnia
 Bósnia e Herzegovina
 Bósnia-Herzegóvina
 CP
+CV
 Caaba
+Cabo Verde
+Cabul
+Cacela
 Calais
+Calecu
 Calecut
+Calhari
+Calicut
 Calicute
 Camberra
 Camboja
 Campala
 Campanha
 Canal do Suez
+Cananor
 Canberra
+Candoy
 Cansas
 Caracala
+Cardiff
 Carpathos
+Carthago
+Casa Branca
 Casemiro
 Castelo-Branco
+Castro D'Aire
+Catarina
+Catay
 Cathai
+Catharina
 Cathay
 Catmandu
+Cayro
+Ceilão
+Celebes
+Cerdenha
+Certã
 Chanuca
 Chanuka
 Chanukah
 Chanuká
+Charles
 Chate Alárabe
 Checo-Eslováquia
 Checo-Slováquia
@@ -232,9 +297,16 @@ China
 Chisinau
 Chiva
 Christiano
+Christo
+Christovam
+Christovaõ
 Christóvão
+Chukotka
 Chuvashia
 Chuváchia
+Cicladas
+Ciclades
+Cidade Imperial
 Cincinati
 Cinturão de Kuiper
 Cirenaica
@@ -244,16 +316,23 @@ Cleber
 Cleiton
 Clímene
 Cnossos
+Cobane
 Comodo
 Comunidade de Estados Independentes
 Conacri
 Conimbriga
+Conisberga
+Constantinopla
 Cooperação Económica da Ásia e do Pacífico
 Copenhagem
 Copenhagen
 Copenhague
 Copenhaguem
 Copenhaguen
+Coringa
+Coritiba
+Corityba
+Corrêa
 Corunha
 Cotonou
 Covid-19
@@ -266,6 +345,8 @@ Cristóvam
 Crono
 Cronos
 Cuala Lumpur
+Cuba
+Curityba
 Cutberto
 Cuthbert
 Cycladas
@@ -283,12 +364,17 @@ Dakota do Sul
 Dal Agnol
 Dalanhol
 Dallagnol
+Damaõ
 Daniel
+Daphne
 Darwin
 Decápolis
 Delaware
 Deli
+Delphos
 Demetra
+Deos
+Desterro
 Detroit
 Deuteronômio
 Deuterômio
@@ -297,6 +383,7 @@ Dheli
 Diana
 Dimitry
 Diniz
+Disney
 Distrito Federal
 Divali
 Diwali
@@ -318,22 +405,27 @@ Dresden
 Drácon
 Dublin
 Duchambe
+Durazzo
 Durres
 Ea
 Ecuador
 Edirna
 Eduardo
 Eea
+Egeu
 Egito Antigo
 El Aaiun
 El Aaiún
 El Dourado
+Elba
 Elbrus
+Eli
 Elisabet
 Elisabeta
 Elizabet
 Elizabeta
 Elizabete
+Eloiza
 Elão
 Emiratos Árabes Unidos
 Equador
@@ -348,14 +440,21 @@ Esfahan
 Esmolensco
 Esquiros
 Estalinegrado
+Estambul
 Ester
 Estige
 Estrabo
 Estremadura
+Etiopia
+Etyopia
 Euro
 Eurozona
 Eva
+Evereste
 Excalibur
+Extremo-Oriente
+FFLCH
+Face
 Faeton
 Faetão
 Farc
@@ -363,17 +462,24 @@ Fatec
 Feodosiya
 Filemom
 Filipinas
+Filomena
 Filêmon
+Finados
 Fiônia
 Flensburg
 Flensburgo
 Flevolândia
 Fordlandia
+Formosa
+Foz
 Freia
 Freya
+Fyn
 Fíji
 Fórmula Um
+Gaia
 Gal
+Gales
 Galileo
 Galiza
 Gallipoli
@@ -386,6 +492,8 @@ Gdansk
 Geena
 Gehena
 Gehenna
+Geisel
+Gemini
 Genghis Kan
 Genghis Khan
 Genghis-Kan
@@ -402,38 +510,52 @@ Gengis-Cão
 Gengis-Kam
 Gengis-Kan
 Gengis-Khan
+Gengis-kan
 Gestapo
 Getsêmani
 Gisella
 Giselle
 Glásgua
+Goeteborg
 Goiás
 Gonduana
 Goteborg
 Goteburg
 Goteburgo
 Gotemborg
+Gotemburg
 Gotenborg
 Gotenburg
+Gotenburgo
 Gotheburg
 Gothemburg
+Gothemburgo
 Gothenburg
 Gothenburgo
 Gotlândia
 Gotteborg
+Gottemburgo
 Gottenburg
+Gottenburgo
 Graal
+Gram Bretanha
+Grand Canyon
+Grande Salto para Frente
+Grisoens
 Groelândia
 Groninga
 Grosni
 Grozni
+Grã-Bretanha
 Grão-Ducado de Luxemburgo
 Grózni
+Guadeloupe
 Guame
 Guarani
 Guayaquil
 Guelderland
 Guiana
+Guiné
 Gujerate
 Guzarate
 Guzerate
@@ -441,10 +563,13 @@ Gênghis Khan
 Gêngis Cã
 Gêngis Khan
 Gêngis-Cã
+Gôa
 Göteborg
 Habacuc
 Habacuque
+Hades
 Hagar
+Haiti
 Hannah
 Hannibal
 Hannukah
@@ -475,33 +600,48 @@ Helsinke
 Helsinki
 Helsinkia
 Helsinqui
+Helsinquia
 Helsínki
 Helsínqui
 Hernane
 Hernani
+Herzegovina
 Heráclion
+Hespanha
 Hijaz
 Himalaia
+Hindia
 Hindukush
 Hiperião
+Hircania
 Hiroshima
+Hokkaido
+Hollywood
 Hong Kong
 Hongkong
+Honshu
+Huang He
 Hué
 Huê
 Hyderabad
+Hyperion
 Hébron
+Hélada
 Héracles
 Héssia
 Hígia
 IBAS
+Iapam
 Iasmin
 Iassi
 Iaundé
 Iemem
 Ierevan
 Ierevã
+Igarassu
+Ignês
 Igreja Apostólica Armênia
+Ilha Formosa
 Ilha Norfolk
 Ilhas Aaland
 Ilhas Aland
@@ -511,15 +651,18 @@ Ilhas Caimão
 Ilhas Faroe
 Ilhas Feroe
 Ilhas Feroé
+Illinois
 India
 Indocuche
 Ingushétia
+Insta
 Internet
 Irauadi
 Irauádi
 Irawaddy
 Irawadi
 Irbil
+Irrauadi
 Irrawady
 Irtysh
 Isabel
@@ -535,6 +678,7 @@ Ispahã
 Ispahão
 Ispaã
 Ispaão
+Istambul
 Istanbul
 Iunã
 Iwojima
@@ -545,11 +689,21 @@ Jacobe
 Jacobo
 Jaime
 Jakarta
+Japam
+Japaõ
+Jayme
 Jehovah
 Jehová
+Jeri
+Jerusalem
 Jesucristo
+Jesuis
 Jesus
 Jibuti
+Joam
+Joanna
+Joaõ
+Jonas
 Ju
 Juba
 Judas
@@ -581,6 +735,8 @@ Kleber
 Kléber
 Kolima
 Komintern
+Komsomolsk
+Konigsberg
 Koreia
 Kosovo
 Kraken
@@ -595,46 +751,69 @@ Kyiv
 Kyoto
 Kyuchu
 Kyusho
+Kyushu
 Kyúshu
 Kátia
 Kénia
 Kénya
 Kênia
 Kênya
+Köln
 Königsberg
 Laayoune
+Laconia
+Lagoa das Sete Cidades
 Lao Zi
 Laore
+Lassa
 Lataquia
 Latáquia
 Laxmi
+Leaõ
+Lei Saraiva-Cotejipe
 Leia
 Lenin
+Lepanto
 Lesotho
 Lessoto
 Lhasa
 Limburg
+Limusino
+Lisboa
 Listenstaine
+Lixboa
 Ljubljana
+London
 Los Ângeles
+Lucas
 Lugansk
 Luiz
+Luiza
 Luneburg
+Lusitânia
+Luso
 Luzón
 Luçon
 Lvov
+Látvia
 Lênin
 Lüneburg
+MA
 MT
 Macao
 Macassar
 Macau
+Macedónia
+Madeyra
+Madras
 Madrid
 Mafomede
+Magdalena
 Maharastra
 Maia
 Maine
 Maiçor
+Malaca
 Malacal
 Malacca
 Malaui
@@ -642,15 +821,20 @@ Malavi
 Malawi
 Malevento
 Mali
+Malmo
 Malmoe
 Malmö
+Malta
 Maláui
 Malávi
 Maláwi
 Managua
+Mancha
+Manchester
 Manchéster
 Manila
 Mar de Mármora
+Marcos
 Maria
 Marrakech
 Marrakeche
@@ -659,13 +843,18 @@ Marraquech
 Marraqueche
 Marraquesh
 Martha
+Massa
 Mastrique
 Masóvia
 Matheus
+Mathias
 Matilde
+Matozinhos
+Matsuyama
 Matthias
 Mauretânia
 Maurício
+Mecca
 Meda
 Medina
 Melpómene
@@ -674,38 +863,55 @@ Memnon
 Menorca
 Merlim
 Messias
+Messina
 Miamar
 Miami
 Mianmá
 Micael
+Midgard
+Milaõ
+Minas
 Minsque
+Miocénico
+Miocênico
 Miranha
 Miriam
+Miritiba
 Miriã
 Misore
 Mississipi
 Mississípi
+Mnemosyne
 Mnemósine
 Moacyr
 Mofamede
 Mogadishu
 Mogadixo
 Moguilev
+Mogúncia
+Moldova
 Moloque
+Mona
 Monrovia
 Monte Everest
+Montenegro
+Montomór o velho
 Montreal
 Montréal
+Montserrat
 Moróni
 Morôni
+Moyses
 Moésia
 Mundo Novo
 Myanmar
 Málaca
 Málaga
+Méqui
 Métis
 México
 Mêmnon
+NATO
 Nabuchodonosor
 Nabucodonosor
 Nagalândia
@@ -732,6 +938,8 @@ Neguebe
 Nehemias
 Niamei
 Nijni-Novgorod
+Nimega
+Nimegue
 Niue
 Niuê
 Nizhni Novgorod
@@ -743,6 +951,7 @@ Nova Jersey
 Nova Orleans
 Nova York
 Nova Zembla
+Novaes
 Novorossiysk
 Nukualofa
 Nuremberg
@@ -754,11 +963,15 @@ Níjni Novgorod
 Níjni-Novgorod
 Níjni-Novogorod
 O Porto
+Occidente
 Oceânia
 Odessa
+Odeáxere
+Odiana
 Odin
 Oiapoque
 Okinawa
+Olimpíadas
 Olisipo
 Olyssipo
 Oquinaua
@@ -773,6 +986,7 @@ Orenoco
 Organização Mundial da Saúde
 Oriol
 Orionte
+Orissa
 Orleans
 Osaka
 Oscar
@@ -781,7 +995,11 @@ Ossónoba
 Ossônoba
 Osvaldo
 Ottawa
+Ozaca
+Ozaka
 PA
+PR
+Paiva
 Pakistão
 Palmira
 Pan
@@ -792,60 +1010,82 @@ Paralimpíadas
 Paris
 Parisi
 Partenão
+Parthenope
 Pas de Calais
 Passo de Calais
 Passárgada
 Pearl Harbor
+Peloponneso
+Penalva
 Penjabe
 Pennsilvania
 Pennsilvânia
 Pennsylvania
 Pennsylvânia
 Pensilvania
+Pensylvania
 Pensylvânia
 Pentecostes
 Pero
 Perpinhã
 Perpinhão
+Persephone
 Perséfona
+Perséphone
 Perúsia
 Petropavlovsk
 Phebe
 Philipa
 Philippa
 Philomena
+Phoenix
 Pinocchio
 Pionguiangue
 Pirineus
 Pirinéus
 Pnom Pen
 Pnom-Pen
+Polaris
 Poliímnia
+Polymnia
 Poláris
 Pombagira
 Pombajira
+Pondicherry
+Ponte do Lima
 Poona
 Porto Moresby
+Porto Rico
 Porto-Novo
+Portugual
+Posen
 Posidão
 Possêidon
 Posídon
+Potyra
 Poznań
 Poznânia
 Principado de Liechtenstein
+Principado de Mónaco
 Pripiat
+Proença
+Prussia
 Ptolomeu
 Puna
 Punjabe
 Pégasus
+Pérsia
 Qatar
 Quebec
 Queiroz
 Querala
 Questão Armênia
+Quichinau
+Quiev
 Quigali
 Quinchassa
 Quinxasa
+Quirguizistão
 Quiribati
 Quironte
 Quirão
@@ -856,17 +1096,25 @@ RS
 RSS da Armênia
 RSS da Estônia
 RSS da Letônia
+Ragusa
 Rama
 Ramadan
 Ramadã
 Ramessés
 Rangun
 Raqqa
+Região Centro-Oeste
+Região Nordeste
+Região Norte
+Região Sudeste
+Região Sul
+Reikiavik
 Reikjavik
 Reikjavique
 Reino Haxemita da Jordânia
 Reino Unido da Grã-Bretanha e Irlanda do Norte
 Reino da Espanha
+Reino da Holanda
 Reino de Aksum
 Reino de Butão
 Reino de Lesoto
@@ -874,6 +1122,7 @@ Reino de Suazilândia
 Reino do Camboja
 Reino do Lesotho
 Reiquejavique
+Renascimento
 Renânia do Norte-Vestfália
 Republika Srpska
 República Popular do Bangladesh
@@ -895,44 +1144,81 @@ Reykiavik
 Reykjavik
 Reykjavík
 Reykyavik
+Reymundo
+Rezende
+Rhenania
+Rheno
+Rhodes
 Riad
+Rial
+Rio
+Rio Grande
+Rio do Sul
 Rioja
 Riyad
 Riyadh
+Rodolpho
 Roma
+Romaõ
 Romélia
+Rostov
+Rostov-do-Don
+Rostov-no-Don
+Roth
+Ruan
 Ruanda
 Rubem
 Rus' de Kiev
+Ruy
 Ré
 Réunion
+SI
 SPAM
 Saara
+Saarlândia
+Sahara
 Sahara Ocidental
 Saigon
+Salomaõ
+Salonica
+Salvador
 Salzburg
 Samarcand
 Samarcande
+Samaria
 Samarkand
 Samarkanda
 Samarkande
 Samatra
 Samoa
+Samosata
+Samôa
 San Jose
 San José
 Sana
 Sant'Ana
+Santa Maria
+Santiago
+Santo Domingo
 Santo Gral
 Saná
 Sara Ocidental
 Sarajevo
 Schild
+Schweitzer
+Scitia
+Serdenha
 Sergei
 Sergey
 Serguey
 Set
 Seth
 Setsuan
+Setubal
+Setuval
+Setuvel
+Setúval
+Setúvel
 Sevastopol
 Seychelles
 Shangai
@@ -944,15 +1230,21 @@ Sidnei
 Sidney
 Sidom
 Sidon
+Silvia
+Simam
+Simaõ
 Simferópol
 Simônides
+Sinay
 Sinferopol
 Sinkiang
 Skane
 Skiros
+Skopie
 Skopje
 Skåne
 Sofia
+Sol
 Solomão
 Sotchi
 Spitsbergen
@@ -964,8 +1256,11 @@ Stettin
 Strauss
 Stálin
 Sujuão
+Supremo
 Surabaia
 Suávia
+Sylveira
+Syracusa
 Szechwan
 Szegedin
 Sádão
@@ -976,6 +1271,7 @@ São Marinho
 São Marino
 Sótchi
 Tabata
+Taddeu
 Tadjiquistão
 Tailandia
 Taimyr
@@ -1005,8 +1301,12 @@ Telavive
 Tenochtitlan
 Tenochtitlã
 Terra Adélie
+Thadeu
+Thailandia
+Thailândia
 Thaís
 Thaísa
+Thebas
 Thiago
 Thimphu
 Thomás
@@ -1021,10 +1321,12 @@ Timbuctu
 Timbuktu
 Timfu
 Timisoara
+Timor Leste
 Timor do Leste
 Tirol
 Togliatti
 Tokelau
+Tom
 Tombouctou
 Tombouctu
 Tombuctu
@@ -1033,26 +1335,34 @@ Tor
 Tora
 Torshavn
 Tot
+Trindade e Tabago
 Trinidad e Tobago
 Trinidade e Tobago
+Tristaõ
+Trivandrum
 Tromso
 Tromsoe
 Tulio
 Tumbuctu
 Tumbuktu
+Tunes
 Tunis
 Turcomenistão
 Tutankhamun
 Tuvalu
+Tyro
 Tártaro
 Tártu
 Tânatos
 Tígris
 Túnis
+UNESCO
 Uagadugu
 Ulan Bator
 Uppsala
 Upsala
+Urais
+Uruguay
 Urumchi
 Urumqi
 Usbequistão
@@ -1065,12 +1375,20 @@ Valhalla
 Valletta
 Valter
 Vanderley
+Varzim
 Vasili
 Vaticano
 Vera
+Vera Cruz
 Vestefália
+Vesuvio
 Victhor
+Viena
+Vienna
 Vientiane
+Vila Real
+Vila Rica
+Vilna
 Vilnius
 Visnu
 Vitor
@@ -1078,15 +1396,19 @@ Vixnu
 Vladivostoque
 Volhynia
 Voronezh
+Víctor
 Walhala
 Walter
 Wanderlei
 Wanderley
+Washington
 Washington D.C.
 Washington, D.C.
+Wellington
 Wesak
 Westfália
 Wiltshire
+Wroclaw
 Xinjiang
 Yara
 Yasmim
@@ -1100,10 +1422,14 @@ Yukie
 Yuri
 Zagreb
 Zagrábia
+Zagábria
+Zambese
 Zambeze
 Zambézi
 Zaporozhye
 Zaratustra
+Zefiro
+Zefyro
 Zelda
 Zhukov
 Zimbabwe
@@ -1112,12 +1438,17 @@ Zorobabel
 Zuleica
 al-Andalus
 br
+da Sylva
+dia de todolos Santos
+dia de todolos santos
 dia de todos os Santos
 dia de todos os santos
 joão-pestana
+merdeste
 Ábidos
 Áccio
 Ádige
+Álamo Gordo
 Áquila
 Ártemis
 Ávalon
