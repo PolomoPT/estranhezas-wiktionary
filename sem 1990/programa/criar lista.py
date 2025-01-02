@@ -91,16 +91,18 @@ output_file_path = 'sem 1990\\com_ói.txt'
 
 with open(input_file_path, 'r', encoding='utf-8') as input_file, open(output_file_path, 'w', encoding='utf-8') as output_file:
     for line in input_file:
-        match = re.search('ói(?=.)(?! )(?!-)(?!s )(?!s-)(?!s$)(?!deo)(?!dea)(?!er)', line)
-        if match:
+        match = re.search('ói(?=.)(?! )(?!-)(?!s )(?!s-)(?!s$)(?!deo)(?!dea)', line)
+        match_not = re.search('(er|eres)(?!\\S)', line)
+        if match and not match_not:
             output_file.write("|"+line)
 
 nonlemma_file_path = 'sem 1990\\nonlemma.txt'
 
 with open(nonlemma_file_path, 'r', encoding='utf-8') as input_file, open(output_file_path, 'a', encoding='utf-8') as output_file:
     for line in input_file:
-        match = re.search('ói(?=.)(?! )(?!-)(?!s )(?!s-)(?!s$)(?!deo)(?!dea)(?!er)', line)
-        if match:
+        match = re.search('ói(?=.)(?! )(?!-)(?!s )(?!s-)(?!s$)(?!deo)(?!dea)', line)
+        match_not = re.search('(er|eres)(?!\\S)', line)
+        if match and not match_not:
             output_file.write("|"+line)
 
 ##

@@ -95,6 +95,7 @@ with open(input_file_path, 'r', encoding='utf-8') as input_file, open(ü_file_pa
 
 with open(input_file_path, 'r', encoding='utf-8') as input_file, open(éi_file_path, 'w', encoding='utf-8') as output_file:
     for line in input_file:
-        match = re.search('éi(?=.)(?! )(?!-)(?!s )(?!s-)(?!s$)(?!deo)(?!er)', line)
-        if match:
+        match = re.search('éi(?=.)(?! )(?!-)(?!s )(?!s-)(?!s$)(?!deo)', line)
+        match_not = re.search('(er|eres)(?!\\S)', line)
+        if match and not match_not:
             output_file.write("|"+line)
