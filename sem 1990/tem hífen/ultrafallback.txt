@@ -31,6 +31,7 @@
 |Homem-Morcego
 |Imperador-Deus
 |J-pop
+|K-churrasco
 |K-pop
 |Khanty-Mansiysk
 |Kirk-Kilisse
@@ -359,7 +360,9 @@
 |jasmim-pipoca
 |jet-pack
 |jurará-açu
+|k-churrasco
 |know-how
+|ká-churrasco
 |laissez-faire
 |laranjeira-amarga
 |laranjeira-azeda
@@ -389,6 +392,7 @@
 |micro-organismo
 |micro-ônibus
 |mil-folhas
+|motor-home
 |má-formação
 |má-formação arteriovenosa
 |má-fé

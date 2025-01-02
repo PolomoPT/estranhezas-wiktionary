@@ -3,6 +3,7 @@
 |Ahura-Masda
 |Ahura-Mazda
 |Alsácia-Lorena
+|Amu-Dária
 |Arco-Íris
 |Aúra-Masda
 |Basse-Terre
@@ -18,6 +19,7 @@
 |Coca-Cola
 |Congo-Brazzaville
 |Congo-Kinshasa
+|Embu-Guaçu
 |Emília-Romanha
 |Entre-Ijuís
 |Extremo-Oriente
@@ -49,9 +51,9 @@
 |Quinta-Feira Santa
 |Quinta-feira de Endoenças
 |Região Centro-Oeste
+|Renânia-Palatinado
 |Renânia do Norte-Vestfália
 |Renânia do Norte-Westfália
-|Renânia-Palatinado
 |República Centro-Africana
 |República de Nagorno-Karabakh
 |Sacro Império Romano-Germânico
@@ -59,6 +61,7 @@
 |Sexta-Feira Santa
 |Sexta-feira Santa
 |Sudão Anglo-Egípcio
+|São João do Pau-d'Alho
 |Tcheco-Eslováquia
 |Tcheco-Slováquia
 |Terra do Sol da Meia-Noite
@@ -98,6 +101,7 @@
 |alho-francês
 |alho-porro
 |alho-poró
+|alta-costura
 |alto-alemão médio
 |alto-cúmulo
 |alto-estrato
@@ -148,6 +152,7 @@
 |arrasta-pé
 |asa-delta
 |astro-rei
+|au-au
 |austro-alemão
 |ave-fria
 |ave-maria
@@ -167,8 +172,8 @@
 |banana-pão
 |bangue-bangue
 |banho-maria
-|barco salva-vidas
 |barco-dragão
+|barco salva-vidas
 |barão-ladrão
 |batata-doce
 |batata-palha
@@ -204,8 +209,8 @@
 |bobo-pequeno
 |boca-livre
 |boi-almiscarado
-|boia salva-vidas
 |boia-fria
+|boia salva-vidas
 |bolha das ponto-com
 |bolha do ponto-com
 |bolha ponto-com
@@ -240,8 +245,8 @@
 |camisa-parda
 |camisa-verde
 |camião-cisterna
-|caneta marca-texto
 |caneta-tinteiro
+|caneta marca-texto
 |cara-metade
 |cara-pintada
 |cara-pálida
@@ -250,6 +255,7 @@
 |carro-bomba
 |carro-chefe
 |cartão-postal
+|caruru-azedo
 |carvalho-português
 |casa-mãe
 |casca-grossa
@@ -272,6 +278,8 @@
 |chama-maré
 |chamo-me
 |chapa-branca
+|chapéu-coco
+|chapéu-mexicano
 |chave-mestra
 |checo-eslovaco
 |cheque-mate
@@ -324,6 +332,10 @@
 |crise da meia-idade
 |cromátide-irmã
 |cruza-bico
+|cupu-assu
+|cupu-assú
+|cupu-açu
+|cupu-açú
 |curta-metragem
 |curto-circuitar
 |curto-circuito
@@ -368,6 +380,7 @@
 |elefante-marinho
 |eletrão-volt
 |em banho-maria
+|embu-guaçuense
 |empata-foda
 |enguia-elétrica
 |erva-bezerra
@@ -389,6 +402,7 @@
 |este-sudeste
 |este-sueste
 |estraga-prazeres
+|eu-lírico
 |extrema-direita
 |extrema-esquerda
 |extrema-unção
@@ -423,6 +437,7 @@
 |fino-úgrico
 |fita-cola
 |fita-crepe
+|fiu-fiu
 |fla-flu
 |foda-se
 |fogo-corredor
@@ -477,10 +492,11 @@
 |goma-laca
 |gralha-cinzenta
 |gralha-preta
-|grande tubarão-branco
 |grande-caloria
+|grande tubarão-branco
 |greco-romano
 |grilo-toupeira
+|grou-azul
 |grão-ducado
 |grão-duque
 |grão-mestre
@@ -488,8 +504,10 @@
 |grão-priorado
 |grão-príncipe
 |grão-vizir
+|guaju-guaju
 |guarda-caça
 |guarda-chuva
+|guarda-corpo
 |guarda-costas
 |guarda-joias
 |guarda-lama
@@ -500,6 +518,7 @@
 |guarda-roupa
 |guarda-sol
 |guerra-relâmpago
+|gugu-dadá
 |guincho-comum
 |hara-kiri
 |hera-terrestre
@@ -510,12 +529,16 @@
 |jabuti-tinga
 |jambo-rosa
 |javali-africano
+|jiu-jitsu
+|jiu-jitsu brasileiro
+|jiu-jítsu
 |joão-bolão
 |joão-fernandes
 |joão-ninguém
 |joão-pestana
 |juke-box
 |junta-panelas
+|ka-churrasco
 |lagarto-monitor
 |lambe-botas
 |lambe-lambe
@@ -564,6 +587,7 @@
 |lusco-fusco
 |lusque-fusque
 |lêmure-voador
+|macaco-aranha
 |macaco-barrigudo
 |macaco-cairara
 |macaco-guariba
@@ -598,6 +622,8 @@
 |mata-velhos
 |mato-grossense
 |matéria-prima
+|mau-caráter
+|mau-olhado
 |maçarico-branco
 |maçarico-galego
 |megleno-romeno
@@ -655,6 +681,7 @@
 |mão-pelada
 |médica-legista
 |médico-legista
+|música-chiclete
 |narrador não-confiável
 |natureza-morta
 |navio-almirante
@@ -709,12 +736,21 @@
 |passa-palavra
 |passe-bem
 |passe-vite
+|passou-bem
 |pato-mandarim
 |pato-marreco
 |pato-mudo
 |pato-real
 |pato-selvagem
 |pato-vapor
+|pau-brasil
+|pau-d'arco
+|pau-farinha
+|pau-ferro
+|pau-furado
+|pau-mandado
+|pau-preto
+|pau-rosa
 |pavão-real
 |pedra-pomes
 |pega-pega
@@ -736,6 +772,7 @@
 |peixe-papagaio
 |peixe-pescador
 |peixe-piloto
+|peixe-pilôto
 |peixe-sapo
 |peixe-voador
 |peixe-zebra
@@ -797,6 +834,8 @@
 |porto-alegrense
 |porto-riquenho
 |pouco-caso
+|praia-mar
+|preia-mar
 |preto-velho
 |prima-dona
 |prima-donna
@@ -879,6 +918,7 @@
 |sangue-frio
 |santa-columbense
 |santa-combense
+|santa-luzia
 |sapo-cururu
 |secretário-geral
 |segunda-feira
@@ -919,6 +959,11 @@
 |tartaruga-mordedora
 |tartaruga-oliva
 |tartaruga-verde
+|tatu-açu
+|tatu-bola
+|tatu-galinha
+|tatu-veado
+|tatu-verdadeiro
 |tcheco-eslovaco
 |teco-teco
 |tenente-coronel
@@ -974,6 +1019,9 @@
 |urso-negro
 |urso-pardo
 |urso-polar
+|urubu-caçador
+|urubu-preto
+|urubu-rei
 |uva-espim
 |uva-passa
 |vaca-loura
@@ -1000,6 +1048,8 @@
 |vernáculo afro-americano
 |via-crúcis
 |via-férrea
+|via-sacra
+|vida-louca
 |vigário-geral
 |vila-condense
 |vila-florense
@@ -1009,6 +1059,7 @@
 |vinha-d'alhos
 |vira-casaca
 |vira-casacas
+|vira-cu
 |vira-lata
 |viso-rei
 |viso-rey

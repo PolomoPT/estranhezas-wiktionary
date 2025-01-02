@@ -1,13 +1,11 @@
 |Albergaria-a-Velha
 |Alpes-de-Haute-Provence
-|Ame-no-Uzume
 |Andorra-a-Velha
 |Bois-le-Duc
 |Condeixa-a-Nova
 |Condeixa-a-Velha
 |Dia de Todos-os-Santos
 |Idanha-a-Nova
-|João-sem-braço
 |Montemor-o-Novo
 |Montemor-o-Velho
 |Não-Me-Toque
@@ -18,6 +16,7 @@
 |Rostov-sobre-o-Don
 |Trás-os-Montes
 |a-bê-cê
+|abeto-de-Douglas
 |abeto-de-douglas
 |abricó-do-pará
 |agrião-dos-prados
@@ -47,6 +46,10 @@
 |banana-da-terra
 |barba-de-velho
 |batata-da-terra
+|beija-flor-de-barriga-branca
+|beija-flor-de-fronte-violeta
+|beija-flor-de-garganta-verde
+|beija-flor-de-orelha-violeta
 |bem-te-vi
 |besouro-da-batata
 |bicha-do-milho
@@ -60,6 +63,8 @@
 |bochecha-de-velho
 |boi-de-corcova
 |bolacha-da-praia
+|bolacha-do-mar
+|borboleta-cauda-de-andorinha
 |brema-do-mar
 |brinco-de-princesa
 |brinco-de-viúva
@@ -69,6 +74,8 @@
 |cachorrinho-da-terra
 |cachorro-do-mato
 |cana-de-açúcar
+|casaca-de-couro-amarelo
+|casaca-de-couro-da-lama
 |castanha-da-índia
 |castanha-de-caju
 |castanha-do-pará
@@ -77,6 +84,7 @@
 |castanheiro-da-índia
 |castanheiro-do-pará
 |cavalinho-de-deus
+|cipó-da-mata
 |cipó-de-cobra
 |cipó-de-fogo
 |cipó-de-imbé
@@ -169,8 +177,8 @@
 |gavião-de-cauda-vermelha
 |gavião-de-rabo-branco
 |gavião-de-sobre-branco
-|golfinho nariz-de-garrafa
 |golfinho-nariz-de-garrafa
+|golfinho nariz-de-garrafa
 |gralha-de-nuca-cinzenta
 |grande-tubarão-branco
 |graxa-de-estudante
@@ -179,7 +187,7 @@
 |ifrita-de-coroa-azul
 |iê-iê-iê
 |joão-de-barro
-|joão-sem-braço
+|joão-de-bico-pálido
 |lagarta-do-cartucho
 |lança-granadas-foguete
 |laranja-da-china
@@ -200,6 +208,7 @@
 |lírio-do-amazonas
 |lírio-do-mar
 |lírio-do-vale
+|macaco-aranha-preto
 |macaco-da-noite
 |macaco-de-cheiro
 |malamute-do-alasca
@@ -260,7 +269,6 @@
 |pão-de-passarinho
 |pão-de-pobre
 |pão-de-pássaros
-|pé-de-cana
 |quati-de-nariz-branco
 |quem-nós-sabemos
 |rabirruivo-de-testa-branca
@@ -324,6 +332,7 @@
 |vassoura-de-bruxa
 |veado-de-cauda-branca
 |veado-do-cabo
+|vespa-do-mar
 |vide-da-judeia
 |vide-da-índia
 |vinha-da-judeia
