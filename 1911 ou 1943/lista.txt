@@ -1,4 +1,5 @@
 -acção
+-ae
 -aes
 -aria
 -ario
@@ -38,6 +39,7 @@ Carpathos
 Carthago
 Cherubim
 Chorasmia
+Christo
 Christovão
 Cisleithania
 Cycladas
@@ -61,13 +63,16 @@ Ethiópia
 Ethyopia
 Eurydice
 Fevereiro
+Helsinquia
 Hygeia
 Hygia
 Hymeneo
 Hymeneu
+Hyperion
 Hypérion
 Hyrcania
 Hyrcânia
+India
 Janeiro
 Jerichó
 Jethro
@@ -81,6 +86,7 @@ Marathona
 Março
 Nabuchodonosor
 Novembro
+Occidente
 Odysseu
 Olympo
 Olyssipo
@@ -92,6 +98,7 @@ Paraguay
 Parthenope
 Parthia
 Parthénope
+Persephone
 Persia
 Phebe
 Phenix
@@ -130,6 +137,7 @@ abbacial
 abbade
 abbadessa
 abducção
+abeto-de-Douglas
 abobada
 absinthio
 absintho
@@ -139,6 +147,8 @@ abysmal
 abysmo
 acceitar
 accelerador
+accender
+accentuar
 accionar
 accionista
 acclarar
@@ -365,6 +375,9 @@ cyprestal
 cysto
 céo
 cíthara
+d'ahi
+d'ali
+dahi
 damnado
 defecção
 dejecto
@@ -373,6 +386,7 @@ della
 dellas
 delle
 delles
+demonio
 desactivado
 desactivar
 descontracção
@@ -409,9 +423,11 @@ distractivo
 distractor
 distracção
 dithongo
+divergencia
 dynamico
 dysenteria
 echo
+edade
 efectivamente
 efectivar
 efectivação
@@ -472,6 +488,7 @@ escriptorio
 escriptório
 esophago
 espectacular
+esperavamos
 esphenoide
 esphera
 estavamos
@@ -518,6 +535,7 @@ fraccionamento
 fractura
 fracturar
 fracção
+frequencia
 funccionalidade
 funccionalmente
 funccionamento
@@ -525,6 +543,7 @@ funccionar
 gallo
 geraes
 geógrapho
+gloria
 gotta
 gotteira
 grammatica
@@ -537,10 +556,12 @@ hemorrhagia
 historia
 hombro
 humido
+hymno
 hyoide
 hypnose
 hypochondria
 hypocrisia
+hypotensão
 hypotheca
 hypothenusa
 hypothese
@@ -554,6 +575,8 @@ illusionista
 illusorio
 illustração
 imbahuba
+immediato
+immenso
 imperio
 impeto
 inactivar
@@ -622,6 +645,9 @@ lynce
 machiavellico
 machina
 machina de escrever
+mamma
+mammar
+mammão
 marionette
 marionnette
 marquez
@@ -650,6 +676,12 @@ myrrha
 myrtillo
 mytho
 méthodo
+n'aquelle
+n'um
+n'uma
+n'umas
+n'uns
+naquelle
 neodymio
 nocturnal
 nocturno
@@ -664,6 +696,7 @@ objecto voador não identificado
 objecção
 occidental
 occidente
+odio
 official
 omnidireccional
 onyx
@@ -739,6 +772,7 @@ prohibição
 projectar
 projecto
 projecção
+proposito
 proteccionismo
 proteccionista
 protector
@@ -755,6 +789,7 @@ pè
 radioactividade
 radioactivo
 rarefacção
+reaccender
 reactivação
 reactividade
 reactivo
@@ -813,6 +848,8 @@ selecção
 semi-recta
 sobrejectivo
 sobrejecção
+sobresaltar
+sobresalto
 sociolecto
 somno
 subjectivamente

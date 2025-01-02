@@ -1,5 +1,6 @@
 import mariadb
 import json
+import re
 
 with open("mycredentials.json", "r", encoding='utf-8') as f:
     credentials = json.load(f)
@@ -80,3 +81,21 @@ try:
                 
 finally:
     connection.close()
+
+input_file_path = 'sem 1945\\lista.txt'
+ü_file_path = 'sem 1945\\com_ü_etc.txt'
+
+with open(input_file_path, 'r', encoding='utf-8') as input_file, open(ü_file_path, 'w', encoding='utf-8') as output_file:
+    for line in input_file:
+        match_ï = re.search('ï', line)
+        match_ü = re.search('(?<=[q|g|a|â|á|à|e|ê|é|è|i|í|ì|o|ô|ó|ò])ü', line) #antecedido por <q> <g> ou vogal
+        if match_ï or match_ü:
+            output_file.write("|"+line)
+
+mente_file_path = 'sem 1945\\com_mente.txt'
+
+with open(input_file_path, 'r', encoding='utf-8') as input_file, open(mente_file_path, 'w', encoding='utf-8') as output_file:
+    for line in input_file:
+        match = re.search('[á|é|í|ó|ú][^\\s-]*mente', line)
+        if match:
+            output_file.write("|"+line)
