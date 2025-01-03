@@ -1,0 +1,199 @@
+===1911===
+The {{w|Portuguese Orthographic Reform of 1911}} was the first reform to standardize and simplify the orthography in Portugal.
+
+* Source: [[s:pt:Formulário Ortográfico de 1911|''Vocabulário ortográfico e remissivo da língua portuguesa'' on Portuguese Wikisource]]
+
+====Letters removed from the alphabet====
+* {{angbr|k}}, replaced with {{angbr|c}} or {{angbr|qu}} in all words except for symbols and terms derived from foreign names.
+*: {{m|pt|vod'''k'''a}} → {{m|pt|vod'''c'''a}}
+* {{angbr|w}}, replaced with {{angbr|u}} or {{angbr|v}} in all words except for symbols and terms derived from foreign names.
+*: {{m|pt|'''w'''alsa}} → {{m|pt|'''v'''alsa}}
+* {{angbr|y}}, replaced with {{angbr|i}} in any word in all words except for symbols and terms derived from foreign names
+*: {{m|pt|lagr'''y'''ma}} → {{m|pt|lágr'''i'''ma}}
+* The Form also declares it valid (but not mandatory) to respell terms derived from foreign names.
+*: {{m|pt|cantismo}}, alongside {{m|pt|kantismo}}
+*: {{m|pt|daruinismo}}, alongside {{m|pt|darwinismo}}
+*: {{m|pt|baironiano}}, alongside {{m|pt|byroniano}}
+
+====Greek-based digraphs====
+* Respelling of {{angbr|ch}} ({{IPAchar|/k/}}) with {{angbr|qu}} before {{angbr|e}}, {{angbr|u}}; with {{angbr|c}} before other letters.
+*: {{m|pt|'''ch'''erubim}} → {{m|pt|'''qu'''erubim}}
+* Respelling of {{angbr|ph}} ({{IPAchar|/f/}}) with {{angbr|f}}.
+*: {{m|pt|'''ph'''iloso'''ph'''ia}} → {{m|pt|'''f'''iloso'''f'''ia}}
+* Respelling of {{angbr|th}} ({{IPAchar|/t/}}) with {{angbr|t}}.
+*: {{m|pt|'''th'''eatro}} → {{m|pt|'''t'''eatro}}
+
+====Falling diphthongs====
+* Replacement of {{angbr|e}} with {{angbr|i}} and {{angbr|o}} with {{angbr|u}} in falling diphtongs.
+*: {{m|pt|ger'''ae'''s}} → {{m|pt|ger'''ai'''s}}
+*: {{m|pt|p'''ao'''}} → {{m|pt|p'''au'''}}
+*: {{m|pt|chap'''eo'''}} → {{m|pt|chap'''éu'''}}
+** Words where {{angbr|oe}} and {{angbr|ue}} represented hiatus rather than a diphthong, such as {{m|pt|abençoe}} and {{m|pt|cultue}}, were not affected.
+
+====The letter {{angbr|h}}====
+* Removal of {{angbr|h}} in initial position if unetymological.
+*: {{m|pt|'''h'''ombro}} → {{m|pt|ombro}} (from {{der|pt|roa-opt|ombro}})
+* Removal of {{angbr|h}} within words.
+*: {{m|pt|sa'''h'''ir}} → {{m|pt|sair}}
+*: {{m|pt|ex'''h'''aurir}} → {{m|pt|exaurir}}
+** {{angbr|h}} was also removed from non-hyphenated compounds.
+**: {{m|pt|des'''h'''umano}} → {{m|pt|desumano}}
+* Removal of {{angbr|h}} in final position, except for interjections (e.g., {{m|pt|ah!}}, {{m|pt|oh!}}).
+*: {{m|pt|Juda'''h'''}} → {{m|pt|Judá}}
+
+====Enclitics====
+* Change of spelling of [[enclisis]] and [[mesoclisis]]: prior to the reform, the forms on the left were commonly seen, though spellings more similar to the form on the right also existed.
+*: ''pega'''l-o''''' → ''pegá'''-lo''''' — {{affix|pt|pegar|lo|nocat=1}}
+*: ''ama'''l-a hei''''' → ''amá'''-la hei''''' — {{affix|pt|amar|lo|hei//ei|nocat=1}}
+*: ''come'''l-o hia'''''  → ''comê'''-lo hia''''' — {{affix|pt|comer|lo|hia//ia|nocat=1}} {{att|pt|verify if spelled with h}}
+
+====Silent letters====
+* Removal of doubled consonant letters, as long as it doesn't alter the word's pronunciation.
+*: {{m|pt|a'''cc'''usar}} → {{m|pt|acusar}}
+*: {{m|pt|a'''gg'''ravo}} → {{m|pt|agravo}}
+*: {{m|pt|cha'''mm'''a}} → {{m|pt|chama}}
+*: {{m|pt|pa'''nn'''o}} → {{m|pt|pano}}
+*: {{angbr|cc}} was kept when pronounced {{IPAchar|/ks/}}, e.g., {{m|pt|occipital}}.
+*: {{angbr|mm}} and {{angbr|nn}} were kept in cases such as {{m|pt|emmalar}} and {{m|pt|connosco}}, because {{m|pt|emalar}} and {{m|pt|conosco}} would suggest pronunciations without nasal vowels.
+* Removal of silent consonants, as long as it doesn't alter the preceding vowel's pronuncation.
+*: {{m|pt|so'''m'''no}} → {{m|pt|sono}}
+*: Silent consonants that indicated the lowering of a preceding vowel were kept. Thus, {{m|pt|contracção}}, pronounced with {{IPAchar|a}}, not {{IPAchar|ɐ}}.
+*: Such consonants were also kept in related words, even if no reduction (lowering) could not occur (often due to the relevant vowel being stressed). Thus, {{m|pt|contracto}}, pronounced with {{IPAchar|a}} because of {{m|pt|contracção}}.
+
+====Apostrophes====
+* Removal of the apostrophe {{angbr|’}} in contractions formed by a pronoun, article, or adverb and the prepositions {{m|pt|a}}, {{m|pt|de}}, {{m|pt|em}} and {{m|pt|per//por}}. Prior to the reform, forms with apostrophes were commonly seen, though forms without them were also used. 
+*: {{m|pt|d'ahi|d’ahi}}  → {{m|pt|daí}} (from {{affix|pt|de|ahi//aí}})
+*: {{m|pt|d'aqui|d’aqui}} → {{m|pt|daqui}} (from {{affix|pt|de|aqui}})
+*: {{m|pt|n'elle|n’elle}} → {{m|pt|nele}} (from {{affix|pt|em|elle//ele}})
+** It was kept to indicate deliberate elision of a letter in poetry, as well as in compounds with {{m|pt|d’}}.
+**: {{m|pt|esp'rança|esp’rança}} (from {{m|pt|esperança}})
+**: {{m|pt|mãe-d'água|mãe-d’água}}
+
+====Crasis====
+* Change in the spelling of [[crasis]] to use a grave accent instead of an acute one.
+*: {{m|pt|á}} → {{m|pt|à}} (from {{affix|pt|a|a}})
+*: {{m|pt|áquele}} → {{m|pt|àquele}} (from {{affix|pt|a|aquele}})
+*: {{m|pt|áqueloutro}} → {{m|pt|àqueloutro}} (from {{affix|pt|a|aqueloutro}})
+*: This was likely for distinction from other newly added accent marks.
+
+====Introduced accents====
+
+=====Accented letters=====
+Note that all occurences of the letter represent the given sound, but not all occurences of the sound are represented by the given letter.
+* Acute {{angbr|´}} for:
+** {{angbr|á}} ({{IPAchar|/a/}})
+** {{angbr|é}} ({{IPAchar|/ɛ/}})
+** {{angbr|í}} ({{IPAchar|/i/}})
+** {{angbr|ó}} ({{IPAchar|/ɔ/}})
+** {{angbr|ú}} ({{IPAchar|/u/}})
+* Circumflex {{angbr|^}} for:
+** {{angbr|â}} ({{IPAchar|/ɐ/}})
+** {{angbr|ê}} ({{IPAchar|/e/}})
+** {{angbr|ô}} ({{IPAchar|/o/}})
+* Grave {{angbr|`}} for:
+** {{angbr|à}} ({{IPAchar|/a/}})
+** {{angbr|è}}, ({{IPAchar|/ɛ/}})
+** {{angbr|ì}} ({{IPAchar|/i/}})
+** {{angbr|ò}} ({{IPAchar|/ɔ/}})
+** {{angbr|ù}} ({{IPAchar|/u/}})
+
+=====Oxytone accentuation rules=====
+* Accentuation of oxytones ending in {{angbr|a}}, {{angbr|e}}, or {{angbr|o}}, either alone or followed by {{angbr|s}} — with an acute {{angbr|´}} or circumflex {{angbr|^}} accent, according to the vowel’s height.
+*: {{m|pt|alvar'''á'''}}
+*: {{m|pt|mar'''é'''}}
+*: {{m|pt|merc'''ê'''}}
+*: {{m|pt|portal'''ó'''}}
+*: {{m|pt|av'''ô'''}}
+*: These accents were already in frequent use prior to the reform, even for words ending in {{angbr|i}}, {{angbr|u}}; these were, in a sense, removed with this reform.
+* Accentuation of oxytones ending in {{angbr|em}} or {{angbr|ens}} (plural) — with a circumflex accent {{angbr|^}}. Monosyllables were an exception and did not receive accents.
+*: {{m|pt|Bel'''ê'''m}}
+*: {{m|pt|tamb'''ê'''m}}
+*: ''but,'' {{m|pt|bem}}
+* Accentuation of oxytones ending in open {{angbr|eu}} ({{IPAchar|/ɛw/}}), {{angbr|ei}} ({{IPAchar|/ɛj/}}), either alone or followed by {{angbr|s}}.
+*: {{m|pt|c'''é'''u}}
+*: {{m|pt|r'''é'''is}}
+*: Note that most European Portuguese accents do not distinguish {{IPAchar|/ɛj/}} from {{IPAchar|/ej/}} within words, so the diphthong is not accentuated in such positions. Furthermore, {{IPAchar|/ɛw/}} does not occur within words.
+
+=====Paroxytone accentuation rules=====
+* Accentuation of paroxytones ending in {{angbr|i}} or {{angbr|u}}, either alone or followed by {{angbr|l, r, s}} — with an acute {{angbr|´}} or circumflex {{angbr|^}} accent, according to the stressed vowel’s height.
+*: {{m|pt|qu''á''si}}
+*: {{m|pt|V''é''nus}}
+* Accentuation of paroxytones ending in a nasal monophthong, either by itself or followed by  {{angbr|s}} ({{angbr|ã~an~ans}}, {{angbr|em~en~ens}}, {{angbr|om~on~ons}}, {{angbr|im~ins}}, {{angbr|um~uns}}) — with an acute {{angbr|´}} or circumflex {{angbr|^}} accent, according to the stressed vowel’s height.
+*: {{m|pt|'''ó'''rfã}}
+*: {{m|pt|'''á'''lbum}}
+* Accentuation of paroxytones ending in a diphthong, either by itself or followed by {{angbr|s}} — with an acute {{angbr|´}} or circumflex {{angbr|^}} accent, according to the stressed vowel’s height.
+*: {{m|pt|f'''á'''ceis}}
+* Accentuation of paroxytones ending in {{angbr|l, n, r, x}} — with an acute {{angbr|´}} or circumflex {{angbr|^}} accent, according to the stressed vowel’s height.
+*: {{m|pt|car'''á'''cter}}
+*: {{m|pt|c'''ô'''nsul}}
+*: Note that the only paroxytones spelled with word-final {{angbr|m}} are verb forms such as {{m|pt|pegam}}, {{m|pt|houvessem}}. These do not receive accents.
+* Accentuation of verbal forms ending in {{angbr|eem}} — with a circumflex {{angbr|^}} accent on the first {{angbr|e}}.
+*: {{m|pt|v'''ê'''em}}
+*: {{m|pt|l'''ê'''em}}
+
+=====Other accentuation rules=====
+* Accentuation of all proparoxytones — with an acute {{angbr|´}} or circumflex {{angbr|^}} accent, according to the stressed vowel’s height.
+*: {{m|pt|s'''á'''bado}}
+*: {{m|pt|farmac'''ê'''utico}}
+*: {{m|pt|esdr'''ú'''xulo}}
+* Accentuation of stressed open {{angbr|oi}} ({{IPAchar|/ɔj/}}) anywhere in the word — with an acute {{´}} accent.
+*: {{m|pt|jib'''ó'''ia}}
+*: {{m|pt|lenç'''ó'''is}}
+* Accentuation of stressed {{angbr|i}} and {{angbr|u}} in hiatus — with an acute {{angbr|´}} accent. However, the accent may be omitted if followed by {{angbr|nh}}, or if the following letter is {{angbr|l, m, n, r, z}} and part of the same syllable.
+*: {{m|pt|fa'''í'''sca|pos=fa-'''is'''-ca}}
+*: {{m|pt|sa'''ú'''de|pos=sa-'''u'''-de}}
+*: {{m|pt|ca'''í'''|pos=ca-'''i'''}}
+*: ''but,'' {{m|pt|rainha|pos=ra-'''i'''-nha}}, {{m|pt|ainda|pos=a-'''in'''-da}}, 
+*: Though the Form’s body says the omission of the accent is “permissible” in certain types of words, the ''Vocabulary'' published alongside the Form spells such words without the accent. It can be understood that it was in fact '''preferred''', if not mandatory, to omit the accent.
+* Optional indication of unstressed {{angbr|i}} and {{angbr|u}} in hiatus — with a grave {{angbr|`}} accent.
+*: {{m|pt|maca'''ì'''beira|pos=ma-ca-i-'''bei'''-ra, from {{m|pt|macaíba}}}}
+*: {{m|pt|fa'''ì'''scar|pos=fa-is-'''car''', from {{m|pt|faísca}}}}
+*: In the ''Vocabulary'' published alongside the Form, words appear to receive this accent only if the pronunciation with hiatus is most common or exclusive. Thus, {{m|pt|saudade}} and not {{m|pt|saùdade}}. {{attention|pt|refine}}
+<!--* Accentuation of unstressed low vowels {{IPAchar|/a, ε, ɔ/}} (including within diphthongs), if they are not indicated by a silent consonant instead — with a grave {{angbr|`}} accent. {{attention|pt|review}}
+*: {{m|pt|bèsteiro}} (from {{m|pt|besta}} {{IPAchar|/ε/}})
+*: {{m|pt|cègada|pos=noun}} — compare {{m|pt|cegada|pos=participle, {{IPAchar|/e/}}}}
+*: {{m|pt|nètinha}} (from {{m|pt|neta}} {{IPAchar|/ε/)
+*: {{m|pt|còpista}} (from {{m|pt|copo}} {{IPAchar|/ɔ/}}) — compare {{m|pt|copista|pos={{IPAchar|/o/}}}}
+*: {{m|pt|còração}} (from {{m|pt|corar}} {{IPAchar|/ɔ/}}) — compare {{m|pt|coração|pos={{IPAchar|/o/}}}}
+*: {{m|pt|còinar}} (from {{m|pt|cóina}} {{IPAchar|/ɔ/}})
+*: Note 1: words with unstressed {{IPAchar|/a/}} were not accentuated. See {{m|pt|pajão}} this occurs most often with suffixed words, and the accent is often differential.
+*: Note 2: although this rule is not mentioned in the Form, the ''Vocabulary'' published alongside it applies the practice in its spellings.-->
+* Accentuation of verbal forms ending in {{angbr|eem}} — with a circumflex {{angbr|^}} accent on the first {{angbr|e}}.
+*: {{m|pt|v'''ê'''em}}
+*: {{m|pt|l'''ê'''em}}
+*: Note that, at the time of this reform, the plural equivalent of {{m|pt|tem}} and {{m|pt|vem}} was spelled {{m|pt|teem}}, {{m|pt|veem}}, reflecting the pronunciation with {{IPAchar|/-ɐ̃j̃.ɐ̃j̃/}}.
+* Use of differential accent:
+** For pairs of words differing in vowel height that would otherwise be homographs, the word with the close vowel is accentuated with a circumflex {{angbr|^}}.
+**: {{m|pt|r'''e'''go|pos=verb, {{IPAchar|/ɛ/}}}} — {{m|pt|r'''ê'''go|pos=noun, {{IPAchar|/e/}}}}
+**: {{m|pt|'''e'''sse|pos=noun, {{IPAchar|/ɛ/}}}} — {{m|pt|'''ê'''sse|pos=pronoun, {{IPAchar|/e/}}}}
+**: {{m|pt|s'''o'''bre|pos=verb, {{IPAchar|/ɛ/}}}} — {{m|pt|s'''ô'''bre|pos=noun, {{IPAchar|/e/}}}} 
+**: Some function words were exceptions and did not receive an accent. See the list below.
+** For the first-person plural preterite indicative form of verbs (a grave {{angbr|`}} accent), to distinguish it from the first-person plural present.
+**: {{m|pt|louv'''a'''mos|pos=present, {{IPAchar|/ɐ/}}}} — {{m|pt|louv'''á'''mos|pos=preterite, {{IPAchar|/a/}}}}
+** For a specific list of homographs:
+**: {{m|pt|pára|pos=verb, {{IPAchar|/a/}}}} — {{m|pt|para|pos=preposition, {{IPAchar|/ɐ~a/}}}}
+**: {{m|pt|pélo|pos=verb, {{IPAchar|/ε/}}}} — {{m|pt|pelo|pos=contraction, {{IPAchar|/e/}}}} — {{m|pt|pêlo|pos=noun, {{IPAchar|/e/}}}}
+**: {{m|pt|péla|pos=verb, {{IPAchar|/ε/}}}} — {{m|pt|pela|pos=contraction, {{IPAchar|/e/}}}}
+**: {{m|pt|pólo|pos=noun, {{IPAchar|/ɔ/}}}} — {{m|pt|polo|pos=contraction, {{IPAchar|/u~o/}}}} — {{m|pt|pôlo|pos=noun, {{IPAchar|/o/}}}} 
+**: {{m|pt|péra|pos=noun, {{IPAchar|/ε/}}}} — {{m|pt|pera|pos=contraction, {{IPAchar|/ε/}}}} — {{m|pt|pêra|pos=noun, {{IPAchar|/e/}}}}
+**: {{m|pt|cômo|pos=verb, {{IPAchar|/o/}}}} — {{m|pt|como|pos=preposition, {{IPAchar|/o/}}}}
+**: {{m|pt|quê|pos=stressed, {{IPAchar|/e/}}}} — {{m|pt|que|pos=unstressed, {{IPAchar|/i/}}}}
+**::Includes the derived forms {{m|pt|porque}}, {{m|pt|porquê}}.
+* When a word is suffixed with any of many prefixes starting in {{angbr|z}} (notably, {{m|pt|-zão}} and {{m|pt|-zinho}}), acute {{angbr|´}} accents get changed to grave {{angbr|`}}; when adding {{m|pt|-mente}}, the accent does not change. Circumflex {{angbr|^}} accents remain unaltered in either case. {{attention|pt|verify}}
+*: {{m|pt|caf'''è'''zinho}} (from {{m|pt|caf'''é'''}})
+*: {{m|pt|s'''ò'''zinho}} (from {{m|pt|s'''ó'''}})
+*: {{m|pt|f'''á'''cilmente}} (from {{m|pt|f'''á'''cil}})
+*: {{m|pt|cort'''ê'''smente}} (from {{m|pt|cort'''ê'''s}})
+*: {{m|pt|s'''ó'''mente}} (from {{m|pt|s'''ó'''}})
+
+=====Hyphenation rules=====
+* Hyphenation of words whose parts are phonetically independent. Some terms are kept without it, but no reasoning is given.
+*: {{afex|pt|pára|raio<alt:raios>|pára-raios}}
+*: {{afex|pt|água|ardente|aguardente}}
+* Hyphenation of enclitic pronouns
+*: {{afex|pt|punir|o<alt:lo>|<alt:puni-lo>}}
+*: {{afex|pt|ver|me|o|<alt:vê-me-o>}}
+* Hyphenation of the adverbs {{m|pt|mal}} and {{m|pt|bem}}. It can be dropped to follow the pronunciation
+*: {{afex|pt|bem|aventurança|bem-aventurança<pos:bem.a.ven.tu.ran.ça>}}
+*: {{afex|pt|mal|logrado|mal-logrado<pos:mal.lo.gra.do>}}
+*: {{afex|pt|mal|logrado|malogrado<pos:ma.lo.gra.do>}}
