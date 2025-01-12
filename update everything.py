@@ -37,3 +37,11 @@ try:
     print("Executed 'criar lista.py' in sem Brazil 1990")
 except Exception as e:
     print(f"Error executing 'sem Brazil 1990\\programa\\criar lista.py': {e}")
+
+# Qualquer categoria
+try:
+    with open("qualquer categoria\\programa\\criar lista.py", encoding='utf-8') as f:
+        exec(f.read())
+    print("Executed 'criar lista.py' in qualquer categoria")
+except Exception as e:
+    print(f"Error executing 'sem Brazil 1990\\programa\\criar lista.py': {e}")

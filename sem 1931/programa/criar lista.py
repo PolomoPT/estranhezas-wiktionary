@@ -88,7 +88,7 @@ output_file_path = 'sem 1931\\oxitonas.txt'
 
 with open(input_file_path, 'r', encoding='utf-8') as input_file, open(output_file_path, 'w', encoding='utf-8') as output_file:
     for line in input_file:
-        match_final = re.search('(?<![a|e|ei|o|u])(í|ú|ís|ús)$', line)
-        match_meio = re.search('(?<![a|e|ei|o|u])(í|ú|ís|ús)( |-)', line)
-        if match_final or match_meio:
+        match_exceções = re.search('(cú|nú)( |-)', line) or re.search('(cú|nú)$', line) or re.search('^(í|ú)$', line)
+        match_busca = re.search('(?<![a|e|ei|o|u])(í|ú|ís|ús)$', line) or re.search('(?<![a|e|ei|o|u])(í|ú|ís|ús)( |-)', line)
+        if match_busca and not match_exceções:
             output_file.write("|"+line)

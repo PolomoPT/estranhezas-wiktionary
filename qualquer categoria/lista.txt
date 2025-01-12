@@ -22,7 +22,6 @@
 -ama
 -ame
 -amento
--amo
 -andria
 -andro
 -ano
@@ -1591,6 +1590,7 @@ Beira
 Beirute
 Beja
 Bela
+Bela Vista
 Bela Vista da Caroba
 Bela Vista de Minas
 Bela Vista do Paraíso
@@ -1695,6 +1695,7 @@ Bitola
 Bittencourt
 Bituruna
 Bitínia
+Bixiga
 Bizâncio
 Black Fraude
 Black Friday
@@ -4759,6 +4760,7 @@ Isabele
 Isabell
 Isabella
 Isabelle
+Isadora
 Isaque
 Isaura
 Isaías
@@ -4767,6 +4769,7 @@ Isfahan
 Isfahã
 Isfaã
 Isfaão
+Isidora
 Islamabad
 Islamabade
 Islândia
@@ -4802,6 +4805,7 @@ Itagimirim
 Itaguara
 Itaguaçu da Bahia
 Itaguaí
+Itaipava
 Itaipé
 Itaiópolis
 Itajaí
@@ -5110,6 +5114,7 @@ Juca
 Jucuruçu
 Judah
 Judas
+Judas Iscariotes
 Judeia
 Judeu Errante
 Judite
@@ -5358,6 +5363,7 @@ Kênya
 Köln
 Königsberg
 L
+LAMSA
 LAN
 LAN house
 LCD
@@ -5429,6 +5435,7 @@ Lambari
 Lamego
 Lamentações
 Lamim
+Lamsa
 Lan house
 Lancastre
 Landry
@@ -5694,6 +5701,7 @@ Lúcifer
 Lüneburg
 M
 MA
+MASP
 MBL
 MC
 MCMV
@@ -7269,6 +7277,7 @@ Piedade dos Gerais
 Piemonte
 Pieria
 Pierre
+Pierrô
 Pietra
 Pietro
 Pikachu
@@ -8129,6 +8138,7 @@ Rubim
 Rubineia
 Rubinho
 Rubiácea
+Rudá
 Rui
 Ruindows
 Rumélia
@@ -8688,6 +8698,7 @@ Sidon
 Sidónio
 Sidônio
 Sikkim
+Silas
 Silva
 Silva Jardim
 Silvana
@@ -11429,6 +11440,7 @@ acrolecto
 acroletal
 acroleto
 acroleína
+acrolitho
 acromatismo
 acromatizar
 acromatopsia
@@ -11463,6 +11475,7 @@ acrítico
 acróbata
 acrófobo
 acrógeno
+acrólito
 acrómio
 acrónico
 acrónimo
@@ -11597,6 +11610,7 @@ acá
 acácia
 acádio
 acântio
+acã
 acção
 acéfalo
 acém
@@ -11604,7 +11618,6 @@ acérrimo
 acérvulo
 acético
 acêntrico
-acêso
 acíclico
 acícula
 acídia
@@ -12054,6 +12067,7 @@ advocar
 advocatura
 advogacia
 advogada
+advogada do diabo
 advogado
 advogado do diabo
 advogar
@@ -12107,6 +12121,7 @@ aerogel
 aerogerador
 aerografia
 aerograma
+aerolitho
 aerolito
 aerologia
 aerolítico
@@ -12723,7 +12738,6 @@ aguassú
 aguazil
 aguaçal
 aguaçu
-aguaçú
 aguaí
 agudamente
 agudez
@@ -12973,6 +12987,7 @@ albergariense
 albergue
 albergueiro
 alberguista
+albernoz
 albertita
 albescente
 albicante
@@ -14656,7 +14671,6 @@ ampère
 ampère-espira
 ampère-hora
 ampôla
-ampôlla
 amrinona
 amrita
 amsacrina
@@ -21292,6 +21306,7 @@ belamente
 belarusso
 belas-letras
 belas artes
+belchior
 beldade
 beldroega
 beldroegas
@@ -21411,6 +21426,7 @@ beque
 berbequim
 berbere
 berbigão
+berchior
 berdache
 berdamerda
 bergamota
@@ -21616,6 +21632,7 @@ bicotar
 bicuda
 bicudo
 bicéfalo
+bidialetal
 bidimensional
 bidirecional
 bidu
@@ -22003,6 +22020,7 @@ bocadinho
 bocado
 bocal
 bocarra
+bocca
 boccia
 bocejar
 bocejo
@@ -22909,6 +22927,7 @@ bãdeira
 bãdeyra
 bãim
 bão
+bèsteira
 bèsteiro
 bé
 béchamel
@@ -24571,6 +24590,7 @@ castelo de areia
 castelo de cartas
 castelo de vento
 castelo no ar
+casteloa
 castelona
 castelã
 castelão
@@ -24856,6 +24876,7 @@ caçador furtivo
 caçadora
 caçadora-recolectora
 caçadora-recoletora
+caçadora furtiva
 caçamba
 caçamba de entulho
 caçanje
@@ -25430,6 +25451,7 @@ chibante
 chibança
 chibar
 chibaria
+chibarro
 chibata
 chibatar
 chibateamento
@@ -25721,6 +25743,7 @@ cicatriz
 cicatrizar
 cicatrização
 cicerone
+ciclabilidade
 ciclame
 ciclano
 ciclismo
@@ -26554,7 +26577,6 @@ colhereiro
 colherinha
 colherzinha
 colhão
-colhér de chá
 colhêr
 colibri
 colidir
@@ -27671,6 +27693,7 @@ contraforte
 contragolpe
 contragosto
 contraindicar
+contraindicação
 contrainteligência
 contraintuitivo
 contrair
@@ -28987,6 +29010,7 @@ custosamente
 custoso
 custume
 custódia
+cut crease
 cutcharra
 cutelaria
 cutello
@@ -29412,6 +29436,7 @@ dar de bandeja
 dar de dez a zero em
 dar de mamar
 dar de ombros
+dar de si
 dar distância
 dar duro
 dar em
@@ -29479,6 +29504,7 @@ dar uma vista de olhos
 dar valor
 dar vexame
 dar volta
+dar vácuo
 dar zebra
 dar à luz
 dar à língua
@@ -30458,6 +30484,7 @@ descanso eterno
 descaradamente
 descarado
 descaramento
+descarar
 descarbonizador
 descarbonizar
 descarbonização
@@ -30813,6 +30840,8 @@ desgraça
 desgraçado
 desgraçar
 desgrenhado
+deshabitar
+deshonra
 deshumano
 desidratante
 desidratar
@@ -34147,6 +34176,7 @@ enxerto
 enxofre
 enxotar
 enxoval
+enxovalhar
 enxudreiro
 enxugar
 enxugar gelo
@@ -34229,6 +34259,7 @@ epistemólogo
 epistático
 episódico
 episódio
+epitalâmio
 epitelial
 epitomizar
 epitrocoide
@@ -34332,6 +34363,9 @@ erguer o nariz
 ergástulo
 ergômetro
 erigir
+eritema
+eritematoso
+eritemático
 eritoblasto
 eritreu
 eritrofobia
@@ -34435,6 +34469,7 @@ escafoide
 escafóide
 escaganifobeticamente
 escaganifobético
+escaiola
 escala
 escala Richter
 escala absoluta
@@ -35352,7 +35387,6 @@ estar com tudo
 estar de chico
 estar na berlinda
 estar para
-estar quites
 estardalhaço
 estarrecedor
 estarrecer
@@ -35610,7 +35644,6 @@ estrela binária
 estrela cadente
 estrela d'alva
 estrela de Davi
-estrela de davi
 estrela de neutrões
 estrela de nêutrons
 estrela dupla
@@ -37355,7 +37388,6 @@ fim do mundo
 fimose
 finado
 final
-final-de-semana
 final de semana
 final feliz
 finale
@@ -39015,6 +39047,7 @@ gasóleo
 gasómetro
 gasômetro
 gata
+gata-doméstica
 gatanhar
 gatar
 gatarrão
@@ -40702,7 +40735,6 @@ hidrelétrico
 hidreto
 hidreto de lítio
 hidro-
-hidro-elétrico
 hidroavião
 hidrobiologia
 hidrocarboneto
@@ -42514,6 +42546,7 @@ ingurgitamento
 ingá
 ingénuo
 ingênuo
+inhabil
 inhaca
 inhacoso
 inhambu
@@ -42525,6 +42558,7 @@ inherente
 inhibir
 inhuma
 inhumano
+inhábil
 inibidor
 inibir
 inibitivo
@@ -42806,6 +42840,7 @@ integrar
 integração
 integridade
 integrina
+integrável
 integérrimo
 inteiramente
 inteirar
@@ -44989,6 +45024,7 @@ linguarudo
 linguatulose
 linguista
 linguiça
+linguiça calabresa
 linguística
 linguística computacional
 linguística diacrônica
@@ -45097,6 +45133,7 @@ litografia
 litograficamente
 litopone
 litoral
+litorar
 litorina
 litorâneo
 litosfera
@@ -46429,6 +46466,7 @@ maresia
 marfim
 marfinense
 marga
+margar
 margarida
 margarida-amarela
 margarina
@@ -46810,6 +46848,7 @@ maçarico-galego
 maço
 maçom
 maçon
+maçona
 maçonaria
 maçudo
 maçã
@@ -48541,6 +48580,8 @@ mudança
 mudança climática
 mudar
 mudar de ideia
+mudar de pato para ganso
+mudar de pato pra ganso
 mudez
 mudo
 mudra
@@ -48878,7 +48919,6 @@ ménos
 mércio
 mérito
 méson
-méthodo
 método
 método comparativo
 método de Monte Carlo
@@ -49079,6 +49119,7 @@ nanquim
 nanómetro
 nanômetro
 nao
+napa
 napalm
 napoleónico
 napolitana
@@ -50385,6 +50426,7 @@ ocupação
 ocê
 ocó
 odalisca
+odara
 ode
 odeom
 odeão
@@ -50610,6 +50652,7 @@ omeleta
 omelete
 omelette
 ominoso
+omisso
 omissão
 omitir
 omni-
@@ -51742,10 +51785,12 @@ parafina
 parafrasear
 parafusado
 parafusar
+parafusinho
 parafuso
 parafuso Allen
 parafuso de Arquimedes
 parafuso sextavado
+parafusão
 paragem
 paragem cardíaca
 paraguaia
@@ -52433,6 +52478,7 @@ pegar o jeito
 pegar onda
 pegar para Cristo
 pegar por empurrão
+pegação
 pegmatita
 pego
 peguei seu nariz
@@ -52656,6 +52702,8 @@ penteadeira
 penteado
 pentear
 pentecostalismo
+penteeiro
+penteiro
 pentelhar
 pentelhação
 pentelheira
@@ -53291,6 +53339,7 @@ piedoso
 piegas
 piemontês
 piercing
+pierrô
 pietista
 piezeletricidade
 piezelétrico
@@ -54521,6 +54570,7 @@ posterior
 posterioridade
 posteriormente
 postigo
+postil
 posto
 posto avançado
 posto de bombeiros
@@ -55315,6 +55365,7 @@ promotor
 promotora
 promover
 promoção
+prompto
 promptuario
 promptuário
 promulgar
@@ -56447,7 +56498,7 @@ quem
 quem-nós-sabemos
 quem ama, castiga
 quem ama o feio, bonito lhe parece
-quem avisa, amigo é
+quem avisa amigo é
 quem conta um conto acrescenta um ponto
 quem corre cansa, quem anda alcança
 quem dera
@@ -56688,7 +56739,6 @@ quotidiano
 quotista
 quotização
 quá
-quá quá
 quádruplo
 quáquer
 quási
@@ -56929,6 +56979,8 @@ rançoso
 ranúnculo
 rap
 rapa
+rapa-tachos
+rapa-tudo
 rapa nui
 rapace
 rapacidade
@@ -57613,6 +57665,7 @@ regulável
 regurgitar
 regência
 regímen
+rehaver
 rei
 rei-dos-ratos
 rei da floresta
@@ -61759,7 +61812,6 @@ syntaxe
 systematizar
 szlachta
 sábado
-sábbado
 sábia
 sábio
 sáculo
@@ -61815,6 +61867,7 @@ sético
 sétimo
 sétimo céu
 sétuplo
+sêda
 sêde
 sêmea
 sêmen
@@ -62244,6 +62297,7 @@ tarol
 tarola
 tarologia
 tarouquense
+tarracha
 tarrafa
 tarrafar
 tarraqueta
@@ -62910,6 +62964,7 @@ teutônico
 tevê
 texana
 texano
+textinho
 texto
 texto puro
 textual
@@ -63318,7 +63373,9 @@ toolbox
 toolkit
 top
 top de linha
+topa-a-tudo
 topa-tudo
+topa a tudo
 topar
 tope
 topete
@@ -67289,7 +67346,6 @@ zôo
 álamo branco
 álbum
 álcali
-álcohol
 álcool
 álcool-gel
 álcool alílico
@@ -67658,3 +67714,4 @@ zôo
 ◌ᷣᷣ
 🆑
 🆒
+🥄

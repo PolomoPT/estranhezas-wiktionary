@@ -13,6 +13,8 @@
 |Thessália
 |Zéphiro
 |Zéphyro
+|aerólitho
+|apêllo
 |bibliothecário
 |carthaginês
 |cathólico
@@ -30,7 +32,6 @@
 |idéa
 |insophismável
 |myosótis
-|méthodo
 |ophídio
 |pharaó
 |pharmácia

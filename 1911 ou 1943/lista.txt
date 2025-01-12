@@ -7,7 +7,6 @@
 -ão
 Abril
 Achaia
-Achiles
 Achilles
 Agosto
 Alcyone
@@ -28,6 +27,7 @@ Austria
 Babylonia
 Babylónia
 Bartholomeu
+Belgica
 Bosphoro
 Bruxellas
 Byblo
@@ -74,6 +74,7 @@ Hyrcania
 Hyrcânia
 India
 Janeiro
+Jehovah
 Jerichó
 Jethro
 Judah
@@ -160,6 +161,7 @@ accusar
 acetyleno
 acrolectal
 acrolecto
+acrolitho
 acta
 activador
 activamente
@@ -189,6 +191,8 @@ adjectivar
 adjectivação
 adjectivo
 admiravel
+aerolitho
+aerólitho
 affectado
 affectar
 affectivo
@@ -227,6 +231,7 @@ apparente
 appellidar
 applicar
 approvar
+apêllo
 aquella
 aquellas
 aquelle
@@ -282,6 +287,7 @@ bibliotheca
 bibliothecário
 bijectivo
 bijecção
+bocca
 cahio
 cahir
 calcanhar de Achiles
@@ -391,6 +397,9 @@ desactivado
 desactivar
 descontracção
 desemmaranhar
+deshabitar
+deshonra
+deshumano
 detective
 dialectal
 dialectismo
@@ -536,6 +545,7 @@ fractura
 fracturar
 fracção
 frequencia
+fructo
 funccionalidade
 funccionalmente
 funccionamento
@@ -555,6 +565,7 @@ haver-de
 hemorrhagia
 historia
 hombro
+hontem
 humido
 hymno
 hyoide
@@ -595,7 +606,9 @@ influencia
 infortunio
 infractor
 infracção
+inhabil
 inherencia
+inhumano
 injectar
 injectividade
 injectivo
@@ -675,7 +688,6 @@ myosótis
 myrrha
 myrtillo
 mytho
-méthodo
 n'aquelle
 n'um
 n'uma
@@ -714,6 +726,7 @@ parabens
 parochia
 pateo
 pathetico
+patria
 patriarcha
 patriarchado
 pessego
@@ -772,6 +785,7 @@ prohibição
 projectar
 projecto
 projecção
+prompto
 proposito
 proteccionismo
 proteccionista
@@ -786,6 +800,7 @@ pyra
 pyrilampo
 pythão
 pè
+quasi
 radioactividade
 radioactivo
 rarefacção
@@ -809,6 +824,7 @@ redireccionar
 reflectir
 reflector
 refractômetro
+rehaver
 reluctancia
 remedio
 reprehender
@@ -817,6 +833,7 @@ retractar
 retroactividade
 retroactivo
 retroprojector
+revolver
 rhetórica
 rhuibarbo
 sabbado
