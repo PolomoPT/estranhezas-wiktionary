@@ -260,6 +260,7 @@ alternadamente
 alternantemente
 alternativamente
 altimetricamente
+altissimamente
 alto
 alto e claro
 altruisticamente
@@ -344,6 +345,7 @@ anti-heroicamente
 anticiclonicamente
 anticientificamente
 anticlimaticamente
+anticonstitucionalissimamente
 anticonstitucionalmente
 anticristãmente
 antidemocraticamente
@@ -476,6 +478,7 @@ artisticamente
 artroscopicamente
 asinha
 asperamente
+asperrimamente
 assado
 assaz
 assexuadamente
@@ -547,6 +550,7 @@ banalmente
 basicamente
 bastante
 belamente
+belissimamente
 bem
 bem que
 benèficamente
@@ -719,6 +723,7 @@ cordialmente
 correctamente
 correspondentemente
 corretamente
+corretissimamente
 cortesmente
 cortêsmente
 cosmologicamente
@@ -863,6 +868,7 @@ delgadamente
 deliberadamente
 delicadamente
 deliciosamente
+deliciosissimamente
 demagogicamente
 demais
 demais da conta
@@ -919,6 +925,7 @@ detalhadamente
 detestavelmente
 detrás
 devagar
+devagarinho
 deveras
 devidamente
 devotamente
@@ -1366,6 +1373,7 @@ incompletamente
 incompreensivelmente
 incondicionalmente
 inconscientemente
+inconstitucionalissimamente
 inconstitucionalmente
 incontestavelmente
 incontrolavelmente
@@ -1429,6 +1437,7 @@ instrumentalmente
 insuficientemente
 insuportavelmente
 insustentavelmente
+integerrimamente
 integralmente
 inteiramente
 inteligentemente
@@ -1482,6 +1491,7 @@ jurisdicionalmente
 justamente
 justificadamente
 justificavelmente
+justissimamente
 já
 já, já
 jũto
@@ -1503,6 +1513,7 @@ levemente
 lexicalmente
 lexicologicamente
 liberalmente
+liberrimamente
 licitamente
 ligeiramente
 limpamente
@@ -1587,7 +1598,9 @@ microbiologicamente
 milagrosamente
 milhões
 minuciosamente
+miserabilissimamente
 miseravelmente
+miserrimamente
 misteriosamente
 mitologicamente
 mnemonicamente
@@ -2024,6 +2037,9 @@ ralo abaixo
 rancorosamente
 randomicamente
 rapidamente
+rapidim
+rapidinho
+rapidissimamente
 raramente
 raro
 rateadamente
@@ -2303,6 +2319,8 @@ té
 tête-à-tête
 tótil
 u
+uberrimamente
+ubèrrimamente
 ultimamente
 um bocado
 um dia
