@@ -1,0 +1,289 @@
+1
+100
+69
+A
+D
+bilhão
+bilionésimo
+bilião
+catorze
+cem
+cento
+cento e catorze
+cento e cinco
+cento e dez
+cento e dezanove
+cento e dezasseis
+cento e dezassete
+cento e dezenove
+cento e dezesseis
+cento e dezessete
+cento e dezoito
+cento e dois
+cento e doze
+cento e duas
+cento e nove
+cento e oito
+cento e onze
+cento e quatorze
+cento e quatro
+cento e quinze
+cento e seis
+cento e sete
+cento e treze
+cento e três
+cento e um
+cento e uma
+centésimo
+cinco
+cinquenta
+cinquenta e cinco
+cinquenta e dois
+cinquenta e duas
+cinquenta e nove
+cinquenta e oito
+cinquenta e quatro
+cinquenta e seis
+cinquenta e sete
+cinquenta e três
+cinquenta e um
+cinquenta e uma
+cinqüenta
+cêntuplo
+decilhão
+dez
+dezanove
+dezasseis
+dezassete
+dezenove
+dezesseis
+dezessete
+dezoito
+dobro
+dois
+dous
+doze
+duas
+ducêntuplo
+duodécimo
+duodécuplo
+duplo
+duzentas
+duzentos
+décimo
+décimo primeiro
+décimo segundo
+décuplo
+dúzia
+googol
+googolplex
+mil
+milhar
+milhão
+milionésimo
+milésimo
+mir
+míliplo
+nona
+nonagésimo
+nonagíntuplo
+nonas
+nonilhão
+noningentésimo
+noningêntuplo
+nono
+nonos
+nove
+novecentas
+novecentos
+novendécuplo
+noventa
+noventa e cinco
+noventa e dois
+noventa e duas
+noventa e nove
+noventa e oito
+noventa e quatro
+noventa e seis
+noventa e sete
+noventa e três
+noventa e um
+noventa e uma
+numeral fracionário
+numeral multiplicativo
+nônuplo
+octilhão
+octingentésimo
+octingêntuplo
+octodécuplo
+octogésimo
+octogíntuplo
+oitavo
+oitenta
+oitenta e cinco
+oitenta e dois
+oitenta e duas
+oitenta e nove
+oitenta e oito
+oitenta e quatro
+oitenta e seis
+oitenta e sete
+oitenta e três
+oitenta e um
+oitenta e uma
+oito
+oitocentas
+oitocentos
+onze
+primeiro
+quadragésimo
+quadragíntuplo
+quadrilhão
+quadringentésimo
+quadringêntuplo
+quarenta
+quarenta e cinco
+quarenta e dois
+quarenta e duas
+quarenta e nove
+quarenta e oito
+quarenta e quatro
+quarenta e seis
+quarenta e sete
+quarenta e três
+quarenta e um
+quarenta e uma
+quarta
+quarto
+quatordécuplo
+quatorze
+quatrilhão
+quatro
+quatrocentas
+quatrocentos
+quindécuplo
+quingentésimo
+quingêntuplo
+quinhentas
+quinhentos
+quinquagésimo
+quinquagíntuplo
+quinta
+quintilhão
+quinto
+quinze
+quádruplo
+quíntuplo
+qüinquagésimo
+sedécuplo
+segunda
+segundo
+seis
+seiscentas
+seiscentos
+septendécuplo
+septilhão
+septuagésimo
+septuagíntuplo
+sessenta
+sessenta e cinco
+sessenta e dois
+sessenta e duas
+sessenta e nove
+sessenta e oito
+sessenta e quatro
+sessenta e seis
+sessenta e sete
+sessenta e três
+sessenta e um
+sessenta e uma
+sete
+setecentas
+setecentos
+setenta
+setenta e cinco
+setenta e dois
+setenta e duas
+setenta e nove
+setenta e oito
+setenta e quatro
+setenta e seis
+setenta e sete
+setenta e três
+setenta e um
+setenta e uma
+setilhão
+setingentésimo
+setingêntuplo
+setuagésimo
+sexagésimo
+sexagíntuplo
+sexcentésimo
+sexcêntuplo
+sexta
+sextilhão
+sexto
+sétima
+sétimas
+sétimo
+sétimos
+sétuplo
+sêxtuplo
+terceira
+terceiro
+terço
+tredécima
+tredécimas
+tredécimo
+tredécimos
+tredécuplo
+treze
+trezeno
+trezentas
+trezentos
+tricentésimo
+tricêntuplo
+trigésimo
+trigíntuplo
+trilhão
+trilião
+trinta
+trinta e cinco
+trinta e dois
+trinta e duas
+trinta e nove
+trinta e oito
+trinta e quatro
+trinta e seis
+trinta e sete
+trinta e três
+trinta e um
+trinta e uma
+triplo
+três
+tríplice
+tércio-décimo
+um
+uma
+undécimo
+undécuplo
+uã
+vigésimo
+vigésimo-primeiro
+vigíntuplo
+vinte
+vinte e cinco
+vinte e dois
+vinte e duas
+vinte e nove
+vinte e oito
+vinte e quatro
+vinte e seis
+vinte e sete
+vinte e três
+vinte e um
+vinte e uma
+zero
+zerésimo
+zilhão
+óctuplo

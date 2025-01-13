@@ -67,7 +67,7 @@ nonlemma_file_path = 'qualquer categoria\\nonlemma.txt'
 ## CO e RE seguido de H
 ##
 
-co_re_file_path = 'qualquer categoria\\listas diversas\\co_re.txt'
+co_re_file_path = 'qualquer categoria\\co_re\\co_re.txt'
 
 with open(lemma_file_path, 'r', encoding='utf-8') as input_file, open(co_re_file_path, 'w', encoding='utf-8') as output_file:
     for line in input_file:
