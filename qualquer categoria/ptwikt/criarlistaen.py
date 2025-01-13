@@ -60,7 +60,7 @@ try:
         FROM page
         JOIN categorylinks ON page_id = cl_from
         WHERE page_namespace = 0
-        AND cl_to = "Portuguese_adverbs"
+        AND cl_to IN ("Portuguese_adverbs", "Portuguese_superlative_adverbs")
         ORDER BY page_title;"""
 
         cursor.execute(sql)
