@@ -1,219 +1,219 @@
-1
-100
-69
-A
-D
-bilhão
-bilionésimo
-bilião
-cento e catorze
-cento e cinco
-cento e dez
-cento e dezanove
-cento e dezasseis
-cento e dezassete
-cento e dezenove
-cento e dezesseis
-cento e dezessete
-cento e dezoito
-cento e dois
-cento e doze
-cento e duas
-cento e nove
-cento e oito
-cento e onze
-cento e quatorze
-cento e quatro
-cento e quinze
-cento e seis
-cento e sete
-cento e treze
-cento e três
-cento e um
-cento e uma
-centésimo
-cinquenta e cinco
-cinquenta e dois
-cinquenta e duas
-cinquenta e nove
-cinquenta e oito
-cinquenta e quatro
-cinquenta e seis
-cinquenta e sete
-cinquenta e três
-cinquenta e um
-cinquenta e uma
-cêntuplo
-decilhão
-dobro
-duas
-ducêntuplo
-duodécimo
-duodécuplo
-duplo
-duzentas
-décimo
-décimo primeiro
-décimo segundo
-décuplo
-dúzia
-milhar
-milhão
-milionésimo
-milésimo
-mir
-míliplo
-nona
-nonagésimo
-nonagíntuplo
-nonas
-nonilhão
-noningentésimo
-noningêntuplo
-nono
-nonos
-novecentas
-novendécuplo
-noventa e cinco
-noventa e dois
-noventa e duas
-noventa e nove
-noventa e oito
-noventa e quatro
-noventa e seis
-noventa e sete
-noventa e três
-noventa e um
-noventa e uma
-numeral fracionário
-numeral multiplicativo
-nônuplo
-octilhão
-octingentésimo
-octingêntuplo
-octodécuplo
-octogésimo
-octogíntuplo
-oitavo
-oitenta e cinco
-oitenta e dois
-oitenta e duas
-oitenta e nove
-oitenta e oito
-oitenta e quatro
-oitenta e seis
-oitenta e sete
-oitenta e três
-oitenta e um
-oitenta e uma
-oitocentas
-primeiro
-quadragésimo
-quadragíntuplo
-quadrilhão
-quadringentésimo
-quadringêntuplo
-quarenta e duas
-quarenta e nove
-quarenta e oito
-quarenta e seis
-quarenta e sete
-quarenta e uma
-quarta
-quarto
-quatordécuplo
-quatrilhão
-quatrocentas
-quindécuplo
-quingentésimo
-quingêntuplo
-quinhentas
-quinquagésimo
-quinquagíntuplo
-quinta
-quintilhão
-quinto
-quádruplo
-quíntuplo
-qüinquagésimo
-sedécuplo
-segunda
-segundo
-seiscentas
-septendécuplo
-septilhão
-septuagésimo
-septuagíntuplo
-sessenta e cinco
-sessenta e dois
-sessenta e duas
-sessenta e nove
-sessenta e oito
-sessenta e quatro
-sessenta e seis
-sessenta e sete
-sessenta e três
-sessenta e um
-sessenta e uma
-setecentas
-setenta e cinco
-setenta e dois
-setenta e duas
-setenta e nove
-setenta e oito
-setenta e quatro
-setenta e seis
-setenta e sete
-setenta e três
-setenta e um
-setenta e uma
-setilhão
-setingentésimo
-setingêntuplo
-setuagésimo
-sexagésimo
-sexagíntuplo
-sexcentésimo
-sexcêntuplo
-sexta
-sextilhão
-sexto
-sétima
-sétimas
-sétimo
-sétimos
-sétuplo
-sêxtuplo
-terceira
-terceiro
-terço
-tredécima
-tredécimas
-tredécimo
-tredécimos
-tredécuplo
-trezeno
-trezentas
-tricentésimo
-tricêntuplo
-trigésimo
-trigíntuplo
-trilhão
-trilião
-trinta e duas
-trinta e uma
-triplo
-tríplice
-tércio-décimo
-uma
-undécimo
-undécuplo
-uã
-vigésimo
-vigésimo-primeiro
-vigíntuplo
-vinte e duas
-vinte e uma
-zerésimo
-zilhão
-óctuplo
+|1
+|100
+|69
+|A
+|D
+|bilhão
+|bilionésimo
+|bilião
+|cento e catorze
+|cento e cinco
+|cento e dez
+|cento e dezanove
+|cento e dezasseis
+|cento e dezassete
+|cento e dezenove
+|cento e dezesseis
+|cento e dezessete
+|cento e dezoito
+|cento e dois
+|cento e doze
+|cento e duas
+|cento e nove
+|cento e oito
+|cento e onze
+|cento e quatorze
+|cento e quatro
+|cento e quinze
+|cento e seis
+|cento e sete
+|cento e treze
+|cento e três
+|cento e um
+|cento e uma
+|centésimo
+|cinquenta e cinco
+|cinquenta e dois
+|cinquenta e duas
+|cinquenta e nove
+|cinquenta e oito
+|cinquenta e quatro
+|cinquenta e seis
+|cinquenta e sete
+|cinquenta e três
+|cinquenta e um
+|cinquenta e uma
+|cêntuplo
+|decilhão
+|dobro
+|duas
+|ducêntuplo
+|duodécimo
+|duodécuplo
+|duplo
+|duzentas
+|décimo
+|décimo primeiro
+|décimo segundo
+|décuplo
+|dúzia
+|milhar
+|milhão
+|milionésimo
+|milésimo
+|mir
+|míliplo
+|nona
+|nonagésimo
+|nonagíntuplo
+|nonas
+|nonilhão
+|noningentésimo
+|noningêntuplo
+|nono
+|nonos
+|novecentas
+|novendécuplo
+|noventa e cinco
+|noventa e dois
+|noventa e duas
+|noventa e nove
+|noventa e oito
+|noventa e quatro
+|noventa e seis
+|noventa e sete
+|noventa e três
+|noventa e um
+|noventa e uma
+|numeral fracionário
+|numeral multiplicativo
+|nônuplo
+|octilhão
+|octingentésimo
+|octingêntuplo
+|octodécuplo
+|octogésimo
+|octogíntuplo
+|oitavo
+|oitenta e cinco
+|oitenta e dois
+|oitenta e duas
+|oitenta e nove
+|oitenta e oito
+|oitenta e quatro
+|oitenta e seis
+|oitenta e sete
+|oitenta e três
+|oitenta e um
+|oitenta e uma
+|oitocentas
+|primeiro
+|quadragésimo
+|quadragíntuplo
+|quadrilhão
+|quadringentésimo
+|quadringêntuplo
+|quarenta e duas
+|quarenta e nove
+|quarenta e oito
+|quarenta e seis
+|quarenta e sete
+|quarenta e uma
+|quarta
+|quarto
+|quatordécuplo
+|quatrilhão
+|quatrocentas
+|quindécuplo
+|quingentésimo
+|quingêntuplo
+|quinhentas
+|quinquagésimo
+|quinquagíntuplo
+|quinta
+|quintilhão
+|quinto
+|quádruplo
+|quíntuplo
+|qüinquagésimo
+|sedécuplo
+|segunda
+|segundo
+|seiscentas
+|septendécuplo
+|septilhão
+|septuagésimo
+|septuagíntuplo
+|sessenta e cinco
+|sessenta e dois
+|sessenta e duas
+|sessenta e nove
+|sessenta e oito
+|sessenta e quatro
+|sessenta e seis
+|sessenta e sete
+|sessenta e três
+|sessenta e um
+|sessenta e uma
+|setecentas
+|setenta e cinco
+|setenta e dois
+|setenta e duas
+|setenta e nove
+|setenta e oito
+|setenta e quatro
+|setenta e seis
+|setenta e sete
+|setenta e três
+|setenta e um
+|setenta e uma
+|setilhão
+|setingentésimo
+|setingêntuplo
+|setuagésimo
+|sexagésimo
+|sexagíntuplo
+|sexcentésimo
+|sexcêntuplo
+|sexta
+|sextilhão
+|sexto
+|sétima
+|sétimas
+|sétimo
+|sétimos
+|sétuplo
+|sêxtuplo
+|terceira
+|terceiro
+|terço
+|tredécima
+|tredécimas
+|tredécimo
+|tredécimos
+|tredécuplo
+|trezeno
+|trezentas
+|tricentésimo
+|tricêntuplo
+|trigésimo
+|trigíntuplo
+|trilhão
+|trilião
+|trinta e duas
+|trinta e uma
+|triplo
+|tríplice
+|tércio-décimo
+|uma
+|undécimo
+|undécuplo
+|uã
+|vigésimo
+|vigésimo-primeiro
+|vigíntuplo
+|vinte e duas
+|vinte e uma
+|zerésimo
+|zilhão
+|óctuplo

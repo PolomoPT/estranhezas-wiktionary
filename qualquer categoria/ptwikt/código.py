@@ -53,7 +53,7 @@ with open(abreviaturas, 'r', encoding='utf-8') as file1:
 same = sorted(same)
 with open(diff_abreviaturas, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
 
 ##adjetivos
 with open(adjetivos, 'r', encoding='utf-8') as file1:
@@ -62,7 +62,7 @@ with open(adjetivos, 'r', encoding='utf-8') as file1:
 same = sorted(same)
 with open(diff_adjetivos, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
 
 ##advérbios
 with open(advérbios, 'r', encoding='utf-8') as file1:
@@ -71,7 +71,7 @@ with open(advérbios, 'r', encoding='utf-8') as file1:
 same = sorted(same)
 with open(diff_advérbios, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
 
 ##artigos
 with open(artigos, 'r', encoding='utf-8') as file1:
@@ -80,7 +80,7 @@ with open(artigos, 'r', encoding='utf-8') as file1:
 same = sorted(same)
 with open(diff_artigos, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
 
 ##conjunções
 with open(conjunções, 'r', encoding='utf-8') as file1:
@@ -89,7 +89,7 @@ with open(conjunções, 'r', encoding='utf-8') as file1:
 same = sorted(same)
 with open(diff_conjunções, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
 
 ##contrações
 with open(contrações, 'r', encoding='utf-8') as file1:
@@ -98,7 +98,7 @@ with open(contrações, 'r', encoding='utf-8') as file1:
 same = sorted(same)
 with open(diff_contrações, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
 
 ##interjeições
 with open(interjeições, 'r', encoding='utf-8') as file1:
@@ -107,7 +107,7 @@ with open(interjeições, 'r', encoding='utf-8') as file1:
 same = sorted(same)
 with open(diff_interjeições, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
 
 ##locuções
 with open(locuções, 'r', encoding='utf-8') as file1:
@@ -118,7 +118,7 @@ with open(locuções, 'r', encoding='utf-8') as file1:
             same = sorted(same)
 with open(diff_locuções, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
 
 ##morfemas
 with open(morfemas, 'r', encoding='utf-8') as file1:
@@ -127,7 +127,7 @@ with open(morfemas, 'r', encoding='utf-8') as file1:
 same = sorted(same)
 with open(diff_morfemas, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
 
 ##numerais
 with open(numerais, 'r', encoding='utf-8') as file1:
@@ -136,7 +136,7 @@ with open(numerais, 'r', encoding='utf-8') as file1:
 same = sorted(same)
 with open(diff_numerais, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
 
 ##preposições
 with open(preposições, 'r', encoding='utf-8') as file1:
@@ -145,7 +145,7 @@ with open(preposições, 'r', encoding='utf-8') as file1:
 same = sorted(same)
 with open(diff_preposições, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
 
 ##pronomes
 with open(pronomes, 'r', encoding='utf-8') as file1:
@@ -154,7 +154,7 @@ with open(pronomes, 'r', encoding='utf-8') as file1:
 same = sorted(same)
 with open(diff_pronomes, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
 
 ##substantivos
 with open(substantivos, 'r', encoding='utf-8') as file1:
@@ -163,7 +163,7 @@ with open(substantivos, 'r', encoding='utf-8') as file1:
 same = sorted(same)
 with open(diff_substantivos, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
 
 ##verbos
 with open(verbos, 'r', encoding='utf-8') as file1:
@@ -172,4 +172,4 @@ with open(verbos, 'r', encoding='utf-8') as file1:
 same = sorted(same)
 with open(diff_verbos, 'w', encoding='utf-8') as file_out:
     for line in same:
-        file_out.write(line)
+        file_out.write('|'+line)
