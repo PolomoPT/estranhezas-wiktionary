@@ -5,22 +5,13 @@
 |Vossa Santidade
 |Vossa Senhoria
 |abó
-|alguma
-|algumas
-|alguns
 |alguéns
-|algũa
-|ambas
 |ambes
-|aquela
-|aquelas
-|aqueles
 |aqueloutro
 |aquessa
 |aquesse
 |aquesta
 |aquesto
-|as
 |cadanseu<qq:has gl>
 |cadê
 |cara<qq:has gl>
@@ -41,97 +32,54 @@
 |ele mesmo
 |ele próprio
 |elezinho
-|essa
-|essas
-|esses
 |essoutra
 |essoutras
 |essoutro
 |essoutros
-|esta
-|estas
-|estes
 |esto
 |inúmeros
-|la
 |le
-|lhes
 |lhufas
 |m'
-|me
 |mecê
 |mesma
 |mesmas
 |mesme
 |mesmo
-|meus
-|minha
-|minhas
 |minhe
 |mo
 |moça
-|muita
 |munto
 |nenhum
-|nenhuma
-|nenhũa
 |neum
 |nha
-|no
-|nossa
-|nossos
-|os
 |ou
-|outra
-|outras
 |outre
 |outro qualquer
-|outros
 |por quê
 |porque
 |porquê
 |pouca
-|quais
-|quaisquer
-|quanta
-|quantas
 |quantos
 |quedê
 |quejando
 |quem quer que seja
 |resseu
 |senhora
-|seus
-|si
-|suas
 |sue
 |sô
 |tais
 |tal
-|tanta
-|tantas
-|tantos
-|te
-|teus
-|toda
-|todas
 |todo
-|tua
-|tuas
 |vacé
 |vassuncê
 |vomecê
-|vos
 |vosco
-|vossa
 |vossa mercê
 |vossancê
-|vossas
 |vosselência
 |vossenhoria
 |vossoria
-|vossos
 |vossuncê
 |vossência
-|vários
 |xongas

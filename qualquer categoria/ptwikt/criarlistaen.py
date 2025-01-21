@@ -76,7 +76,7 @@ try:
         FROM page
         JOIN categorylinks ON page_id = cl_from
         WHERE page_namespace = 0
-        AND cl_to = "Portuguese_articles"
+        AND cl_to IN ("Portuguese_articles", "Portuguese_article_forms")
         ORDER BY page_title;"""
 
         cursor.execute(sql)
@@ -220,7 +220,7 @@ try:
         FROM page
         JOIN categorylinks ON page_id = cl_from
         WHERE page_namespace = 0
-        AND cl_to = "Portuguese_pronouns"
+        AND cl_to IN ("Portuguese_pronouns", "Portuguese_pronoun_forms")
         ORDER BY page_title;"""
 
         cursor.execute(sql)

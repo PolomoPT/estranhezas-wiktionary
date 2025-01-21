@@ -10,32 +10,59 @@ a
 a gentchi
 a gente
 a gênti
+a mesma
+a qual
+a senhora
 al
 alghum
 algo
+algua
+alguas
 algum
+alguma
 alguma coisa
+algumas
+alguns
 alguém
 algũ
+algũa
+algũas
+ambas
 ambos
+aquela
+aquelas
 aquele
+aqueles
+aquella
+aquellas
 aquelle
+aquelles
 aqueste
 aquillo
 aquilo
 arrente
+as
+as mesmas
+as quais
 as senhoras
 bulhufas
 c
 cada
 cada um
+cada uma
 ceis
 champãe
 cuando
 cê
+cês
+dada
 demais
+determinada
+determinadas
+determinados
 dms
 ela
+ela mesma
 elas
 ele
 eles
@@ -47,9 +74,16 @@ elo
 elos
 elu
 elus
+essa
+essas
 esse
+esses
+esta
+estas
 este
+estes
 eu
+euzinha
 euzinho
 gente
 geral
@@ -59,29 +93,53 @@ iles
 isso
 isto
 kem
+la
+las
 lhe
+lhes
+lo
+los
 maningue
+me
 menos
 meo
+meos
 meritíssimo
 meu
+meus
 mi
 mim
+minha
+minhas
+muita
+muitas
 muito
+muitos
+muyta
+muytas
 muyto
+muytos
 my
 mym
+na
 nada
 nadica
 nadica de nada
+nas
 neca
 neca de pitibiriba
 necas de pitibiribas
+nenhuma
+nenhũa
 ngm
 nicles
 ninguém
+no
 nos
+nossa
+nossas
 nosso
+nossos
 nozes
 nòs
 nóis
@@ -94,9 +152,15 @@ o quê
 o senhor
 ocê
 onde
+os
+os mesmos
+os quais
 os senhores
+outra
+outras
 outrem
 outro
+outros
 para dar e vender
 porra nenhuma
 poucachinho
@@ -111,11 +175,17 @@ q
 qm
 qq
 qt
+quaes
+quais
+quaisquer
 qual
 qualquer
 qualquer que seja
 qualquer um
+quanta
+quantas
 quanto
+quays
 que
 que seja
 queim
@@ -128,35 +198,57 @@ quê
 quẽ
 se
 seu
+seus
+si
 sua
 sua santidade
+suas
+sy
 tal e tal
+tanta
+tantas
 tanto
+tantos
+te
 teu
+teus
 ti
+toda
+todas
 todes
 todo mundo
 todos
 tu
+tua
+tuas
 tudo
 tãto
+tôda
 um
 um ao outro
 um pouco
+uma
 uma pá
+uns
 v6
+varios
 vc
 vcs
 você
 você-sabe-quem
 vocês
+vos
 vose
 vosmecê
 vosmecês
+vossa
 vossa santidade
+vossas
 vossemecê
 vossemecês
 vosso
+vossos
+vários
 vç
 vçs
 vós
