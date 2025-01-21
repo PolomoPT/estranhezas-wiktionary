@@ -14,6 +14,7 @@ preposições = "qualquer categoria\\ptwikt\\pt\\preposições.txt"
 pronomes = "qualquer categoria\\ptwikt\\pt\\pronomes.txt"
 substantivos = "qualquer categoria\\ptwikt\\pt\\substantivos.txt"
 verbos = "qualquer categoria\\ptwikt\\pt\\verbos.txt"
+galego = "qualquer categoria\\ptwikt\\pt\\portugalego.txt"
 
 en_abreviaturas = "qualquer categoria\\ptwikt\\en\\en_abreviaturas.txt"
 en_adjetivos = "qualquer categoria\\ptwikt\\en\\en_adjetivos.txt"

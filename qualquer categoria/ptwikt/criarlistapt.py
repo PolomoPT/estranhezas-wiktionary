@@ -246,5 +246,21 @@ try:
                 page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
+    with connection.cursor(dictionary=True) as cursor:
+        sql = """
+        SELECT DISTINCT page_title
+        FROM page
+        JOIN categorylinks ON page_id = cl_from
+        WHERE page_namespace = 0
+        AND cl_to = "Português_galego"
+        ORDER BY page_title;"""
+
+        cursor.execute(sql)
+        results = cursor.fetchall()
+        with open("qualquer categoria\\ptwikt\\pt\\portugalego.txt", "w", encoding="utf-8") as file:
+            for result in results:
+                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = page_title.replace("_", " ")
+                file.write(page_title + "\n")
 finally:
     connection.close()
