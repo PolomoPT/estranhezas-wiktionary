@@ -59,7 +59,7 @@ with open(diff_abreviaturas, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')
 
 ##adjetivos
 with open(adjetivos, 'r', encoding='utf-8') as file1:
@@ -73,7 +73,7 @@ with open(diff_adjetivos, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')
 
 ##advérbios
 with open(advérbios, 'r', encoding='utf-8') as file1:
@@ -87,7 +87,7 @@ with open(diff_advérbios, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')
 
 ##artigos
 with open(artigos, 'r', encoding='utf-8') as file1:
@@ -101,7 +101,7 @@ with open(diff_artigos, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')
 
 ##conjunções
 with open(conjunções, 'r', encoding='utf-8') as file1:
@@ -115,7 +115,7 @@ with open(diff_conjunções, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')
 
 ##contrações
 with open(contrações, 'r', encoding='utf-8') as file1:
@@ -129,7 +129,7 @@ with open(diff_contrações, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')
 
 ##interjeições
 with open(interjeições, 'r', encoding='utf-8') as file1:
@@ -143,7 +143,7 @@ with open(diff_interjeições, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')
 
 ##locuções
 with open(locuções, 'r', encoding='utf-8') as file1:
@@ -159,7 +159,7 @@ with open(diff_locuções, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')
 
 ##morfemas
 with open(morfemas, 'r', encoding='utf-8') as file1:
@@ -173,7 +173,7 @@ with open(diff_morfemas, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')
 
 ##numerais
 with open(numerais, 'r', encoding='utf-8') as file1:
@@ -187,7 +187,7 @@ with open(diff_numerais, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')
 
 ##preposições
 with open(preposições, 'r', encoding='utf-8') as file1:
@@ -201,7 +201,7 @@ with open(diff_preposições, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')
 
 ##pronomes
 with open(pronomes, 'r', encoding='utf-8') as file1:
@@ -215,7 +215,7 @@ with open(diff_pronomes, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')
 
 ##substantivos
 with open(substantivos, 'r', encoding='utf-8') as file1:
@@ -229,7 +229,7 @@ with open(diff_substantivos, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')
 
 ##verbos
 with open(verbos, 'r', encoding='utf-8') as file1:
@@ -243,4 +243,4 @@ with open(diff_verbos, 'w', encoding='utf-8') as file_out:
         if line not in linha:
             file_out.write('|'+line)
         elif line in linha:
-            file_out.write('|'+line.strip()+'<q:has gl>\n')
+            file_out.write('|'+line.strip()+'<qq:has gl>\n')

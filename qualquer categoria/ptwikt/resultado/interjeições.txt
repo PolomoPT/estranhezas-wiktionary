@@ -79,7 +79,7 @@
 |caraleo
 |caralho de asa
 |caray
-|caritel<q:has gl>
+|caritel<qq:has gl>
 |carvalho
 |carácoles
 |catancho
@@ -87,10 +87,10 @@
 |catatraz
 |catrapus
 |chaparus
-|che<q:has gl>
+|che<qq:has gl>
 |chitão
 |chupa
-|churra<q:has gl>
+|churra<qq:has gl>
 |chuta
 |chuta que é macumba
 |ciao
@@ -105,7 +105,7 @@
 |crendeuspadre
 |crendospadre
 |cresça e apareça
-|cucho<q:has gl>
+|cucho<qq:has gl>
 |cuida-te
 |curupaco
 |cuê
@@ -124,7 +124,7 @@
 |disgrama
 |dito e feito
 |dlim
-|duro<q:has gl>
+|duro<qq:has gl>
 |dá licença
 |e na bundinha não vai nada?
 |e na bundinha, não vai nada
@@ -166,7 +166,7 @@
 |hip
 |homessa
 |hum-hum
-|hô<q:has gl>
+|hô<qq:has gl>
 |ih
 |inté
 |inxalá
@@ -249,7 +249,7 @@
 |prazer
 |presente
 |primeiro de abril
-|pucha<q:has gl>
+|pucha<qq:has gl>
 |puf
 |puft
 |putzgrila
@@ -344,8 +344,8 @@
 |vá se catar
 |vá às brisas
 |xazam
-|xebra<q:has gl>
-|xebre<q:has gl>
+|xebra<qq:has gl>
+|xebre<qq:has gl>
 |xetruá
 |xetuá
 |xá

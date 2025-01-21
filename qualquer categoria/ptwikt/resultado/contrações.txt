@@ -39,7 +39,7 @@
 |nonde
 |o'er
 |pelaí
-|pola<q:has gl>
+|pola<qq:has gl>
 |polas
 |polos
 |pr'um

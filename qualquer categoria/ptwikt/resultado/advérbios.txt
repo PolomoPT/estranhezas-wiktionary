@@ -4,7 +4,7 @@
 |abaxo
 |abinício
 |abjectamente
-|abofelhas<q:has gl>
+|abofelhas<qq:has gl>
 |abofé
 |abonadamente
 |abonde
@@ -13,19 +13,19 @@
 |abém
 |acaijo
 |acaloradamente
-|acarão<q:has gl>
+|acarão<qq:has gl>
 |acelerando
 |acerca
 |acinte
 |acirradamente
 |acó
-|acô<q:has gl>
+|acô<qq:has gl>
 |adedentro
 |adoidado
-|adoito<q:has gl>
+|adoito<qq:has gl>
 |adonde
-|aginha<q:has gl>
-|agás<q:has gl>
+|aginha<qq:has gl>
+|agás<qq:has gl>
 |alargadamente
 |aldemenos
 |alfim
@@ -37,7 +37,7 @@
 |alá
 |além-mar
 |aló
-|alô<q:has gl>
+|alô<qq:has gl>
 |amais
 |andante
 |antedia
@@ -47,7 +47,7 @@
 |antetempo
 |antonce
 |antão
-|ao labarente<q:has gl>
+|ao labarente<qq:has gl>
 |apositivamente
 |apuradamente
 |após
@@ -59,16 +59,16 @@
 |aquém-fronteiras
 |aquém-mar
 |ardilosamente
-|arestora<q:has gl>
+|arestora<qq:has gl>
 |arredor
-|arreio<q:has gl>
+|arreio<qq:has gl>
 |arreu
 |asseguradamente
-|assemade<q:has gl>
+|assemade<qq:has gl>
 |assiduamente
-|assomade<q:has gl>
+|assomade<qq:has gl>
 |atempadamente
-|atoutinhadelas<q:has gl>
+|atoutinhadelas<qq:has gl>
 |atrabiliariamente
 |atraentemente
 |atrapalhadamente
@@ -124,8 +124,8 @@
 |correndinho
 |cristãmente
 |dançandinho
-|daquela<q:has gl>
-|de cote<q:has gl>
+|daquela<qq:has gl>
+|de cote<qq:has gl>
 |debalde
 |debaxo
 |definidamente
@@ -249,7 +249,7 @@
 |logaritmicamente
 |longitudinalmente
 |maciçamente
-|maino<q:has gl>
+|maino<qq:has gl>
 |mal-mal
 |mal-pecado
 |malandramente
@@ -257,7 +257,7 @@
 |maleficamente
 |malmentinhos
 |malpecado
-|malpocado<q:has gl>
+|malpocado<qq:has gl>
 |mansamente
 |manso
 |masculinamente
@@ -266,7 +266,7 @@
 |melhor
 |melhormente
 |mentes
-|mentres<q:has gl>
+|mentres<qq:has gl>
 |milhor
 |militarmente
 |minado
@@ -315,7 +315,7 @@
 |pagãmente
 |parcamente
 |passadamente
-|passeninho<q:has gl>
+|passeninho<qq:has gl>
 |passo
 |passo-a-passo
 |pelaí
@@ -324,7 +324,7 @@
 |pesado
 |placidamente
 |pluralmente
-|pousão<q:has gl>
+|pousão<qq:has gl>
 |precedentemente
 |precipuamente
 |prestes
@@ -339,12 +339,12 @@
 |qualitativamente
 |quantitativamente
 |quasemente
-|quiçais<q:has gl>
+|quiçais<qq:has gl>
 |quotidianamente
 |racistamente
 |redondamente
 |refece
-|rejo<q:has gl>
+|rejo<qq:has gl>
 |repente
 |repetido
 |resolutivamente
@@ -360,7 +360,7 @@
 |sequera
 |serialmente
 |servilmente
-|silandeiro<q:has gl>
+|silandeiro<qq:has gl>
 |singularmente
 |soberbamente
 |sobre
@@ -389,10 +389,10 @@
 |tão só
 |tão-somente
 |tão-só
-|ulo<q:has gl>
+|ulo<qq:has gl>
 |ulteriormente
 |variamente
-|velaí<q:has gl>
+|velaí<qq:has gl>
 |virulentamente
 |vividamente
 |à tona

@@ -1,14 +1,14 @@
 |a não ser
 |agus
-|agás<q:has gl>
+|agás<qq:has gl>
 |ainda assim
 |apesar disso
 |apesar disto
 |apesar do fato de que
 |aquando
-|assemade<q:has gl>
+|assemade<qq:has gl>
 |assim
-|assomade<q:has gl>
+|assomade<qq:has gl>
 |como também
 |consoante
 |contudo

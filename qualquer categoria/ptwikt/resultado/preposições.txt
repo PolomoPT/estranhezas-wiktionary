@@ -2,7 +2,7 @@
 |a menos que
 |a par de
 |acerca de
-|agás<q:has gl>
+|agás<qq:has gl>
 |amais
 |antes de
 |ao contrário de
@@ -10,7 +10,7 @@
 |ao par de
 |ao som de
 |atá
-|cara<q:has gl>
+|cara<qq:has gl>
 |caras a
 |com exceção de
 |como substituto de

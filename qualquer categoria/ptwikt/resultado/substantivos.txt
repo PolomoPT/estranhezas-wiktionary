@@ -3019,7 +3019,7 @@
 |abafadela
 |abafador de bule para chá
 |abafadura
-|abafalho<q:has gl>
+|abafalho<qq:has gl>
 |abafamento
 |abafar
 |abafarete
@@ -3039,12 +3039,12 @@
 |abajá
 |abaladura
 |abalamento
-|abalhão<q:has gl>
+|abalhão<qq:has gl>
 |abalone
 |abalroa
 |abalroamento
 |abalá
-|abalão<q:has gl>
+|abalão<qq:has gl>
 |abampere
 |abampère
 |abanador
@@ -3087,7 +3087,7 @@
 |abegoaria
 |abegão
 |abeirado
-|abeiro<q:has gl>
+|abeiro<qq:has gl>
 |abelardo-luzense
 |abelha-cachorro
 |abelha-caga-fogo
@@ -3098,7 +3098,7 @@
 |abelha-negra-européia
 |abelhaca
 |abelharice
-|abelhariça<q:has gl>
+|abelhariça<qq:has gl>
 |abelhuco
 |abelhudo
 |abenaque
@@ -3143,17 +3143,17 @@
 |abortado
 |aborticida
 |abota
-|abouxador<q:has gl>
+|abouxador<qq:has gl>
 |abra
 |abragonense
-|abraio<q:has gl>
+|abraio<qq:has gl>
 |abrasador
 |abrasileiramento
 |abrazô
 |abraçadeira
 |abre-alas
 |abrego
-|abrente<q:has gl>
+|abrente<qq:has gl>
 |abreugrafia
 |abricote
 |abrideira
@@ -3259,7 +3259,7 @@
 |achatadura
 |achatamento
 |achegado
-|achego<q:has gl>
+|achego<qq:has gl>
 |achi
 |achigã
 |achincalhamento
@@ -3284,7 +3284,7 @@
 |acontecido
 |acontismologia
 |acontista
-|acordança<q:has gl>
+|acordança<qq:has gl>
 |acorde aumentado
 |acorde diminuto
 |acordeom
@@ -3293,11 +3293,11 @@
 |acordo ortográfico
 |acordão
 |acoria
-|acoro<q:has gl>
-|acorro<q:has gl>
+|acoro<qq:has gl>
+|acorro<qq:has gl>
 |acostagem
-|acoubo<q:has gl>
-|acougo<q:has gl>
+|acoubo<qq:has gl>
+|acougo<qq:has gl>
 |acountabilidade
 |acoxambração
 |acracia
@@ -3475,9 +3475,9 @@
 |agafite
 |agapórnis
 |agareno
-|agarimo<q:has gl>
+|agarimo<qq:has gl>
 |agastache
-|agavança<q:has gl>
+|agavança<qq:has gl>
 |agaí
 |agendamento
 |agente da passiva
@@ -3586,7 +3586,7 @@
 |ajustagem
 |ajuste contábil
 |ajutório
-|ajôujere<q:has gl>
+|ajôujere<qq:has gl>
 |al
 |al-Qaeda
 |al-Qaida
@@ -3599,12 +3599,12 @@
 |alage
 |alagoense
 |alagoinhense
-|alalá<q:has gl>
+|alalá<qq:has gl>
 |alambamento
 |alambariense
 |alambra
 |alambrador
-|alancada<q:has gl>
+|alancada<qq:has gl>
 |alancão
 |alandroalense
 |alantotóxico
@@ -3629,7 +3629,7 @@
 |albarrã
 |albatroz-de-laysan
 |albernoense
-|alboio<q:has gl>
+|alboio<qq:has gl>
 |albora
 |alboredo
 |alboroque
@@ -3668,7 +3668,7 @@
 |alcouceiro
 |alcovitice
 |alcoóleo
-|alcume<q:has gl>
+|alcume<qq:has gl>
 |alcácel
 |alcândora
 |alcíone
@@ -3680,7 +3680,7 @@
 |aldrabice
 |aldrabão
 |aldracema
-|aldraje<q:has gl>
+|aldraje<qq:has gl>
 |ale
 |aleatório
 |alectorofobia
@@ -3831,7 +3831,7 @@
 |alojo
 |alopração
 |alor
-|alouminho<q:has gl>
+|alouminho<qq:has gl>
 |aloés
 |aloísia
 |alparca
@@ -3912,11 +3912,11 @@
 |alvarenguense
 |alvaresiano
 |alvarinho
-|alvariça<q:has gl>
+|alvariça<qq:has gl>
 |alvarral
 |alvazil
 |alvazir
-|alvedro<q:has gl>
+|alvedro<qq:has gl>
 |alveira
 |alveiro
 |alveitar
@@ -3936,7 +3936,7 @@
 |alvéola-amarela
 |alvéola-cinzenta
 |alvíssara
-|alárvio<q:has gl>
+|alárvio<qq:has gl>
 |alães
 |alãos
 |alça sigmóide
@@ -3989,7 +3989,7 @@
 |ameixialense
 |amelê
 |amena cavaqueira
-|amencer<q:has gl>
+|amencer<qq:has gl>
 |amendoal
 |amendruque
 |amente
@@ -4013,7 +4013,7 @@
 |amixorreia
 |amixorréia
 |amião
-|amoado<q:has gl>
+|amoado<qq:has gl>
 |amojo
 |amolecimento
 |amolgadela
@@ -4052,7 +4052,7 @@
 |amículo
 |anabaptismo
 |anabaptista
-|anaco<q:has gl>
+|anaco<qq:has gl>
 |anacoreta
 |anacrústico
 |anada
@@ -4372,7 +4372,7 @@
 |aperiente
 |aperreação
 |aperreio
-|aperta<q:has gl>
+|aperta<qq:has gl>
 |apertadeira
 |apertadela
 |apertadoiro
@@ -4532,7 +4532,7 @@
 |arco da chuva
 |arco zigomático
 |arcocentro
-|arcol<q:has gl>
+|arcol<qq:has gl>
 |arcorreia
 |arcorréia
 |ardeia
@@ -4549,7 +4549,7 @@
 |areeiro
 |areeiro-de-quatro-manchas
 |areia gulosa
-|arela<q:has gl>
+|arela<qq:has gl>
 |arelo
 |arenapolitano
 |arenga
@@ -4560,9 +4560,9 @@
 |areus
 |arga
 |argalha
-|argalhador<q:has gl>
-|argalhante<q:has gl>
-|argalho<q:has gl>
+|argalhador<qq:has gl>
+|argalhante<qq:has gl>
+|argalho<qq:has gl>
 |argamandel
 |argan
 |argana
@@ -4570,7 +4570,7 @@
 |argano
 |argançano
 |argavaço
-|argaço<q:has gl>
+|argaço<qq:has gl>
 |arge
 |argenta
 |argento vivo
@@ -4666,9 +4666,9 @@
 |arracada
 |arranca-rabo
 |arrancada
-|arrancalho<q:has gl>
+|arrancalho<qq:has gl>
 |arrancamento
-|arrangalho<q:has gl>
+|arrangalho<qq:has gl>
 |arrasador
 |arraso
 |arrasta
@@ -4686,12 +4686,12 @@
 |arrebenta-bois
 |arrebique
 |arrecadação
-|arrecendo<q:has gl>
+|arrecendo<qq:has gl>
 |arrecio
 |arredondamento
 |arredor
 |arregateira
-|arreguiço<q:has gl>
+|arreguiço<qq:has gl>
 |arreias
 |arrelia
 |arrematação
@@ -4704,8 +4704,8 @@
 |arrife
 |arrisco
 |arrière-pensée
-|arroalho<q:has gl>
-|arroaz<q:has gl>
+|arroalho<qq:has gl>
+|arroaz<qq:has gl>
 |arrochadura
 |arrogante
 |arrojamento
@@ -4713,8 +4713,8 @@
 |arroteense
 |arroteia
 |arrotéia
-|arroutada<q:has gl>
-|arrouto<q:has gl>
+|arroutada<qq:has gl>
+|arrouto<qq:has gl>
 |arrouço
 |arroz basmati
 |arroz carolino
@@ -4757,7 +4757,7 @@
 |arubatã
 |arujaense
 |arujo
-|arume<q:has gl>
+|arume<qq:has gl>
 |arupema
 |arupemba
 |aruá
@@ -4818,10 +4818,10 @@
 |assoalhado
 |assoalho oceânico
 |assolador
-|assolago<q:has gl>
+|assolago<qq:has gl>
 |assonância
 |assossego
-|assovalhador<q:has gl>
+|assovalhador<qq:has gl>
 |assucada
 |assucador
 |assucadouro
@@ -4851,9 +4851,9 @@
 |asurini
 |atabalhoamento
 |atachê
-|atadalho<q:has gl>
+|atadalho<qq:has gl>
 |atadilho
-|atafego<q:has gl>
+|atafego<qq:has gl>
 |atafona
 |atafulhamento
 |atalaiense
@@ -4866,7 +4866,7 @@
 |atanado
 |atanasianismo
 |atanasiano
-|atanigão<q:has gl>
+|atanigão<qq:has gl>
 |atanor
 |ataque de estrelismo
 |ataque de pelanca
@@ -4935,8 +4935,8 @@
 |atulho
 |atum-patudo
 |atuneiro
-|aturro<q:has gl>
-|aturujo<q:has gl>
+|aturro<qq:has gl>
+|aturujo<qq:has gl>
 |atxim
 |au-au
 |audifone
@@ -5045,14 +5045,14 @@
 |ave-marias
 |aveia-louca
 |aveia-perene
-|avelainha<q:has gl>
+|avelainha<qq:has gl>
 |avelanal
 |avelino
 |avena
 |avenal
 |avenaína
 |avenca
-|avenhos<q:has gl>
+|avenhos<qq:has gl>
 |aventura conjunta
 |aventurar
 |avermectina
@@ -5079,7 +5079,7 @@
 |avoante
 |avocado pear
 |avoeira
-|avondo<q:has gl>
+|avondo<qq:has gl>
 |avulsão
 |avá-canoeiro
 |avárico
@@ -5183,12 +5183,12 @@
 |baba-de-boi
 |baba-de-camelo
 |baba-de-moça
-|babalha<q:has gl>
-|babalhocas<q:has gl>
+|babalha<qq:has gl>
+|babalhocas<qq:has gl>
 |babaquara
 |babaquice
 |babaço
-|babeco<q:has gl>
+|babeco<qq:has gl>
 |babeiro
 |babel
 |babiana
@@ -5331,17 +5331,17 @@
 |balaqueiro
 |balas
 |balbo
-|balbordo<q:has gl>
+|balbordo<qq:has gl>
 |balbucio
 |balbuciência
 |balbúcie
 |balconista
 |balda
 |balde de água fria
-|baldeiro<q:has gl>
+|baldeiro<qq:has gl>
 |baldinense
 |baldroca
-|baldrumada<q:has gl>
+|baldrumada<qq:has gl>
 |baldréu
 |balduína
 |baldão
@@ -5362,16 +5362,16 @@
 |baleia-piloto-de-aleta-curta
 |baleia-piloto-de-aleta-longa
 |baleio
-|baleiro<q:has gl>
+|baleiro<qq:has gl>
 |baleizão
 |balenopterídeo
 |balestilha
 |balestra
 |balga
 |balhada
-|balhaço<q:has gl>
+|balhaço<qq:has gl>
 |balho
-|balhão<q:has gl>
+|balhão<qq:has gl>
 |bali
 |baliana
 |balieira
@@ -5381,7 +5381,7 @@
 |baloba
 |balobeiro
 |balona
-|balor<q:has gl>
+|balor<qq:has gl>
 |balordo
 |baloro
 |balota
@@ -5539,7 +5539,7 @@
 |barn
 |baroado
 |barona
-|barquim<q:has gl>
+|barquim<qq:has gl>
 |barquinhense
 |barra de caminho
 |barra de energia
@@ -5589,7 +5589,7 @@
 |barroquismo
 |barrosense
 |barruada
-|barruço<q:has gl>
+|barruço<qq:has gl>
 |baru
 |barueriense
 |barulhada
@@ -5643,7 +5643,7 @@
 |bateção de boca
 |bath
 |batida de cabelo
-|batifondo<q:has gl>
+|batifondo<qq:has gl>
 |batoca
 |batoco
 |batoré
@@ -5652,7 +5652,7 @@
 |batracofobia
 |batracotoxina
 |bats
-|batume<q:has gl>
+|batume<qq:has gl>
 |batuíra
 |bauruense
 |baxé
@@ -5676,7 +5676,7 @@
 |bebida de soja
 |becape diferencial
 |becape incremental
-|becha<q:has gl>
+|becha<qq:has gl>
 |beche
 |bechuano
 |bedalha
@@ -5711,7 +5711,7 @@
 |bela-vistense
 |belanta
 |belas-artes
-|beldro<q:has gl>
+|beldro<qq:has gl>
 |beleguim
 |belemense
 |belemita
@@ -5766,12 +5766,12 @@
 |benzedura
 |bepaia
 |bera
-|berbericho<q:has gl>
+|berbericho<qq:has gl>
 |berberoparlante
 |berbigão-de-bicos
-|berce<q:has gl>
+|berce<qq:has gl>
 |bereguendém
-|berete<q:has gl>
+|berete<qq:has gl>
 |berimbau de barriga
 |berimbau de beiço
 |berimbau de boca
@@ -5789,10 +5789,10 @@
 |berroíça
 |berrão
 |bertioguense
-|bertorelha<q:has gl>
-|bertorelha-da-lama<q:has gl>
-|bertorelha-das-pedras<q:has gl>
-|bertorelha-de-terra<q:has gl>
+|bertorelha<qq:has gl>
+|bertorelha-da-lama<qq:has gl>
+|bertorelha-das-pedras<qq:has gl>
+|bertorelha-de-terra<qq:has gl>
 |berzabum
 |berças
 |besbelho
@@ -5859,7 +5859,7 @@
 |bidimensional
 |bidoeirense
 |bidoeiro
-|bieiteiro<q:has gl>
+|bieiteiro<qq:has gl>
 |biela
 |bielorusso
 |bife acebolado
@@ -5907,7 +5907,7 @@
 |binagem
 |binariedade
 |binasco
-|bincha<q:has gl>
+|bincha<qq:has gl>
 |binga
 |bingulim
 |bio
@@ -5924,9 +5924,9 @@
 |biomecânica
 |biomédico
 |biorremediação
-|biorta<q:has gl>
-|biorto<q:has gl>
-|biosbardo<q:has gl>
+|biorta<qq:has gl>
+|biorto<qq:has gl>
+|biosbardo<qq:has gl>
 |biossegurança
 |biosseparação
 |biossorção
@@ -5963,7 +5963,7 @@
 |bisavó-torta
 |bisavô-afim
 |bisavô-torto
-|bisbarra<q:has gl>
+|bisbarra<qq:has gl>
 |bisbórria
 |bisbórrias
 |biscaia
@@ -6071,8 +6071,8 @@
 |bocaiuvense
 |bocana
 |bocanho
-|bocanoite<q:has gl>
-|bocarribeira<q:has gl>
+|bocanoite<qq:has gl>
+|bocarribeira<qq:has gl>
 |bocejador
 |bocelão
 |boceta de Pandora
@@ -6084,7 +6084,7 @@
 |bocho
 |bochorno
 |bock
-|bocoi<q:has gl>
+|bocoi<qq:has gl>
 |bocoió
 |bodalha
 |bodalhice
@@ -6143,14 +6143,14 @@
 |bodi
 |bodisatva
 |body-building
-|bodão<q:has gl>
+|bodão<qq:has gl>
 |boeira
 |boeiro
 |boelhense
 |boemia
 |bofa
 |bofetense
-|bogada<q:has gl>
+|bogada<qq:has gl>
 |bogomilos
 |boi tourão
 |boi-bumbá
@@ -6163,7 +6163,7 @@
 |boieira
 |boiil
 |boiolice
-|boira<q:has gl>
+|boira<qq:has gl>
 |boita
 |boituvense
 |boiuna
@@ -6184,11 +6184,11 @@
 |bolchevismo
 |bold
 |boldrego
-|boleardo<q:has gl>
+|boleardo<qq:has gl>
 |bolecra
 |bolero
 |boletim de ocorrência
-|bolhaco<q:has gl>
+|bolhaco<qq:has gl>
 |bolicho
 |bolina
 |bolinação
@@ -6290,10 +6290,10 @@
 |borralheira
 |borralheiro
 |borraçal
-|borreca<q:has gl>
+|borreca<qq:has gl>
 |borrega
 |borreira
-|borreiro<q:has gl>
+|borreiro<qq:has gl>
 |borrifada
 |borriscada
 |borriscar
@@ -6319,11 +6319,11 @@
 |bota-de-elástico
 |bota-mesa
 |botafogo
-|botafumeiro<q:has gl>
+|botafumeiro<qq:has gl>
 |botefa
 |botelhense
 |botelho
-|botelo<q:has gl>
+|botelo<qq:has gl>
 |boticão
 |botim
 |boto-cinza
@@ -6340,7 +6340,7 @@
 |boulevard
 |bourbon
 |boutonnière
-|boutre<q:has gl>
+|boutre<qq:has gl>
 |bovinicultor
 |bovino
 |bovinocultor
@@ -6409,7 +6409,7 @@
 |brasílio
 |brau
 |braunense
-|bravu<q:has gl>
+|bravu<qq:has gl>
 |brazabum
 |brazense
 |brazuka
@@ -6518,10 +6518,10 @@
 |bruto
 |bruxelense
 |bruxelês
-|bruído<q:has gl>
+|bruído<qq:has gl>
 |brácaro
 |bráquete
-|brêtema<q:has gl>
+|brêtema<qq:has gl>
 |brídege
 |brífim
 |brífingue
@@ -6531,13 +6531,13 @@
 |brômide
 |bua
 |buba
-|bubela<q:has gl>
+|bubela<qq:has gl>
 |bubu
 |bubuia
 |bucaque
 |bucelense
 |bucheiro
-|bucil<q:has gl>
+|bucil<qq:has gl>
 |buckminsterfulereno
 |bucle
 |bucolismo
@@ -6548,8 +6548,8 @@
 |bueraremense
 |buesta
 |bufador
-|bufarda<q:has gl>
-|bufardo<q:has gl>
+|bufarda<qq:has gl>
+|bufardo<qq:has gl>
 |bufarinheiro
 |bufarra
 |bufas-de-lobo
@@ -6664,10 +6664,10 @@
 |butigas
 |butique de carne
 |butuca
-|buxa<q:has gl>
-|buxaina<q:has gl>
-|buxana<q:has gl>
-|buxão<q:has gl>
+|buxa<qq:has gl>
+|buxaina<qq:has gl>
+|buxana<qq:has gl>
+|buxão<qq:has gl>
 |buzanfã
 |buzaranha
 |buzaranhas
@@ -6682,7 +6682,7 @@
 |bácora
 |báfer
 |bágoa
-|bágua<q:has gl>
+|bágua<qq:has gl>
 |bálsamo de copaíba
 |bálsamo do Brasil
 |bálteo
@@ -6703,7 +6703,7 @@
 |bóia-fria
 |bólida
 |bóreas
-|bória<q:has gl>
+|bória<qq:has gl>
 |bórico
 |bóroa
 |bóston
@@ -6776,7 +6776,7 @@
 |cabis
 |cabiúna
 |cabo chato
-|cabo de ano<q:has gl>
+|cabo de ano<qq:has gl>
 |cabo de casa
 |cabo eleitoral
 |cabo elétrico
@@ -6802,7 +6802,7 @@
 |cabriteira
 |cabro
 |cabrunco
-|cabujo<q:has gl>
+|cabujo<qq:has gl>
 |cabula
 |cabuleté
 |cabundá
@@ -6814,8 +6814,8 @@
 |cacerolada
 |cacerolazo
 |caceteação
-|cacha<q:has gl>
-|cachada<q:has gl>
+|cacha<qq:has gl>
+|cachada<qq:has gl>
 |cachafosco
 |cachafosgo
 |cacharoz
@@ -6828,8 +6828,8 @@
 |cachaça do rabo
 |cachaçaria
 |cacheada
-|cacheira<q:has gl>
-|cachelo<q:has gl>
+|cacheira<qq:has gl>
+|cachelo<qq:has gl>
 |cachemir
 |cachena
 |cachenê
@@ -6853,13 +6853,13 @@
 |cachorro louco
 |cachorro quente
 |cachorro-da-areia
-|cachucha<q:has gl>
+|cachucha<qq:has gl>
 |cachumba
 |cachupa
-|cachão<q:has gl>
+|cachão<qq:has gl>
 |caché
 |cachúbio
-|cacicada<q:has gl>
+|cacicada<qq:has gl>
 |cacicão
 |cacifre
 |cacimbeiro
@@ -6883,7 +6883,7 @@
 |cacumá
 |cacusso
 |cacássio
-|cadaleito<q:has gl>
+|cadaleito<qq:has gl>
 |cadamo
 |cadarma
 |cadeia de montanhas
@@ -6900,7 +6900,7 @@
 |caderno de encargos
 |cadeta
 |cadoira
-|cadoiro<q:has gl>
+|cadoiro<qq:has gl>
 |cadolo
 |cadorno
 |caducamento
@@ -6924,7 +6924,7 @@
 |cafifa
 |cafonice
 |cafres
-|cafua<q:has gl>
+|cafua<qq:has gl>
 |cafubira
 |cafulo
 |cafumango
@@ -6976,7 +6976,7 @@
 |cainca
 |cainga
 |cainho
-|cainço<q:has gl>
+|cainço<qq:has gl>
 |caiorro
 |caiová
 |caipirês
@@ -6984,7 +6984,7 @@
 |caiporismo
 |cairel
 |cairina
-|cairo<q:has gl>
+|cairo<qq:has gl>
 |cairuense
 |caisuma
 |caiuaense
@@ -7060,7 +7060,7 @@
 |caleiro
 |caleja
 |calejo
-|calelha<q:has gl>
+|calelha<qq:has gl>
 |calembur
 |calemburaria
 |calemburgo
@@ -7080,8 +7080,8 @@
 |calhostra
 |calhostro
 |calhoto
-|calhouvada<q:has gl>
-|calhão<q:has gl>
+|calhouvada<qq:has gl>
+|calhão<qq:has gl>
 |califórnia
 |caligenefobia
 |caligo
@@ -7146,7 +7146,7 @@
 |camaçada
 |camba
 |cambalheira
-|cambalhão<q:has gl>
+|cambalhão<qq:has gl>
 |cambaluço
 |cambarajuba
 |cambarro
@@ -7163,7 +7163,7 @@
 |cambebas
 |cambedense
 |cambeiro
-|cambelo<q:has gl>
+|cambelo<qq:has gl>
 |camber
 |cambesense
 |cambeta
@@ -7326,7 +7326,7 @@
 |canhonha
 |canhos
 |canicarcaça
-|caniceira<q:has gl>
+|caniceira<qq:has gl>
 |caniforme
 |caniformes
 |caniformia
@@ -7340,7 +7340,7 @@
 |caniças
 |canjerê
 |canjirão
-|canle<q:has gl>
+|canle<qq:has gl>
 |canoa-da-picada
 |canoira
 |canonista
@@ -7466,7 +7466,7 @@
 |carabelho
 |carabelina
 |carabineiro
-|carabunha<q:has gl>
+|carabunha<qq:has gl>
 |carabunho
 |caraca
 |caracalpaque
@@ -7522,7 +7522,7 @@
 |caratinguense
 |carato
 |carava
-|caravel<q:has gl>
+|caravel<qq:has gl>
 |caraveleiro
 |caravelense
 |caravelho
@@ -7584,7 +7584,7 @@
 |carioquês
 |cariote
 |carioteca
-|caritel<q:has gl>
+|caritel<qq:has gl>
 |caritiana
 |caritivo
 |caritó
@@ -7611,7 +7611,7 @@
 |carniçós
 |carolinense
 |caroliniano
-|carolo<q:has gl>
+|carolo<qq:has gl>
 |carolos
 |caronha
 |caroteno
@@ -7628,10 +7628,10 @@
 |carpê
 |carqueijeira
 |carraboiçal
-|carrabouxo<q:has gl>
+|carrabouxo<qq:has gl>
 |carrabouçal
-|carracha<q:has gl>
-|carragem<q:has gl>
+|carracha<qq:has gl>
+|carragem<qq:has gl>
 |carramelo
 |carramolo
 |carranha
@@ -7655,7 +7655,7 @@
 |carrela
 |carrelo
 |carreteira
-|carricanta<q:has gl>
+|carricanta<qq:has gl>
 |carrilano
 |carrilha
 |carrilhana
@@ -7685,7 +7685,7 @@
 |carrufa
 |carta magna
 |carta náutica
-|cartafol<q:has gl>
+|cartafol<qq:has gl>
 |cartapaço
 |cartaxo-de-cabeça-preta
 |cartaxo-de-sobrancelhas-brancas
@@ -7782,7 +7782,7 @@
 |cascas
 |cascateiro
 |casco trincado
-|cascuda<q:has gl>
+|cascuda<qq:has gl>
 |cascunho
 |casevelense
 |cash-flow
@@ -7812,7 +7812,7 @@
 |castanhol
 |castanholeiro
 |castanholo
-|caste<q:has gl>
+|caste<qq:has gl>
 |casteleiro
 |castelejense
 |castelhana
@@ -7822,16 +7822,16 @@
 |castinceira
 |castinceiro
 |castinheira
-|castinheiro<q:has gl>
+|castinheiro<qq:has gl>
 |castinheirol
 |castinça
 |castinçal
-|castiro<q:has gl>
+|castiro<qq:has gl>
 |castiço
 |castra
 |castrador
 |castramento
-|castrapo<q:has gl>
+|castrapo<qq:has gl>
 |castrismo
 |castro-alvense
 |castro-verdense
@@ -7848,7 +7848,7 @@
 |catafracto
 |catagelofobia
 |cataglosso
-|catalanismo<q:has gl>
+|catalanismo<qq:has gl>
 |catalanoparlante
 |catalepsia
 |catalo
@@ -7895,7 +7895,7 @@
 |catiroba
 |catitu
 |cativação
-|cativeza<q:has gl>
+|cativeza<qq:has gl>
 |catolandiano
 |catolicidade
 |catoptrofobia
@@ -8006,10 +8006,10 @@
 |cegueira verbal
 |ceia do Senhor
 |ceiba
-|ceive<q:has gl>
+|ceive<qq:has gl>
 |celga-brava
 |celha
-|celme<q:has gl>
+|celme<qq:has gl>
 |celo
 |celta continental
 |celta insular
@@ -8019,7 +8019,7 @@
 |celulase
 |celulite
 |celulólise
-|cemba<q:has gl>
+|cemba<qq:has gl>
 |cenarista
 |cenceno
 |cenisga
@@ -8035,7 +8035,7 @@
 |centenariense
 |centieiro
 |centimano
-|centola<q:has gl>
+|centola<qq:has gl>
 |centonódia
 |centrafricano
 |central de chamadas
@@ -8093,8 +8093,8 @@
 |chacoto
 |chacrete
 |chadiense
-|chafalhada<q:has gl>
-|chafalhas<q:has gl>
+|chafalhada<qq:has gl>
+|chafalhas<qq:has gl>
 |chafardel
 |chafense
 |chafurda
@@ -8106,8 +8106,8 @@
 |chagador
 |chaguarço
 |chaiene
-|chaira<q:has gl>
-|chairo<q:has gl>
+|chaira<qq:has gl>
+|chairo<qq:has gl>
 |chakma
 |chalaça
 |chaleense
@@ -8154,10 +8154,10 @@
 |chanqueiro
 |chantadura
 |chantageador
-|chanto<q:has gl>
+|chanto<qq:has gl>
 |chantão
 |chança
-|chanço<q:has gl>
+|chanço<qq:has gl>
 |chapa-branca
 |chapaceiro
 |chaparia
@@ -8235,7 +8235,7 @@
 |chavona
 |chawan
 |chaço
-|che<q:has gl>
+|che<qq:has gl>
 |checha
 |cheche
 |chechene
@@ -8272,7 +8272,7 @@
 |chessilito
 |cheviote
 |cheyenne
-|cheísmo<q:has gl>
+|cheísmo<qq:has gl>
 |cheúra
 |chia
 |chiada
@@ -8342,7 +8342,7 @@
 |chiripa
 |chiroqui
 |chisca
-|chisco<q:has gl>
+|chisco<qq:has gl>
 |chismes
 |chiste
 |chito
@@ -8350,7 +8350,7 @@
 |chiuaua
 |chiça
 |chiço
-|chocalheiro<q:has gl>
+|chocalheiro<qq:has gl>
 |chocarreiro
 |chocarrice
 |chocarrices
@@ -8366,13 +8366,13 @@
 |cholo
 |chomberga
 |chopeira
-|choqueira<q:has gl>
-|choqueiro<q:has gl>
+|choqueira<qq:has gl>
+|choqueiro<qq:has gl>
 |choquice
 |chor
 |choramingo
 |choramingão
-|chorima<q:has gl>
+|chorima<qq:has gl>
 |choro nem vela
 |choromicas
 |chorrilho
@@ -8388,15 +8388,15 @@
 |chousal
 |chouso
 |chouto
-|chouva<q:has gl>
+|chouva<qq:has gl>
 |christophita
 |chroma
 |chroma-key
 |chromakey
-|chuchadela<q:has gl>
+|chuchadela<qq:has gl>
 |chuchamel
 |chucho
-|chufa<q:has gl>
+|chufa<qq:has gl>
 |chula
 |chuleta
 |chumaceira
@@ -8411,7 +8411,7 @@
 |chupacabra
 |chupacabras
 |churma
-|churra<q:has gl>
+|churra<qq:has gl>
 |churreia
 |chuva de granizo
 |chuva de pedra
@@ -8467,7 +8467,7 @@
 |cigarrete
 |cigarrinha-das-pastagens
 |cigarro de artista
-|cigarrão<q:has gl>
+|cigarrão<qq:has gl>
 |cigas
 |cigorelha
 |cilindro holandês
@@ -8713,12 +8713,12 @@
 |coicão
 |coimeiro
 |coina
-|coinhal<q:has gl>
+|coinhal<qq:has gl>
 |coiné
-|coio<q:has gl>
+|coio<qq:has gl>
 |coiquinho
 |coira
-|coiracha<q:has gl>
+|coiracha<qq:has gl>
 |coirato
 |coiraça
 |coirão
@@ -8765,11 +8765,11 @@
 |colhal
 |colheiteiro
 |colheroto
-|colhiço<q:has gl>
+|colhiço<qq:has gl>
 |colidência
 |colima
 |colma
-|colmaço<q:has gl>
+|colmaço<qq:has gl>
 |colmeal
 |colmilho
 |colocar palavras na boca
@@ -8789,7 +8789,7 @@
 |colégio episcopal
 |colírio para os olhos
 |colômbio
-|com<q:has gl>
+|com<qq:has gl>
 |coma induzido
 |comal
 |combarro
@@ -8837,7 +8837,7 @@
 |comoriência
 |compactabilidade
 |compadecimento
-|compango<q:has gl>
+|compango<qq:has gl>
 |companheire
 |companheirismo
 |comparança
@@ -8905,8 +8905,8 @@
 |conceitarraz
 |conceitarrão
 |conceiçoense
-|concelharia<q:has gl>
-|concelheiro<q:has gl>
+|concelharia<qq:has gl>
+|concelheiro<qq:has gl>
 |concelhões
 |conceptor
 |concernência
@@ -8968,8 +8968,8 @@
 |congelado
 |congolense
 |congosta
-|congostra<q:has gl>
-|congoxa<q:has gl>
+|congostra<qq:has gl>
+|congoxa<qq:has gl>
 |congoxas
 |congérie
 |conha
@@ -9010,7 +9010,7 @@
 |conscienciário
 |consectário
 |consecução
-|conselharia<q:has gl>
+|conselharia<qq:has gl>
 |conselho de sentença
 |consequente
 |consertada
@@ -9199,7 +9199,7 @@
 |cornilhó
 |cornimboque
 |corninhal
-|cornipa<q:has gl>
+|cornipa<qq:has gl>
 |cornipo
 |cornizoilo
 |cornizol
@@ -9259,13 +9259,13 @@
 |corrixo
 |corrião
 |corro
-|corrosco<q:has gl>
+|corrosco<qq:has gl>
 |corrupixel
 |corrupção ativa
 |corrupção passiva
 |corrução
 |corsolete
-|corta<q:has gl>
+|corta<qq:has gl>
 |corta-jaca
 |cortante
 |corte de ténis
@@ -9273,7 +9273,7 @@
 |cortelho
 |corticite
 |corticoide
-|cortim<q:has gl>
+|cortim<qq:has gl>
 |cortinado
 |cortiçol-de-barriga-preta
 |coruchense
@@ -9295,7 +9295,7 @@
 |coróide
 |corônis
 |coscas
-|cosco<q:has gl>
+|cosco<qq:has gl>
 |coscuvilheiro
 |coscuvilhice
 |cosido
@@ -9320,24 +9320,24 @@
 |costarriquense
 |costelame
 |costo
-|costrão<q:has gl>
+|costrão<qq:has gl>
 |costumado
 |costureiro
 |costão
 |cota de mercado
-|cotarelo<q:has gl>
+|cotarelo<qq:has gl>
 |cotegipano
 |cotejamento
-|coteno<q:has gl>
+|coteno<qq:has gl>
 |cotica
 |cotonaria
 |cotonicultor
 |cotonicultura
 |cotonária
-|cotra<q:has gl>
+|cotra<qq:has gl>
 |cotrala
 |cotrofe
-|cotroso<q:has gl>
+|cotroso<qq:has gl>
 |coté
 |cotó
 |coucada
@@ -9352,8 +9352,8 @@
 |coura
 |courela
 |courão
-|couselo<q:has gl>
-|cousso<q:has gl>
+|couselo<qq:has gl>
+|cousso<qq:has gl>
 |coutada
 |couve-penca
 |couve-roxa
@@ -9399,11 +9399,11 @@
 |cravolandense
 |crayon
 |craúna
-|crecha<q:has gl>
+|crecha<qq:has gl>
 |crecimento
 |crega
-|cregagem<q:has gl>
-|crego<q:has gl>
+|cregagem<qq:has gl>
+|crego<qq:has gl>
 |crelgo
 |cremador
 |crematística
@@ -9466,7 +9466,7 @@
 |cristopolense
 |criticastro
 |criticofobia
-|croca<q:has gl>
+|croca<qq:has gl>
 |crocha
 |crocitar
 |crocodilagem
@@ -9474,7 +9474,7 @@
 |crocô
 |croeiro
 |croia
-|croio<q:has gl>
+|croio<qq:has gl>
 |cromado
 |cromatismo
 |cromatização
@@ -9484,7 +9484,7 @@
 |cromática
 |cronha
 |cronometragem
-|croque<q:has gl>
+|croque<qq:has gl>
 |croquet
 |croqué
 |crossing-over
@@ -9547,7 +9547,7 @@
 |cubiça
 |cuchara
 |cuchibata
-|cucho<q:has gl>
+|cucho<qq:has gl>
 |cucigas
 |cuckold
 |cucujo
@@ -9564,7 +9564,7 @@
 |cuidança
 |cuido
 |cuietê
-|cuinha<q:has gl>
+|cuinha<qq:has gl>
 |cuitê
 |cul-de-lampe
 |culaga
@@ -9572,7 +9572,7 @@
 |culapada
 |culaque
 |culicídeo
-|culimaia<q:has gl>
+|culimaia<qq:has gl>
 |culminação
 |culminância
 |culote
@@ -9605,7 +9605,7 @@
 |cumpridor
 |cumprimentação
 |cuna
-|cunca<q:has gl>
+|cunca<qq:has gl>
 |cunco
 |cundalini
 |cuneché
@@ -9643,7 +9643,7 @@
 |currinchos
 |curriça
 |curro
-|curruncho<q:has gl>
+|curruncho<qq:has gl>
 |cursiva
 |curte
 |curte-cara
@@ -9686,7 +9686,7 @@
 |cuxiú-judeu
 |cuxiú-negro
 |cuxiú-preto
-|cuxo<q:has gl>
+|cuxo<qq:has gl>
 |cuxá
 |cuxítico
 |cuzada
@@ -9749,7 +9749,7 @@
 |círculo íntimo
 |círia
 |cível
-|cóbrega<q:has gl>
+|cóbrega<qq:has gl>
 |cócega
 |cócora
 |códega
@@ -9770,10 +9770,10 @@
 |córnico antigo
 |cóscoro
 |cósmico
-|cóxegas<q:has gl>
+|cóxegas<qq:has gl>
 |côdeas
 |côdeo
-|cômaro<q:has gl>
+|cômaro<qq:has gl>
 |cômplice
 |cômputo eclesiástico
 |côndilo occipital
@@ -9781,7 +9781,7 @@
 |côngrua
 |cúmbia
 |cúmel
-|cúmio<q:has gl>
+|cúmio<qq:has gl>
 |cúpula do poder
 |cúscus
 |cútis
@@ -9890,9 +9890,9 @@
 |defraudação
 |defumador
 |degola
-|degoro<q:has gl>
+|degoro<qq:has gl>
 |degranhas
-|degressa<q:has gl>
+|degressa<qq:has gl>
 |dehu
 |deita
 |deixada
@@ -9999,7 +9999,7 @@
 |desacatamento
 |desacolhimento
 |desacontecimento
-|desacougo<q:has gl>
+|desacougo<qq:has gl>
 |desacreditação
 |desadequação
 |desafeição
@@ -10179,14 +10179,14 @@
 |detrás
 |deus das lacunas
 |deuteragonista
-|devalo<q:has gl>
-|devanceiro<q:has gl>
-|devandito<q:has gl>
+|devalo<qq:has gl>
+|devanceiro<qq:has gl>
+|devandito<qq:has gl>
 |devaneador
 |deve
 |devenir
 |deventre
-|deveço<q:has gl>
+|deveço<qq:has gl>
 |deviação
 |device file
 |devido
@@ -10394,7 +10394,7 @@
 |djanho
 |djibutiense
 |djim
-|doa<q:has gl>
+|doa<qq:has gl>
 |doador universal
 |dobadeira
 |dobadoira
@@ -10447,9 +10447,9 @@
 |doidice
 |doidivanas
 |doido de pedra
-|doira<q:has gl>
+|doira<qq:has gl>
 |doiradura
-|doiro<q:has gl>
+|doiro<qq:has gl>
 |doiru
 |dois patinhos na lagoa
 |dojo
@@ -10471,11 +10471,11 @@
 |donatista
 |donativo
 |donato
-|dondo<q:has gl>
+|dondo<qq:has gl>
 |dondoca
 |dondoco
 |dongo
-|donizela<q:has gl>
+|donizela<qq:has gl>
 |donjuán
 |donnée
 |donzel
@@ -10570,7 +10570,7 @@
 |duralói
 |durandeense
 |duriense
-|duro<q:has gl>
+|duro<qq:has gl>
 |durura
 |dutoviário
 |dyirbal
@@ -10715,13 +10715,13 @@
 |eiró
 |eitada
 |eiveca
-|eixada<q:has gl>
+|eixada<qq:has gl>
 |eixe
 |eixegese
-|eixido<q:has gl>
+|eixido<qq:has gl>
 |eixo terrestre
 |eixo óptico
-|eixola<q:has gl>
+|eixola<qq:has gl>
 |eixó
 |ekspreso
 |ela
@@ -10808,7 +10808,7 @@
 |embira
 |emboaba
 |embocha
-|emborca<q:has gl>
+|emborca<qq:has gl>
 |embotadura
 |embotamento
 |embrechada
@@ -10818,7 +10818,7 @@
 |embrulhamento
 |embrulhação
 |embuchar
-|embuda<q:has gl>
+|embuda<qq:has gl>
 |embude
 |embusteiro
 |embutidura
@@ -10883,7 +10883,7 @@
 |encerra
 |encerto
 |encharqueiro
-|enchenta<q:has gl>
+|enchenta<qq:has gl>
 |encheção
 |encheção de linguiça
 |enchó
@@ -10895,7 +10895,7 @@
 |encontro de cúpula
 |encontro vocálico
 |encoramento
-|encoro<q:has gl>
+|encoro<qq:has gl>
 |encostado
 |encravadura
 |encravo
@@ -10934,13 +10934,13 @@
 |energia renovável
 |enfardador
 |enfarnar
-|enfeita<q:has gl>
+|enfeita<qq:has gl>
 |enfermagem
 |enfrentamento
 |enfurecedor
 |enga
 |engabelo
-|engado<q:has gl>
+|engado<qq:has gl>
 |engajador
 |engajatar
 |engalfinhamento
@@ -10967,7 +10967,7 @@
 |engrixó
 |engrossador
 |engrês
-|enguedelho<q:has gl>
+|enguedelho<qq:has gl>
 |enjambement
 |enodecoração
 |enojo
@@ -10991,7 +10991,7 @@
 |enter
 |enteroterapia
 |enterotoxemia
-|enterquinência<q:has gl>
+|enterquinência<qq:has gl>
 |enterrada
 |entertainer
 |entesite
@@ -11198,7 +11198,7 @@
 |escabiosa
 |escabrosidade
 |escabulho
-|escacha-pedras<q:has gl>
+|escacha-pedras<qq:has gl>
 |escacha-piolhos
 |escadete
 |escadim
@@ -11219,7 +11219,7 @@
 |escalte
 |escambo
 |escambroeiro
-|escambrão<q:has gl>
+|escambrão<qq:has gl>
 |escancha
 |escanchas
 |escaneador
@@ -11244,10 +11244,10 @@
 |escola de Frankfurt
 |escola de samba
 |escolanovismo
-|escolante<q:has gl>
+|escolante<qq:has gl>
 |escolar
 |escolheito
-|escolma<q:has gl>
+|escolma<qq:has gl>
 |escolopacídeos
 |escondidas
 |escopro
@@ -11286,7 +11286,7 @@
 |escrivão-mor
 |escrofulose
 |escrofulária
-|escroucha<q:has gl>
+|escroucha<qq:has gl>
 |escrêiper
 |escrínio
 |escudela
@@ -11294,8 +11294,8 @@
 |escudo das Guianas
 |escudo deflector
 |escudo defletor
-|esculca<q:has gl>
-|esculcador<q:has gl>
+|esculca<qq:has gl>
+|esculcador<qq:has gl>
 |escuma
 |escuma-do-mar
 |escumilha
@@ -11326,11 +11326,11 @@
 |esgarro
 |esgoldrejão
 |esgricha
-|esguelho<q:has gl>
+|esguelho<qq:has gl>
 |esguelhão
 |esguichada
 |esguichadela
-|esguíçaro<q:has gl>
+|esguíçaro<qq:has gl>
 |eslaide
 |eslaque
 |eslavo oriental antigo
@@ -11353,7 +11353,7 @@
 |esmolambado
 |esmoleiro
 |esmoque
-|esmorga<q:has gl>
+|esmorga<qq:has gl>
 |esofagectomia
 |esofagectômico
 |esotérico
@@ -11364,7 +11364,7 @@
 |espadada
 |espadana
 |espadas
-|espadela<q:has gl>
+|espadela<qq:has gl>
 |espalação
 |espalha-brasas
 |espalhado
@@ -11383,7 +11383,7 @@
 |esperançoso
 |espermatófito
 |espermicida
-|esperpento<q:has gl>
+|esperpento<qq:has gl>
 |espertofone
 |espeteira
 |espetinho de gato
@@ -11432,7 +11432,7 @@
 |esprito
 |espru
 |esprém
-|espulha<q:has gl>
+|espulha<qq:has gl>
 |espurcícia
 |espécie-tipo
 |espérmio
@@ -11447,7 +11447,7 @@
 |esquadrilha
 |esquadrilha da fumaça
 |esqualo
-|esqueira<q:has gl>
+|esqueira<qq:has gl>
 |esqueiro
 |esqueitismo
 |esqueleto no armário
@@ -11473,7 +11473,7 @@
 |estaca zero
 |estacada
 |estacal
-|estadeia<q:has gl>
+|estadeia<qq:has gl>
 |estadiômetro
 |estado crítico
 |estado de choque
@@ -11557,7 +11557,7 @@
 |estrabo
 |estrada de rodagem
 |estradivário
-|estraloque<q:has gl>
+|estraloque<qq:has gl>
 |estrangulamento
 |estrangulação
 |estranheza
@@ -11782,13 +11782,13 @@
 |faceiro
 |facetamento
 |facha
-|fachenda<q:has gl>
+|fachenda<qq:has gl>
 |fachense
-|fachico<q:has gl>
+|fachico<qq:has gl>
 |fachis
 |facho do himeneu
-|fachuco<q:has gl>
-|fachuço<q:has gl>
+|fachuco<qq:has gl>
+|fachuço<qq:has gl>
 |facies
 |facilitação
 |faco
@@ -11810,7 +11810,7 @@
 |fagáceas
 |faia-da-terra
 |faia-das-ilhas
-|faiado<q:has gl>
+|faiado<qq:has gl>
 |faiados
 |faim
 |faito
@@ -11820,7 +11820,7 @@
 |falacha
 |falada
 |faladeira
-|faladoiro<q:has gl>
+|faladoiro<qq:has gl>
 |falador
 |falangectomia
 |falaça
@@ -11831,7 +11831,7 @@
 |falcão-peregrino
 |faldra
 |faldrelhim
-|faldriqueira<q:has gl>
+|faldriqueira<qq:has gl>
 |falhado
 |falho
 |falibilidade
@@ -11847,7 +11847,7 @@
 |falácia genética
 |falácia lógica
 |famalicense
-|fame<q:has gl>
+|fame<qq:has gl>
 |famelga
 |famigerador
 |familória
@@ -11865,7 +11865,7 @@
 |faneco
 |fanega
 |fanenco
-|fanequeira<q:has gl>
+|fanequeira<qq:has gl>
 |fanfarria
 |fanfarronada
 |fanglomerado
@@ -11940,7 +11940,7 @@
 |farronco
 |farropo
 |farroupilha
-|farruco<q:has gl>
+|farruco<qq:has gl>
 |farrumeu
 |farrumpeu
 |farrusca
@@ -11951,7 +11951,7 @@
 |farta
 |farte
 |fartum
-|farum<q:has gl>
+|farum<qq:has gl>
 |farádio
 |fasciculação
 |faseoláceas
@@ -11968,7 +11968,7 @@
 |fateira
 |fateiro
 |fateixa
-|fatelo<q:has gl>
+|fatelo<qq:has gl>
 |fatexa
 |fatia-de-parida
 |fatimense
@@ -12012,7 +12012,7 @@
 |fazendas
 |fazendense
 |façoila
-|façula<q:has gl>
+|façula<qq:has gl>
 |faúla
 |faúpa
 |febra
@@ -12051,7 +12051,7 @@
 |feiúlha
 |fela
 |feldmarechal
-|feldrelho<q:has gl>
+|feldrelho<qq:has gl>
 |feliformia
 |felisburguense
 |felistreca
@@ -12083,7 +12083,7 @@
 |fenicense
 |fenomenalismo
 |fenteira
-|fento<q:has gl>
+|fento<qq:has gl>
 |fento-macho
 |fento-negro
 |fentometro
@@ -12100,7 +12100,7 @@
 |ferocidade
 |feroico
 |ferra
-|ferrado<q:has gl>
+|ferrado<qq:has gl>
 |ferradoria
 |ferrage
 |ferrageiro
@@ -12145,10 +12145,10 @@
 |ferroviário
 |ferrária
 |ferrã
-|ferve-lhe as verças<q:has gl>
+|ferve-lhe as verças<qq:has gl>
 |fervedura
 |fervelho
-|fervença<q:has gl>
+|fervença<qq:has gl>
 |feróico
 |fessor
 |festa de aniversário
@@ -12184,9 +12184,9 @@
 |fieiro
 |fieital
 |fieiteira
-|fieito<q:has gl>
+|fieito<qq:has gl>
 |fiel-amigo
-|fiestra<q:has gl>
+|fiestra<qq:has gl>
 |figa
 |figadeira
 |figle
@@ -12270,7 +12270,7 @@
 |fiota
 |fiote
 |firminoalvense
-|firulete<q:has gl>
+|firulete<qq:has gl>
 |fiscal de linha
 |fiscal-de-linha
 |fiscalidade
@@ -12291,7 +12291,7 @@
 |fitologia
 |fitotoxina
 |fitotóxico
-|fiuncho<q:has gl>
+|fiuncho<qq:has gl>
 |fixa
 |fixações
 |fixidez
@@ -12356,7 +12356,7 @@
 |fluxo de informação
 |flá
 |flã
-|fochanco<q:has gl>
+|fochanco<qq:has gl>
 |focinho de tenca
 |focinho-de-tenca
 |foda fixa
@@ -12364,7 +12364,7 @@
 |fodaz
 |fodedeira
 |fodilhão
-|fodão<q:has gl>
+|fodão<qq:has gl>
 |fofa
 |fofice
 |fofo
@@ -12400,7 +12400,7 @@
 |folecro
 |foleiro
 |folerca
-|folerpa<q:has gl>
+|folerpa<qq:has gl>
 |folgança
 |folgo
 |folguedo
@@ -12508,7 +12508,7 @@
 |forra
 |forreca
 |forrica
-|forricas<q:has gl>
+|forricas<qq:has gl>
 |forriel
 |fortalezense
 |fortanogueirense
@@ -12541,7 +12541,7 @@
 |foucinha
 |foucinho
 |foul
-|foula<q:has gl>
+|foula<qq:has gl>
 |foulard
 |fox
 |foxe
@@ -12582,7 +12582,7 @@
 |frango assado
 |frangolho
 |frangote
-|frangulha<q:has gl>
+|frangulha<qq:has gl>
 |franqueiro
 |frança
 |franças
@@ -12641,8 +12641,8 @@
 |frizz
 |friúme
 |friúra
-|froalha<q:has gl>
-|froalho<q:has gl>
+|froalha<qq:has gl>
+|froalho<qq:has gl>
 |froixel
 |fromager
 |fronetas
@@ -12654,7 +12654,7 @@
 |frontofocômetro
 |fronça
 |frotilha
-|frouma<q:has gl>
+|frouma<qq:has gl>
 |frouxel
 |frouxo
 |frouça
@@ -12713,7 +12713,7 @@
 |fulminação
 |fumarada
 |fumbamba
-|fume<q:has gl>
+|fume<qq:has gl>
 |fumegada
 |fumeiro
 |fumária
@@ -12734,7 +12734,7 @@
 |fungitoxidade
 |fungitóxico
 |fungosa
-|fungueiro<q:has gl>
+|fungueiro<qq:has gl>
 |fungão
 |funheiro
 |funicular aéreo
@@ -12753,7 +12753,7 @@
 |fura-filas
 |fura-greves
 |furado
-|furancho<q:has gl>
+|furancho<qq:has gl>
 |furca
 |furco
 |furfalha
@@ -12767,7 +12767,7 @@
 |furricada
 |furriel
 |furtador
-|furuncho<q:has gl>
+|furuncho<qq:has gl>
 |fuscafusca
 |fusco
 |fusco-fusco
@@ -12811,7 +12811,7 @@
 |fâmulo
 |fãzaço
 |fíler
-|fírgoa<q:has gl>
+|fírgoa<qq:has gl>
 |físico-química
 |fó
 |fómite
@@ -12845,7 +12845,7 @@
 |gadeiro
 |gadelho
 |gado miúdo
-|gadoupa<q:has gl>
+|gadoupa<qq:has gl>
 |gadunha
 |gadunho
 |gaeirense
@@ -12894,7 +12894,7 @@
 |galdrocha
 |galdromada
 |galdrope
-|galdrumada<q:has gl>
+|galdrumada<qq:has gl>
 |galega
 |galegada
 |galego antigo
@@ -12902,7 +12902,7 @@
 |galego-português antigo
 |galego-português medieval
 |galeguice
-|galeguista<q:has gl>
+|galeguista<qq:has gl>
 |galeguização
 |galela
 |galelarês
@@ -13029,10 +13029,10 @@
 |garapau
 |garapão
 |garateia
-|garatujeiro<q:has gl>
+|garatujeiro<qq:has gl>
 |garatéia
 |garavalha
-|garavanço<q:has gl>
+|garavanço<qq:has gl>
 |garcense
 |gardunha
 |gardunho
@@ -13184,7 +13184,7 @@
 |germanófono
 |germinal
 |germinação
-|germolo<q:has gl>
+|germolo<qq:has gl>
 |germânico
 |gerona
 |gerontocídio
@@ -13196,7 +13196,7 @@
 |gestaltista
 |gestarego
 |gestação por substituição
-|gesteira<q:has gl>
+|gesteira<qq:has gl>
 |gestor de transferências
 |gestão ambiental
 |getas
@@ -13239,7 +13239,7 @@
 |ginsém
 |ginófilo
 |giolhos
-|gionlho<q:has gl>
+|gionlho<qq:has gl>
 |girbão
 |girl
 |giro plano
@@ -13292,7 +13292,7 @@
 |goalkeeper
 |gocho
 |godalha
-|godalho<q:has gl>
+|godalho<qq:has gl>
 |gode
 |godelo
 |godeme
@@ -13315,7 +13315,7 @@
 |gol de placa
 |gola direita
 |gola reversa
-|golada<q:has gl>
+|golada<qq:has gl>
 |golas
 |golbol
 |golem
@@ -13501,7 +13501,7 @@
 |grogoiô
 |grogojó
 |grolado
-|grolo<q:has gl>
+|grolo<qq:has gl>
 |groló
 |gronho
 |groninguês
@@ -13796,7 +13796,7 @@
 |hediondez
 |hediondeza
 |hedonista
-|hedra<q:has gl>
+|hedra<qq:has gl>
 |hedrocele
 |hegelianismo
 |hegelianista
@@ -14177,7 +14177,7 @@
 |híper
 |hípica
 |hóbi
-|hôrreo<q:has gl>
+|hôrreo<qq:has gl>
 |i'saka
 |iPad
 |iacanguense
@@ -14530,7 +14530,7 @@
 |inglês negro vernacular
 |inglês neozelandês
 |inglês sulafricano
-|ingratitude<q:has gl>
+|ingratitude<qq:has gl>
 |ingredientes
 |ingremidade
 |ingresia
@@ -14553,7 +14553,7 @@
 |inocenciense
 |inortodoxia
 |inovador
-|inquedança<q:has gl>
+|inquedança<qq:has gl>
 |inquirição
 |inquisição
 |inro
@@ -14624,7 +14624,7 @@
 |internete
 |internista
 |interposição
-|interquinência<q:has gl>
+|interquinência<qq:has gl>
 |interrompimento
 |intertextualidade
 |intestinos
@@ -14937,7 +14937,7 @@
 |jandairense
 |jandaíra
 |jandirense
-|janeira<q:has gl>
+|janeira<qq:has gl>
 |janeirinha
 |janela aberta
 |janela de guilhotina
@@ -15018,10 +15018,10 @@
 |jeriquarense
 |jeriquinho
 |jeropia
-|jerra<q:has gl>
+|jerra<qq:has gl>
 |jerrican
 |jerricã
-|jerro<q:has gl>
+|jerro<qq:has gl>
 |jerrycan
 |jersês
 |jesuitense
@@ -15082,24 +15082,24 @@
 |jogo de plataforma
 |jogo de tabuleiro
 |jogo de vídeo
-|jogueta<q:has gl>
+|jogueta<qq:has gl>
 |joguificação
 |joie de vivre
 |joint venture
 |joinvilense
 |joiça
 |jojoba
-|jolda<q:has gl>
-|joldra<q:has gl>
+|jolda<qq:has gl>
+|joldra<qq:has gl>
 |jolho
 |jongo
 |joqueta
 |jorgense
-|jorne<q:has gl>
+|jorne<qq:has gl>
 |jorra
 |joseense
 |josta
-|jostra<q:has gl>
+|jostra<qq:has gl>
 |jovinense
 |joystick
 |joão grandão
@@ -15196,12 +15196,12 @@
 |jujítsu
 |jujútsu
 |julgado
-|juliana<q:has gl>
+|juliana<qq:has gl>
 |jum
 |jumentada
 |jumirinense
 |juncalense
-|juncras<q:has gl>
+|juncras<qq:has gl>
 |jundiaiense
 |jungo
 |junguiano
@@ -15209,7 +15209,7 @@
 |junqueira
 |junqueiropolense
 |junqueiropolitano
-|juntança<q:has gl>
+|juntança<qq:has gl>
 |juntoiro
 |juntouro
 |juntura
@@ -15520,7 +15520,7 @@
 |la nouvelle manga
 |labanca
 |labanheiro
-|labaçada<q:has gl>
+|labaçada<qq:has gl>
 |labeique
 |labeique-de-três-barbilhos
 |labiadas
@@ -15533,16 +15533,16 @@
 |labrusco
 |lacete
 |lacho
-|lacoada<q:has gl>
+|lacoada<qq:has gl>
 |lacobrigense
-|lacoeiro<q:has gl>
+|lacoeiro<qq:has gl>
 |laconismo
 |lacrimogêneo
 |lactante
 |lactente
 |lactina
 |lactômetro
-|lacão<q:has gl>
+|lacão<qq:has gl>
 |lada
 |ladinagem
 |ladino dolomita
@@ -15555,7 +15555,7 @@
 |ladrido
 |ladriço
 |ladroeira
-|ladroíço<q:has gl>
+|ladroíço<qq:has gl>
 |lafaietense
 |lafaçada
 |laga
@@ -15577,7 +15577,7 @@
 |laicato
 |laicismo
 |laicra
-|laio<q:has gl>
+|laio<qq:has gl>
 |lajedinhense
 |lajedãoense
 |lajense
@@ -15599,7 +15599,7 @@
 |lambedor
 |lamberusco
 |lambeta
-|lambetada<q:has gl>
+|lambetada<qq:has gl>
 |lambeteiro
 |lambidela
 |lambido
@@ -15618,9 +15618,9 @@
 |lamela
 |lamiáceas
 |lamosense
-|lamote<q:has gl>
+|lamote<qq:has gl>
 |lampadário
-|lampantim<q:has gl>
+|lampantim<qq:has gl>
 |lamparão
 |lampedo
 |lampinho
@@ -15671,27 +15671,27 @@
 |lapeda
 |lapedo
 |lapeira
-|lapeiro<q:has gl>
+|lapeiro<qq:has gl>
 |lapense
-|lapo<q:has gl>
+|lapo<qq:has gl>
 |laponense
-|lapote<q:has gl>
+|lapote<qq:has gl>
 |lapouço
 |lapíli
 |laquedivo
 |larada
-|larafuças<q:has gl>
+|larafuças<qq:has gl>
 |laranja-claro
 |laranja-escuro
 |laranjalense
 |lardo
 |lardoeirada
 |lardoeiro
-|lareca<q:has gl>
+|lareca<qq:has gl>
 |larego
 |lareirada
 |lareiro
-|larengo<q:has gl>
+|larengo<qq:has gl>
 |lares
 |larga
 |largada lançada
@@ -15701,7 +15701,7 @@
 |larilas
 |larota
 |laroto
-|larpeirada<q:has gl>
+|larpeirada<qq:has gl>
 |larvicida
 |larváceo
 |larápio
@@ -15767,7 +15767,7 @@
 |lavradiense
 |lavrado
 |lavrandeira
-|lavrança<q:has gl>
+|lavrança<qq:has gl>
 |lavínio
 |laxismo
 |layout man
@@ -15779,7 +15779,7 @@
 |lazulita
 |lazuri
 |laçada
-|laído<q:has gl>
+|laído<qq:has gl>
 |laúd
 |laúde
 |lead
@@ -15798,17 +15798,17 @@
 |legalista
 |legibilidade
 |legismo
-|legoeiro<q:has gl>
-|legonha<q:has gl>
+|legoeiro<qq:has gl>
+|legonha<qq:has gl>
 |legra
 |leguminosas
-|legão<q:has gl>
+|legão<qq:has gl>
 |lei complementar
 |lei de funil
 |lei do mercado
 |lei estatística
 |lei ordinária
-|leia<q:has gl>
+|leia<qq:has gl>
 |leiautador
 |leiautista
 |leiranco
@@ -15845,7 +15845,7 @@
 |lentilheira
 |lentisca
 |lentisco
-|lentitude<q:has gl>
+|lentitude<qq:has gl>
 |lento
 |lentor
 |lentrisca
@@ -15928,7 +15928,7 @@
 |leônculo
 |lgbt
 |lheísmo
-|lia<q:has gl>
+|lia<qq:has gl>
 |liame
 |liamento
 |liança
@@ -15957,7 +15957,7 @@
 |licor verde
 |licra
 |licórnio
-|lideira<q:has gl>
+|lideira<qq:has gl>
 |liechtensteiniano
 |lifting
 |ligada
@@ -15973,9 +15973,9 @@
 |ligário
 |ligúrico
 |lila
-|lilaias<q:has gl>
-|lilailas<q:has gl>
-|lilaina<q:has gl>
+|lilaias<qq:has gl>
+|lilailas<qq:has gl>
+|lilaina<qq:has gl>
 |lili
 |lima-de-umbigo
 |lima-duartense
@@ -16039,8 +16039,8 @@
 |linótipo
 |lionês
 |liorna
-|liorta<q:has gl>
-|liorteiro<q:has gl>
+|liorta<qq:has gl>
+|liorteiro<qq:has gl>
 |lipemania
 |lipemaníaco
 |lipoescultura
@@ -16057,7 +16057,7 @@
 |lisbonês
 |lisco
 |liscranço
-|lisgairo<q:has gl>
+|lisgairo<qq:has gl>
 |lishenets
 |lisianto
 |liso
@@ -16176,7 +16176,7 @@
 |loof
 |looque
 |loque-loque
-|lorda<q:has gl>
+|lorda<qq:has gl>
 |lordose
 |lordosense
 |lorga
@@ -16187,7 +16187,7 @@
 |losna
 |lotada
 |loto
-|louceiro<q:has gl>
+|louceiro<qq:has gl>
 |loura
 |loureirense
 |loureiro-real
@@ -16203,7 +16203,7 @@
 |louvaminheiro
 |louvação
 |louveirense
-|louço<q:has gl>
+|louço<qq:has gl>
 |love
 |lovelace
 |lua artificial
@@ -16233,9 +16233,9 @@
 |ludificação
 |ludo
 |ludoterapia
-|ludre<q:has gl>
+|ludre<qq:has gl>
 |ludro
-|lueiro<q:has gl>
+|lueiro<qq:has gl>
 |lues
 |luganda
 |luguês
@@ -16247,7 +16247,7 @@
 |lulu-da-pomerânia
 |luma
 |lumedeiro
-|lumerada<q:has gl>
+|lumerada<qq:has gl>
 |lumes
 |lumiar
 |lumideiro
@@ -16317,7 +16317,7 @@
 |lázaro
 |lâmbia
 |lâmede
-|lâmpado<q:has gl>
+|lâmpado<qq:has gl>
 |lâmpago
 |lãzudo
 |légua terrestre
@@ -16382,10 +16382,10 @@
 |lóio
 |lójia
 |lólio
-|lôstrego<q:has gl>
+|lôstrego<qq:has gl>
 |lúcifer
 |lúmia
-|lúrpia<q:has gl>
+|lúrpia<qq:has gl>
 |lúrtia
 |lüa
 |m
@@ -16489,7 +16489,7 @@
 |magnetoidrodinâmica
 |magniloquência
 |magori
-|magosto<q:has gl>
+|magosto<qq:has gl>
 |magrinha
 |maguilho
 |maguindanao
@@ -16500,7 +16500,7 @@
 |mailu
 |mainata
 |mainato
-|maino<q:has gl>
+|maino<qq:has gl>
 |mainota
 |maior
 |maiores
@@ -16585,11 +16585,11 @@
 |malha de lã
 |malhada-pedrense
 |malhadense
-|malhadura<q:has gl>
-|malheira<q:has gl>
+|malhadura<qq:has gl>
+|malheira<qq:has gl>
 |malheiro
 |malhete
-|malhó<q:has gl>
+|malhó<qq:has gl>
 |malila
 |malinagem
 |malino
@@ -16640,8 +16640,8 @@
 |mamoca
 |mamoeiro-macho
 |mamola
-|mamota<q:has gl>
-|mamote<q:has gl>
+|mamota<qq:has gl>
+|mamote<qq:has gl>
 |mamoto
 |mamulengo
 |mamuna
@@ -16702,7 +16702,7 @@
 |manga-de-alpaca
 |manga-de-eixo
 |mangabeirense
-|mangado<q:has gl>
+|mangado<qq:has gl>
 |mangaká
 |mangaratibano
 |mangaratibense
@@ -16721,7 +16721,7 @@
 |manife
 |manimento
 |maningue
-|maniota<q:has gl>
+|maniota<qq:has gl>
 |manipular
 |manipuri
 |maniqueu
@@ -16787,7 +16787,7 @@
 |mapati
 |mapinguari
 |maple
-|mapoula<q:has gl>
+|mapoula<qq:has gl>
 |mapudungun
 |maquetista
 |maquilagem
@@ -16804,7 +16804,7 @@
 |maracoteiro
 |maracá
 |maragogipano
-|maragota<q:has gl>
+|maragota<qq:has gl>
 |maragotão
 |marajó
 |maranao
@@ -16836,7 +16836,7 @@
 |marela
 |margeamento
 |marginalidade
-|margota<q:has gl>
+|margota<qq:has gl>
 |margueda
 |marguedeira
 |mari
@@ -16920,7 +16920,7 @@
 |maroto
 |marouco
 |maroufa
-|maroutalho<q:has gl>
+|maroutalho<qq:has gl>
 |marouva
 |marouça
 |marquisa
@@ -16954,7 +16954,7 @@
 |maruim
 |marujada
 |marulhada
-|marusia<q:has gl>
+|marusia<qq:has gl>
 |marvada
 |marxista-leninista
 |marão
@@ -16995,7 +16995,7 @@
 |mata-gente
 |mata-piolhos
 |mata-soldado
-|matachim<q:has gl>
+|matachim<qq:has gl>
 |matadura
 |matalotagem
 |matalote
@@ -17143,8 +17143,8 @@
 |meia-água
 |meias
 |meiaviense
-|meigalho<q:has gl>
-|meigo<q:has gl>
+|meigalho<qq:has gl>
+|meigo<qq:has gl>
 |meiguices
 |meijengra
 |meijengro
@@ -17171,9 +17171,9 @@
 |meiotes
 |meiple
 |meirinha
-|meisinho<q:has gl>
+|meisinho<qq:has gl>
 |meita
-|meixela<q:has gl>
+|meixela<qq:has gl>
 |mejengra
 |mekeo
 |mel de dedo
@@ -17194,7 +17194,7 @@
 |melcatrefe
 |melechete
 |melena
-|melgacho<q:has gl>
+|melgacho<qq:has gl>
 |melgo
 |melgoteiro
 |melgotão
@@ -17238,9 +17238,9 @@
 |mendoncense
 |mengo
 |menina-de-cinco-olhos
-|meninha<q:has gl>
-|meninhice<q:has gl>
-|meninho<q:has gl>
+|meninha<qq:has gl>
+|meninhice<qq:has gl>
+|meninho<qq:has gl>
 |menino de rua
 |menino-bonito
 |menonita
@@ -17258,14 +17258,14 @@
 |mentastro
 |mente poluída
 |mentirada
-|mentireiro<q:has gl>
+|mentireiro<qq:has gl>
 |mentrasto
-|mentres<q:has gl>
+|mentres<qq:has gl>
 |mentário
 |menárquica
 |menárquico
 |meotes
-|mera<q:has gl>
+|mera<qq:has gl>
 |mercantilismo
 |mercantilista
 |mercar
@@ -17273,7 +17273,7 @@
 |merchã
 |mercurial
 |merdeiro
-|merdento<q:has gl>
+|merdento<qq:has gl>
 |merdimbuca
 |merdona
 |merdoso
@@ -17322,7 +17322,7 @@
 |messápico
 |messápio
 |mesta
-|mesto<q:has gl>
+|mesto<qq:has gl>
 |mestrando
 |mestre de cerimônias
 |mestre-cuca
@@ -17581,7 +17581,7 @@
 |mochila-de-criança
 |mochilo
 |mock-up
-|moco<q:has gl>
+|moco<qq:has gl>
 |mocoquense
 |mocorongo
 |mocumentário
@@ -17626,8 +17626,8 @@
 |mogor
 |mohawk
 |moicanos
-|moinheira<q:has gl>
-|moinheiro<q:has gl>
+|moinheira<qq:has gl>
+|moinheiro<qq:has gl>
 |moirão
 |moisés
 |moiteira
@@ -17665,8 +17665,8 @@
 |molinismo
 |molinologia
 |moliço
-|molo<q:has gl>
-|molote<q:has gl>
+|molo<qq:has gl>
+|molote<qq:has gl>
 |molura
 |moluscoide
 |moluscos
@@ -17749,7 +17749,7 @@
 |mornalheira
 |morneira
 |morneiro
-|morneza<q:has gl>
+|morneza<qq:has gl>
 |moroca
 |morouço
 |morparaense
@@ -17780,7 +17780,7 @@
 |mortugabense
 |mortuário
 |morubixaba
-|moruja<q:has gl>
+|moruja<qq:has gl>
 |morungabense
 |moréia
 |mosca azul
@@ -17824,14 +17824,14 @@
 |motricidade
 |motril
 |motriz
-|moucho<q:has gl>
+|moucho<qq:has gl>
 |mouk-aria
 |mount point
 |mouqueira
 |mouquice
 |mouquidão
 |mourense
-|mourença<q:has gl>
+|mourença<qq:has gl>
 |mourisca
 |mourisco
 |mouronhense
@@ -17970,7 +17970,7 @@
 |mutualista
 |mutuipense
 |mutuquense
-|muxica<q:has gl>
+|muxica<qq:has gl>
 |muxuango
 |muxão
 |muzungo
@@ -18073,10 +18073,10 @@
 |mẽbêngôkre
 |n'ko
 |nabantino
-|nabeira<q:has gl>
+|nabeira<qq:has gl>
 |nabinha
 |nabiça
-|nabiçal<q:has gl>
+|nabiçal<qq:has gl>
 |naca
 |nacada
 |nacha
@@ -18088,7 +18088,7 @@
 |nafé
 |nagalheira
 |nagalho
-|nai<q:has gl>
+|nai<qq:has gl>
 |naira
 |naite
 |nakfa
@@ -18190,7 +18190,7 @@
 |neerlandófono
 |nefa
 |nefrectomia
-|nefres<q:has gl>
+|nefres<qq:has gl>
 |nefrotoxina
 |nefrotóxico
 |nefrídeo
@@ -18210,16 +18210,16 @@
 |neguentropia
 |negócio jurídico
 |nehan
-|neixarigo<q:has gl>
+|neixarigo<qq:has gl>
 |nele
 |nematoides
 |nematóides
 |nemigo
-|nena<q:has gl>
-|neneira<q:has gl>
+|nena<qq:has gl>
+|neneira<qq:has gl>
 |nengra
 |nengro
-|neno<q:has gl>
+|neno<qq:has gl>
 |nené
 |neo-hegelianismo
 |neo-realismo
@@ -18265,7 +18265,7 @@
 |neuropatologia
 |neuroprótese
 |neurotoxicidade
-|nevarada<q:has gl>
+|nevarada<qq:has gl>
 |nevasqueira
 |neve de altitude
 |neve de inverno
@@ -18325,7 +18325,7 @@
 |nipônio
 |niquice
 |niquim
-|nisco<q:has gl>
+|nisco<qq:has gl>
 |nissan
 |nisã
 |nit
@@ -18348,7 +18348,7 @@
 |nogueira-de-bancul
 |nogueira-de-iguape
 |nogueirense
-|noiro<q:has gl>
+|noiro<qq:has gl>
 |noite alta
 |noite americana
 |noite branca
@@ -18463,8 +18463,8 @@
 |nudofobia
 |nuelo
 |nuga
-|nugalha<q:has gl>
-|nugalhã<q:has gl>
+|nugalha<qq:has gl>
+|nugalhã<qq:has gl>
 |nugá
 |nukuoro
 |nullidade
@@ -18487,7 +18487,7 @@
 |nutriz
 |nutrologia
 |nuvarrão
-|nuveiro<q:has gl>
+|nuveiro<qq:has gl>
 |nuvens da rotina
 |nuvistor
 |nuvre
@@ -18515,7 +18515,7 @@
 |não-qualificação
 |não-te-esqueças-de-mim
 |nègre
-|nécora<q:has gl>
+|nécora<qq:has gl>
 |négligé
 |nério
 |nêmese
@@ -18673,7 +18673,7 @@
 |olho rasgado
 |olho-de-sapiranga
 |olho-de-sogra
-|olhomole<q:has gl>
+|olhomole<qq:has gl>
 |oligofrenia
 |olimpiense
 |olindense
@@ -18684,7 +18684,7 @@
 |olor
 |olímpio-noronhense
 |omaniano
-|ombreiro<q:has gl>
+|ombreiro<qq:has gl>
 |ombrelone
 |ombros
 |omega
@@ -18862,14 +18862,14 @@
 |ototóxico
 |ouabain
 |ouabaína
-|ouca<q:has gl>
+|ouca<qq:has gl>
 |oucheira
 |oucheiro
-|ouga<q:has gl>
+|ouga<qq:has gl>
 |ouguelense
 |ourama
 |oureense
-|ourego<q:has gl>
+|ourego<qq:has gl>
 |ourelo
 |ourensano
 |ourensão
@@ -18961,7 +18961,7 @@
 |pacó
 |pacómetro
 |pacômetro
-|pada<q:has gl>
+|pada<qq:has gl>
 |padamarro
 |padecente
 |padecimento
@@ -18996,10 +18996,10 @@
 |pai-nosso
 |paica
 |paidéia
-|paifoco<q:has gl>
+|paifoco<qq:has gl>
 |paim
 |paioleiro
-|paiolo<q:has gl>
+|paiolo<qq:has gl>
 |pairari
 |pairo
 |pais
@@ -19053,8 +19053,8 @@
 |palhão
 |pali
 |palilalia
-|palilheira<q:has gl>
-|palilho<q:has gl>
+|palilheira<qq:has gl>
+|palilho<qq:has gl>
 |palingenesia
 |palmarense
 |palmatoada
@@ -19076,7 +19076,7 @@
 |pamona
 |pampangan
 |pampilho
-|pampo<q:has gl>
+|pampo<qq:has gl>
 |pan-africanismo
 |pana
 |panada
@@ -19091,8 +19091,8 @@
 |panasqueiro
 |panceps
 |panceta
-|pancha<q:has gl>
-|pancho<q:has gl>
+|pancha<qq:has gl>
+|pancho<qq:has gl>
 |pandano
 |pandeló de festa
 |pandilha
@@ -19126,20 +19126,20 @@
 |pantasma
 |panteiro
 |panteon
-|panterlo<q:has gl>
+|panterlo<qq:has gl>
 |pantim
 |pantofobia
 |pantomineiro
 |panyjima
 |panytyima
 |panô
-|papa-figo<q:has gl>
+|papa-figo<qq:has gl>
 |papa-figos
 |papa-fumo
 |papa-hóstia
 |papa-moscas-cinzento
 |papa-ovo
-|papa-sol<q:has gl>
+|papa-sol<qq:has gl>
 |papa-terra
 |papaeira
 |papagaiada
@@ -19170,7 +19170,7 @@
 |papietagem
 |papilionáceas
 |papirólogo
-|papo-ruivo<q:has gl>
+|papo-ruivo<qq:has gl>
 |papo-seco
 |papoila-das-praias
 |papoila-dormideira
@@ -19239,7 +19239,7 @@
 |pardelhense
 |pardelho
 |pardilho
-|pardinheiro<q:has gl>
+|pardinheiro<qq:has gl>
 |pardinho
 |pardo-escuro
 |parecerista
@@ -19293,7 +19293,7 @@
 |parreco
 |parro
 |parrolo
-|parrulo<q:has gl>
+|parrulo<qq:has gl>
 |partejo
 |participação de mercado
 |partidarização
@@ -19303,9 +19303,9 @@
 |partícipe
 |parusia
 |parva
-|parvada<q:has gl>
-|parvalhada<q:has gl>
-|parvoada<q:has gl>
+|parvada<qq:has gl>
+|parvalhada<qq:has gl>
+|parvoada<qq:has gl>
 |parvónia
 |pará
 |parçaria
@@ -19348,10 +19348,10 @@
 |pastilha de prosa
 |pastora
 |pastoradas
-|pastorinha<q:has gl>
+|pastorinha<qq:has gl>
 |pata de camelo
 |pata-cega
-|pataca-doce<q:has gl>
+|pataca-doce<qq:has gl>
 |patacho
 |pataco
 |patacoa
@@ -19452,7 +19452,7 @@
 |pecuarista
 |peculatário
 |pecíolo
-|pecúmia<q:has gl>
+|pecúmia<qq:has gl>
 |pecúnia
 |pedalada fiscal
 |pedaço de asno
@@ -19528,7 +19528,7 @@
 |peina
 |peirão
 |peitas
-|peite<q:has gl>
+|peite<qq:has gl>
 |peitolé
 |peituga
 |peixa de bacalhau
@@ -19560,7 +19560,7 @@
 |peleiro
 |pelejo
 |pelengrino
-|peleteiro<q:has gl>
+|peleteiro<qq:has gl>
 |pelicana
 |pelicanas
 |pelicanos
@@ -19570,7 +19570,7 @@
 |pelindrengas
 |pelingrino
 |pelintra
-|peliqueiro<q:has gl>
+|peliqueiro<qq:has gl>
 |peliteiro
 |pelitre
 |peliça
@@ -19594,7 +19594,7 @@
 |pencha
 |pencinê
 |pencão
-|pendelho<q:has gl>
+|pendelho<qq:has gl>
 |pendenga
 |pendengues
 |pendericalho
@@ -19723,8 +19723,8 @@
 |peroração
 |perpetuidade
 |perpétua
-|perrencha<q:has gl>
-|perrenchudo<q:has gl>
+|perrencha<qq:has gl>
+|perrenchudo<qq:has gl>
 |perrense
 |persa antigo
 |perseguido
@@ -19762,9 +19762,9 @@
 |pesca-rapazes
 |pescadeira
 |pescal
-|pescantim<q:has gl>
+|pescantim<qq:has gl>
 |pescaria
-|pesco<q:has gl>
+|pesco<qq:has gl>
 |pescoção
 |pesebre
 |peso bruto
@@ -19798,8 +19798,8 @@
 |petatesla
 |petebismo
 |petecista
-|peteiro<q:has gl>
-|petelo<q:has gl>
+|peteiro<qq:has gl>
+|petelo<qq:has gl>
 |petezada
 |petimetre
 |petinga
@@ -19809,8 +19809,8 @@
 |petizada
 |petizote
 |petiço
-|peto<q:has gl>
-|petouto<q:has gl>
+|peto<qq:has gl>
+|petouto<qq:has gl>
 |petralhice
 |petricor
 |petrina
@@ -19821,10 +19821,10 @@
 |petropolitano
 |petroquímica
 |petroquímico
-|petrúzio<q:has gl>
+|petrúzio<qq:has gl>
 |petulante
 |petão
-|pevida<q:has gl>
+|pevida<qq:has gl>
 |pevista
 |pexerica
 |pexigo
@@ -19850,7 +19850,7 @@
 |piau
 |pibinho
 |pica-flor
-|pica-folhas<q:has gl>
+|pica-folhas<qq:has gl>
 |pica-grossa
 |pica-osso
 |pica-pau-malhado-pequeno
@@ -19861,7 +19861,7 @@
 |picanço-real
 |picanço-real-meridional
 |picanço-real-nortenho
-|picaranha<q:has gl>
+|picaranha<qq:has gl>
 |picardia
 |picas
 |pichaim
@@ -19880,7 +19880,7 @@
 |picuense
 |picuinha
 |picum
-|picureia<q:has gl>
+|picureia<qq:has gl>
 |picão
 |pidgin nigeriano
 |pidão
@@ -19921,7 +19921,7 @@
 |pince-nez
 |pincha
 |pincha-carneira
-|pinche<q:has gl>
+|pinche<qq:has gl>
 |pincho
 |pincorro
 |pindaiense
@@ -20207,7 +20207,7 @@
 |pojo
 |pojucano
 |poka-yoke
-|pola<q:has gl>
+|pola<qq:has gl>
 |polacoparlante
 |polaroid
 |polaroide
@@ -20413,16 +20413,16 @@
 |pouca-roupa
 |poucas e boas
 |pouco
-|poula<q:has gl>
+|poula<qq:has gl>
 |poule
-|poulo<q:has gl>
+|poulo<qq:has gl>
 |pound
 |pousa
-|pousa-fole<q:has gl>
-|pousa-foles<q:has gl>
+|pousa-fole<qq:has gl>
+|pousa-foles<qq:has gl>
 |pousadeira
 |pousadouro
-|pouta<q:has gl>
+|pouta<qq:has gl>
 |pova
 |povaréu
 |poveira
@@ -20458,7 +20458,7 @@
 |praz-me
 |prazo útil
 |praça-forte
-|prebe<q:has gl>
+|prebe<qq:has gl>
 |prebenda
 |prebiótico
 |precatório
@@ -20842,8 +20842,8 @@
 |pubescência
 |public-relations
 |pucela
-|pucha<q:has gl>
-|pucheiro<q:has gl>
+|pucha<qq:has gl>
+|pucheiro<qq:has gl>
 |puela
 |puera
 |puericultura
@@ -20914,7 +20914,7 @@
 |pão de saluga
 |pão-de-ló-de-festa
 |pão-por-deus
-|pão-trigo<q:has gl>
+|pão-trigo<qq:has gl>
 |pé da barriga
 |pé de lã
 |pé de meia
@@ -20956,9 +20956,9 @@
 |pênfigo
 |pêro
 |pêxego
-|pícaro<q:has gl>
+|pícaro<qq:has gl>
 |pídgin
-|pílhara<q:has gl>
+|pílhara<qq:has gl>
 |pílio
 |pílum
 |píncaro
@@ -21091,7 +21091,7 @@
 |queirozense
 |queirozianismo
 |queirozianista
-|queiruga<q:has gl>
+|queiruga<qq:has gl>
 |queiró
 |queixa-crime
 |queixos
@@ -21100,7 +21100,7 @@
 |quelha
 |quelho
 |queluzense
-|quenda<q:has gl>
+|quenda<qq:has gl>
 |quendama
 |quendô
 |quengo
@@ -21257,7 +21257,7 @@
 |rabiosque
 |rabirruivo-preto
 |rabisca
-|rabissaco<q:has gl>
+|rabissaco<qq:has gl>
 |rabiça
 |rabo de olho
 |rabo preso
@@ -21325,7 +21325,7 @@
 |rainha-dos-prados
 |raio trator
 |raio-x
-|raiola<q:has gl>
+|raiola<qq:has gl>
 |raion
 |raitana
 |raivosidade
@@ -21334,7 +21334,7 @@
 |raiz-preta
 |raizame
 |raja
-|rajeira<q:has gl>
+|rajeira<qq:has gl>
 |rajo
 |rakahanga-manihiki
 |rala-bucho
@@ -21351,17 +21351,17 @@
 |ramerrão
 |ramoaaina
 |ranca
-|rancalho<q:has gl>
+|rancalho<qq:has gl>
 |rancanho
 |rancatrilha
-|rancha<q:has gl>
+|rancha<qq:has gl>
 |rancharia
 |ranchariense
 |rancheria
 |ranco
 |rancolho
-|randeeira<q:has gl>
-|rangalheira<q:has gl>
+|randeeira<qq:has gl>
+|rangalheira<qq:has gl>
 |range
 |ranhadense
 |ranhadorio
@@ -21373,7 +21373,7 @@
 |ransomware
 |ranzinzice
 |ranário
-|rapante<q:has gl>
+|rapante<qq:has gl>
 |rapapé
 |rapazelho
 |rapazio
@@ -21431,7 +21431,7 @@
 |ratonice
 |ratânia
 |ratô
-|ravecha<q:has gl>
+|ravecha<qq:has gl>
 |ravióli
 |ray grass
 |razoado
@@ -21468,7 +21468,7 @@
 |rebusno
 |rebuço
 |rebôo
-|rebúmbio<q:has gl>
+|rebúmbio<qq:has gl>
 |reca
 |recada
 |recado animado
@@ -21548,7 +21548,7 @@
 |reepitelização
 |reestadiamento
 |reexame
-|refaixo<q:has gl>
+|refaixo<qq:has gl>
 |refação
 |refego
 |refegos
@@ -21566,7 +21566,7 @@
 |reforma agrária
 |reformismo
 |reforço alimentar
-|refugalho<q:has gl>
+|refugalho<qq:has gl>
 |regada
 |regatão
 |regenta
@@ -21608,7 +21608,7 @@
 |reivó
 |reixada
 |reixelo
-|rejo<q:has gl>
+|rejo<qq:has gl>
 |rejogabilidade
 |rejão
 |rejó
@@ -21631,7 +21631,7 @@
 |religiófobo
 |relinga
 |relise
-|relo<q:has gl>
+|relo<qq:has gl>
 |relocação
 |relão
 |relíquias
@@ -21672,7 +21672,7 @@
 |replantio
 |replemento
 |repleção
-|repolo<q:has gl>
+|repolo<qq:has gl>
 |repontão
 |repos
 |reposta
@@ -21727,7 +21727,7 @@
 |resulta
 |resura
 |resvalo
-|resólio<q:has gl>
+|resólio<qq:has gl>
 |ret
 |retada
 |retalhos
@@ -21736,7 +21736,7 @@
 |retardatário
 |retardação
 |retardo mental
-|retesia<q:has gl>
+|retesia<qq:has gl>
 |retinto
 |retirada
 |retirolandense
@@ -21751,7 +21751,7 @@
 |retratista
 |retração
 |retreta
-|retrinco<q:has gl>
+|retrinco<qq:has gl>
 |retroação
 |retrogosto
 |retroinformação
@@ -21760,7 +21760,7 @@
 |retroseiro
 |retroseiros
 |retroterra
-|retrouço<q:has gl>
+|retrouço<qq:has gl>
 |retruque
 |retrós
 |reumatologia
@@ -21780,18 +21780,18 @@
 |revisteca
 |revistinha
 |revival
-|revoldaina<q:has gl>
+|revoldaina<qq:has gl>
 |revolta
 |rex
 |rexe
-|rexurdimento<q:has gl>
+|rexurdimento<qq:has gl>
 |rezinga
 |riachense
 |riachão-nevense
 |riade
 |riamba
 |riana
-|ribas<q:has gl>
+|ribas<qq:has gl>
 |ribatejano
 |ribeira-bravense
 |ribeira-grandense
@@ -21814,14 +21814,14 @@
 |rifão
 |rijeza
 |rijão
-|rilhote<q:has gl>
+|rilhote<qq:has gl>
 |rima pobre
 |rima preciosa
 |rima rica
 |rimmel
 |rincoalho
 |ring tone
-|ringla<q:has gl>
+|ringla<qq:has gl>
 |ringleira
 |ringoleira
 |rink
@@ -21863,7 +21863,7 @@
 |roaz-corvineiro
 |roaz-do-índico
 |robalinho
-|robaliça<q:has gl>
+|robaliça<qq:has gl>
 |roboa
 |robustez
 |robô sexual
@@ -21898,7 +21898,7 @@
 |rojo
 |rola-do-mar
 |roladeira
-|rolda<q:has gl>
+|rolda<qq:has gl>
 |rolemã
 |rolhas
 |rolho
@@ -21921,7 +21921,7 @@
 |romela
 |romenofonia
 |romenoparlante
-|romeu<q:has gl>
+|romeu<qq:has gl>
 |românico
 |romântico
 |romãzeiral
@@ -21929,14 +21929,14 @@
 |ronceirismo
 |roncha
 |roncolho
-|roncão<q:has gl>
+|roncão<qq:has gl>
 |rondo
 |rondonense
 |rondonopolitano
 |rondão
 |rondó
 |ronha
-|ronsel<q:has gl>
+|ronsel<qq:has gl>
 |roquefor
 |roquefort
 |roquenrol
@@ -21956,7 +21956,7 @@
 |rosicler
 |rosmarinho
 |rosnelo
-|rossel<q:has gl>
+|rossel<qq:has gl>
 |rosáceo
 |rotacização
 |rotativa
@@ -21979,7 +21979,7 @@
 |roças
 |roço
 |rua da amargura
-|ruada<q:has gl>
+|ruada<qq:has gl>
 |ruanda
 |ruandoparlante
 |rubacão
@@ -21994,7 +21994,7 @@
 |rui-barbosense
 |ruinaria
 |ruivinha
-|ruivém<q:has gl>
+|ruivém<qq:has gl>
 |ruma
 |rumba
 |rumorejo
@@ -22005,7 +22005,7 @@
 |rusino
 |rusino dos Cárpatos
 |russoparlante
-|rustrido<q:has gl>
+|rustrido<qq:has gl>
 |rutul
 |rutáceas
 |ruças
@@ -22119,12 +22119,12 @@
 |saio
 |sais
 |saisiyat
-|salabardo<q:has gl>
+|salabardo<qq:has gl>
 |salaciano
 |salaciense
 |salada de palavras
 |saladeira
-|salaio<q:has gl>
+|salaio<qq:has gl>
 |salama
 |salamanquense
 |salamanquino
@@ -22148,13 +22148,13 @@
 |salomónico
 |salomônico
 |salonicense
-|salouco<q:has gl>
+|salouco<qq:has gl>
 |salpico
 |salsa-dos-rios
 |salsada
 |salseira
 |salseirada
-|salseiro<q:has gl>
+|salseiro<qq:has gl>
 |salsichona
 |salsifré
 |salso argento
@@ -22307,10 +22307,10 @@
 |sarabulho
 |saragoçano
 |saramacano
-|saramago<q:has gl>
+|saramago<qq:has gl>
 |saramago-rinchão
 |saramela
-|sarampelo<q:has gl>
+|sarampelo<qq:has gl>
 |saramuga
 |sarandalhas
 |sarapebé
@@ -22335,7 +22335,7 @@
 |saricoté
 |sarigueia
 |sarilhense
-|sarja<q:has gl>
+|sarja<qq:has gl>
 |sarmão
 |sarna para se coçar
 |sarnadense
@@ -22344,7 +22344,7 @@
 |sarraceno
 |sarrajão
 |sarta
-|sartego<q:has gl>
+|sartego<qq:has gl>
 |sartigalho
 |sartã
 |saru
@@ -22448,7 +22448,7 @@
 |seitoura
 |seitã
 |seixalense
-|seixebra<q:has gl>
+|seixebra<qq:has gl>
 |seixezelense
 |selado
 |selaria
@@ -22769,7 +22769,7 @@
 |sirga
 |sirgueiro
 |siriema
-|sirim<q:has gl>
+|sirim<qq:has gl>
 |siriruia
 |siríaco clássico
 |sisa
@@ -22865,14 +22865,14 @@
 |sodalício
 |sodemia
 |sofisticação
-|sofragem<q:has gl>
+|sofragem<qq:has gl>
 |sofralda
 |softa
 |softwer
 |sogdiano
 |sogra-torta
 |sogro-torto
-|soidade<q:has gl>
+|soidade<qq:has gl>
 |soidão
 |soitaria
 |soitinha
@@ -22891,7 +22891,7 @@
 |sol sustenido maior
 |sol sustenido menor
 |sola de sapato
-|solaina<q:has gl>
+|solaina<qq:has gl>
 |solanáceas
 |solaz
 |soldão
@@ -22933,7 +22933,7 @@
 |sombreamento
 |sombrio
 |sommier
-|somonte<q:has gl>
+|somonte<qq:has gl>
 |sona
 |sone
 |sonetista
@@ -22974,7 +22974,7 @@
 |sorábio alto
 |sorábio baixo
 |sorâni
-|sorça<q:has gl>
+|sorça<qq:has gl>
 |sorção
 |sostra
 |sota-ministro
@@ -23363,7 +23363,7 @@
 |tanchão
 |tancredense
 |tanda
-|tangaranho<q:has gl>
+|tangaranho<qq:has gl>
 |tanger
 |tangrama
 |tanguaense
@@ -23382,7 +23382,7 @@
 |tantas
 |tantinho
 |tantra
-|tança<q:has gl>
+|tança<qq:has gl>
 |taoista
 |taos
 |taoísta
@@ -23461,7 +23461,7 @@
 |taruíra
 |taráxaco
 |tasco
-|tascão<q:has gl>
+|tascão<qq:has gl>
 |tashelhit
 |tasmaniano
 |tasneirinha
@@ -23471,7 +23471,7 @@
 |tataraneto
 |tataravó
 |tataravô
-|tatejo<q:has gl>
+|tatejo<qq:has gl>
 |taticumã
 |tattoo
 |tatuiano
@@ -23526,7 +23526,7 @@
 |teiga
 |teiniaguá
 |teipe
-|teito<q:has gl>
+|teito<qq:has gl>
 |teixeirense
 |teixugo
 |tejo
@@ -23870,7 +23870,7 @@
 |tokelauano
 |token
 |toki pona
-|tolada<q:has gl>
+|tolada<qq:has gl>
 |tolai
 |tolar
 |tolda
@@ -23940,7 +23940,7 @@
 |torda
 |torda-anã
 |torga
-|torgo<q:has gl>
+|torgo<qq:has gl>
 |torgueira
 |torgueiro
 |torna
@@ -23981,7 +23981,7 @@
 |touça
 |touçal
 |touço
-|tovo<q:has gl>
+|tovo<qq:has gl>
 |toxemia
 |toxia
 |toxicemia
@@ -24050,11 +24050,11 @@
 |trampa
 |tramóia
 |trancada
-|trancalhada<q:has gl>
+|trancalhada<qq:has gl>
 |trancaço
 |trancelim
-|trandeira<q:has gl>
-|trangalhada<q:has gl>
+|trandeira<qq:has gl>
+|trangalhada<qq:has gl>
 |tranqueiro
 |tranquilex
 |tranqüilizante
@@ -24101,14 +24101,14 @@
 |trapola
 |traquina
 |traquinice
-|trasacordo<q:has gl>
+|trasacordo<qq:has gl>
 |trasfega
 |trasfego
-|trasmalho<q:has gl>
+|trasmalho<qq:has gl>
 |trasmontanismo
 |trasmontano
-|trasno<q:has gl>
-|trastenda<q:has gl>
+|trasno<qq:has gl>
+|trastenda<qq:has gl>
 |trasto
 |trasunto
 |tratador
@@ -24134,11 +24134,11 @@
 |trecolareco
 |tredécima
 |tredécimo
-|treijadura<q:has gl>
+|treijadura<qq:has gl>
 |treinando
 |treineiro
 |treita
-|treito<q:has gl>
+|treito<qq:has gl>
 |treitoira
 |treitoura
 |treitouros
@@ -24159,7 +24159,7 @@
 |trepa-trepa
 |trepadeira-azul
 |trepe
-|trepeça<q:has gl>
+|trepeça<qq:has gl>
 |trepola
 |trepolo
 |tresavó
@@ -24168,7 +24168,7 @@
 |tresmalho
 |tresneta
 |tresneto
-|treu<q:has gl>
+|treu<qq:has gl>
 |trevo-cervino
 |trevoada
 |treze-maiense
@@ -24257,7 +24257,7 @@
 |triângulo geodésico
 |triângulo obtusângulo
 |triângulo trirretângulo
-|triça<q:has gl>
+|triça<qq:has gl>
 |triúnviro
 |troada
 |troba
@@ -24294,13 +24294,13 @@
 |tropido
 |tropilha
 |tropo
-|troque<q:has gl>
+|troque<qq:has gl>
 |troquilídeos
 |trotunho
-|troula<q:has gl>
+|troula<qq:has gl>
 |trouxo
-|trouça<q:has gl>
-|trouço<q:has gl>
+|trouça<qq:has gl>
+|trouço<qq:has gl>
 |troveiro
 |troviscal
 |trovisco
@@ -24449,7 +24449,7 @@
 |tômboro
 |túlu
 |túndia
-|túçaro<q:has gl>
+|túçaro<qq:has gl>
 |uacari-branco
 |uacari-de-cabeça-preta
 |uacari-preto
@@ -24520,7 +24520,7 @@
 |ulixibonense
 |ulmense
 |ulmo
-|ulo<q:has gl>
+|ulo<qq:has gl>
 |ultimátum
 |ultra-esquerdismo
 |ultra-sonografia
@@ -24549,7 +24549,7 @@
 |umbuzeiro
 |umbykyra
 |umedecimento
-|umedém<q:has gl>
+|umedém<qq:has gl>
 |umeral
 |umidade absoluta
 |umidade relativa
@@ -24596,7 +24596,7 @@
 |urbanista
 |urbanizador
 |urca
-|urco<q:has gl>
+|urco<qq:has gl>
 |urdanho
 |urduoparlante
 |uremia
@@ -24651,7 +24651,7 @@
 |uvulotomia
 |uxorilocalidade
 |uyezd
-|uz<q:has gl>
+|uz<qq:has gl>
 |uíste
 |uólofe
 |v
@@ -24684,7 +24684,7 @@
 |valboense
 |valdense
 |vale-transporte
-|valeira<q:has gl>
+|valeira<qq:has gl>
 |valeiro
 |valencense
 |valentense
@@ -24693,10 +24693,10 @@
 |valerato
 |valerianato
 |valerioduto
-|valgada<q:has gl>
+|valgada<qq:has gl>
 |valhacouto
 |valhala
-|valhão<q:has gl>
+|valhão<qq:has gl>
 |valicoto
 |validamento
 |validação
@@ -24707,7 +24707,7 @@
 |valor-trabalho
 |valsador
 |valsante
-|valumem<q:has gl>
+|valumem<qq:has gl>
 |valverdense
 |vampe
 |vanessa
@@ -24722,7 +24722,7 @@
 |varadouro
 |varanídeo
 |vareagem
-|vareija<q:has gl>
+|vareija<qq:has gl>
 |vareiro
 |varejão
 |varela
@@ -24775,7 +24775,7 @@
 |vedeta
 |vedete
 |vedismo
-|vedranho<q:has gl>
+|vedranho<qq:has gl>
 |vedro
 |vegada
 |vegan
@@ -24826,8 +24826,8 @@
 |ventrecha
 |ventrilha
 |ventriloquista
-|ventrulho<q:has gl>
-|ventureiro<q:has gl>
+|ventrulho<qq:has gl>
+|ventureiro<qq:has gl>
 |venusino
 |venustidade
 |venustrafobia
@@ -24840,7 +24840,7 @@
 |vera-cruzense
 |veranil
 |veratro
-|verbalhoeira<q:has gl>
+|verbalhoeira<qq:has gl>
 |verberão
 |verbeteiro
 |verbetista
@@ -24886,11 +24886,11 @@
 |vereia
 |verense
 |vergalho
-|vergalhão<q:has gl>
+|vergalhão<qq:has gl>
 |vergame
 |vergancha
 |vergonhas
-|vergonça<q:has gl>
+|vergonça<qq:has gl>
 |vergueta
 |vergôntea
 |veridicidade
@@ -24995,7 +24995,7 @@
 |vidro-do-ar
 |viegas
 |vieirense
-|vieiro<q:has gl>
+|vieiro<qq:has gl>
 |vietnamense
 |vietnamiano
 |vietnamofonia
@@ -25019,7 +25019,7 @@
 |vilarregense
 |vilaçorano
 |vilegiatura
-|vilego<q:has gl>
+|vilego<qq:has gl>
 |vileiro
 |vilhenense
 |vilipêndio
@@ -25027,11 +25027,11 @@
 |vimeiro
 |vinagreta
 |vinca
-|vincalho<q:has gl>
+|vincalho<qq:has gl>
 |vincelho
 |vinculação
 |vinculação gênica
-|vinculeiro<q:has gl>
+|vinculeiro<qq:has gl>
 |vindimador
 |vinga
 |vinhado
@@ -25057,7 +25057,7 @@
 |violácea
 |violáceo
 |viomal
-|viosbardos<q:has gl>
+|viosbardos<qq:has gl>
 |viperina
 |vira-latismo
 |vira-pedras
@@ -25068,7 +25068,7 @@
 |virilocalidade
 |virlandês
 |virosfera
-|virugem<q:has gl>
+|virugem<qq:has gl>
 |virulência
 |visagismo
 |visagista
@@ -25109,14 +25109,14 @@
 |vocalização
 |vodo
 |voga-avante
-|vogada<q:has gl>
+|vogada<qq:has gl>
 |vogal de ligação
 |vogal palatal
 |voile
 |vol-au-vent
 |volatim
 |volovã
-|volpe<q:has gl>
+|volpe<qq:has gl>
 |volta-redondense
 |voltarete
 |volte
@@ -25141,7 +25141,7 @@
 |votorantinense
 |votuporanguense
 |votíaco
-|vougo<q:has gl>
+|vougo<qq:has gl>
 |vox populi, vox Dei
 |voxel
 |voz de polichinelo
@@ -25237,7 +25237,7 @@
 |x-nove
 |x-salada
 |x-tudo
-|xabre<q:has gl>
+|xabre<qq:has gl>
 |xabrega
 |xacho
 |xacra
@@ -25254,7 +25254,7 @@
 |xanxerense
 |xaputa
 |xara
-|xaramago<q:has gl>
+|xaramago<qq:has gl>
 |xarda
 |xarel
 |xarelete
@@ -25264,21 +25264,21 @@
 |xaropada
 |xarumelas
 |xarém
-|xata<q:has gl>
-|xato<q:has gl>
+|xata<qq:has gl>
+|xato<qq:has gl>
 |xaual
 |xavantense
 |xavantino
 |xaxim
-|xebra<q:has gl>
-|xebre<q:has gl>
+|xebra<qq:has gl>
+|xebre<qq:has gl>
 |xebroada
 |xeleléu
 |xenhenhém
 |xenofilia
 |xenomania
 |xenomorfo
-|xenreira<q:has gl>
+|xenreira<qq:has gl>
 |xenão
 |xenófilo
 |xeol
@@ -25315,14 +25315,14 @@
 |xirico
 |xirê
 |xiró
-|xistra<q:has gl>
+|xistra<qq:has gl>
 |xistro
 |xistros
 |xitaca
 |xitimela
 |xixo
 |xofar
-|xofre<q:has gl>
+|xofre<qq:has gl>
 |xona
 |xoninhas
 |xorca
@@ -25330,7 +25330,7 @@
 |xortes
 |xosa
 |xostrão
-|xouva<q:has gl>
+|xouva<qq:has gl>
 |xoxo
 |xoxoteiro
 |xpto
@@ -25338,15 +25338,15 @@
 |xulingo
 |xumbergas
 |xumbrega
-|xurelo<q:has gl>
+|xurelo<qq:has gl>
 |xurreira
-|xurro<q:has gl>
+|xurro<qq:has gl>
 |xurumbambos
 |xuxo
 |xácara
 |xátria
 |xâmego
-|xílgaro<q:has gl>
+|xílgaro<qq:has gl>
 |xópim
 |y
 |yacht
@@ -25406,11 +25406,11 @@
 |zapeamento
 |zapoteca
 |zaracoteia
-|zaragalha<q:has gl>
-|zaragalhada<q:has gl>
+|zaragalha<qq:has gl>
+|zaragalhada<qq:has gl>
 |zaragatoadela
-|zaramalha<q:has gl>
-|zaramalhada<q:has gl>
+|zaramalha<qq:has gl>
+|zaramalhada<qq:has gl>
 |zaranza
 |zarcão
 |zargunchada
@@ -25501,7 +25501,7 @@
 |zona horária
 |zonamento
 |zonchadura
-|zoncho<q:has gl>
+|zoncho<qq:has gl>
 |zonofone
 |zoogeografia
 |zoogeógrafo
@@ -25518,7 +25518,7 @@
 |zorro
 |zorrão
 |zoró
-|zoscadoiro<q:has gl>
+|zoscadoiro<qq:has gl>
 |zote
 |zotismo
 |zoupeira
@@ -25532,7 +25532,7 @@
 |zuate
 |zumbaieiro
 |zume
-|zuna<q:has gl>
+|zuna<qq:has gl>
 |zunge
 |zungão
 |zuni
@@ -25562,7 +25562,7 @@
 |zé-povinho
 |zé-quitólis
 |zóico
-|zúnia<q:has gl>
+|zúnia<qq:has gl>
 |Ádria
 |Ádrio
 |África Central
@@ -25588,7 +25588,7 @@
 |ácido valeriânico
 |ácido valérico
 |ácino
-|ácio<q:has gl>
+|ácio<qq:has gl>
 |ácrata
 |ádvena
 |áfrica
@@ -25652,8 +25652,8 @@
 |átono
 |áulica
 |áurea
-|ázeo<q:has gl>
-|ázio<q:has gl>
+|ázeo<qq:has gl>
+|ázio<qq:has gl>
 |âmbria
 |âmbula
 |âmen
@@ -25680,7 +25680,7 @@
 |éxciton
 |êmbolo
 |êmero
-|êngua<q:has gl>
+|êngua<qq:has gl>
 |êxedra
 |êxodo rural
 |ímpar
