@@ -1,4 +1,3 @@
-|tranqüillo
 |adeqüei
 |adeqüeis
 |adeqüemos
@@ -26,6 +25,3 @@
 |seqüestrada
 |seqüestradas
 |seqüestrados
-|tranqüilla
-|tranqüillas
-|tranqüillos

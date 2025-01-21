@@ -47,6 +47,7 @@ Cyclades
 Cyrena
 Cyrenaica
 Cyrene
+Delphos
 Dezembro
 Dorotheia
 Egypto
@@ -76,6 +77,7 @@ India
 Janeiro
 Jehovah
 Jerichó
+Jerusalem
 Jethro
 Judah
 Julho
@@ -268,6 +270,7 @@ aucthoridade
 augmentar
 authoridade
 autodidacta
+autopsia
 avido
 açucar
 bahia
@@ -288,6 +291,7 @@ bibliothecário
 bijectivo
 bijecção
 bocca
+bromelia
 cahio
 cahir
 calcanhar de Achiles
@@ -308,6 +312,7 @@ carthaginez
 carthaginês
 catechese
 catechizar
+cathegoria
 catheter
 catholico
 cathólico
@@ -359,6 +364,7 @@ comprehender
 comquanto
 condemnado
 conductivo
+conductor
 conflicto
 conjunccional
 conjuncção
@@ -407,6 +413,7 @@ dialecto
 diccionario
 dictador
 dictadura
+dictatorial
 didactico
 differente
 differença
@@ -645,6 +652,7 @@ lagryma
 laryngite
 leccionar
 lectivo
+lettra
 licção
 lingua
 lucta
@@ -661,6 +669,7 @@ machina de escrever
 mamma
 mammar
 mammão
+mappa
 marionette
 marionnette
 marquez
@@ -679,7 +688,11 @@ metempsychose
 methodo
 methodologia
 metter
+mirandez
+mirandeza
+miseravel
 miseria
+misericordia
 monarcha
 monographia
 monophthongo
@@ -708,8 +721,11 @@ objecto voador não identificado
 objecção
 occidental
 occidente
+occupação
 odio
 official
+officina
+officio
 omnidireccional
 onyx
 ophthalmologista
@@ -915,6 +931,7 @@ vacca
 vae
 vector
 vectorial
+villa
 vintem
 walsa
 zygoma

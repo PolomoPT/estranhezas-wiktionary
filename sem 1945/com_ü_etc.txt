@@ -1,6 +1,5 @@
 |proïbir
 |saüde
-|tranqüillo
 |traïdor
 |traïção
 |adeqüei
@@ -31,7 +30,4 @@
 |seqüestrada
 |seqüestradas
 |seqüestrados
-|tranqüilla
-|tranqüillas
-|tranqüillos
 |traïções

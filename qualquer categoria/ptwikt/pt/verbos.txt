@@ -2639,6 +2639,7 @@ cronicar
 croniquizar
 cronogramar
 cronometrar
+cropar
 cruciar
 crucificar
 crucifixar
@@ -2714,6 +2715,7 @@ cuxingar
 cuzecumunar
 dactilografar
 daguerreotipar
+damnificar
 danar
 danificar
 daninhar

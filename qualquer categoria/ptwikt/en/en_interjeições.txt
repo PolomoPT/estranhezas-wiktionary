@@ -242,6 +242,7 @@ ent
 entendeu
 então
 epa
+estou
 está bem
 está bom
 eta
@@ -470,6 +471,7 @@ positivo
 poxa
 poça
 pqp
+pronto
 protesto
 pru
 psit

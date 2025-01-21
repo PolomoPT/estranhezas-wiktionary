@@ -11,7 +11,6 @@ abadanar
 abadar
 abaetar
 abafalhar
-abafar o caso
 abagar
 abagaçar
 abagoar
@@ -70,7 +69,6 @@ abicorar
 abilolar
 abiscoitar
 abiscoutar
-abjudicar
 ablactar
 abocar
 abocetar
@@ -230,7 +228,6 @@ acimentar
 acingir
 aclerizar-se
 aclimar
-aclimatizar
 acoar
 acobilhar
 acobrear
@@ -451,7 +448,6 @@ amalhoar
 amancebar-se
 amanezar
 amangar
-amantar
 amantelar
 amarar
 amarasmar
@@ -547,7 +543,6 @@ anichar
 aniilar
 aninar
 anisar
-anojar
 anonadar
 anonimar
 anoutecer
@@ -604,7 +599,6 @@ apodrentar
 apodrir
 apojar
 apoltronar-se
-aporrear
 apostilar
 apotentar
 apoular
@@ -794,7 +788,6 @@ auspiciar
 autentificar
 auto-avaliar-se
 autodeclarar
-autopsiar
 avalizar
 avampirar
 avangar
@@ -1042,7 +1035,6 @@ cadenciar
 cadinhar
 cadmiar
 cafangar
-cafeinar
 caftinar
 caftinizar
 cafumbar
@@ -1080,7 +1072,6 @@ calcarizar
 calcetar
 calcografar
 caldear
-calejar
 calemburar
 calvar
 calvejar
@@ -1163,7 +1154,6 @@ chamar na chincha
 chamar nomes
 chamar pelo gregório
 chamar à atenção
-chancelar
 chanfalhar
 chapiçar
 chapuçar
@@ -1303,7 +1293,6 @@ consertado
 consoar
 consonar
 constelar
-constitucionalizar
 contar vantagem
 conteirar
 contingenciar
@@ -1381,7 +1370,6 @@ culapar
 culatrar
 culcar
 culimar
-culpabilizar
 culturalizar
 cumpliciar
 cumungunar
@@ -1407,6 +1395,7 @@ cutisar
 cuxingar
 cuzecumunar
 daguerreotipar
+damnificar
 daninhar
 dançar conforme a música
 dar a cara a tapas
@@ -1600,9 +1589,7 @@ desapor
 desapossar
 desapropriar
 desaproveitar
-desarmonizar
 desarriscar
-desarrolhar
 desasnar
 desassistir
 desataviar
@@ -1677,7 +1664,6 @@ desengranzar
 desengrazar
 desengrenar
 desengrolar
-desengrossar
 desenguedelhar
 desenguiçar
 desenlaçar
@@ -1828,7 +1814,6 @@ editorar
 edulcorar
 eduzir
 efabular
-efeituar
 efeminar
 efervescer
 egressar
@@ -2357,7 +2342,6 @@ esvaecer
 esvaguar
 esvoejar
 eucaliptizar
-eufemizar
 eugenizar
 evencer
 eviscerar
@@ -2640,7 +2624,6 @@ gemicar
 geminar
 genrear
 gentilizar
-gentrificar
 geografar
 geometrizar
 georreferenciar
@@ -2777,7 +2760,6 @@ incindir
 incoar
 incompatibilizar
 inconstar
-inconstitucionalizar
 increr
 indeferir
 indentar
@@ -2785,7 +2767,6 @@ indisciplinar
 indiscriminar
 indisponibilizar
 indispor
-individualizar
 indumentar
 inelegibilizar
 infamar
@@ -2972,7 +2953,6 @@ lucubrar
 luir
 lumiar
 lusitanizar
-luxar
 luxuriar
 machadar
 machear
@@ -3045,7 +3025,6 @@ medicinar
 medir a febre
 melificar
 mensagear
-mensurar
 mentirolar
 mentorear
 merar
@@ -3116,7 +3095,6 @@ namorichar
 namoriscar
 narcisar
 narcotizar
-nasalizar
 naturalizar
 nausear
 navalhar
@@ -3161,7 +3139,6 @@ nojar
 nomadizar
 nomenclar
 nomenclaturar
-nominar
 nortear
 noscar
 novelar
@@ -3237,7 +3214,6 @@ passar a borracha
 passar a pirão de areia
 passar do ponto
 passar mal
-passar o rodo
 passar o som
 passar por cima
 passar por cima de

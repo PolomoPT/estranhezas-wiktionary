@@ -40,6 +40,7 @@ A positivo
 BV
 D'Oeste
 D+
+DIY
 Disney
 Frances
 GLS
@@ -2829,6 +2830,7 @@ arcádio
 arcífero
 arcósico
 ardente
+ardido
 ardiloso
 areado
 areal
@@ -3510,6 +3512,7 @@ bidu
 bielo-russo
 bielorrusso
 bienal
+bietápico
 bigodudo
 bijagó
 bijectivo
@@ -3941,6 +3944,7 @@ carrancudo
 carrazedense
 carregado
 carregalense
+carroçado
 cartaginense
 cartaginês
 carthaginense
@@ -5937,6 +5941,7 @@ esconso
 escorpiano
 escorregadio
 escorrido
+escovado
 escravagista
 escravista
 escravizado
@@ -6029,6 +6034,7 @@ espiritual
 espiritualista
 espirituoso
 espirométrico
+esplendoroso
 esplâncnico
 esplêndido
 esponsal
@@ -6605,6 +6611,7 @@ fonético
 fonêmico
 fora de controle
 fora de linha
+fora do armário
 fora do comum
 fora do normal
 foragido
@@ -6927,6 +6934,7 @@ ginorme
 ginástico
 giratório
 giro
+glabro
 glacial
 glagolítico
 glamoroso
@@ -6975,6 +6983,7 @@ gostoso
 gourmet
 gouveense
 governamental
+gozado
 goês
 gracioso
 gradativo
@@ -7191,6 +7200,7 @@ hindustâni
 hiperativo
 hiperboloide
 hiperbolóide
+hiperbárico
 hiperbólico
 hiperbóreo
 hipercinético
@@ -8489,6 +8499,7 @@ mafuta
 magenta
 magiar
 magnesiano
+magnificente
 magno
 magnocelular
 magnânimo
@@ -8538,6 +8549,7 @@ maldisposto
 maldito
 maldivo
 maldoso
+maleficente
 malevolente
 maleável
 malfadado
@@ -10007,6 +10019,7 @@ permutável
 pernambucano
 perneta
 pernicioso
+pernilongo
 pernudo
 pernóstico
 perpendicular
@@ -11867,6 +11880,7 @@ sónico
 sórbio
 sórdido
 sôfrego
+sôlto
 sônico
 súbito
 sútil
@@ -12084,6 +12098,7 @@ tolo
 tomado
 tomara que caia
 tomarense
+tomentoso
 tonal
 tondelense
 tonganês
@@ -12151,7 +12166,6 @@ tranquilo
 tranquilão
 tranquilíssimo
 tranqüilizador
-tranqüillo
 tranqüilo
 trans
 transactinídeo
@@ -12338,6 +12352,7 @@ tétrico
 tênue
 têxtil
 tíbio
+tímbrico
 tímido
 típico
 tírio
@@ -12505,6 +12520,7 @@ vaticano
 vazante
 vazio
 vectorial
+vedado
 vedante
 veemente
 vegano
@@ -12899,6 +12915,7 @@ zygomatico
 ímpar
 ímpio
 ímprobo
+índico
 índigo
 índio
 ínfimo
@@ -12924,4 +12941,5 @@ zygomatico
 único
 úrico
 útil
+⚔
 🆑

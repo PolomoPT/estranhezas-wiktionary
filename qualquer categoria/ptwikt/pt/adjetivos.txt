@@ -588,6 +588,7 @@ aimaroparlante
 aimará
 ainu
 aiquarense
+aironense
 airoso
 aislado
 aiuruoquense
@@ -617,6 +618,7 @@ alambicado
 alambrado
 alambrador
 alambreado
+alandroalense
 alantotóxico
 alar
 alaranjado
@@ -638,6 +640,7 @@ albanês
 albardeiro
 albarraquense
 albergariense
+albernoense
 albicastrense
 albigense
 albino
@@ -941,6 +944,7 @@ amontoado
 amorado
 amoral
 amorcegado
+amorense
 amorfo
 amorinopolense
 amorinopolitano
@@ -1177,6 +1181,7 @@ antigo
 antiguano
 antilusitano
 antimanicomial
+antimense
 antioxidante
 antipatriótico
 antipetista
@@ -1660,6 +1665,7 @@ assombrado
 assombroso
 assonsado
 assovalhante
+assumarense
 assumente
 assumido
 assumpto
@@ -2280,6 +2286,7 @@ bicudo
 bicéfalo
 bicípite
 bidirecional
+bidoeirense
 bidu
 biebdomadário
 bielorrusso
@@ -2404,6 +2411,7 @@ bom-de-bico
 bom de bico
 bombado
 bombardeiro
+bombarralense
 bomjesuense
 bonacheirão
 bonachão
@@ -2585,6 +2593,7 @@ bunda
 bundudo
 bunheirense
 bur
+burganense
 burgesso
 burguês
 burilador
@@ -2803,6 +2812,7 @@ cambaico
 cambaio
 cambalhão
 cambeba
+cambedense
 cambembe
 cambesense
 cambeta
@@ -2946,6 +2956,8 @@ caraguatatubense
 caraibense
 caraiense
 carajá
+caramulano
+caramulense
 caranaibense
 carandaiense
 carangolense
@@ -3039,6 +3051,7 @@ carvalhense
 carvalhopolitano
 carvalhoso
 carvoeiro
+carçonense
 carélio
 casa-novense
 casado
@@ -3053,6 +3066,7 @@ caseoso
 casevelense
 casmurro
 casquense
+casquilho
 casquinho
 cassado
 casso
@@ -3113,6 +3127,7 @@ catolandiano
 catorzeno
 catracego
 catuense
+catujalense
 caturamense
 caturra
 catutiense
@@ -3155,6 +3170,7 @@ cedente
 cedido
 cedilhado
 cediço
+cedofeitense
 cefaleico
 cego
 ceifador
@@ -3240,6 +3256,7 @@ chadiense
 chafalhas
 chafalheiro
 chafalhão
+chafense
 chaira
 chairo
 chakma
@@ -4893,6 +4910,7 @@ difusor
 difícil
 digestivo
 digital
+diglóssico
 digno
 dilacerante
 dilatado
@@ -5556,6 +5574,7 @@ envolvide
 envolvido
 enxabido
 enxambrado
+enxarense
 enxarmado
 enxaropado
 enxebre
@@ -6002,6 +6021,7 @@ eufórico
 eugenista
 eugenopolense
 eugenopolitano
+eulalense
 eulálico
 eunapolitano
 eunuco
@@ -6228,6 +6248,7 @@ fanfarrão
 fanho
 fanhoense
 fanhoso
+fanqueirense
 fantasmagórico
 fantasmal
 fantástico
@@ -8761,6 +8782,7 @@ kimilsunista
 kimmeridgiano
 kiplingiano
 kiribatiano
+kitsch
 kleiniano
 klopstockiano
 kneippista
@@ -8839,6 +8861,7 @@ lamelicórneo
 lameliforme
 lamense
 lamentável
+lamosense
 lamoso
 lampantim
 lampeiro
@@ -9136,6 +9159,7 @@ loquacíssimo
 loquaz
 loque
 lordento
+lordosense
 lorfo
 lorpa
 lotado
@@ -9390,6 +9414,7 @@ malsonante
 malsucedido
 malsão
 malthusiano
+maltrapilho
 maltês
 maluco
 maluquete
@@ -9529,6 +9554,7 @@ marmorado
 marmorizado
 marmota
 marnoto
+maronês
 maroto
 marouco
 maroutalho
@@ -9694,6 +9720,7 @@ menchevique
 mencheviquista
 menchevista
 mencionado
+mendace
 mendaz
 mendense
 mendes-pimentelense
@@ -9798,6 +9825,7 @@ micro
 microcefálico
 microchipado
 micronésio
+microplástico
 microscópico
 mictório
 midiático
@@ -9988,6 +10016,7 @@ montesaltense
 montevideano
 montevideuense
 montijense
+montoitense
 montês
 monádico
 monárquico
@@ -10118,6 +10147,7 @@ murcho
 muricídeo
 murino
 muritibano
+murtalense
 murtoseiro
 murtosense
 murzelo
@@ -10711,6 +10741,7 @@ otimista
 otimizado
 otomano
 ototóxico
+ouguelense
 oureense
 ourensano
 ourensão
@@ -11306,6 +11337,7 @@ piedoso
 piegas
 piemontês
 piense
+pigeirense
 pigmentado
 pignoratício
 pilo
@@ -12212,6 +12244,7 @@ rancoroso
 randómico
 randômico
 rangalheiro
+ranhadense
 ranunculáceo
 ranzinza
 ranço
@@ -12819,6 +12852,7 @@ samogiciano
 samorano
 samorense
 samotraceno
+sampaense
 sampaiense
 sanabrês
 sancionado
@@ -12904,6 +12938,7 @@ sardenho
 sardento
 sardo
 sardo sassarês
+sardoalense
 sardónico
 sardônico
 sarilhense
@@ -13078,6 +13113,7 @@ serial
 seriense
 serigrafista
 seriíssimo
+sermondense
 sernancelhense
 seropedicense
 serpense
@@ -13181,7 +13217,6 @@ silábico
 simbolizado
 simbólico
 similar
-similíssimo
 simonense
 simplalhão
 simples
@@ -13254,6 +13289,7 @@ slick
 snob
 soa
 soado
+soalhanense
 soalheiro
 soante
 sob júdice
@@ -13261,6 +13297,7 @@ sobejo
 soberano
 soberbo
 sobrado
+sobralense
 sobranceiro
 sobre-explorado
 sobre-humano
@@ -13280,6 +13317,7 @@ sobrepujável
 sobressalente
 sobressaltado
 sobrevivente
+sobrosense
 socado
 socho
 social
@@ -14005,6 +14043,8 @@ totipotente
 toucado
 toural
 toureiro
+tourense
+touriguense
 toxicado
 toxicante
 toxicodependente
@@ -14451,6 +14491,7 @@ uruguaio
 urupeense
 urupá
 uruçuquense
+urzelinense
 usado
 usbeque
 usbequistanês
@@ -14957,6 +14998,7 @@ zambiano
 zambiense
 zambo
 zambro
+zambujalense
 zamorano
 zangado
 zanoio

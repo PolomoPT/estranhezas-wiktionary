@@ -1650,6 +1650,7 @@ Bertioga
 Bertópolis
 Beslan
 Bessarábia
+Betelgeuse
 Betesda
 Betfagé
 Betim
@@ -2935,7 +2936,9 @@ DETRAN
 DF
 DIP
 DIU
+DIY
 DJ
+DLC
 DNA
 DNIT
 DOE
@@ -3625,6 +3628,7 @@ Faixa de Gaza
 Fajã dos Tijolos
 Falcão
 Falun Gong
+Falópio
 Fama
 Farc
 Faria
@@ -4683,6 +4687,7 @@ Interlagos
 Interlaken
 Internet
 Internet das coisas
+Interpol
 Inverness
 Inácio
 Inês
@@ -4858,6 +4863,7 @@ Itapé
 Itaquaquecetuba
 Itaquara
 Itaqui
+Itaquá
 Itarana
 Itarantim
 Itararé
@@ -6517,6 +6523,7 @@ Neártico
 Nhandeara
 Niamei
 Niamey
+Niassalândia
 Nicarágua
 Nice
 Niceia
@@ -8775,6 +8782,7 @@ Sol
 Solano
 Soledade
 Soledade de Minas
+Solimões
 Solomão
 Soltam
 Soltaõ
@@ -10394,6 +10402,7 @@ abafador
 abafadora
 abafante
 abafar
+abafar o caso
 abafação
 abafeira
 abainhar
@@ -10605,6 +10614,7 @@ abjecção
 abjetamente
 abjeto
 abjeção
+abjudicar
 abjunção
 abjurador
 abjurar
@@ -11203,6 +11213,7 @@ aciaria
 acicatar
 acicate
 acicloguanosina
+aciclovir
 acicular
 aciculifoliado
 acid jazz
@@ -11274,6 +11285,7 @@ aclasia
 aclimado
 aclimatar
 aclimatação
+aclimatizar
 aclimatável
 aclimação
 aclive
@@ -13616,6 +13628,7 @@ almécega
 almíscar
 almôndega
 almôço
+alnaíbe
 alnico
 alo-
 aloanticorpo
@@ -14080,6 +14093,7 @@ amanitina
 amansador
 amansar
 amantadina
+amantar
 amante
 amanteigado
 amanteigar
@@ -15582,6 +15596,7 @@ anogenital
 anoiquia
 anoitecer
 anojado
+anojar
 anomalamente
 anomalia
 anomalidade
@@ -17870,6 +17885,7 @@ aporeticamente
 aporfina
 aporofobia
 aporoso
+aporrear
 aporrinhar
 aporrinhação
 aportar
@@ -18474,6 +18490,7 @@ ardentemente
 ardeparina
 arder
 ardeídeo
+ardido
 ardil
 ardiloso
 ardina
@@ -20131,6 +20148,7 @@ autopoiético
 autopolinização
 autoproclamado
 autopsia
+autopsiar
 autor
 autora
 autoral
@@ -21133,7 +21151,9 @@ batalhão de choque
 batata
 batata-da-terra
 batata-doce
+batata-doce roxa
 batata-palha
+batata-roxa
 batata frita
 batata palha
 batata suíça
@@ -21257,6 +21277,7 @@ bebêzinho
 bebível
 beca
 becape
+bechamel
 bechuana
 beck
 beco
@@ -21643,6 +21664,7 @@ bielo-russo
 bielorrusso
 bienal
 bienalmente
+bietápico
 bifana
 bife
 bife a cavalo
@@ -22336,6 +22358,7 @@ borzoi
 borzói
 bosque
 bosquete
+bosquezinho
 bosquímane
 bosquímano
 boss
@@ -22573,6 +22596,7 @@ brifado
 brifar
 briga
 brigada
+brigadeira
 brigadeiro
 brigadiano
 brigadista
@@ -22647,10 +22671,12 @@ brodo
 bromado
 bromato
 bromação
+bromelia
 brometo
 bromito
 bromo
 bromoso
+bromélia
 bronca
 bronco
 broncoespasmo
@@ -22720,6 +22746,7 @@ brômico
 brômio
 brônquio
 brônzeo
+brôto
 bu
 buassú
 bubão
@@ -23244,6 +23271,7 @@ cafajeste
 cafarnaum
 cafeeiro
 cafeicultura
+cafeinar
 cafelo
 cafeteira
 cafeteria
@@ -23347,6 +23375,7 @@ cais
 caititu
 caixa
 caixa-alta
+caixa-d'água
 caixa-negra
 caixa-prego
 caixa-preta
@@ -23355,7 +23384,6 @@ caixa alta
 caixa automático
 caixa chata
 caixa clara
-caixa d'água
 caixa de Pandora
 caixa de areia
 caixa de coleta
@@ -23465,6 +23493,7 @@ calefação
 caleidoscópio
 caleira
 calejado
+calejar
 calendas
 calendário
 calendário gregoriano
@@ -23728,7 +23757,9 @@ camundongo
 camurça
 camélia
 cana
+cana-da-índia
 cana-de-açúcar
+cana-índica
 cana de pesca
 cana do leme
 canaanita
@@ -24167,6 +24198,7 @@ carcunda
 carcás
 cardamina
 cardamomo
+cardan
 cardar
 cardeal
 cardigan
@@ -24193,6 +24225,7 @@ cardo de coalho
 cardo hortense
 cardume
 cardápio
+cardã
 cardíaca
 cardíaco
 careca
@@ -24359,6 +24392,8 @@ carroceria
 carrocinha
 carrossel
 carroça
+carroçada
+carroçado
 carroçar
 carroçaria
 carruageiro
@@ -24693,6 +24728,7 @@ cateto
 catexe
 catexia
 catgirl
+cathegoria
 catheter
 catholico
 cathólico
@@ -24744,6 +24780,7 @@ caucásico
 cauda
 caudal
 caudaloso
+caudel
 caudelaria
 caudeloso
 caudilhismo
@@ -25237,6 +25274,7 @@ champanhe
 champignon
 champinhom
 champinhão
+champãe
 champô
 chamuscar
 chamussa
@@ -25246,6 +25284,7 @@ chana
 chanate
 chance
 chancela
+chancelar
 chanceler
 chanchada
 chanfana
@@ -25437,6 +25476,7 @@ cherokee
 cheroqui
 cherovia
 cherubim
+chester
 cheta
 chetnim
 chevá
@@ -26799,6 +26839,7 @@ comilona
 comilão
 cominar
 cominação
+coming out
 cominho
 comiscar
 comissionado
@@ -27501,6 +27542,7 @@ constitucional
 constitucionalidade
 constitucionalismo
 constitucionalista
+constitucionalizar
 constitucionalmente
 constituinte
 constituir
@@ -27906,6 +27948,7 @@ copra
 coprimo
 coprofilia
 coprolalia
+copropraxia
 copta
 copular
 copyright
@@ -27988,6 +28031,7 @@ corindo
 coringa
 coringar
 corintiano
+coriocarcinoma
 coriscar
 corisco
 coritibano
@@ -28146,6 +28190,7 @@ cortar pela raiz
 corte
 corte de cassação
 corte químico
+corte térmico
 cortejador
 cortejar
 cortejo
@@ -28265,6 +28310,7 @@ cotão
 couce
 coucear
 coudel
+coudelaria
 coulomb
 coulrofobia
 country
@@ -28689,6 +28735,7 @@ cronónimo
 cronômetro
 cronônimo
 croosita
+cropar
 cropped
 croquete
 croqui
@@ -28827,6 +28874,7 @@ culinária
 culminar
 culpa
 culpabilidade
+culpabilizar
 culpado
 culpar
 culposamente
@@ -30409,11 +30457,13 @@ desarmamento
 desarmar
 desarmonia
 desarmonioso
+desarmonizar
 desarmónico
 desarmônico
 desarraigar
 desarranjar
 desarrazoar
+desarrolhar
 desarrumar
 desarticular
 desarvorado
@@ -30692,6 +30742,7 @@ desempate
 desempenadeira
 desempenhar
 desempenho
+desemperrar
 desempoar
 desempregado
 desempregar
@@ -30722,6 +30773,7 @@ desenganar
 desenganchar
 desengano
 desengonçado
+desengrossar
 desenhador
 desenhadora
 desenhar
@@ -32070,6 +32122,8 @@ dióxido de nitrogênio
 djembê
 djibutiana
 djibutiano
+dlc
+dlç
 dms
 do Oiapoque ao Chuí
 do avesso
@@ -32769,6 +32823,7 @@ efeito dominó
 efeito especial
 efeito estufa
 efeito sonoro
+efeituar
 efemeridade
 efeminadamente
 efeminado
@@ -33666,6 +33721,7 @@ endocitose
 endocrinologia
 endocrinologista
 endocrinológico
+endoesqueleto
 endogamia
 endoidar
 endoidecer
@@ -33680,6 +33736,7 @@ endoscopia
 endoscópico
 endoscópio
 endosperma
+endosqueleto
 endossar
 endossimbiose
 endossoma
@@ -33920,6 +33977,7 @@ enraizar
 enramalhetar
 enramamento
 enramar
+enrascar
 enredado
 enredar
 enredo
@@ -34654,7 +34712,9 @@ escoucear
 escova
 escova de cabelo
 escova de dentes
+escovada
 escovadela
+escovado
 escovamento
 escovar
 escovar urubu
@@ -34786,6 +34846,7 @@ esforçado
 esforçar
 esforço
 esfrega
+esfregada
 esfregar
 esfregar sal na ferida
 esfregona
@@ -34977,6 +35038,7 @@ especioso
 espectacular
 espectador
 espectadora
+espectar
 espectral
 espectro
 espectro autista
@@ -35128,6 +35190,7 @@ espiã
 espião
 esplanada
 esplendor
+esplendoroso
 esplenectomia
 esplim
 esplâncnico
@@ -35400,6 +35463,7 @@ estatice
 estatismo
 estatisticamente
 estatizar
+estatização
 estatu quo
 estatueta
 estatuir
@@ -35572,6 +35636,7 @@ estorricar
 estorvar
 estorvilho
 estorvo
+estou
 estourado
 estourar
 estouro
@@ -35933,6 +35998,7 @@ eudicotiledôneas
 eudiómetro
 eudiômetro
 eufemismo
+eufemizar
 eufemístico
 eufonia
 euforia
@@ -36174,6 +36240,7 @@ existencialista
 existente
 existir
 existência
+exitar
 exmo
 exo-
 exobiologia
@@ -37851,6 +37918,7 @@ fora de hora
 fora de jogo
 fora de lei
 fora de linha
+fora do armário
 fora do comum
 fora do normal
 fora que
@@ -38407,6 +38475,7 @@ full
 full house
 fulmar
 fulo
+fulorar
 fulustreco
 fulvo
 fulá
@@ -39126,6 +39195,7 @@ gayzista
 gazal
 gaze
 gazear
+gazebo
 gazel
 gazela
 gazeta
@@ -39237,6 +39307,7 @@ gentileza
 gentilmente
 gentinha
 gentio
+gentrificar
 gentrificação
 gentílico
 genuflectir
@@ -39469,6 +39540,7 @@ girândola
 giz
 giz de cera
 glabela
+glabro
 glace
 glacial
 glaciar
@@ -39763,6 +39835,8 @@ governo
 govêrno
 goy
 goyaba
+gozada
+gozado
 gozar
 gozo
 gozofone
@@ -40870,6 +40944,7 @@ hiperatividade
 hiperativo
 hiperboloide
 hiperbolóide
+hiperbárico
 hiperbólico
 hiperbóreo
 hipercalciúria
@@ -42113,6 +42188,7 @@ inconsonância
 inconstante
 inconstitucional
 inconstitucionalidade
+inconstitucionalizar
 inconstitucionalmente
 inconstância
 inconsútil
@@ -42270,6 +42346,7 @@ individual
 individualidade
 individualismo
 individualista
+individualizar
 individualmente
 indivisibilidade
 indivisível
@@ -42793,6 +42870,7 @@ insuficiência
 insuficiência cardíaca
 insular
 insulação
+insulfilme
 insulina
 insulso
 insultador
@@ -44455,6 +44533,7 @@ laurita
 laurêncio
 lava
 lava-jato
+lava-pés
 lava encordoada
 lavabo
 lavada
@@ -45459,6 +45538,7 @@ lumbago
 lume
 luminescente
 luminescência
+luminol
 luminosidade
 luminoso
 luminária
@@ -45512,6 +45592,7 @@ luva de cozinha
 luva de forno
 luvaria
 lux
+luxar
 luxação
 luxemburguesa
 luxemburguez
@@ -45866,6 +45947,7 @@ magnetão
 magnetómetro
 magnetômetro
 magnificar
+magnificente
 magnificência
 magnitude
 magnitude aparente
@@ -46020,6 +46102,7 @@ maldição de Ondina
 maldoso
 maleabilidade
 maledicência
+maleficente
 maleficiar
 malefício
 maleita
@@ -46792,6 +46875,7 @@ mau-olhado
 mau egípcio
 mau olhado
 mau perdedor
+mauerar
 maura
 mauriciana
 mauriciano
@@ -47179,6 +47263,7 @@ menstruar
 menstruação
 menstruço
 mensual
+mensurar
 mensuração
 menta
 mental
@@ -47805,6 +47890,7 @@ mirandelense
 mirandense
 mirandesa
 mirandez
+mirandeza
 mirandês
 mirante
 mirar
@@ -48107,6 +48193,7 @@ molhe
 molher
 molho
 molho Alfredo
+molho bechamel
 molho béchamel
 molho de churrasco
 molho de soja
@@ -48332,6 +48419,7 @@ moranga
 morango
 morango silvestre
 morangueiro
+moranguinho
 morar
 moratória
 moratório
@@ -48703,6 +48791,7 @@ mundo afora
 mundo das fadas
 mundo real
 mundo árabe
+mundos e fundos
 mundão
 mundé
 mundéu
@@ -49163,6 +49252,7 @@ nas portas da morte
 nasal
 nasalar
 nasalidade
+nasalizar
 nasalização
 nasalmente
 nasca
@@ -49451,6 +49541,7 @@ nervosamente
 nervosia
 nervosismo
 nervoso
+nervouser
 nervura
 nescau
 nescidade
@@ -49568,6 +49659,7 @@ nhá
 nhé
 nhúngue
 ni
+niala
 nibble
 nibelungo
 nica
@@ -49767,6 +49859,7 @@ nominal
 nominalismo
 nominalizar
 nominalização
+nominar
 nominativo
 nomofobia
 nomádico
@@ -49971,6 +50064,7 @@ nuraghe
 nurague
 nutar
 nutação
+nutela
 nutella
 nuto
 nutri
@@ -50360,6 +50454,7 @@ occitânico
 occlusão
 occorrer
 occorrência
+occupação
 oceano
 oceanografia
 oceanográfico
@@ -50879,6 +50974,7 @@ orelhudo
 orelhão
 orfanato
 orfandade
+organdi
 organela
 organelo
 organigrama
@@ -51511,6 +51607,7 @@ palrança
 palrar
 palração
 palude
+paludismo
 palustre
 palácio
 paládio
@@ -51910,7 +52007,9 @@ parede
 parede abdominal
 parede celular
 parede corta-fogo
+parede de texto
 paredense
+paredes de texto
 paredão
 pareidolia
 parelha
@@ -52085,6 +52184,7 @@ passar de ano
 passar dos limites
 passar em branco
 passar o cheque
+passar o rodo
 passar pano
 passar pelas brasas
 passar por
@@ -52553,6 +52653,7 @@ pejado
 pejo
 pejorativo
 pela boca morre o peixe
+pela fresquinha
 pela madrugada
 pela mesma boca
 pelada
@@ -53102,6 +53203,7 @@ peróxido de hidrogénio
 peróxido de hidrogênio
 perôneo
 perônio
+perú
 pesa-papéis
 pesadamente
 pesadelar
@@ -53442,6 +53544,7 @@ pingar de sono
 pingente
 pingo
 pingo de gente
+pingola
 pingolim
 pingue-pongue
 pinguim
@@ -53548,6 +53651,7 @@ piquenique
 piquete
 pira
 piracanjuba
+piracema
 pirado
 pirambeira
 piramidal
@@ -54208,6 +54312,7 @@ pompeiano
 pompom
 pomposamente
 pomposo
+pomânder
 ponche
 poncho
 poncta
@@ -54718,6 +54823,7 @@ prazeroso
 prazimento
 prazo
 praça
+praça de alimentação
 praça de pret
 praça de pré
 praça de touros
@@ -55056,6 +55162,7 @@ primado
 primariamente
 primata
 primavera
+primaverar
 primaveril
 primazia
 primeira-dama
@@ -55920,6 +56027,7 @@ puta
 puta merda
 puta que la merda
 puta que lhe pariu
+puta que me pariu
 puta que o pariu
 puta que pariu
 puta que te pariu
@@ -56663,6 +56771,7 @@ quinquilharia
 quinquênio
 quinta
 quinta-essencial
+quinta-essência
 quinta-feira
 quinta coluna
 quinta roda
@@ -57275,6 +57384,7 @@ receita
 receitar
 receituário
 recenseamento
+recensão
 recente
 recentemente
 recentralizar
@@ -58323,6 +58433,7 @@ reveillon
 revelador
 revelar
 revelação
+revelia
 revenda
 revender
 rever
@@ -59207,6 +59318,7 @@ salona
 salpa
 salpicar
 salpicão
+salpinge
 salsa
 salsaparrilha
 salsicha
@@ -59962,6 +60074,7 @@ sensor
 sensorial
 sensual
 sensualidade
+sensualismo
 sensualizar
 sensualmente
 sensível
@@ -61923,6 +62036,7 @@ síndrome do ninho vazio
 síndrome do túnel carpal
 síndrome unha-patela
 síndromo
+síngrafo
 sínodo
 sínquise
 síntese
@@ -61963,6 +62077,7 @@ sô
 sôbre
 sôfrego
 sôldo
+sôlto
 sônico
 sôpro
 súbdita
@@ -62094,6 +62209,7 @@ tala
 talante
 talar
 talarica
+talaricagem
 talarico
 talassa
 talassaria
@@ -63089,6 +63205,7 @@ tingitano
 tinha
 tinhoso
 tinido
+tinilho
 tinir
 tinnitus
 tino
@@ -63337,6 +63454,7 @@ tomateiro
 tombadilho
 tombar
 tombo
+tomentoso
 tomilho
 tomo
 tomografia
@@ -63400,6 +63518,7 @@ topônimo
 toque
 toque de Midas
 toque de recolher
+toque final
 tora
 toranja
 toranjeira
@@ -63673,7 +63792,6 @@ tranquilíssimo
 tranqüilamente
 tranqüilidade
 tranqüilizador
-tranqüillo
 tranqüilo
 trans
 trans-
@@ -64267,6 +64385,8 @@ trombócito
 trombótico
 trompa
 trompa alpina
+trompa de Eustáquio
+trompa de Falópio
 trompa de falópio
 trompe-l'œil
 trompeta
@@ -64384,6 +64504,7 @@ tu
 tua mãe
 tuaqueira
 tuba
+tuba auditiva
 tuba uterina
 tubarão
 tubarão-baleia
@@ -64410,6 +64531,7 @@ tubérculo
 tuc-tuc
 tucano
 tucano-de-bico-preto
+tucano-toco
 tucum
 tucumã
 tucunaré
@@ -64641,6 +64763,7 @@ tíbio
 tílburi
 tília
 tília americana
+tímbrico
 tímido
 tímpano
 tíner
@@ -65462,6 +65585,7 @@ veado-de-cauda-branca
 veado-do-cabo
 vector
 vectorial
+vedado
 vedante
 vedar
 vedação
@@ -66958,6 +67082,7 @@ zulo
 zulu
 zum
 zum-zum
+zum-zum-zum
 zumba
 zumbaia
 zumbi
@@ -67576,6 +67701,7 @@ zôo
 índice
 índice de Apgar
 índice de massa corporal
+índico
 índigo
 índio
 índole
@@ -67712,6 +67838,7 @@ zôo
 ◌ᷗ
 ◌ᷝ
 ◌ᷣᷣ
+⚔
 🆑
 🆒
 🥄

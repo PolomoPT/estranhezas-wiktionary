@@ -5,6 +5,7 @@ ab-rogar
 abacharelar
 abacinar
 abafar
+abafar o caso
 abainhar
 abaixar
 abalançar
@@ -37,6 +38,7 @@ abespinhar
 abicar
 abirritar
 abismar
+abjudicar
 abjurar
 ablaquear
 ablegar
@@ -141,6 +143,7 @@ acirrar
 aclamar
 aclarar
 aclimatar
+aclimatizar
 acobardar
 acobertar
 acoimar
@@ -428,6 +431,7 @@ amaneirar
 amanhar
 amanhecer
 amansar
+amantar
 amanteigar
 amar
 amarelar
@@ -517,6 +521,7 @@ anistiar
 aniversariar
 anodizar
 anoitecer
+anojar
 anonimizar
 anormalizar
 anotar
@@ -595,6 +600,7 @@ apologizar
 apontar
 apoquentar
 apor
+aporrear
 aporrinhar
 aportar
 aportuguesar
@@ -863,6 +869,7 @@ autocompletar
 autografar
 automatizar
 automedicar-se
+autopsiar
 autorizar
 autossabotar
 autuar
@@ -1120,6 +1127,7 @@ cacimbar
 cadastrar
 cadear
 caducar
+cafeinar
 cafetinar
 cagar
 cagar e andar
@@ -1150,6 +1158,7 @@ calcar
 calcificar
 calcinar
 calcular
+calejar
 calhar
 calibrar
 callejar
@@ -1273,6 +1282,7 @@ chamar o Hugo
 chamar o hugo
 chamejar
 chamuscar
+chancelar
 chanfrar
 chantagear
 chantar
@@ -1580,6 +1590,7 @@ conspurcar
 constar
 constatar
 consternar
+constitucionalizar
 constituir
 constranger
 constringir
@@ -1709,6 +1720,7 @@ crochetar
 cromar
 cronologizar
 cronometrar
+cropar
 crucificar
 cruzar
 cubar
@@ -1718,6 +1730,7 @@ cuidar
 cuidar da própria vida
 cuidar de
 culminar
+culpabilizar
 culpar
 cultivar
 cultuar
@@ -2051,9 +2064,11 @@ desaprender
 desapresilhar
 desaprovar
 desarmar
+desarmonizar
 desarraigar
 desarranjar
 desarrazoar
+desarrolhar
 desarrumar
 desarticular
 desarvorar
@@ -2161,6 +2176,7 @@ desemerdar
 desemmaranhar
 desempatar
 desempenhar
+desemperrar
 desempoar
 desempregar
 desencadear
@@ -2176,6 +2192,7 @@ desencriptar
 desenfadar
 desenganar
 desenganchar
+desengrossar
 desenhar
 desenlear
 desenmerdar
@@ -2525,6 +2542,7 @@ editar
 educar
 efectivar
 efectuar
+efeituar
 efetivar
 efetuar
 efluir
@@ -2817,6 +2835,7 @@ enraivecer
 enraizar
 enramalhetar
 enramar
+enrascar
 enredar
 enregelar
 enrijecer
@@ -3054,6 +3073,7 @@ espaçar
 especar
 especializar
 especificar
+espectar
 especular
 espedir
 espelhar
@@ -3191,6 +3211,7 @@ esverdear
 esvoaçar
 eternizar
 etiquetar
+eufemizar
 europeizar
 eutanasiar
 evacuar
@@ -3560,6 +3581,7 @@ fugir
 fugir como o diabo foge da cruz
 fulgir
 fulgurar
+fulorar
 fumar
 fumar um
 fumegar
@@ -3627,6 +3649,7 @@ geleiar
 gemer
 generalizar
 genotipar
+gentrificar
 genuflectir
 genufletir
 geobloquear
@@ -3835,6 +3858,7 @@ incitar
 inclinar
 incluir
 incomodar
+inconstitucionalizar
 incorporar
 incorrer
 incrassar
@@ -3854,6 +3878,7 @@ indexar
 indicar
 indiciar
 indignar
+individualizar
 indultar
 industrializar
 induzir
@@ -4186,6 +4211,7 @@ lufar
 luitar
 lustrar
 lutar
+luxar
 luzir
 lãçar
 macacar
@@ -4294,6 +4320,7 @@ matricular
 mattar
 maturar
 matutar
+mauerar
 maximizar
 maxixar
 maçar
@@ -4322,6 +4349,7 @@ menear
 menoscabar
 menosprezar
 menstruar
+mensurar
 mentir
 mercadejar
 mercar
@@ -4458,6 +4486,7 @@ namorar
 nanar
 narrar
 nasalar
+nasalizar
 nascer
 nascer de novo
 nascer em berço de ouro
@@ -4490,6 +4519,7 @@ nocautear
 noivar
 nomear
 nominalizar
+nominar
 normalizar
 notabilizar
 notar
@@ -4688,6 +4718,7 @@ passar de ano
 passar dos limites
 passar em branco
 passar o cheque
+passar o rodo
 passar pano
 passar pelas brasas
 passar por
@@ -4968,6 +4999,7 @@ prevaricar
 prevenir
 prever
 prezar
+primaverar
 principiar
 printar
 priorar

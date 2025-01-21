@@ -2644,7 +2644,9 @@ DETRAN
 DF
 DIP
 DIU
+DIY
 DJ
+DLC
 DNA
 DNIT
 DOE
@@ -3321,6 +3323,7 @@ Faixa de Gaza
 Fajã dos Tijolos
 Falcão
 Falun Gong
+Falópio
 Fama
 Farc
 Faria
@@ -4370,6 +4373,7 @@ Interlagos
 Interlaken
 Internet
 Internet das coisas
+Interpol
 Inverness
 Inácio
 Inês
@@ -4544,6 +4548,7 @@ Itapé
 Itaquaquecetuba
 Itaquara
 Itaqui
+Itaquá
 Itarana
 Itarantim
 Itararé
@@ -6192,6 +6197,7 @@ Neártico
 Nhandeara
 Niamei
 Niamey
+Niassalândia
 Nicarágua
 Nice
 Niceia
@@ -10388,6 +10394,7 @@ achádego
 aciaria
 acicate
 acicloguanosina
+aciclovir
 acid jazz
 acidemia
 acidentalidade
@@ -11922,6 +11929,7 @@ almécega
 almíscar
 almôndega
 almôço
+alnaíbe
 alnico
 aloanticorpo
 aloantígeno
@@ -16460,7 +16468,9 @@ batalhão de choque
 batata
 batata-da-terra
 batata-doce
+batata-doce roxa
 batata-palha
+batata-roxa
 batata frita
 batata palha
 batata suíça
@@ -16546,6 +16556,7 @@ bebê
 bebêzinho
 beca
 becape
+bechamel
 bechuana
 beck
 beco
@@ -17415,6 +17426,7 @@ borzoi
 borzói
 bosque
 bosquete
+bosquezinho
 bosquímane
 bosquímano
 boss
@@ -17607,6 +17619,7 @@ bridge
 brie
 briga
 brigada
+brigadeira
 brigadeiro
 brigadiano
 brigadista
@@ -17660,9 +17673,11 @@ broderagem
 brodo
 bromato
 bromação
+bromelia
 brometo
 bromito
 bromo
+bromélia
 bronca
 broncoespasmo
 bronha
@@ -17715,6 +17730,7 @@ bródi
 brómio
 brômio
 brônquio
+brôto
 buassú
 bubão
 bucaneiro
@@ -18219,6 +18235,7 @@ cais
 caititu
 caixa
 caixa-alta
+caixa-d'água
 caixa-negra
 caixa-prego
 caixa-preta
@@ -18227,7 +18244,6 @@ caixa alta
 caixa automático
 caixa chata
 caixa clara
-caixa d'água
 caixa de Pandora
 caixa de areia
 caixa de coleta
@@ -18544,7 +18560,9 @@ camundongo
 camurça
 camélia
 cana
+cana-da-índia
 cana-de-açúcar
+cana-índica
 cana de pesca
 cana do leme
 canaanita
@@ -18914,6 +18932,7 @@ carcunda
 carcás
 cardamina
 cardamomo
+cardan
 cardeal
 cardigan
 cardigã
@@ -18933,6 +18952,7 @@ cardo de coalho
 cardo hortense
 cardume
 cardápio
+cardã
 cardíaca
 cardíaco
 careca
@@ -19068,6 +19088,7 @@ carroceria
 carrocinha
 carrossel
 carroça
+carroçada
 carroçaria
 carruageiro
 carruagem
@@ -19394,6 +19415,7 @@ caucasoide
 caucásico
 cauda
 caudal
+caudel
 caudelaria
 caudilhismo
 caudilho
@@ -19953,6 +19975,7 @@ cherokee
 cheroqui
 cherovia
 cherubim
+chester
 cheta
 chetnim
 chevá
@@ -20959,6 +20982,7 @@ comilança
 comilona
 comilão
 cominação
+coming out
 cominho
 comissária de bordo
 comissária de voo
@@ -21621,6 +21645,7 @@ copo americano
 copra
 coprofilia
 coprolalia
+copropraxia
 copta
 copyright
 copázio
@@ -21687,6 +21712,7 @@ corifeu
 corindo
 coringa
 corintiano
+coriocarcinoma
 corisco
 coritibano
 coriza
@@ -21807,6 +21833,7 @@ cortador de unha
 corte
 corte de cassação
 corte químico
+corte térmico
 cortejador
 cortejo
 cortesia
@@ -21901,6 +21928,7 @@ coturno
 cotão
 couce
 coudel
+coudelaria
 coulomb
 coulrofobia
 country
@@ -23991,6 +24019,8 @@ dióxido de nitrogênio
 djembê
 djibutiana
 djibutiano
+dlc
+dlç
 do contra
 do que alguém é feito
 doador
@@ -24885,6 +24915,7 @@ endividamento
 endocitose
 endocrinologia
 endocrinologista
+endoesqueleto
 endogamia
 endometriose
 endométrio
@@ -24892,6 +24923,7 @@ endorfina
 endoscopia
 endoscópio
 endosperma
+endosqueleto
 endossimbiose
 endossoma
 endossomo
@@ -25419,6 +25451,7 @@ escoto
 escova
 escova de cabelo
 escova de dentes
+escovada
 escovadela
 escovamento
 escovilha
@@ -25513,6 +25546,7 @@ esfoliação
 esfomeado
 esforço
 esfrega
+esfregada
 esfregona
 esfregão
 esfriamento
@@ -25896,6 +25930,7 @@ estarte
 estatal
 estatice
 estatismo
+estatização
 estatu quo
 estatueta
 estatura
@@ -28421,6 +28456,7 @@ gayzismo
 gayzista
 gazal
 gaze
+gazebo
 gazel
 gazela
 gazeta
@@ -28918,6 +28954,7 @@ governo
 govêrno
 goy
 goyaba
+gozada
 gozo
 gozofone
 goês
@@ -30806,6 +30843,7 @@ insubordinação
 insuficiência
 insuficiência cardíaca
 insulação
+insulfilme
 insulina
 insultador
 insulto
@@ -31929,6 +31967,7 @@ laurita
 laurêncio
 lava
 lava-jato
+lava-pés
 lava encordoada
 lavabo
 lavada
@@ -32698,6 +32737,7 @@ lulopetismo
 lumbago
 lume
 luminescência
+luminol
 luminosidade
 luminária
 lunar
@@ -34492,6 +34532,7 @@ mirandelense
 mirandense
 mirandesa
 mirandez
+mirandeza
 mirandês
 mirante
 mirense
@@ -34511,6 +34552,7 @@ miscelânea
 miscigenação
 mise-en-scène
 mise en scène
+miseravel
 miseria
 misericordia
 misericordioso
@@ -34722,6 +34764,7 @@ molhe
 molher
 molho
 molho Alfredo
+molho bechamel
 molho béchamel
 molho de churrasco
 molho de soja
@@ -34894,6 +34937,7 @@ moranga
 morango
 morango silvestre
 morangueiro
+moranguinho
 moratória
 morbidade
 morbilidade
@@ -35151,6 +35195,7 @@ mundo aberto
 mundo das fadas
 mundo real
 mundo árabe
+mundos e fundos
 mundão
 mundé
 mundéu
@@ -35768,6 +35813,7 @@ nhoque
 nhá
 nhúngue
 ni
+niala
 nibble
 nibelungo
 nica
@@ -36037,6 +36083,7 @@ nunciatura
 nuraghe
 nurague
 nutação
+nutela
 nuto
 nutri
 nutricionismo
@@ -36231,6 +36278,7 @@ occitano
 occitânico
 occlusão
 occorrência
+occupação
 oceano
 oceanografia
 oceanologia
@@ -36575,6 +36623,7 @@ orelha-de-judas
 orelhão
 orfanato
 orfandade
+organdi
 organela
 organelo
 organigrama
@@ -37009,6 +37058,7 @@ palpite
 palrança
 palração
 palude
+paludismo
 palácio
 paládio
 palíndromo
@@ -37318,7 +37368,9 @@ parede
 parede abdominal
 parede celular
 parede corta-fogo
+parede de texto
 paredense
+paredes de texto
 paredão
 pareidolia
 parelha
@@ -38185,6 +38237,7 @@ peróxido de hidrogénio
 peróxido de hidrogênio
 perôneo
 perônio
+perú
 pesa-papéis
 pesadelo
 pesagem
@@ -38463,6 +38516,7 @@ pingado
 pingente
 pingo
 pingo de gente
+pingola
 pingolim
 pingue-pongue
 pinguim
@@ -38553,6 +38607,7 @@ piquenique
 piquete
 pira
 piracanjuba
+piracema
 pirambeira
 piranambu
 piranha
@@ -39058,6 +39113,7 @@ pomo de Adão
 pomo de adão
 pompeiano
 pompom
+pomânder
 ponche
 poncho
 poncta
@@ -40668,6 +40724,7 @@ quinquagésimo
 quinquilharia
 quinquênio
 quinta
+quinta-essência
 quinta-feira
 quinta coluna
 quinta roda
@@ -41096,6 +41153,7 @@ receio
 receita
 receituário
 recenseamento
+recensão
 recentralização
 recepcionista
 receptador
@@ -41692,6 +41750,7 @@ revanchismo
 reveillon
 revelador
 revelação
+revelia
 revenda
 reverb
 reverberação
@@ -42346,6 +42405,7 @@ saloio
 salona
 salpa
 salpicão
+salpinge
 salsa
 salsaparrilha
 salsicha
@@ -42859,6 +42919,7 @@ senso comum
 senso de humor
 sensor
 sensualidade
+sensualismo
 sentada
 sentença
 sentido
@@ -44365,6 +44426,7 @@ tal
 tala
 talante
 talarica
+talaricagem
 talarico
 talassa
 talassaria
@@ -45107,6 +45169,7 @@ tingitano
 tinha
 tinhoso
 tinido
+tinilho
 tinir
 tinnitus
 tino
@@ -45314,6 +45377,7 @@ topônimo
 toque
 toque de Midas
 toque de recolher
+toque final
 tora
 toranja
 toranjeira
@@ -45925,6 +45989,8 @@ trombose
 trombócito
 trompa
 trompa alpina
+trompa de Eustáquio
+trompa de Falópio
 trompa de falópio
 trompe-l'œil
 trompeta
@@ -46014,6 +46080,7 @@ tsunâmi
 tsé-tsé
 tuaqueira
 tuba
+tuba auditiva
 tuba uterina
 tubarão
 tubarão-baleia
@@ -46039,6 +46106,7 @@ tubérculo
 tuc-tuc
 tucano
 tucano-de-bico-preto
+tucano-toco
 tucum
 tucumã
 tucunaré
@@ -47833,6 +47901,7 @@ zulo
 zulu
 zum
 zum-zum
+zum-zum-zum
 zumba
 zumbaia
 zumbi

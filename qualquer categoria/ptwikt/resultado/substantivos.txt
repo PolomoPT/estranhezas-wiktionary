@@ -714,7 +714,6 @@ Cíntio
 Cípria
 Cíprio
 Córdoba
-DLC
 DNA cromossômico
 DNA mitocondrial
 DNA nuclear
@@ -972,6 +971,7 @@ Everaldo
 Evângela
 Evângelo
 Exaltação
+Exame Nacional do Ensino Médio
 Executivo
 Expedita
 Expedito
@@ -993,7 +993,6 @@ Fagundes
 Fagundo
 Falqueto
 Falso Profeta
-Falópio
 Faria Lima
 Faustina
 Faustiniana
@@ -2651,6 +2650,7 @@ São Bento do Tocantins
 São Cristóvão e Nevis
 São Cristóvão e Névis
 São Felipe d'Oeste
+São Francisco do Maranhão
 São Félix do Tocantins
 São Gonçalo do Gurgueia
 São Jorge do Oiapoque
@@ -3266,7 +3266,6 @@ achincalhamento
 achincalhação
 achincalhe
 achteroequês
-aciclovir
 acidente de trabalho
 acidentologia
 acipreste
@@ -3283,6 +3282,7 @@ acomodação visual
 acompanhado
 acondicionamento
 acontecido
+acontismologia
 acontista
 acordança
 acorde aumentado
@@ -3567,6 +3567,7 @@ aira
 aircraft on ground
 aire
 airfryer
+aironense
 airosidade
 aiuruoquense
 aivaca
@@ -3605,6 +3606,7 @@ alambra
 alambrador
 alancada
 alancão
+alandroalense
 alantotóxico
 alantíase
 alaqueto
@@ -3626,6 +3628,7 @@ albardeiro
 albarraquense
 albarrã
 albatroz-de-laysan
+albernoense
 alboio
 albora
 alboredo
@@ -4025,6 +4028,7 @@ amor-de-hortelão
 amor-de-negro
 amor-seco
 amoreia
+amorense
 amores
 amorinopolense
 amorinopolitano
@@ -4265,6 +4269,7 @@ antigomobilismo
 antigos
 antigénio
 antilusitano
+antimense
 antipetralha
 antiqueño
 antirradar
@@ -4820,6 +4825,7 @@ assovalhador
 assucada
 assucador
 assucadouro
+assumarense
 assumição
 assuncionista
 assurini
@@ -5671,7 +5677,6 @@ bebida de soja
 becape diferencial
 becape incremental
 becha
-bechamel
 beche
 bechuano
 bedalha
@@ -5815,6 +5820,7 @@ bias
 bibi
 bibibi
 bibliodiversidade
+bibliosmia
 bibliotecnia
 bibliotecologia
 bibliotecosofia
@@ -5851,6 +5857,7 @@ bicromatização
 bicípite
 bidente
 bidimensional
+bidoeirense
 bidoeiro
 bieiteiro
 biela
@@ -6211,6 +6218,7 @@ bomba de fragmentação
 bombacha
 bombada
 bombardeio
+bombarralense
 bombeamento
 bombilha
 bombo
@@ -6301,7 +6309,7 @@ boseira
 boseirada
 bosnense
 bosquejo
-bosquezinho
+bosquilha
 bosquímanos
 bossagem
 bosse
@@ -6481,7 +6489,6 @@ bromance
 bromatologia
 bromeliácea
 bromodermia
-bromélia
 broncopneumonia
 brongo
 bronquíolo
@@ -6601,6 +6608,7 @@ burbião
 burbom
 bureau
 burel
+burganense
 burgau
 buriate
 buriate da Rússia
@@ -6986,7 +6994,6 @@ caixa craniana
 caixa de brita
 caixa postal
 caixa prego
-caixa-d'água
 caixa-forte
 caixeiro-viajante
 caixeta
@@ -7154,6 +7161,7 @@ cambau
 cambaí
 cambeba
 cambebas
+cambedense
 cambeiro
 cambelo
 camber
@@ -7483,6 +7491,8 @@ caramanchão
 carambelo
 carambina
 caramona
+caramulano
+caramulense
 caramulo
 caranaibense
 caranchona
@@ -7730,6 +7740,7 @@ carvoeiro
 carvão-do-milho
 cará do ar
 carádrio
+carçonense
 carélio
 carótida
 casa da luz vermelha
@@ -7909,6 +7920,7 @@ catuaba
 catual
 catuense
 catuga
+catujalense
 catumbi
 caturamense
 catutiense
@@ -7982,6 +7994,7 @@ ceca e meca
 ceceio
 ceciliense
 cedente
+cedofeitense
 cedrão
 cedém
 cefaleico
@@ -8083,6 +8096,7 @@ chadiense
 chafalhada
 chafalhas
 chafardel
+chafense
 chafurda
 chafurdação
 chafurdeiro
@@ -8256,7 +8270,6 @@ cherume
 cherva
 chessilite
 chessilito
-chester
 cheviote
 cheyenne
 cheísmo
@@ -9108,7 +9121,6 @@ copo sujo
 copo-d'água
 copraol
 coprofobia
-copropraxia
 coprófilo
 coprólito
 copulador
@@ -9333,7 +9345,6 @@ couceira
 coucilho
 coucilhão
 coucão
-coudelaria
 coudilho
 coupé
 couquilha
@@ -10882,6 +10893,7 @@ encilhamento
 encinho
 encoberta
 encontro de cúpula
+encontro vocálico
 encoramento
 encoro
 encostado
@@ -11030,6 +11042,7 @@ enxalavar
 enxamblador
 enxameador
 enxamelha
+enxarense
 enxeda
 enxergão
 enxotadura
@@ -11491,7 +11504,6 @@ estarrinco
 estase
 estasiobasiofobia
 estatismo econômico
-estatização
 estatolatria
 estator
 estatura baixa
@@ -11631,6 +11643,7 @@ eugénia
 eugénica
 eugênia
 eugênica
+eulalense
 eulalia
 eunapolitano
 eupatório
@@ -11864,6 +11877,7 @@ fanhosez
 fanisca
 fano
 fanpage
+fanqueirense
 fanqueiro
 fantarelo
 fantasia científica
@@ -12431,6 +12445,13 @@ fonte de energia
 fontes
 fontícula
 fontículo
+fonética da frase
+fonética descritiva
+fonética estática
+fonética frásica
+fonética histórica
+fonética sincrônica
+fonética sintática
 food stylist
 foodie
 footing
@@ -14564,7 +14585,6 @@ insubordinado
 insucesso
 insulano
 insular
-insulfilme
 insídia
 insólito
 intanha
@@ -15597,6 +15617,7 @@ lamego
 lameirão
 lamela
 lamiáceas
+lamosense
 lamote
 lampadário
 lampantim
@@ -15735,7 +15756,6 @@ lausperene
 lava-cu
 lava-dente
 lava-pé
-lava-pés
 lava-rápido
 lavadeira-mascarada
 lavadela
@@ -16158,6 +16178,7 @@ looque
 loque-loque
 lorda
 lordose
+lordosense
 lorga
 loriga
 lornhão
@@ -16230,7 +16251,6 @@ lumerada
 lumes
 lumiar
 lumideiro
-luminol
 lumpectomia
 lumpemproletariado
 lunfardo
@@ -16894,6 +16914,7 @@ maro
 maroba
 maronda
 maronça
+maronês
 marosca
 maroteira
 maroto
@@ -17699,12 +17720,12 @@ montesaltense
 montevideuense
 montijense
 montinho artilheiro
+montoitense
 monçonense
 monócero
 monógamo
 monômetro
 morango-do-mar
-moranguinho
 moratense
 morbidez
 morbimortalidade
@@ -17917,6 +17938,7 @@ murra
 murraca
 murraça
 murreta
+murtalense
 murtoseiro
 murundu
 murzelo
@@ -18370,6 +18392,7 @@ norma culta
 normal
 normando antigo
 normativismo
+normose
 noro
 norsa
 norte-pontealtense
@@ -18458,7 +18481,6 @@ numismata
 nune
 nunes
 nuporanguense
-nutela
 nutrigenómica
 nutrigenômica
 nutritura
@@ -18753,7 +18775,6 @@ orelha-de-rato-dos-herbolários
 orelha-marinha
 orexia
 orfeão
-organdi
 orgevão
 orgivão
 orgulhoso
@@ -18845,6 +18866,7 @@ ouca
 oucheira
 oucheiro
 ouga
+ouguelense
 ourama
 oureense
 ourego
@@ -19051,7 +19073,6 @@ palpo
 palra
 palrador
 palu'e
-paludismo
 pamona
 pampangan
 pampilho
@@ -19871,6 +19892,7 @@ pietismo
 pifeiro
 pifo
 pigalgia
+pigeirense
 pildra
 pilharete
 pilheira
@@ -19909,7 +19931,6 @@ pindonga
 pindorama
 pinelense
 ping-pong
-pingola
 pingue
 pingue-ponguista
 pinguela
@@ -19965,7 +19986,6 @@ piquetense
 piqui
 piracaiense
 piracatinga
-piracema
 piracicabano
 piracicabense
 piracururu
@@ -20449,6 +20469,7 @@ precessão
 precessão dos equinócios
 precheca
 preciosa
+preciosidade
 preciosismo
 preciosista
 precision
@@ -21318,6 +21339,7 @@ rajo
 rakahanga-manihiki
 rala-bucho
 ramada
+ramadã
 ramaldeira
 ramalho
 ramaria
@@ -21341,6 +21363,7 @@ rancolho
 randeeira
 rangalheira
 range
+ranhadense
 ranhadorio
 ranheira
 ranheta
@@ -21458,7 +21481,6 @@ recaredense
 recavém
 receiver
 recendência
-recensão
 receptação
 recesso epitimpânico
 recesso hepatorrenal
@@ -21746,7 +21768,6 @@ reumatologista
 reunião de cúpula
 reutilização
 revel
-revelia
 revenã
 reverbe
 reverendo
@@ -22178,6 +22199,7 @@ samori
 samorim
 samotraceno
 samouco
+sampaense
 sampaiense
 sampler
 sanabrês
@@ -22302,6 +22324,7 @@ sardento
 sardinhada
 sardinheira
 sardo logudorês
+sardoalense
 sarga
 sarganha
 sargento-ajudante
@@ -22493,7 +22516,6 @@ sensabor
 senso crítico
 sensor biológico
 sensual
-sensualismo
 sensualista
 sensualização
 sentenciado
@@ -22526,6 +22548,7 @@ serigueiro
 serigüela
 seringal
 sermo vulgaris
+sermondense
 seropedicense
 serpense
 serpol
@@ -22723,6 +22746,7 @@ sinimbu
 siniqueiro
 sinizese
 sinner
+sino-brasileiro
 sinobloco
 sinofobia
 sinoparlante
@@ -22777,6 +22801,7 @@ soada
 soagem
 soajo
 soalha
+soalhanense
 soalheiro
 sobaco
 sobeira
@@ -22784,6 +22809,7 @@ soberania do indivíduo
 soberania individual
 sobeu
 sobpé
+sobralense
 sobre
 sobre-elevação
 sobre-excesso
@@ -22820,6 +22846,7 @@ sobrinho-tetraneto
 sobrinho-torto
 sobrinho-trineto
 sobrolho
+sobrosense
 soca
 socairo
 socate
@@ -23244,6 +23271,7 @@ taboeirense
 taboquense
 tabouqueiro
 tabulação
+tabule
 tabuísmo
 tabão
 tacaniça
@@ -23534,6 +23562,7 @@ telemetria
 telemática
 telemóvel inteligente
 teleobjetiva
+teleofobia
 teleprômpter
 telequete
 teleski
@@ -23875,6 +23904,8 @@ tomografia por emissão de pósitrons
 tomógrafo
 tona
 tone
+tonelada curta
+tonelada longa
 tonelagem
 tongareva
 tonho
@@ -23939,6 +23970,8 @@ toupa
 toura
 toural
 toureiros
+tourense
+touriguense
 tourinha
 tournedos
 tournée
@@ -24244,7 +24277,6 @@ tromba de água
 tromba marinha
 trombada
 trombeteira
-trompa de Falópio
 trompaço
 trompázio
 troncha
@@ -24598,6 +24630,7 @@ uruçuquense
 urzal
 urzedo
 urzeira
+urzelinense
 urzibelha
 urzivelha
 usança
@@ -25360,6 +25393,7 @@ zambi
 zambiense
 zamboa
 zambra
+zambujalense
 zambulhada
 zambulho
 zamburrada
