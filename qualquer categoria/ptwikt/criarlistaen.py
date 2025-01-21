@@ -28,7 +28,7 @@ try:
         FROM page
         JOIN categorylinks ON page_id = cl_from
         WHERE page_namespace = 0
-        AND cl_to IN ("Portuguese_initialisms", "Portuguese_abbreviations", "Portuguese_acronyms")
+        AND cl_to IN ("Portuguese_initialisms", "Portuguese_abbreviations", "Portuguese_scribal_abbreviations", "Portuguese_acronyms")
         ORDER BY page_title;"""
 
         cursor.execute(sql)
