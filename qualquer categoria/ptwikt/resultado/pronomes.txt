@@ -21,11 +21,11 @@
 |aquesta
 |aquesto
 |as
-|cadanseu
+|cadanseu<q:has gl>
 |cadê
-|cara
+|cara<q:has gl>
 |certo
-|che
+|che<q:has gl>
 |comigo
 |como
 |connosco

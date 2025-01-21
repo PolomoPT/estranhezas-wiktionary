@@ -4,7 +4,7 @@
 |abaxo
 |abinício
 |abjectamente
-|abofelhas
+|abofelhas<q:has gl>
 |abofé
 |abonadamente
 |abonde
@@ -13,19 +13,19 @@
 |abém
 |acaijo
 |acaloradamente
-|acarão
+|acarão<q:has gl>
 |acelerando
 |acerca
 |acinte
 |acirradamente
 |acó
-|acô
+|acô<q:has gl>
 |adedentro
 |adoidado
-|adoito
+|adoito<q:has gl>
 |adonde
-|aginha
-|agás
+|aginha<q:has gl>
+|agás<q:has gl>
 |alargadamente
 |aldemenos
 |alfim
@@ -37,7 +37,7 @@
 |alá
 |além-mar
 |aló
-|alô
+|alô<q:has gl>
 |amais
 |andante
 |antedia
@@ -47,7 +47,7 @@
 |antetempo
 |antonce
 |antão
-|ao labarente
+|ao labarente<q:has gl>
 |apositivamente
 |apuradamente
 |após
@@ -59,16 +59,16 @@
 |aquém-fronteiras
 |aquém-mar
 |ardilosamente
-|arestora
+|arestora<q:has gl>
 |arredor
-|arreio
+|arreio<q:has gl>
 |arreu
 |asseguradamente
-|assemade
+|assemade<q:has gl>
 |assiduamente
-|assomade
+|assomade<q:has gl>
 |atempadamente
-|atoutinhadelas
+|atoutinhadelas<q:has gl>
 |atrabiliariamente
 |atraentemente
 |atrapalhadamente
@@ -124,8 +124,8 @@
 |correndinho
 |cristãmente
 |dançandinho
-|daquela
-|de cote
+|daquela<q:has gl>
+|de cote<q:has gl>
 |debalde
 |debaxo
 |definidamente
@@ -249,7 +249,7 @@
 |logaritmicamente
 |longitudinalmente
 |maciçamente
-|maino
+|maino<q:has gl>
 |mal-mal
 |mal-pecado
 |malandramente
@@ -257,7 +257,7 @@
 |maleficamente
 |malmentinhos
 |malpecado
-|malpocado
+|malpocado<q:has gl>
 |mansamente
 |manso
 |masculinamente
@@ -266,7 +266,7 @@
 |melhor
 |melhormente
 |mentes
-|mentres
+|mentres<q:has gl>
 |milhor
 |militarmente
 |minado
@@ -315,7 +315,7 @@
 |pagãmente
 |parcamente
 |passadamente
-|passeninho
+|passeninho<q:has gl>
 |passo
 |passo-a-passo
 |pelaí
@@ -324,7 +324,7 @@
 |pesado
 |placidamente
 |pluralmente
-|pousão
+|pousão<q:has gl>
 |precedentemente
 |precipuamente
 |prestes
@@ -339,12 +339,12 @@
 |qualitativamente
 |quantitativamente
 |quasemente
-|quiçais
+|quiçais<q:has gl>
 |quotidianamente
 |racistamente
 |redondamente
 |refece
-|rejo
+|rejo<q:has gl>
 |repente
 |repetido
 |resolutivamente
@@ -360,7 +360,7 @@
 |sequera
 |serialmente
 |servilmente
-|silandeiro
+|silandeiro<q:has gl>
 |singularmente
 |soberbamente
 |sobre
@@ -389,10 +389,10 @@
 |tão só
 |tão-somente
 |tão-só
-|ulo
+|ulo<q:has gl>
 |ulteriormente
 |variamente
-|velaí
+|velaí<q:has gl>
 |virulentamente
 |vividamente
 |à tona

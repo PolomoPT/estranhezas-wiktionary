@@ -51,64 +51,99 @@ diff_verbos = "qualquer categoria\\ptwikt\\resultado\\verbos.txt"
 with open(abreviaturas, 'r', encoding='utf-8') as file1:
     with open(en_abreviaturas, 'r', encoding='utf-8') as file2:
         same = set(file1).difference(file2)
-same = sorted(same)
+    same = sorted(same)
 with open(diff_abreviaturas, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
 
 ##adjetivos
 with open(adjetivos, 'r', encoding='utf-8') as file1:
     with open(en_adjetivos, 'r', encoding='utf-8') as file2:
         same = set(file1).difference(file2)
-same = sorted(same)
+    same = sorted(same)
 with open(diff_adjetivos, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
 
 ##advérbios
 with open(advérbios, 'r', encoding='utf-8') as file1:
     with open(en_advérbios, 'r', encoding='utf-8') as file2:
         same = set(file1).difference(file2)
-same = sorted(same)
+    same = sorted(same)
 with open(diff_advérbios, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
 
 ##artigos
 with open(artigos, 'r', encoding='utf-8') as file1:
     with open(en_artigos, 'r', encoding='utf-8') as file2:
         same = set(file1).difference(file2)
-same = sorted(same)
+    same = sorted(same)
 with open(diff_artigos, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
 
 ##conjunções
 with open(conjunções, 'r', encoding='utf-8') as file1:
     with open(en_conjunções, 'r', encoding='utf-8') as file2:
         same = set(file1).difference(file2)
-same = sorted(same)
+    same = sorted(same)
 with open(diff_conjunções, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
 
 ##contrações
 with open(contrações, 'r', encoding='utf-8') as file1:
     with open(en_contrações, 'r', encoding='utf-8') as file2:
         same = set(file1).difference(file2)
-same = sorted(same)
+    same = sorted(same)
 with open(diff_contrações, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
 
 ##interjeições
 with open(interjeições, 'r', encoding='utf-8') as file1:
     with open(en_interjeições, 'r', encoding='utf-8') as file2:
         same = set(file1).difference(file2)
-same = sorted(same)
+    same = sorted(same)
 with open(diff_interjeições, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
 
 ##locuções
 with open(locuções, 'r', encoding='utf-8') as file1:
@@ -118,59 +153,94 @@ with open(locuções, 'r', encoding='utf-8') as file1:
             same = same.difference(file3)
             same = sorted(same)
 with open(diff_locuções, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
 
 ##morfemas
 with open(morfemas, 'r', encoding='utf-8') as file1:
     with open(en_morfemas, 'r', encoding='utf-8') as file2:
         same = set(file1).difference(file2)
-same = sorted(same)
+    same = sorted(same)
 with open(diff_morfemas, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
 
 ##numerais
 with open(numerais, 'r', encoding='utf-8') as file1:
     with open(en_numerais, 'r', encoding='utf-8') as file2:
         same = set(file1).difference(file2)
-same = sorted(same)
+    same = sorted(same)
 with open(diff_numerais, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
 
 ##preposições
 with open(preposições, 'r', encoding='utf-8') as file1:
     with open(en_preposições, 'r', encoding='utf-8') as file2:
         same = set(file1).difference(file2)
-same = sorted(same)
+    same = sorted(same)
 with open(diff_preposições, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
 
 ##pronomes
 with open(pronomes, 'r', encoding='utf-8') as file1:
     with open(en_pronomes, 'r', encoding='utf-8') as file2:
         same = set(file1).difference(file2)
-same = sorted(same)
+    same = sorted(same)
 with open(diff_pronomes, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
 
 ##substantivos
 with open(substantivos, 'r', encoding='utf-8') as file1:
     with open(en_substantivos, 'r', encoding='utf-8') as file2:
         same = set(file1).difference(file2)
-same = sorted(same)
+    same = sorted(same)
 with open(diff_substantivos, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
 
 ##verbos
 with open(verbos, 'r', encoding='utf-8') as file1:
     with open(en_verbos, 'r', encoding='utf-8') as file2:
         same = set(file1).difference(file2)
-same = sorted(same)
+    same = sorted(same)
 with open(diff_verbos, 'w', encoding='utf-8') as file_out:
+    with open(galego, 'r', encoding='utf-8') as file_galego:
+        linha = set(file_galego)
     for line in same:
-        file_out.write('|'+line)
+        if line not in linha:
+            file_out.write('|'+line)
+        elif line in linha:
+            file_out.write('|'+line.strip()+'<q:has gl>\n')
