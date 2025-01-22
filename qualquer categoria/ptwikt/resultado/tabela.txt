@@ -1,0 +1,53 @@
+==List==
+
+{| class="wikitable sortable" style="margin-left: auto; margin-right: auto; border: none;"
+|-
+! Part of Speech
+! Count
+|-
+|[[/Other#Abbreviations|Abbreviations]]
+| 1049
+|-
+|[[/Adjectives|Adjectives]]
+| 8881
+|-
+|[[/Other#Adverbs|Adverbs]]
+| 407
+|-
+|[[/Other#Affixes|Affixes]]
+| 213
+|-
+|[[/Other#Articles|Articles]]
+| 6
+|-
+|[[/Other#Conjunctions|Conjunctions]]
+| 37
+|-
+|[[/Other#Contractions|Contractions]]
+| 64
+|-
+|[[/Other#Interjections|Interjections]]
+| 374
+|-
+|[[/Other#Numerals|Numerals]]
+| 219
+|-
+|[[/Nouns/1|Nouns]]
+| 25723
+|-
+|[[/Other#Prepositions|Prepositions]]
+| 47
+|-
+|[[/Other#Pronouns|Pronouns]]
+| 85
+|-
+|[[/Verbs|Verbs]]
+| 4009
+|-
+|[[/Other#Phrases|Phrases]]
+| 644
+|-
+|'''Total'''
+| 41758
+|-
+|}

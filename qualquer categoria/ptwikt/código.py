@@ -244,3 +244,151 @@ with open(diff_verbos, 'w', encoding='utf-8') as file_out:
             file_out.write('|'+line)
         elif line in linha:
             file_out.write('|'+line.strip()+'<qq:has gl>\n')
+
+##
+## TABELA
+##
+
+
+def tamanho(filename):
+    with open(filename, encoding='utf-8') as f:
+        for i, _ in enumerate(f):
+            pass
+    return i + 1
+
+n_abreviaturas = tamanho(diff_abreviaturas)
+n_adjetivos = tamanho(diff_adjetivos)
+n_advérbios = tamanho(diff_advérbios)
+n_afixos = tamanho(diff_morfemas)
+n_artigos = tamanho(diff_artigos)
+n_conjunções = tamanho(diff_conjunções)
+n_contrações = tamanho(diff_contrações)
+n_interjeições = tamanho(diff_interjeições)
+n_numerais = tamanho(diff_numerais)
+n_substantivos = tamanho(diff_substantivos)
+n_preposições = tamanho(diff_preposições)
+n_pronomes = tamanho(diff_pronomes)
+n_verbos= tamanho(diff_verbos)
+n_frases = tamanho(diff_locuções)
+
+soma = n_abreviaturas + n_adjetivos + n_advérbios + n_afixos + n_artigos + n_conjunções + n_contrações + n_interjeições + n_numerais + n_substantivos + n_preposições + n_pronomes + n_verbos + n_frases
+
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'w') as tabela:
+    tabela.write("""==List==
+
+{| class="wikitable sortable" style="margin-left: auto; margin-right: auto; border: none;"
+|-
+! Part of Speech
+! Count
+|-""")
+
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Other#Abbreviations|Abbreviations]]
+| """
++ str(n_abreviaturas) + """
+|-""")
+
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Adjectives|Adjectives]]
+| """
++ str(n_adjetivos) + """
+|-""")
+    
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Other#Adverbs|Adverbs]]
+| """
++ str(n_advérbios) + """
+|-""")
+
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Other#Affixes|Affixes]]
+| """
++ str(n_afixos) + """
+|-""")
+
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Other#Articles|Articles]]
+| """
++ str(n_artigos) + """
+|-""")
+
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Other#Conjunctions|Conjunctions]]
+| """
++ str(n_conjunções) + """
+|-""")
+
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Other#Contractions|Contractions]]
+| """
++ str(n_contrações) + """
+|-""")
+
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Other#Interjections|Interjections]]
+| """
++ str(n_interjeições) + """
+|-""")
+
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Other#Numerals|Numerals]]
+| """
++ str(n_numerais) + """
+|-""")
+
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Nouns/1|Nouns]]
+| """
++ str(n_substantivos) + """
+|-""")
+
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Other#Prepositions|Prepositions]]
+| """
++ str(n_preposições) + """
+|-""")
+
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Other#Pronouns|Pronouns]]
+| """
++ str(n_pronomes) + """
+|-""")
+
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Verbs|Verbs]]
+| """
++ str(n_verbos) + """
+|-""")
+    
+with open(r"qualquer categoria\ptwikt\resultado\tabela.txt", 'a') as tabela:
+    tabela.write("""
+|[[/Other#Phrases|Phrases]]
+| """
++ str(n_frases) + """
+|-
+|'''Total'''
+| """
++ str(soma) + """
+|-
+|}
+""")
+
+
+
+
+
+
+
