@@ -97,6 +97,8 @@
 -à
 -á
 -ária
+-árias
+-ários
 -ática
 -áticas
 -áticos
@@ -6583,6 +6585,7 @@ acerâmicas
 acerâmicos
 acesa
 acesas
+aceso
 acesos
 acessa
 acessada
@@ -22551,6 +22554,7 @@ alvorotem
 alvorotemos
 alvorotes
 alvoroto
+alvorotos
 alvorotou
 alvorotámos
 alvorotáramos
@@ -24082,6 +24086,7 @@ ambiguásseis
 ambiguássemos
 ambiguávamos
 ambiguáveis
+ambigùidades
 ambigüidades
 ambissilábica
 ambissilábicas
@@ -30285,6 +30290,7 @@ antigénicos
 antigênica
 antigênicas
 antigênicos
+antigùidades
 antigüidades
 antiinflamatória
 antiinflamatórias
@@ -37054,6 +37060,7 @@ aquecêsseis
 aquecêssemos
 aquecíamos
 aquecíeis
+aqueductos
 aquedutais
 aquedutos
 aqueia
@@ -37316,6 +37323,8 @@ aquêle
 aquênios
 aquícolas
 aquíferos
+aqùíferos
+aqüedutos
 aqüíferos
 ara
 arabescada
@@ -45849,6 +45858,7 @@ aterrorizásseis
 aterrorizássemos
 aterrorizávamos
 aterrorizáveis
+aterros
 aterros sanitários
 aterrou
 aterrámos
@@ -48731,6 +48741,7 @@ autoproclamada
 autoproclamadas
 autoproclamado
 autoproclamados
+autopsias
 autorais
 autoras
 autores
@@ -55973,6 +55984,7 @@ bilhós
 bilhões
 biliardários
 bilinas
+biliocracias
 bilionários
 bilionésima
 bilionésimas
@@ -56606,6 +56618,7 @@ bisou
 bispados
 bispas
 bispos
+bissectrizes
 bissemanais
 bissetrizes
 bissexta
@@ -57424,6 +57437,7 @@ bodycams
 bofe
 bofetadas
 bogaris
+bogas
 bogomilos
 boia
 boiadas
@@ -57741,6 +57755,7 @@ bolseiros
 bolsinhas
 bolsistas
 bolsominions
+bolsonaristas
 bolsos
 bolsões
 bolámos
@@ -58543,6 +58558,7 @@ botoqueis
 botoquem
 botoquemos
 botoques
+botos
 botou
 bots
 botsuana
@@ -58642,6 +58658,7 @@ boyardos
 boycetas
 boys magia
 boyzinhas
+boyzinhos
 boçais
 boças
 boémia
@@ -60756,6 +60773,8 @@ bósnios
 bósons
 bósons de Higgs
 bôrdos
+bôta
+bôtas
 bôtos
 bõs
 búcaros
@@ -63399,6 +63418,7 @@ cananeia
 cananeias
 cananeus
 canapés
+canards
 canarinha
 canarinhas
 canarinhos
@@ -70076,6 +70096,7 @@ cherokees
 cheroquis
 cherovias
 cherubins
+chesteres
 cheya
 cheyas
 cheyos
@@ -72014,6 +72035,7 @@ cinjamos
 cinjas
 cinjo
 cinquentas
+cinqùentas
 cinqüentas
 cinta
 cintada
@@ -72716,7 +72738,59 @@ circunvizinhos
 cireneia
 cireneias
 cireneus
+ciriliza
+cirilizada
+cirilizadas
+cirilizado
+cirilizados
+cirilizai
+cirilizais
+cirilizam
+cirilizamos
+cirilizando
+cirilizara
+cirilizaram
+cirilizaras
+cirilizardes
+cirilizarei
+cirilizareis
+cirilizarem
+cirilizaremos
+cirilizares
+cirilizaria
+cirilizariam
+cirilizarias
+cirilizarmos
+cirilizará
+cirilizarás
+cirilizarão
+cirilizaríamos
+cirilizaríeis
+cirilizas
+cirilizasse
+cirilizassem
+cirilizasses
+cirilizaste
+cirilizastes
+cirilizava
+cirilizavam
+cirilizavas
 cirilizações
+cirilize
+cirilizei
+cirilizeis
+cirilizem
+cirilizemos
+cirilizes
+cirilizo
+cirilizou
+cirilizámos
+cirilizáramos
+cirilizáreis
+cirilizásseis
+cirilizássemos
+cirilizávamos
+cirilizáveis
 ciristas
 cirja
 cirjais
@@ -73680,6 +73754,7 @@ clônica
 clônicas
 clônicos
 cnidários
+co-adopções
 coa
 coabita
 coabitado
@@ -82829,6 +82904,17 @@ consagrássemos
 consagrávamos
 consagráveis
 consanguinidades
+consanguínea
+consanguíneas
+consanguíneos
+consangùinidades
+consangùínea
+consangùíneas
+consangùíneos
+consangüinidades
+consangüínea
+consangüíneas
+consangüíneos
 conscienciosa
 conscienciosas
 conscienciosos
@@ -82992,6 +83078,8 @@ consentísseis
 consentíssemos
 consequentes
 consequências
+conseqùentes
+conseqùências
 conseqüentes
 conseqüências
 conserta
@@ -84689,6 +84777,7 @@ contidas
 contido
 contidos
 contiguidades
+contigùidades
 contigüidades
 contina
 continas
@@ -92316,6 +92405,7 @@ cêntupla
 cêntuplas
 cêntuplos
 cês
+cêstos
 cíclica
 cíclicas
 cíclicos
@@ -92402,6 +92492,8 @@ cônicos
 cônjuges
 cônsules
 côo
+côres
+côrtes
 côvados
 côvãos
 cõfessa
@@ -94733,6 +94825,7 @@ decorem
 decoremos
 decores
 decoro
+decoros
 decorou
 decorra
 decorrais
@@ -97105,6 +97198,7 @@ delinquíreis
 delinquísseis
 delinquíssemos
 deliquescências
+deliqùescências
 deliqüescências
 delira
 deliram
@@ -125231,6 +125325,7 @@ dêlle
 dêmos
 dês
 dêsse
+dêsses
 dêste
 dêstes
 díades
@@ -127203,6 +127298,9 @@ elogiávamos
 elogiáveis
 eloquentes
 eloquências
+eloqùentes
+eloqùências
+eloqüentes
 eloqüências
 elos
 elucida
@@ -145052,6 +145150,12 @@ equivoques
 equívoca
 equívocas
 equívocos
+eqùitativa
+eqùitativas
+eqùitativos
+eqüitativa
+eqüitativas
+eqüitativos
 era
 eram
 eras
@@ -156260,6 +156364,7 @@ estocávamos
 estocáveis
 estofa
 estofados
+estofas
 estofo
 estofos
 estoica
@@ -156479,6 +156584,7 @@ estornemos
 estornes
 estorninhos
 estorno
+estornos
 estornou
 estornámos
 estornáramos
@@ -158379,6 +158485,7 @@ estónia
 estónias
 estónios
 estórias
+estôfas
 estôfos
 estômagos
 estônia
@@ -171090,6 +171197,7 @@ forasteira
 forasteiras
 forasteiros
 foraõ
+forca
 forcado
 forcados
 forcas
@@ -173394,6 +173502,8 @@ frequentássemos
 frequentávamos
 frequentáveis
 frequências
+freqùente
+freqùentes
 freqüenta
 freqüentada
 freqüentadas
@@ -175576,10 +175686,14 @@ fôlegos
 fônica
 fônicas
 fônicos
+fôr
 fôra
 fôramos
+fôrcas
 fôreis
 fôrmas
+fôrra
+fôrras
 fôrças
 fôsseis
 fôssemos
@@ -189412,6 +189526,8 @@ inalássemos
 inalávamos
 inaláveis
 inambiguidades
+inambigùidades
+inambigüidades
 inambígua
 inambíguas
 inambíguos
@@ -191847,6 +191963,7 @@ inexprimíveis
 inexpugnáveis
 inextensíveis
 inextinguíveis
+inextingùíveis
 inextingüíveis
 inextricáveis
 infalibilidades
@@ -195232,6 +195349,7 @@ insuleis
 insulem
 insulemos
 insules
+insulfilmes
 insulinas
 insulo
 insulou
@@ -196897,6 +197015,7 @@ intervéns
 intervêm
 intervínhamos
 intervínheis
+interêsses
 intestinais
 intestinos
 intestinos delgados
@@ -205525,10 +205644,17 @@ linguas
 linguistas
 linguiças
 linguística
-linguísticas
 linguísticos
+lingùistas
+lingùiças
+lingùística
+lingùísticas
+lingùísticos
+lingüistas
 lingüiças
 lingüística
+lingüísticas
+lingüísticos
 linhagens
 linhas
 linhas aéreas
@@ -207712,6 +207838,9 @@ lábios leporinos
 láctea
 lácteas
 lácteos
+láctica
+lácticas
+lácticos
 lágrimas
 lágrimas de apache
 lájeas
@@ -207884,6 +208013,7 @@ lógias
 lógica
 lógicas
 lógicos
+lôbas
 lôbos
 lôbrega
 lôbregas
@@ -221583,6 +221713,7 @@ naifas
 naipes
 najas
 nalgas
+nalguedos
 nalgum
 nalguma
 namibienses
@@ -222240,6 +222371,7 @@ necromantes
 necromântica
 necromânticas
 necromânticos
+necropsias
 necrosa
 necrosado
 necrosai
@@ -222294,6 +222426,7 @@ necrófagas
 necrófagos
 necrófilos
 necrópoles
+necrópsias
 necrósica
 necrósicas
 necrósicos
@@ -224022,6 +224155,7 @@ nozes de areca
 noções
 nua
 nua e crua
+nuances
 nuas
 nuas e cruas
 nubentes
@@ -227186,6 +227320,7 @@ onomatopaica
 onomatopaicas
 onomatopaicos
 onomatopeias
+onomatopéas
 onomatopéias
 onomatópica
 onomatópicas
@@ -233168,6 +233303,8 @@ passivas
 passividades
 passivos
 passo
+passo-a-passos
+passo a passos
 passos
 passou
 passou-bens
@@ -241264,6 +241401,9 @@ pobrezinha
 pobrezinhas
 pobrezinhos
 pobrêzas
+pobríssima
+pobríssimas
+pobríssimos
 pocemas
 pochetes
 pocilgas
@@ -242648,6 +242788,8 @@ portugueza
 portuguezas
 portuguezes
 portuguezismos
+portuguêsa
+portuguêsas
 portulanos
 portunhóis
 portuária
@@ -251984,6 +252126,7 @@ pérsicos
 pés
 pés-de-atleta
 pés-de-cabra
+pés-de-cana
 pés-de-chumbo
 pés-de-galinha
 pés-de-gato
@@ -253687,6 +253830,7 @@ qüinquagésima
 qüinquagésimas
 qüinquagésimos
 qüiproquós
+qüociente
 rabadas
 rabanadas
 rabanetes
@@ -261654,6 +261798,7 @@ reestruturastes
 reestruturava
 reestruturavam
 reestruturavas
+reestruturações
 reestruture
 reestruturei
 reestrutureis
@@ -278400,6 +278545,9 @@ sanguinários
 sanguínea
 sanguíneas
 sanguíneos
+sangùínea
+sangùíneas
+sangùíneos
 sangüina
 sangüinas
 sangüinos
@@ -279269,6 +279417,9 @@ scheelitas
 schistos
 schwas
 sciencias
+scientifica
+scientificas
+scientificos
 scientífica
 scientíficas
 scientíficos
@@ -311261,6 +311412,7 @@ vinquemos
 vinques
 vintenas
 vinténs
+vintêns
 vinífera
 viníferas
 viníferos
@@ -311558,6 +311710,7 @@ virtuosos
 virulenta
 virulentas
 virulentos
+virunduns
 virá
 virámos
 viráramos
@@ -315188,6 +315341,8 @@ zôo
 ácidos graxos
 ácidos linoleicos
 ácidos linoléicos
+ácidos lácticos
+ácidos láticos
 ácidos nucleicos
 ácidos oxálicos
 ácidos salicílicos
@@ -315424,6 +315579,8 @@ zôo
 êrvedos
 êrvodos
 ês
+êsses
+êstes
 êxitos
 êxodos
 êxtases

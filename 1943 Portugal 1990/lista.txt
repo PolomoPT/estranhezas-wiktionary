@@ -53,6 +53,7 @@ baptizar
 basilecto
 bijectivo
 bijecção
+bissectriz
 calefacção
 caçador-recolector
 caçadora-recolectora
@@ -199,6 +200,7 @@ objecto
 objecto voador não identificado
 objecção
 omnidireccional
+optimamente
 optimizado
 optimizar
 optimização

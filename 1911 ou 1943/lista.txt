@@ -234,6 +234,7 @@ appellidar
 applicar
 approvar
 apêllo
+aqueducto
 aquella
 aquellas
 aquelle
@@ -290,6 +291,7 @@ bibliotheca
 bibliothecário
 bijectivo
 bijecção
+bissectriz
 bocca
 bromelia
 cahio
@@ -338,7 +340,6 @@ circunspecção
 ciumes
 co-adopção
 coacção
-coadopção
 coccyx
 cohorte
 coleccionador
@@ -545,6 +546,10 @@ factorizar
 factura
 facturar
 fallar
+figo-da-Índia
+figo da Índia
+figueira-da-Índia
+figueira da Índia
 fluctuar
 fossemos
 fraccionamento
@@ -727,9 +732,11 @@ official
 officina
 officio
 omnidireccional
+onomatopéa
 onyx
 ophthalmologista
 ophídio
+optimamente
 optimizado
 optimizar
 optimização
@@ -929,6 +936,7 @@ unctar
 unico
 vacca
 vae
+vario
 vector
 vectorial
 villa

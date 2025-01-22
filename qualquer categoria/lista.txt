@@ -42,7 +42,6 @@
 -avo
 -aço
 -açu
--ação
 -aõ
 -bol
 -cele
@@ -12791,6 +12790,7 @@ agência de segurança
 agência de viagens
 agónico
 agônico
+agùentar
 agüentar
 ah
 ah, sim
@@ -14215,6 +14215,7 @@ ambiguação
 ambiguidade
 ambiguizar
 ambiguização
+ambigùidade
 ambigüidade
 ambilateral
 ambiofonia
@@ -16538,6 +16539,7 @@ antiguo
 antigás
 antigénico
 antigênico
+antigùidade
 antigüidade
 antihackers
 antiinflamatório
@@ -18241,6 +18243,7 @@ aquénio
 aquênio
 aquícola
 aquífero
+aqùífero
 aqüeduto
 aqüífero
 ar
@@ -18631,6 +18634,7 @@ argólico
 argónio
 argótico
 argônio
+argùir
 argúcia
 argüir
 arhat
@@ -21714,6 +21718,7 @@ biliardário
 bilina
 bilingue
 bilinguismo
+biliocracia
 bilionário
 bilionésimo
 bilião
@@ -21854,6 +21859,7 @@ bisonte europeu
 bispa
 bispado
 bispo
+bissectriz
 bissemanal
 bissemanalmente
 bissetriz
@@ -22078,6 +22084,7 @@ bofar
 bofe
 bofes
 bofetada
+bofinho
 boga
 bogari
 bogatir
@@ -22717,6 +22724,7 @@ brusco
 brusquense
 brusqueta
 brustolar
+bruta
 bruta bestia
 brutal
 brutalidade
@@ -23551,6 +23559,7 @@ calor latente
 calorento
 caloria
 calorimétrico
+calorosamente
 caloroso
 calorão
 calorímetro
@@ -25917,6 +25926,7 @@ cinismo
 cinização
 cinofobia
 cinquenta
+cinqùenta
 cinqüenta
 cinta
 cintar
@@ -26063,6 +26073,7 @@ circunvizinho
 circúnvago
 cireneu
 ciriguela
+cirilizar
 cirilização
 cirista
 cirro
@@ -27444,7 +27455,10 @@ consagrar
 consagração
 consanguinidade
 consanguíneo
+consangùinidade
+consangùíneo
 consangüinidade
+consangüíneo
 conscienciosamente
 conscienciosidade
 consciencioso
@@ -27471,6 +27485,9 @@ consentâneo
 consequente
 consequentemente
 consequência
+conseqùente
+conseqùentemente
+conseqùência
 conseqüente
 conseqüentemente
 conseqüência
@@ -27654,6 +27671,7 @@ contextualização
 conteúdo
 contigo
 contiguidade
+contigùidade
 contigüidade
 continental
 continentalidade
@@ -29244,6 +29262,7 @@ cê é louco
 cênico
 cêntimo
 cêntuplo
+cêsto
 cíano
 cíclame
 cíclico
@@ -30084,6 +30103,7 @@ delinquente
 delinquir
 delinquência
 deliquescência
+deliqùescência
 deliqüescência
 delir
 delirante
@@ -30515,6 +30535,7 @@ descabelado
 descabelar
 descabelar o palhaço
 descabido
+descafeinar
 descair
 descalabro
 descalcificação
@@ -30599,6 +30620,7 @@ desconcertante
 desconcertar
 desconchavar
 desconchavo
+descondenar
 desconectar
 desconexo
 desconfiado
@@ -31138,6 +31160,7 @@ desportódromo
 desposar
 desposto
 despotismo
+despovoar
 despoys
 desprazer
 despregar
@@ -33112,6 +33135,10 @@ elogio
 eloquente
 eloquentemente
 eloquência
+eloqùente
+eloqùentemente
+eloqùência
+eloqüente
 eloqüentemente
 eloqüência
 elos
@@ -34007,6 +34034,7 @@ ensalada
 ensanduichar
 ensanguentado
 ensanguentar
+ensangùentar
 ensangüentar
 ensaísta
 enseada
@@ -34392,7 +34420,10 @@ equivocamente
 equivocar
 equânime
 equívoco
+eqùitativamente
+eqùitativo
 eqüitativamente
+eqüitativo
 era
 era apostólica
 era do gelo
@@ -35862,6 +35893,7 @@ estólido
 estónia
 estónio
 estória
+estôfa
 estôfo
 estômago
 estônia
@@ -36993,6 +37025,7 @@ fedelho
 feder
 federal
 federalismo
+federalizar
 federalização
 federativo
 federação
@@ -38295,6 +38328,9 @@ frequentar
 frequente
 frequentemente
 frequência
+freqùentar
+freqùente
+freqùentemente
 freqùência
 freqüentar
 freqüente
@@ -38782,6 +38818,7 @@ fôlego
 fônica
 fônico
 fônon
+fôrca
 fôrma
 fôrro
 fôrça
@@ -40397,6 +40434,7 @@ góthico
 gótico
 gônada
 gôndola
+gôsto
 gôta
 gôtta
 gẽte
@@ -42052,6 +42090,7 @@ inalienável
 inalterado
 inalterável
 inambiguidade
+inambigùidade
 inambigüidade
 inambu
 inambíguo
@@ -42452,6 +42491,7 @@ inexprimível
 inexpugnável
 inextensível
 inextinguível
+inextingùível
 inextingüível
 inextricável
 infalibilidade
@@ -43118,6 +43158,7 @@ interventivo
 interventor
 intervenção
 intervir
+interêsse
 intestinal
 intestino
 intestino delgado
@@ -45109,6 +45150,10 @@ linguística computacional
 linguística diacrônica
 linguística histórica
 linguístico
+lingùista
+lingùiça
+lingùística
+lingùístico
 lingüista
 lingüiça
 lingüística
@@ -45749,6 +45794,7 @@ lógica fuzzy
 lógico
 lótus
 lôa
+lôba
 lôbo
 lôbrego
 lúcia
@@ -49168,6 +49214,8 @@ naifa
 naifada
 naipe
 naja
+nalga
+nalguedo
 nam
 namaste
 namastê
@@ -49291,6 +49339,7 @@ natural
 naturalidade
 naturalismo
 naturalista
+naturalizar
 naturalmente
 natureza
 natureza-morta
@@ -49376,12 +49425,15 @@ necrológico
 necromancia
 necromante
 necromântico
+necropsia
+necropsiar
 necrosar
 necrose
 necrotério
 necrófago
 necrófilo
 necrópole
+necrópsia
 necrósico
 necrótico
 nectarina
@@ -50030,6 +50082,7 @@ nudismo
 nudista
 nugget
 nulidade
+nulificar
 nulo
 num
 num.
@@ -50827,6 +50880,7 @@ onomasiológico
 onomatopaico
 onomatopeia
 onomatopeico
+onomatopéa
 onomatopéia
 onomatópico
 onomástica
@@ -50902,6 +50956,7 @@ ops
 optar
 optativo
 opticamente
+optimamente
 optimismo
 optimista
 optimizado
@@ -54610,6 +54665,7 @@ português com açúcar
 português de Portugal
 português do Brasil
 português europeu
+portuguêsa
 portulaca
 portulano
 portunhol
@@ -56359,6 +56415,7 @@ quadrisal
 quadro
 quadro-negro
 quadro de giz
+quadruplar
 quadruplicar
 quadrupolo
 quadrático
@@ -57432,6 +57489,7 @@ recife
 recinto
 recipiente
 reciprocamente
+reciprocar
 reciprocidade
 recital
 recitar
@@ -59457,6 +59515,7 @@ sanguinária-do-canadá
 sanguinária do Canadá
 sanguinário
 sanguíneo
+sangùíneo
 sangüino
 sangüíneo
 sanha
@@ -62337,6 +62396,7 @@ tanquinho
 tansagem
 tanso
 tantalita
+tantalizar
 tanto
 tanto assim
 tanto faz
@@ -64387,7 +64447,6 @@ trompa
 trompa alpina
 trompa de Eustáquio
 trompa de Falópio
-trompa de falópio
 trompe-l'œil
 trompeta
 trompete
@@ -67388,6 +67447,7 @@ zôo
 ácido linoleico
 ácido linoléico
 ácido lisérgico
+ácido láctico
 ácido lático
 ácido nucleico
 ácido nítrico
@@ -67672,10 +67732,10 @@ zôo
 êneo
 ênfase
 ênosis
+êrro
 êrvedo
 êrvodo
 êsse
-êsses
 êste
 êxito
 êxodo
@@ -67729,6 +67789,7 @@ zôo
 ítrio
 ñ
 òpticamente
+òptimamente
 òticamente
 òtimamente
 ó
