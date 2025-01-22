@@ -3527,6 +3527,7 @@ Maputo
 Maquiné
 Mar Báltico
 Mar Mediterrâneo
+Mar Vermelho
 Mar da Tranquilidade
 Mara
 Maracaibo
@@ -11307,6 +11308,7 @@ bem-me-quer
 bem-te-vi
 bemba
 bemol
+benafinense
 bendição
 benefactivo
 beneficiamento
@@ -13255,6 +13257,7 @@ cadarma
 cadarço
 cadastramento
 cadastro
+cadavalense
 cadeado
 cadeia
 cadeia alimentar
@@ -13729,6 +13732,7 @@ cambroeira
 cambrão
 cambuciense
 cambucá
+cambueiras
 cambuiense
 cambulhada
 cambulho
@@ -14479,7 +14483,6 @@ carpinteiragem
 carpinteiro
 carpinteiro-da-praia
 carpinteiro-de-praia
-carpinteiros
 carpintina
 carpo
 carpola
@@ -15363,6 +15366,7 @@ chagador
 chagatai
 chaguarço
 chaiene
+chaincense
 chaira
 chairo
 chakma
@@ -16413,6 +16417,7 @@ coelho
 coelho-netense
 coelho da Páscoa
 coendro
+coentralense
 coentro
 coenzima
 coercibilidade
@@ -16598,6 +16603,7 @@ colorido
 colosso
 colostro
 coltar
+colubrina
 columbário
 coluna
 coluna semafórica
@@ -22918,6 +22924,7 @@ fateiga
 fateira
 fateiro
 fateixa
+fatelense
 fatelo
 fatexa
 fatia
@@ -30385,6 +30392,7 @@ luzia
 luzica
 luzicu
 luzideira
+luziense
 luzilume
 luzincu
 luzirna
@@ -31674,6 +31682,7 @@ mayday
 mazaganense
 mazagrã
 mazandarani
+mazedense
 mazela
 mazombo
 mazá
@@ -44379,6 +44388,7 @@ timotense
 timpanista
 timão
 tina
+tinalhense
 tineta
 tinguá
 tinha

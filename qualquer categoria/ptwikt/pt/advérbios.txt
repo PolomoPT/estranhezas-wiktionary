@@ -897,6 +897,7 @@ sussa
 sutilmente
 sãmente
 só
+sómente
 súper
 tacitamente
 talvez

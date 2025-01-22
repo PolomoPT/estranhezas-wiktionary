@@ -583,6 +583,7 @@ cada vez
 cada vez mais
 cadê
 calmamente
+calorosamente
 candidamente
 canonicamente
 cansadamente
@@ -692,6 +693,7 @@ conscientemente
 consecutivamente
 conseguintemente
 consequentemente
+conseqùentemente
 conseqüentemente
 consideravelmente
 consigo
@@ -1019,6 +1021,7 @@ eletricamente
 eletromagneticamente
 eletronicamente
 eloquentemente
+eloqùentemente
 eloqüentemente
 em alto e bom som
 em antemão
@@ -1107,6 +1110,7 @@ epistemologicamente
 equitativamente
 equivocadamente
 equivocamente
+eqùitativamente
 eqüitativamente
 era uma vez
 ergonomicamente
@@ -1235,6 +1239,7 @@ francesamente
 fraternalmente
 freneticamente
 frequentemente
+freqùentemente
 freqüentemente
 freudianamente
 friamente
@@ -1745,6 +1750,7 @@ ontem
 ontologicamente
 opressivamente
 opticamente
+optimamente
 oq
 ora
 oralmente
@@ -2438,6 +2444,7 @@ zoologicamente
 ínterim
 ñ
 òpticamente
+òptimamente
 òticamente
 òtimamente
 ùnicamente

@@ -319,6 +319,7 @@ aguentar os cavalos
 aguilhoar
 aguisar
 aguçar
+agùentar
 agüentar
 airar
 ajeitar
@@ -666,6 +667,7 @@ arfar
 argentar
 arguir
 argumentar
+argùir
 argüir
 arianizar
 armar
@@ -1367,6 +1369,7 @@ circundar
 circunscrever
 circunstanciar
 circunvagar
+cirilizar
 cisalhar
 cisar
 cismar
@@ -2088,6 +2091,7 @@ desbloquear
 desbotar
 descabelar
 descabelar o palhaço
+descafeinar
 descair
 descalçar
 descamar
@@ -2123,6 +2127,7 @@ descompor
 descomprimir
 desconcertar
 desconchavar
+descondenar
 desconectar
 desconfiar
 desconfortar
@@ -2333,6 +2338,7 @@ despolarizar
 despolitizar
 despontar
 desposar
+despovoar
 desprazer
 despregar
 desprender
@@ -2852,6 +2858,7 @@ ensacar
 ensaiar
 ensanduichar
 ensanguentar
+ensangùentar
 ensangüentar
 ensebar
 ensejar
@@ -3437,6 +3444,7 @@ fechar com
 fechar com chave de ouro
 fecundar
 feder
+federalizar
 felicitar
 feltrar
 feminizar
@@ -3565,6 +3573,7 @@ fraudar
 frear
 freiar
 frequentar
+freqùentar
 freqüentar
 fresar
 frescar
@@ -4491,11 +4500,13 @@ nascer
 nascer de novo
 nascer em berço de ouro
 nascer virado para a lua
+naturalizar
 naufragar
 navegar
 nazificar
 neblinar
 necessitar
+necropsiar
 necrosar
 negar
 negativar
@@ -4526,6 +4537,7 @@ notar
 noticiar
 notificar
 nublar
+nulificar
 numerar
 numerizar
 nunca dizer nunca
@@ -5112,6 +5124,7 @@ pôr os pés em polvorosa
 quadrangular
 quadrar
 quadricular
+quadruplar
 quadruplicar
 qualificar
 quantificar
@@ -5243,6 +5256,7 @@ recetar
 rechaçar
 rechear
 reciclar
+reciprocar
 recitar
 reclamar
 reclamar de barriga cheia
@@ -5918,6 +5932,7 @@ tamponar
 tangar
 tanger
 tankar
+tantalizar
 tapar
 tapar o sol com a peneira
 tar

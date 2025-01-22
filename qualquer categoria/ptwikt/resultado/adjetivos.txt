@@ -1292,6 +1292,7 @@
 |bem-humorado
 |bem-ido
 |bem-mandado
+|benafinense
 |beneficentíssimo
 |benevolentíssimo
 |benfeitor
@@ -1403,7 +1404,6 @@
 |boldrego
 |boleco
 |bolsolulista
-|bolsonarista
 |bolsopetista
 |bom de bico
 |bom-de-bico
@@ -1984,6 +1984,7 @@
 |chafalheiro<qq:has gl>
 |chafalhão<qq:has gl>
 |chafense
+|chaincense
 |chaira<qq:has gl>
 |chairo<qq:has gl>
 |chakma
@@ -2144,6 +2145,7 @@
 |codificado
 |codilhado
 |coelho-netense
+|coentralense
 |coercível
 |coestaduano
 |cogitado
@@ -2743,6 +2745,7 @@
 |depravado
 |depreciado
 |depredador
+|deputado
 |derelict
 |derelito
 |derivante
@@ -3140,7 +3143,6 @@
 |elitizado
 |elogiado
 |elogioso
-|eloqüente
 |elucubrado
 |elísio-medradense
 |em baixo
@@ -3712,6 +3714,7 @@
 |fascinado
 |fateira
 |fateiro
+|fatelense
 |fatigante
 |fatimense
 |faturador
@@ -5451,6 +5454,7 @@
 |luzense
 |luzente
 |luzia
+|luziense
 |luético
 |lábil
 |lávico
@@ -5690,6 +5694,7 @@
 |maximizado
 |mazaganense
 |mazanza
+|mazedense
 |maçorano
 |meada
 |mec
@@ -8194,6 +8199,7 @@
 |timburiense
 |timorato
 |timotense
+|tinalhense
 |tingido
 |tinta
 |tintório

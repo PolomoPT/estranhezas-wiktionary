@@ -2220,6 +2220,7 @@ bem-mandado
 bem-sucedido
 bem-vindo
 bem talhado
+benafinense
 bendito
 beneficente
 beneficentíssimo
@@ -2696,6 +2697,7 @@ cacotímico
 caculeense
 cacássio
 cadastrado
+cadavalense
 cadavérico
 cadeirante
 cadeleiro
@@ -3257,6 +3259,7 @@ chafalhas
 chafalheiro
 chafalhão
 chafense
+chaincense
 chaira
 chairo
 chakma
@@ -3503,6 +3506,7 @@ cochino
 codificado
 codilhado
 coelho-netense
+coentralense
 coercitivo
 coercivo
 coercível
@@ -4518,6 +4522,7 @@ depressionário
 depressivo
 deprimido
 deprê
+deputado
 derelict
 derelito
 derivado
@@ -6280,6 +6285,7 @@ fatal
 fateira
 fateiro
 fatela
+fatelense
 fatigado
 fatigante
 fatimense
@@ -9234,6 +9240,7 @@ luzense
 luzente
 luzia
 luzidio
+luziense
 luético
 lábil
 lácteo
@@ -9633,6 +9640,7 @@ maxialense
 maximizado
 mazaganense
 mazanza
+mazedense
 maçador
 maçante
 maçorano
@@ -13948,6 +13956,7 @@ timburiense
 timorato
 timorense
 timotense
+tinalhense
 tingido
 tinhoso
 tinta

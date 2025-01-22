@@ -3592,6 +3592,7 @@ bolorento
 bolseiro
 bolsista
 bolsominion
+bolsonarista
 bom
 bombado
 bombástico
@@ -4465,6 +4466,8 @@ conotativo
 conquistador
 consagrado
 consanguíneo
+consangùíneo
+consangüíneo
 consciencioso
 consciente
 conscrito
@@ -4474,6 +4477,7 @@ conseguível
 conselheiro
 consentâneo
 consequente
+conseqùente
 conseqüente
 conservador
 considerável
@@ -5632,6 +5636,8 @@ elevado
 eliminatório
 elisabetano
 eloquente
+eloqùente
+eloqüente
 elucidativo
 elusivo
 elástico
@@ -5878,6 +5884,8 @@ equivalente
 equivocado
 equânime
 equívoco
+eqùitativo
+eqüitativo
 erecto
 ereto
 ergométrico
@@ -6686,6 +6694,7 @@ fremente
 frenológico
 frenético
 frequente
+freqùente
 freqüente
 fresador
 fresco
@@ -7699,6 +7708,7 @@ inexprimível
 inexpugnável
 inextensível
 inextinguível
+inextingùível
 inextingüível
 inextricável
 infalível
@@ -8341,6 +8351,7 @@ linfóide
 lingual
 linguarudo
 linguístico
+lingùístico
 lingüístico
 linha-dura
 linoleico
@@ -11254,6 +11265,7 @@ sanguino
 sanguinolento
 sanguinário
 sanguíneo
+sangùíneo
 sangüino
 sangüíneo
 sanitário

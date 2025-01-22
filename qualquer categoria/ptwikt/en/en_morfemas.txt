@@ -35,7 +35,6 @@
 -avo
 -aço
 -açu
--ação
 -aõ
 -bol
 -cele

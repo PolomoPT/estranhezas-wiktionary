@@ -5345,7 +5345,6 @@
 |baldréu
 |balduína
 |baldão
-|balear
 |baleeira
 |baleia-cinzenta
 |baleia-da-groenlândia
@@ -5749,6 +5748,7 @@
 |bem-casado
 |bem-me-quer
 |bemba
+|benafinense
 |benefactivo
 |beneficiação
 |benefício de ordem
@@ -5982,7 +5982,6 @@
 |bispote
 |bissau-guineense
 |bissauense
-|bissectriz
 |bissexual
 |bissexualismo
 |bissinose
@@ -6515,7 +6514,6 @@
 |brussa
 |brutalismo
 |bruteza
-|bruto
 |bruxelense
 |bruxelês
 |bruído<qq:has gl>
@@ -7179,6 +7177,7 @@
 |cambroeira
 |cambrão
 |cambuciense
+|cambueiras
 |cambuiense
 |cambulhada
 |cambulho
@@ -7622,7 +7621,6 @@
 |carpinteiragem
 |carpinteiro-da-praia
 |carpinteiro-de-praia
-|carpinteiros
 |carpintina
 |carpola
 |carpê
@@ -8106,6 +8104,7 @@
 |chagador
 |chaguarço
 |chaiene
+|chaincense
 |chaira<qq:has gl>
 |chairo<qq:has gl>
 |chakma
@@ -8688,6 +8687,7 @@
 |coelho da Páscoa
 |coelho-netense
 |coendro
+|coentralense
 |coenzima
 |coercibilidade
 |coesposa
@@ -11968,6 +11968,7 @@
 |fateira
 |fateiro
 |fateixa
+|fatelense
 |fatelo<qq:has gl>
 |fatexa
 |fatia-de-parida
@@ -16291,6 +16292,7 @@
 |luzica
 |luzicu
 |luzideira
+|luziense
 |luzilume
 |luzincu
 |luzirna
@@ -17051,6 +17053,7 @@
 |mayday
 |mazaganense
 |mazagrã
+|mazedense
 |mazombo
 |mazá
 |maçacoto
@@ -18092,7 +18095,6 @@
 |naira
 |naite
 |nakfa
-|nalga
 |nalsa
 |namastê
 |namestnik
@@ -18181,11 +18183,9 @@
 |necrologia
 |necrologista
 |necrológio
-|necropsia
 |necroscopia
 |necrófobo
 |necrólogo
-|necrópsia
 |neerlandoparlante
 |neerlandófono
 |nefa
@@ -23779,6 +23779,7 @@
 |timeline
 |timotense
 |timpanista
+|tinalhense
 |tineta
 |tinguá
 |tinhorão
@@ -25582,7 +25583,6 @@
 |á-é-i-ó-u
 |áber
 |ácido lipóico
-|ácido láctico
 |ácido octanoico
 |ácido octanóico
 |ácido valeriânico

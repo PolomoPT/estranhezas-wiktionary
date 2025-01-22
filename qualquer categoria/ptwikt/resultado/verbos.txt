@@ -1606,7 +1606,6 @@
 |descaber
 |descacar a suruba
 |descadastrar
-|descafeinar
 |descaminhar
 |descamisar
 |descanar
@@ -1623,7 +1622,6 @@
 |desclassificar
 |descomprometer
 |desconcentrar
-|descondenar
 |desconvir
 |descordar
 |descoutar
@@ -1727,7 +1725,6 @@
 |despiorar
 |despoletar
 |despolir
-|despovoar
 |desprecaver
 |despreocupar
 |desprevenir
@@ -2431,7 +2428,6 @@
 |fechar com alguém
 |fechar o gol
 |fechar-se em copas
-|federalizar
 |federar
 |fedinchar
 |feirar
@@ -3095,7 +3091,6 @@
 |namoriscar
 |narcisar
 |narcotizar
-|naturalizar
 |nausear
 |navalhar
 |navegar à bolina
@@ -3104,7 +3099,6 @@
 |nebular
 |nebulizar
 |necear
-|necropsiar
 |necrotizar
 |nectarizar
 |negacear
@@ -3144,7 +3138,6 @@
 |novelar
 |nuançar
 |nuclear
-|nulificar
 |não dar outra
 |não nascer ontem
 |ob-rogar
@@ -3337,7 +3330,6 @@
 |põem
 |quadrilhar
 |quadrupedar
-|quadruplar
 |quantiar
 |quarentar
 |quaresmar
@@ -3393,7 +3385,6 @@
 |rebuçar
 |recender
 |recibar
-|reciprocar
 |recobrar
 |recoletar
 |recolhe
@@ -3698,7 +3689,6 @@
 |tangenciar
 |tanguear
 |tanoar
-|tantalizar
 |tapear
 |tapetar
 |tapeçar

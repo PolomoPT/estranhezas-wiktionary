@@ -12307,6 +12307,7 @@ ambigrama
 ambiguação
 ambiguidade
 ambiguização
+ambigùidade
 ambigüidade
 ambiofonia
 ambissilabicidade
@@ -13650,6 +13651,7 @@ antiguana
 antiguano
 antiguerreiro
 antiguidade
+antigùidade
 antigüidade
 antiinflamatório
 antijacobino
@@ -14474,6 +14476,7 @@ aqué
 aquénio
 aquênio
 aquífero
+aqùífero
 aqüeduto
 aqüífero
 ar
@@ -16136,6 +16139,7 @@ baldaquino
 balde
 baldeação
 baldio
+balear
 baleato
 baleação
 baleeiro
@@ -16905,6 +16909,7 @@ bilhó
 biliardário
 bilina
 bilinguismo
+biliocracia
 bilionário
 bilionésimo
 bilião
@@ -17008,6 +17013,7 @@ bisonte europeu
 bispa
 bispado
 bispo
+bissectriz
 bissemanal
 bissetriz
 bissexto
@@ -17192,6 +17198,7 @@ bodycam
 bofe
 bofes
 bofetada
+bofinho
 boga
 bogari
 bogatir
@@ -17709,10 +17716,12 @@ brunch
 bruno
 brusquense
 brusqueta
+bruta
 bruta bestia
 brutalidade
 brutamonte
 brutamontes
+bruto
 bruxa
 bruxaria
 bruxedo
@@ -20319,6 +20328,7 @@ cinismo
 cinização
 cinofobia
 cinquenta
+cinqùenta
 cinqüenta
 cinta
 cintaralho
@@ -21320,6 +21330,7 @@ conquistador
 conquistadora
 consagração
 consanguinidade
+consangùinidade
 consangüinidade
 conscienciosidade
 consciente
@@ -21333,6 +21344,7 @@ conselho
 consenso
 consentimento
 consequência
+conseqùência
 conseqüência
 conserto
 conserva
@@ -21447,6 +21459,7 @@ contexto
 contextualização
 conteúdo
 contiguidade
+contigùidade
 contigüidade
 continental
 continentalidade
@@ -22641,6 +22654,7 @@ cê-cedilha
 cê cedilhado
 cêntimo
 cêntuplo
+cêsto
 cíano
 cíclame
 cíclope
@@ -23008,6 +23022,7 @@ delineação
 delinquente
 delinquência
 deliquescência
+deliqùescência
 deliqüescência
 delito
 delivery
@@ -24677,6 +24692,7 @@ elo
 elo perdido
 elogio
 eloquência
+eloqùência
 eloqüência
 elucubração
 elusão
@@ -26205,6 +26221,7 @@ estóico
 estónia
 estónio
 estória
+estôfa
 estôfo
 estômago
 estônia
@@ -28111,6 +28128,7 @@ fôlder
 fôlego
 fônica
 fônon
+fôrca
 fôrma
 fôrro
 fôrça
@@ -29391,6 +29409,7 @@ góthico
 gótico
 gônada
 gôndola
+gôsto
 gôta
 gôtta
 gẽte
@@ -30491,6 +30510,7 @@ inalador
 inalação
 inalienabilidade
 inambiguidade
+inambigùidade
 inambigüidade
 inambu
 inamu
@@ -30989,6 +31009,7 @@ intervencionista
 interveniente
 interventor
 intervenção
+interêsse
 intestino
 intestino delgado
 intestino grosso
@@ -32393,6 +32414,9 @@ linguística
 linguística computacional
 linguística diacrônica
 linguística histórica
+lingùista
+lingùiça
+lingùística
 lingüista
 lingüiça
 lingüística
@@ -32912,6 +32936,7 @@ lógica fuzzy
 lógico
 lótus
 lôa
+lôba
 lôbo
 lúcia
 lúcio
@@ -35466,6 +35491,8 @@ naifa
 naifada
 naipe
 naja
+nalga
+nalguedo
 nambu
 namespace
 namibiano
@@ -35620,11 +35647,13 @@ necrofilia
 necrofobia
 necromancia
 necromante
+necropsia
 necrose
 necrotério
 necrófago
 necrófilo
 necrópole
+necrópsia
 nectarina
 neerlandesa
 neerlandês
@@ -36531,6 +36560,7 @@ onisciência
 onividência
 onomasiologia
 onomatopeia
+onomatopéa
 onomatopéia
 onomástica
 onsen
@@ -39295,6 +39325,7 @@ português com açúcar
 português de Portugal
 português do Brasil
 português europeu
+portuguêsa
 portulaca
 portulano
 portunhol
@@ -45991,7 +46022,6 @@ trompa
 trompa alpina
 trompa de Eustáquio
 trompa de Falópio
-trompa de falópio
 trompe-l'œil
 trompeta
 trompete
@@ -48132,6 +48162,7 @@ zôo
 ácido linoleico
 ácido linoléico
 ácido lisérgico
+ácido láctico
 ácido lático
 ácido nucleico
 ácido nítrico
@@ -48347,6 +48378,7 @@ zôo
 ênclise
 ênfase
 ênosis
+êrro
 êrvedo
 êrvodo
 êxito
