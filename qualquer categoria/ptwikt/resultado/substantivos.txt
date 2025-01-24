@@ -3619,7 +3619,6 @@
 |alarvice
 |alaudídeos
 |alavanca óptica
-|alazão
 |albacar
 |albandeirinha
 |albanoparlante
@@ -3942,7 +3941,6 @@
 |alça sigmóide
 |alçado
 |além-mundo
-|alérgico
 |aléu
 |alóctone
 |alógeno
@@ -6881,6 +6879,7 @@
 |cacumá
 |cacusso
 |cacássio
+|cadafazense
 |cadaleito<qq:has gl>
 |cadamo
 |cadarma
@@ -8049,6 +8048,7 @@
 |cenóbio
 |cenógrafo
 |cepanense
+|cepelense
 |cepilho
 |cera do ouvido
 |cerasta
@@ -8298,7 +8298,6 @@
 |chicotinho
 |chicória-crespa
 |chicória-do-café
-|chifres
 |chifuta
 |chiita
 |chilaquiles
@@ -9285,6 +9284,7 @@
 |coruto
 |corva
 |corvacho
+|corvalense
 |corveia
 |corveiro
 |corvense
@@ -12315,7 +12315,6 @@
 |flavieta
 |flavo
 |flavor
-|flavorizante
 |flebite
 |flebotomíneos
 |flebótomo
@@ -13100,6 +13099,7 @@
 |gato-lagária
 |gatoense
 |gatologia
+|gatonete
 |gatovelox
 |gatunagem
 |gaturama
@@ -16946,6 +16946,7 @@
 |martemoto
 |martinense
 |martinete
+|martingancense
 |martinho-pescador
 |martini
 |martinicano
@@ -18137,8 +18138,6 @@
 |natrómetro
 |natrômetro
 |natural
-|natureba
-|naturista
 |natügu
 |nauruense
 |nave auxiliar
@@ -18211,7 +18210,6 @@
 |negócio jurídico
 |nehan
 |neixarigo<qq:has gl>
-|nele
 |nematoides
 |nematóides
 |nemigo
@@ -18678,6 +18676,7 @@
 |olimpiense
 |olindense
 |olindinense
+|olivalense
 |oliveira-do-paraíso
 |olmeiro
 |olonetsiano
@@ -18967,11 +18966,13 @@
 |padecimento
 |padejo
 |padoque
+|padornelense
 |padrasco
 |padre-nosso
 |padreação
 |padreca
 |padreco
+|padreirense
 |padres
 |padrezinho
 |padrinhos
@@ -20951,7 +20952,6 @@
 |pérsico
 |pérsio
 |pértigo
-|pêgo
 |pêndula
 |pênfigo
 |pêro
@@ -22700,6 +22700,7 @@
 |silvaredo
 |silveira
 |silveirense
+|silvense
 |silvestre
 |silvestrino
 |silvino
@@ -25596,7 +25597,6 @@
 |ágar-ágar
 |ágnatos
 |água de briga
-|água de flor de laranjeira
 |água de toalete
 |água destilada
 |água do telhado

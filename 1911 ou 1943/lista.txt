@@ -146,6 +146,7 @@ absinthio
 absintho
 abstracto
 abstracção
+abstrahir
 abysmal
 abysmo
 acceitar
@@ -268,6 +269,7 @@ attrahir
 attribuição
 attrito
 aucthoridade
+auctoridade
 augmentar
 authoridade
 autodidacta
@@ -374,6 +376,7 @@ contracto
 contracção
 contradicção
 contrafacção
+contrahir
 copia
 correctamente
 correctivo
@@ -439,19 +442,20 @@ distincção
 distractivo
 distractor
 distracção
+distrahir
 dithongo
 divergencia
 dynamico
 dysenteria
 echo
 edade
-efectivamente
-efectivar
-efectivação
-efectivo
-efectuar
 effectivamente
+effectivar
+effectivação
+effectivo
+effectuar
 efficaz
+egreja
 egypcio
 ejectar
 ejecção
@@ -505,6 +509,7 @@ escriptorio
 escriptório
 esophago
 espectacular
+espectaculo
 esperavamos
 esphenoide
 esphera
@@ -540,6 +545,7 @@ extincção
 extractar
 extracto
 extracção
+extrahir
 factor
 factorial
 factorizar
@@ -671,6 +677,7 @@ lynce
 machiavellico
 machina
 machina de escrever
+malinformado
 mamma
 mammar
 mammão
@@ -787,6 +794,7 @@ phthisico
 physica
 pillar
 plenario
+pomo-de-Adão
 poncto
 ponctualidade
 por emquanto
@@ -815,6 +823,7 @@ proteccionista
 protector
 protectorado
 protecção
+protrahir
 psychanalyse
 psychiatra
 psychopatha
@@ -836,10 +845,12 @@ reacção
 receptador
 receptar
 recolector
+recta
 rectal
 rectangular
 rectificar
 rectificação
+recto
 redactor
 redactora
 redacção
@@ -853,6 +864,7 @@ remedio
 reprehender
 reproducção
 retractar
+retrahir
 retroactividade
 retroactivo
 retroprojector
@@ -905,6 +917,7 @@ syntaxe
 systematizar
 tacticamente
 tambem
+tecto
 theatro
 thema
 theodiceia
@@ -923,6 +936,9 @@ tractado
 tractor
 tracção
 traducção
+trahidor
+trahir
+trahira
 trajecto
 transacção
 triumpho

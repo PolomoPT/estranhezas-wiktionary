@@ -1490,6 +1490,7 @@ anti
 anti-G
 anti-Markovnikov
 anti-Stokes
+anti-alérgico
 anti-g
 anti-hedonista
 anti-hegeliano
@@ -5566,6 +5567,7 @@ eferente
 efervescente
 efetivo
 efetível
+effectivo
 efficaz
 eficacíssimo
 eficaz
@@ -6566,6 +6568,7 @@ flamígero
 flat
 flatulento
 flaviense
+flavorizante
 fleumático
 flexível
 flogístico
@@ -9260,6 +9263,8 @@ nativo
 nato
 natural
 naturalista
+natureba
+naturista
 nauruano
 nauseabundo
 nauseante
@@ -12332,6 +12337,7 @@ tupi-guarani
 tupinambá
 tupiniquim
 tupãssiense
+tupí
 turbinal
 turbulento
 turco

@@ -1073,7 +1073,6 @@
 |calcografar
 |caldear
 |calemburar
-|calvar
 |calvejar
 |calçar o garrão
 |cambalhotar
@@ -1298,7 +1297,6 @@
 |contingenciar
 |contra-arrazoar
 |contradistinguir
-|contrahir
 |contraminar
 |controverter
 |contundir
@@ -1543,7 +1541,6 @@
 |dejectar
 |dejejuar
 |dejetar
-|deleitar
 |delgaçar
 |delingar
 |delirar
@@ -2400,7 +2397,6 @@
 |fazer cerimônia
 |fazer como se
 |fazer corpo mole
-|fazer cu doce
 |fazer de gato sapato
 |fazer de gato-sapato
 |fazer dinheiro
@@ -2767,7 +2763,6 @@
 |inelegibilizar
 |infamar
 |infernar
-|infernizar
 |infingir
 |inocular
 |insertar
@@ -3398,7 +3393,6 @@
 |recumbir
 |recuncar<qq:has gl>
 |recurar
-|redemocratizar
 |redemoinhar
 |redondear
 |redublar
@@ -3423,7 +3417,6 @@
 |reganhar
 |regentar
 |regimentar
-|regionalizar
 |regougar
 |regravar
 |reificar
@@ -3443,7 +3436,6 @@
 |relumear<qq:has gl>
 |remanchar
 |remar contra a maré
-|remelar
 |rememorar
 |remete
 |remixar
@@ -3549,7 +3541,6 @@
 |rustrir<qq:has gl>
 |rutar
 |rutilar
-|saborizar
 |sair da linha
 |sair do forno
 |sair pela tangente
@@ -3880,7 +3871,6 @@
 |umectar
 |unanimar
 |unanimificar
-|unar
 |undular
 |unguentar
 |uniformar

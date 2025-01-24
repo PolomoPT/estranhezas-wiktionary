@@ -143,6 +143,7 @@ nessa
 nessas
 nesse
 nesses
+nest'hora
 nesta
 nestas
 neste
@@ -160,6 +161,8 @@ numa
 numas
 nuns
 né
+nêle
+nêles
 nũa
 pela
 pelas
@@ -167,6 +170,7 @@ pella
 pelo
 pelos
 polo
+polos
 pra
 pras
 praí

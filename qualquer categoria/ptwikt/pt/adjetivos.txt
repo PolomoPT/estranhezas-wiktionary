@@ -2696,6 +2696,7 @@ cacondense
 cacotímico
 caculeense
 cacássio
+cadafazense
 cadastrado
 cadavalense
 cadavérico
@@ -3221,6 +3222,7 @@ centuplicado
 centígrado
 cenário
 cepanense
+cepelense
 cercado
 cercalense
 cercano
@@ -4016,6 +4018,7 @@ coruja
 corumbataiense
 corunhês
 coruscante
+corvalense
 corvense
 corvino
 corânico
@@ -4067,6 +4070,7 @@ crasso
 crava
 cravado
 cravolandense
+crebro
 crecho
 credencial
 credibilíssimo
@@ -9578,6 +9582,7 @@ marselhês
 marshalês
 marsupial
 martinense
+martingancense
 martinicano
 martinopolense
 martinopolitano
@@ -10609,6 +10614,7 @@ olindense
 olindinense
 olisiponense
 olissiponense
+olivalense
 oliveirense
 olímpico
 olímpio-noronhense
@@ -10800,6 +10806,8 @@ pacificador
 pacífico
 pacó
 pacóvio
+padornelense
+padreirense
 padroeiro
 padroense
 pago
@@ -13216,6 +13224,7 @@ silicaluminoso
 silvaldense
 silvano
 silveirense
+silvense
 silvestre
 silvestrino
 silvino

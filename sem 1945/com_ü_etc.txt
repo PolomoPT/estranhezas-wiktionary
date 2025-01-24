@@ -32,7 +32,13 @@
 |lingüiça
 |lingüística
 |lingüístico
+|multilíngüe
+|neurolingüística
+|obliqüidade
+|pingüim
+|plurilingüismo
 |proïbir
+|qüociente
 |saüde
 |traïdor
 |traïção
@@ -288,7 +294,11 @@
 |lingüística
 |lingüísticas
 |lingüísticos
-|qüociente
+|multilíngües
+|neurolingüística
+|pingüins
+|plurilingüismos
+|qüocientes
 |saüdes
 |seqüestrada
 |seqüestradas

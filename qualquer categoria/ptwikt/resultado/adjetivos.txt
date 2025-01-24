@@ -1597,6 +1597,7 @@
 |cacotímico
 |caculeense
 |cacássio
+|cadafazense
 |cadastrado
 |cadeirante
 |cadeleiro
@@ -1963,6 +1964,7 @@
 |centuplicado
 |cenário
 |cepanense
+|cepelense
 |cercalense
 |cercano
 |cercão
@@ -2430,6 +2432,7 @@
 |corumbataiense
 |corunhês
 |coruscante
+|corvalense
 |corvense
 |corânico
 |cosculheiro
@@ -2464,6 +2467,7 @@
 |crava
 |cravado
 |cravolandense
+|crebro
 |crecho<qq:has gl>
 |credibilíssimo
 |cremado
@@ -5656,6 +5660,7 @@
 |marrã
 |marshalês
 |martinense
+|martingancense
 |martinicano
 |martinopolense
 |martinopolitano
@@ -6043,8 +6048,6 @@
 |narrador
 |nasalado
 |natiforme
-|natureba
-|naturista
 |nauruense
 |navarrino
 |nave-redondense
@@ -6252,6 +6255,7 @@
 |olimpiense
 |olindense
 |olindinense
+|olivalense
 |olímpio-noronhense
 |omitido
 |omnicolor
@@ -6360,6 +6364,8 @@
 |pacaembuense
 |pachancas
 |pacó
+|padornelense
+|padreirense
 |padroense
 |paifoco<qq:has gl>
 |pailão<qq:has gl>
@@ -7790,6 +7796,7 @@
 |silvaldense
 |silvano
 |silveirense
+|silvense
 |silvestrino
 |silvino
 |silvipastoril

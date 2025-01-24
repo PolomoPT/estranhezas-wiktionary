@@ -74,6 +74,7 @@ absolutizar
 absolver
 absorver
 abster
+abstrahir
 abstrair
 abundar
 aburguesar
@@ -1166,6 +1167,7 @@ calibrar
 callejar
 calmar
 caluniar
+calvar
 calçar
 cambalear
 cambar
@@ -1626,6 +1628,7 @@ contracenar
 contradançar
 contradizer
 contrafazer
+contrahir
 contraindicar
 contrair
 contrapesar
@@ -1959,6 +1962,7 @@ deixar quieto
 deixar rabo
 delatar
 delegar
+deleitar
 deletar
 deliberar
 deliciar
@@ -2235,6 +2239,7 @@ desfilar
 desfivelar
 desflorestar
 desfocar
+desformatar
 desforrar
 desfragmentar
 desfraldar
@@ -2476,6 +2481,7 @@ distender
 distinguir
 distorcer
 distorcer a realidade
+distrahir
 distrair
 distratar
 distribuir
@@ -2551,6 +2557,8 @@ efectuar
 efeituar
 efetivar
 efetuar
+effectivar
+effectuar
 efluir
 eivar
 ejacular
@@ -3317,6 +3325,7 @@ extirpar
 extorquir
 extractar
 extraditar
+extrahir
 extrair
 extratar
 extravasar
@@ -3398,6 +3407,7 @@ fazer caso
 fazer cocô
 fazer companhia
 fazer correr muita tinta
+fazer cu doce
 fazer cócegas
 fazer das tripas coração
 fazer de conta
@@ -3899,6 +3909,7 @@ infeccionar
 infecionar
 infectar
 inferir
+infernizar
 infestar
 infetar
 infiltrar
@@ -5072,6 +5083,7 @@ protagonizar
 proteger
 protelar
 protestar
+protrahir
 protrair
 protuberar
 provar
@@ -5233,6 +5245,7 @@ rebater
 rebatizar
 rebelar
 rebentar
+reblogar
 rebobinar
 rebocar
 rebolar
@@ -5299,6 +5312,7 @@ redar
 redarguir
 redatar
 redefinir
+redemocratizar
 redescobrir
 redescrever
 redesenhar
@@ -5351,6 +5365,7 @@ regaçar
 regelar
 regenerar
 reger
+regionalizar
 registar
 registrar
 regozijar
@@ -5400,6 +5415,7 @@ remasterizar
 rematar
 remedar
 remediar
+remelar
 remendar
 remeter
 remexer
@@ -5525,6 +5541,7 @@ retornar
 retorquir
 retouçar
 retractar
+retrahir
 retrair
 retrancar
 retratar
@@ -5610,6 +5627,7 @@ saber de coração
 saber lá
 sabonetar
 saborear
+saborizar
 sabotar
 sabular
 sacanear
@@ -6209,6 +6227,7 @@ ulular
 umbigar
 umedecer
 umidificar
+unar
 unctar
 ungir
 unhar

@@ -11331,6 +11331,9 @@ adopteis
 adoptem
 adoptemos
 adoptes
+adoptiva
+adoptivas
+adoptivos
 adopto
 adoptou
 adoptámos
@@ -18101,6 +18104,10 @@ alavanquem
 alavanquemos
 alavanques
 alavas
+alazã
+alazães
+alazãs
+alazões
 alaúda
 alaúdam
 alaúdas
@@ -29518,6 +29525,9 @@ antevíreis
 antevísseis
 antevíssemos
 anti-Markovnikovs
+anti-alérgica
+anti-alérgicas
+anti-alérgicos
 anti-hedonistas
 anti-hegeliana
 anti-hegelianas
@@ -47500,6 +47510,8 @@ attentásseis
 attentássemos
 attentávamos
 attentáveis
+attrito
+attritos
 attura
 atturada
 atturadas
@@ -47897,6 +47909,8 @@ atônicos
 atônita
 atônitas
 atônitos
+aucthoridades
+auctoridades
 audaciosa
 audaciosas
 audaciosos
@@ -48504,6 +48518,7 @@ autentiqueis
 autentiquem
 autentiquemos
 autentiques
+authoridades
 autistas
 auto-ajudas
 auto-controles
@@ -68305,6 +68320,7 @@ centípedes
 centúrias
 cenáculos
 cenários
+ceos
 ceou
 cepas
 cepos
@@ -92562,6 +92578,7 @@ cúpricas
 cúpricos
 cúrcumas
 cúrios
+cús
 cúteres
 d'A
 d'O
@@ -110183,6 +110200,12 @@ desfoqueis
 desfoquem
 desfoquemos
 desfoques
+desformatada
+desformatadas
+desformatado
+desformatados
+desformatei
+desformato
 desforra
 desforrado
 desforrai
@@ -126076,6 +126099,11 @@ efetuávamos
 efetuáveis
 efetíveis
 efeytos
+effectiva
+effectivas
+effectivações
+effectivo
+effectivos
 effeitos
 effeytos
 eficacíssima
@@ -126168,6 +126196,7 @@ egocêntricos
 egos
 egoísmos
 egoístas
+egrejas
 egrégia
 egrégias
 egrégios
@@ -152072,6 +152101,7 @@ especiosos
 especo
 especou
 espectaculares
+espectaculos
 espectadoras
 espectadores
 espectrais
@@ -168246,6 +168276,7 @@ files
 filetes
 filharadas
 filhas
+filhas-da-puta
 filhas da mãe
 filhas da puta
 filhinhas
@@ -182112,6 +182143,7 @@ guanabarina
 guanabarinas
 guanabarinos
 guanacos
+guaranís
 guaraxains
 guard-rails
 guarda
@@ -185382,6 +185414,7 @@ honrássemos
 honrávamos
 honráveis
 horas
+horas H
 horas de ponta
 horas do rush
 horas extras
@@ -186787,6 +186820,9 @@ ilidíssemos
 ilimitada
 ilimitadas
 ilimitados
+illusoria
+illusorias
+illusorios
 illustrações
 iluda
 iludais
@@ -218273,6 +218309,7 @@ mofadas
 mofado
 mofados
 mofo
+mofos
 mogadourenses
 mogarins
 mognos
@@ -221403,6 +221440,7 @@ mãdáveis
 mães
 mães-de-santo
 mães-velhas
+mães de santo
 mães substitutas
 mãezinhas
 mãezonas
@@ -222083,9 +222121,11 @@ natos
 naturais
 naturalidades
 naturalistas
+naturebas
 naturezas
 naturezas-mortas
 naturezas mortas
+naturistas
 naufraga
 naufragada
 naufragadas
@@ -222892,6 +222932,7 @@ nessa
 nessas
 nesse
 nesses
+nest'hora
 nesta
 nestas
 neste
@@ -224508,7 +224549,10 @@ néscia
 néscias
 néscios
 névoas
+nêgas
 nêgos
+nêle
+nêles
 nênias
 nêsperas
 nêustria
@@ -230463,6 +230507,7 @@ pairávamos
 pairáveis
 pais
 pais-de-santo
+pais de santo
 pais dos burros
 pais natais
 paisagens
@@ -234209,6 +234254,7 @@ paçoquinhas
 paços
 países
 pd
+pebas
 peca
 pecada
 pecadas
@@ -234708,6 +234754,7 @@ pegavam
 pegavas
 pegações
 pego
+pegos
 pegou
 pegue
 peguei
@@ -234813,6 +234860,10 @@ peixes-galos
 peixes-palhaço
 peixes-palhaços
 peixes-papagaio
+peixes-piloto
+peixes-pilotos
+peixes-pilôto
+peixes-pilôtos
 peixes-voadores
 peixinhos
 peixões
@@ -239214,6 +239265,7 @@ pilásseis
 pilássemos
 pilávamos
 piláveis
+pilôtas
 pilôtos
 pilões
 pimbas
@@ -239482,6 +239534,8 @@ pingásseis
 pingássemos
 pingávamos
 pingáveis
+pingùins
+pingüins
 pinhais
 pinhas
 pinhatas
@@ -241351,6 +241405,9 @@ plurais
 pluralidades
 pluricelulares
 pluridimensionais
+plurilinguismos
+plurilingùismos
+plurilingüismos
 plutoniana
 plutonianas
 plutonianos
@@ -242178,7 +242235,9 @@ pomológica
 pomológicas
 pomológicos
 pomos
+pomos-de-Adão
 pomos de Adão
+pomos de adão
 pompons
 pomposa
 pomposas
@@ -252150,7 +252209,10 @@ pétalas
 pétrea
 pétreas
 pétreos
+pêga
+pêgas
 pêgo
+pêgos
 pêla
 pêlos
 pênaltis
@@ -252223,6 +252285,7 @@ póvoas
 pô
 pôde
 pôis
+pôlos
 pôneis
 pôs
 pôsteres
@@ -253830,7 +253893,7 @@ qüinquagésima
 qüinquagésimas
 qüinquagésimos
 qüiproquós
-qüociente
+qüocientes
 rabadas
 rabanadas
 rabanetes
@@ -298367,7 +298430,11 @@ tragédias
 trahida
 trahidas
 trahido
+trahidoras
+trahidores
 trahidos
+trahira
+trahiras
 trai
 traia
 traiais
@@ -304103,6 +304170,7 @@ tupinólogos
 tupis
 tupis-guaranis
 tupãssienses
+tupís
 tuque-tuques
 turba
 turbada
@@ -311091,11 +311159,15 @@ vilipendiáveis
 villas
 villaõs
 villoens
+viloa
+viloas
 viloens
 vilos
 vilã
+vilães
 vilãos
 vilãs
+vilões
 vim
 vimaranenses
 vimblastinas
@@ -315530,6 +315602,7 @@ zôo
 ânus artificiais
 çalás
 çapatos
+çapos
 é
 ébria
 ébrias

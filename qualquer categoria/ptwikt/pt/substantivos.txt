@@ -13251,6 +13251,7 @@ cacássio
 cacófato
 cacófaton
 cadafalso
+cadafazense
 cadaleito
 cadamo
 cadarma
@@ -15246,6 +15247,7 @@ cenóbio
 cenógrafo
 cepa
 cepanense
+cepelense
 cepilho
 cepo
 cepticismo
@@ -15676,7 +15678,6 @@ chicória
 chicória-crespa
 chicória-do-café
 chifre
-chifres
 chifrudo
 chifuta
 chihuahua
@@ -17662,6 +17663,7 @@ coruta
 coruto
 corva
 corvacho
+corvalense
 corveia
 corveiro
 corvense
@@ -24943,6 +24945,7 @@ gato velox
 gatoense
 gatologia
 gatonet
+gatonete
 gatovelox
 gatunagem
 gatuno
@@ -31497,6 +31500,7 @@ martemoto
 martim-pescador
 martinense
 martinete
+martingancense
 martinho-pescador
 martini
 martinicano
@@ -34692,6 +34696,7 @@ olisipógrafo
 olissiponense
 oliva
 olival
+olivalense
 olivedo
 oliveira
 oliveira-do-paraíso
@@ -35213,6 +35218,7 @@ padejo
 padieira
 padiola
 padoque
+padornelense
 padrasco
 padrasto
 padre
@@ -35220,6 +35226,7 @@ padre-nosso
 padreação
 padreca
 padreco
+padreirense
 padres
 padrezinho
 padrinho
@@ -42316,6 +42323,7 @@ silvar
 silvaredo
 silveira
 silveirense
+silvense
 silvestre
 silvestrino
 silvicultura
@@ -47774,7 +47782,6 @@ zúnia
 água-viva
 água benta
 água de briga
-água de flor de laranjeira
 água de rosas
 água de toalete
 água destilada

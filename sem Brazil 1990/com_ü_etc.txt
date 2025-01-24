@@ -1,3 +1,4 @@
+|qüociente
 |adeqüei
 |adeqüeis
 |adeqüemos
@@ -22,7 +23,7 @@
 |freqüentada
 |freqüentadas
 |freqüentados
-|qüociente
+|qüocientes
 |seqüestrada
 |seqüestradas
 |seqüestrados

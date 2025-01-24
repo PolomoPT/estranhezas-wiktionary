@@ -99,11 +99,6 @@ direcção
 distractivo
 distractor
 distracção
-efectivamente
-efectivar
-efectivação
-efectivo
-efectuar
 ejectar
 ejecção
 electivo
@@ -227,10 +222,12 @@ reacção
 receptador
 receptar
 recolector
+recta
 rectal
 rectangular
 rectificar
 rectificação
+recto
 redactor
 redactora
 redacção
@@ -261,6 +258,7 @@ subjectividade
 subjectivo
 subtracção
 tacticamente
+tecto
 tractor
 tracção
 trajecto

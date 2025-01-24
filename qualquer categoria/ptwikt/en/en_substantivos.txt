@@ -11431,6 +11431,8 @@ alavanca de câmbio
 alavancagem
 alavão
 alawita
+alazã
+alazão
 alaúde
 alba
 albacora
@@ -12187,6 +12189,7 @@ além
 além-mar
 além-túmulo
 alérgeno
+alérgico
 alínea
 alíquota
 alísio
@@ -13378,6 +13381,7 @@ antessala
 anteversão
 antevéspera
 anti-aliasing
+anti-alérgico
 anti-hedonismo
 anti-hedonista
 anti-hegeliano
@@ -18652,6 +18656,7 @@ cangaceiro
 cangalheiro
 cangambá
 cangaço
+cangoeira
 cangote
 cangueira
 canguru
@@ -24524,6 +24529,9 @@ efetivação
 efetividade
 efetivo
 efeyto
+effectiva
+effectivação
+effectivo
 effeito
 effeyto
 eficiência
@@ -25669,6 +25677,7 @@ especiaria
 especiação
 especificação
 especificidade
+espectaculo
 espectador
 espectadora
 espectro
@@ -27131,6 +27140,7 @@ filaça
 fileira
 filete
 filha
+filha-da-puta
 filha da mãe
 filha da puta
 filharada
@@ -27322,6 +27332,7 @@ flautista
 flautista de Hamelin
 flaviense
 flavina
+flavorizante
 flecha
 flecheira
 flecheiro
@@ -28956,6 +28967,7 @@ gotta
 gotteira
 gotícula
 gotímetro
+gouinage
 gouine
 goulash
 gourmand
@@ -34566,6 +34578,7 @@ mirim
 mirindiba-bagre
 mirra
 mirrha
+mirror
 mirtilo
 mirto
 miráculo
@@ -35584,10 +35597,12 @@ natura
 naturalidade
 naturalismo
 naturalista
+natureba
 natureza
 natureza-morta
 natureza morta
 naturismo
+naturista
 nau
 nau capitânia
 nauatle
@@ -35701,6 +35716,7 @@ neguinho
 negus
 negão
 negócio
+nele
 nelense
 nem-nem
 nematologia
@@ -36158,6 +36174,7 @@ nénia
 néon
 néscio
 névoa
+nêga
 nêgo
 nênia
 nêspera
@@ -36251,6 +36268,7 @@ objeção
 oblato
 oblação
 obliquidade
+obliqùidade
 obliqüidade
 obliteração
 oblívio
@@ -38512,6 +38530,7 @@ pilouro
 pilriteiro
 pilungo
 pilão
+pilôta
 pilôto
 pimba
 pimenta
@@ -38561,6 +38580,7 @@ pinguim africano
 pinguim de Magalhães
 pinguça
 pinguço
+pingùim
 pingüim
 pinha
 pinhal
@@ -38891,6 +38911,7 @@ plural
 plurale tantum
 pluralidade
 plurilinguismo
+plurilingùismo
 plurilingüismo
 plutocracia
 plutocrata
@@ -40411,6 +40432,7 @@ pértica
 pétala
 pétaso
 pê
+pêgo
 pêlo
 pênalti
 pêndulo
@@ -42270,6 +42292,7 @@ saboneteira
 saboneteiro
 sabonetezinho
 sabor
+saborizante
 sabotador
 sabotagem
 sabre
@@ -45567,6 +45590,8 @@ trago
 tragulídeo
 tragédia
 trahidor
+trahidora
+trahira
 trahição
 traidor
 traidora
@@ -46194,6 +46219,7 @@ tupinólogo
 tupla
 tupperware
 tupãssiense
+tupí
 tuque-tuque
 turba
 turbamulta
@@ -47229,6 +47255,7 @@ villa
 villaõ
 villão
 vilo
+viloa
 vilã
 vilão
 vimaranense
@@ -48339,6 +48366,7 @@ zôo
 ânus artificial
 çalá
 çapato
+çapo
 çarça
 é
 ébano

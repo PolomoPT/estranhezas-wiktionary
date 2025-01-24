@@ -41,7 +41,6 @@
 |pelaí
 |pola<qq:has gl>
 |polas
-|polos
 |pr'um
 |prali
 |procê

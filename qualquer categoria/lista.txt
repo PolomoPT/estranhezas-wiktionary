@@ -10840,6 +10840,7 @@ abstracionismo
 abstracionista
 abstracto
 abstracção
+abstrahir
 abstraidamente
 abstrair
 abstratamente
@@ -12973,6 +12974,7 @@ alavancar
 alavantú
 alavão
 alawita
+alazã
 alazão
 alaúde
 alba
@@ -15812,6 +15814,7 @@ anti-G
 anti-Markovnikov
 anti-Stokes
 anti-aliasing
+anti-alérgico
 anti-g
 anti-hedonismo
 anti-hedonista
@@ -23574,6 +23577,7 @@ caluda
 calumnia
 caluniador
 caluniar
+calvar
 calvejante
 calvice
 calvinismo
@@ -23859,6 +23863,7 @@ cangaceiro
 cangalheiro
 cangambá
 cangaço
+cangoeira
 cangote
 cangotear
 cangueira
@@ -27752,6 +27757,7 @@ contrafação
 contraforte
 contragolpe
 contragosto
+contrahir
 contraindicar
 contraindicação
 contrainteligência
@@ -30066,6 +30072,7 @@ delegada
 delegado
 delegar
 delegação
+deleitar
 deleite
 deletado
 deletamento
@@ -30887,6 +30894,7 @@ desfloração
 desflorestamento
 desflorestar
 desfocar
+desformatar
 desforra
 desforrar
 desfortúnio
@@ -31996,6 +32004,7 @@ distractivo
 distractor
 distractora
 distracção
+distrahir
 distraidamente
 distrair
 distratar
@@ -32863,7 +32872,12 @@ efetivo
 efetuar
 efetível
 efeyto
+effectiva
 effectivamente
+effectivar
+effectivação
+effectivo
+effectuar
 effeito
 effeyto
 efficaz
@@ -35067,6 +35081,7 @@ especificação
 especificidade
 especioso
 espectacular
+espectaculo
 espectador
 espectadora
 espectar
@@ -36440,6 +36455,7 @@ extracto
 extracção
 extraditar
 extradição
+extrahir
 extrair
 extrajudicial
 extrajudicialmente
@@ -36929,6 +36945,7 @@ fazer caso
 fazer cocô
 fazer companhia
 fazer correr muita tinta
+fazer cu doce
 fazer cócegas
 fazer das tripas coração
 fazer de conta
@@ -37406,6 +37423,7 @@ filaça
 fileira
 filete
 filha
+filha-da-puta
 filha da mãe
 filha da puta
 filharada
@@ -37669,6 +37687,7 @@ flautista
 flautista de Hamelin
 flaviense
 flavina
+flavorizante
 flecha
 flecheira
 flecheiro
@@ -39853,6 +39872,7 @@ gotta
 gotteira
 gotícula
 gotímetro
+gouinage
 gouine
 goulash
 gourmand
@@ -42535,6 +42555,7 @@ inferir
 infernal
 infernalmente
 inferninho
+infernizar
 inferno
 infertilidade
 inferência
@@ -47948,6 +47969,7 @@ mirra
 mirrado
 mirrar
 mirrha
+mirror
 mirtilo
 mirto
 miráculo
@@ -49341,10 +49363,12 @@ naturalismo
 naturalista
 naturalizar
 naturalmente
+natureba
 natureza
 natureza-morta
 natureza morta
 naturismo
+naturista
 nau
 nau capitânia
 nauatle
@@ -49501,6 +49525,7 @@ negus
 negável
 negão
 negócio
+nele
 nelense
 nem
 nem-nem
@@ -50219,6 +50244,7 @@ nénia
 néon
 néscio
 névoa
+nêga
 nêgo
 nênia
 nêspera
@@ -50399,6 +50425,7 @@ objeção
 oblato
 oblação
 obliquidade
+obliqùidade
 obliqüidade
 obliterar
 obliteração
@@ -53553,6 +53580,7 @@ pilouro
 pilriteiro
 pilungo
 pilão
+pilôta
 pilôto
 pimba
 pimenta
@@ -53614,6 +53642,7 @@ pinguim africano
 pinguim de Magalhães
 pinguça
 pinguço
+pingùim
 pingüim
 pinha
 pinhal
@@ -54028,6 +54057,7 @@ pluricelular
 pluridimensional
 plurilingue
 plurilinguismo
+plurilingùismo
 plurilingüismo
 plurilíngue
 pluripartidário
@@ -55721,6 +55751,7 @@ protoplasma
 protoplásmico
 protossino-tibetano
 protozoário
+protrahir
 protrair
 protrombina
 protuberar
@@ -56275,6 +56306,7 @@ pétaso
 pétreo
 pê
 pê da vida
+pêgo
 pêlo
 pênalti
 pêndulo
@@ -57390,6 +57422,7 @@ rebento
 rebimboca da parafuseta
 rebitagem
 rebite
+reblogar
 rebo
 rebobinar
 rebocador
@@ -57619,6 +57652,7 @@ rede neural
 rede neuronal
 rede social
 redefinir
+redemocratizar
 redemocratização
 redemoinho
 redempção
@@ -57787,6 +57821,7 @@ regimental
 regimento
 regional
 regionalismo
+regionalizar
 regionalmente
 registado
 registar
@@ -57981,6 +58016,7 @@ remedio
 remeira
 remeiro
 remela
+remelar
 remember
 remendar
 remendo
@@ -58419,6 +58455,7 @@ retoscopia
 retouçar
 retractar
 retractação
+retrahir
 retrair
 retranca
 retrancar
@@ -59146,6 +59183,8 @@ saboneteiro
 sabonetezinho
 sabor
 saborear
+saborizante
+saborizar
 saboroso
 sabotador
 sabotagem
@@ -63785,7 +63824,9 @@ tragável
 tragédia
 trahido
 trahidor
+trahidora
 trahir
+trahira
 trahição
 traidor
 traidora
@@ -64665,6 +64706,7 @@ tupinólogo
 tupla
 tupperware
 tupãssiense
+tupí
 tuque-tuque
 turba
 turbamulta
@@ -65039,6 +65081,7 @@ umlaut
 ummah
 unanimemente
 unanimidade
+unar
 uncinado
 unctar
 uncção
@@ -66172,6 +66215,7 @@ villa
 villaõ
 villão
 vilo
+viloa
 vilã
 vilão
 vim, vi, venci
@@ -67667,6 +67711,7 @@ zôo
 ç
 çalá
 çapato
+çapo
 çarça
 é
 é assim que a banda toca
