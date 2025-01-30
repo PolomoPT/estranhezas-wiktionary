@@ -1,3 +1,4 @@
+|'cês
 |6
 |Vossa Eminência
 |Vossa Magnificência
@@ -70,6 +71,8 @@
 |sô
 |tais
 |tal
+|toda
+|todas
 |todo
 |vacé
 |vassuncê

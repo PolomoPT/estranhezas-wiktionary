@@ -269,6 +269,7 @@ aluvialmente
 aly
 além
 além disso
+alêm
 amadoramente
 amanhã
 amargamente
@@ -534,6 +535,8 @@ auspiciosamente
 austeramente
 autenticamente
 automaticamente
+automàticamente
+automáticamente
 autonomamente
 avaliadoramente
 avante
@@ -1573,6 +1576,8 @@ matematicamente
 mays
 maçadoramente
 mecanicamente
+mechanicamente
+mecânicamente
 medianamente
 medicamente
 mega
@@ -1955,6 +1960,7 @@ presentemente
 presto
 presumivelmente
 pretensiosamente
+preto
 preventivamente
 previamente
 previsivelmente
@@ -2300,6 +2306,8 @@ tradicionalmente
 tragicamente
 traiçoeiramente
 tranquilamente
+tranquillamente
+tranqùilamente
 tranqüilamente
 transparentemente
 trasanteontem

@@ -8,7 +8,6 @@
 -a
 -abilidade
 -acho
--acção
 -ada
 -ado
 -ae
@@ -152,7 +151,6 @@
 -itude
 -ivo
 -izar
--ização
 -iço
 -l-
 -latra
@@ -4139,6 +4137,7 @@ Guadeloupe
 Guadiana
 Guaiaquil
 Guaimbê
+Guaixará
 Guaiçara
 Guajeru
 Gualtério
@@ -7039,6 +7038,7 @@ Paraguai
 Paraguay
 Paraguaçu
 Paraguaçu Paulista
+Parahyba
 Paraibuna
 Paraisópolis
 Paralimpíadas
@@ -7270,6 +7270,7 @@ Piacenza
 Piastri
 Piatã
 Piau
+Piauhy
 Piauí
 Picada Café
 Picardia
@@ -9660,6 +9661,7 @@ ULA
 UNASUL
 UNESCO
 UNITA
+UOL
 UPP
 URL amigável
 URSAL
@@ -10688,6 +10690,8 @@ abortado
 abortador
 abortamento
 abortar
+aborteira
+aborteiro
 abortina
 abortismo
 abortista
@@ -14026,6 +14030,7 @@ alérgeno
 alérgico
 alético
 aléxico
+alêm
 alênico
 alíbil
 alílico
@@ -18861,6 +18866,7 @@ arqui-
 arqui-herege
 arqui-inimiga
 arqui-inimigo
+arqui-rival
 arquiabade
 arquiabadia
 arquianelídeo
@@ -20141,7 +20147,9 @@ automorfismo
 automotivo
 automotriz
 automutilação
+automàticamente
 automágico
+automáticamente
 automático
 automóvel
 autonomamente
@@ -20474,6 +20482,7 @@ açaimo
 açaiteria
 açaizeiro
 açambarcar
+açaìzeiro
 açaí
 aço
 aço carbono
@@ -22375,6 +22384,7 @@ boss
 bossa
 bossa nova
 bosta
+bostejar
 bostela
 bostileiro
 bosão
@@ -22414,6 +22424,7 @@ botina
 botinar
 botiquense
 boto
+boto-cor-de-rosa
 botocar
 botocudo
 botoeira
@@ -25685,6 +25696,7 @@ chuiva
 chukchi
 chular
 chulca
+chulezito
 chulipa
 chulo
 chulé
@@ -29755,6 +29767,7 @@ de repente
 de resto
 de rocha
 de rotina
+de saco cheio
 de segunda
 de segunda mão
 de sempre
@@ -32743,6 +32756,7 @@ eclodir
 eclosão
 eclusa
 eclusa de ar
+eclâmpsia
 ecléctico
 eclésia
 eclético
@@ -32847,6 +32861,7 @@ efeito
 efeito Allee
 efeito Casimir
 efeito Doppler
+efeito Mandela
 efeito Mozart
 efeito borboleta
 efeito colateral
@@ -36738,6 +36753,7 @@ família elementar
 família linguística
 família mista
 família nuclear
+fanarte
 fanaticamente
 fanatismo
 fancaria
@@ -38346,6 +38362,7 @@ frequentador
 frequentar
 frequente
 frequentemente
+frequentíssimo
 frequência
 freqùentar
 freqùente
@@ -38801,7 +38818,6 @@ fênice
 fênix
 fêra
 fêvera
-fêz
 fìsicamente
 fía
 fíbula
@@ -41669,6 +41685,7 @@ ieti
 ifante
 iffante
 ifrita-de-coroa-azul
+igara
 igarapé
 iglu
 ignaro
@@ -42354,6 +42371,7 @@ indexar
 indez
 indiana
 indianismo
+indianizar
 indiano
 indicador
 indicar
@@ -43287,6 +43305,7 @@ invasivo
 invasor
 invasora
 invasão
+invasão de Pindorama
 invectiva
 invectivar
 inveja
@@ -43483,6 +43502,7 @@ irremovível
 irreparável
 irrepetível
 irreplicável
+irreponível
 irrepreensível
 irreprimível
 irreprochável
@@ -43750,6 +43770,7 @@ jardim
 jardim-de-infância
 jardim botânico
 jardim de infância
+jardim murado
 jardim zoológico
 jardinagem
 jardinar
@@ -44097,6 +44118,7 @@ jónica
 jónico
 jóquei
 jóquer
+jôgo
 jônico
 júbilo
 júlio
@@ -44272,6 +44294,8 @@ lacerar
 laceração
 lacinho
 laconicamente
+laconisar
+laconizar
 lacrador
 lacradora
 lacragem
@@ -44374,6 +44398,7 @@ lambujar
 lambujem
 lambuzar
 lambuçar
+lambão
 lamecense
 lamecha
 lamechas
@@ -44455,6 +44480,7 @@ lançamento lateral
 lançar
 lançar luz
 lançar mão
+lanço
 laociano
 laosiana
 laosiano
@@ -45269,6 +45295,7 @@ liteira
 literacia
 literal
 literalmente
+literato
 literatura
 literácia
 literário
@@ -46482,6 +46509,7 @@ manuseavel
 manuseio
 manutenir
 manutenção
+manutenível
 manx
 manzorra
 maná
@@ -46538,6 +46566,7 @@ marabu
 marabunta
 marabuto
 maraca
+maracatim
 maracatu
 marachão
 maracotão
@@ -47019,6 +47048,7 @@ maçônico
 maís
 maõ
 mbaco
+mbaua
 mboa
 mds
 me erra
@@ -47040,11 +47070,16 @@ mecatrónica
 mecatrônica
 mecenato
 mecha
+mechanica
+mechanicamente
+mechanico
 mecklemburguês
 meclemburguesa
 meclemburguês
+mecânica
 mecânica analítica
 mecânica quântica
+mecânicamente
 mecânico
 mecónio
 mecônio
@@ -48942,6 +48977,7 @@ mutar
 mutação
 mutilar
 mutilação
+mutilação genital feminina
 mutirão
 mutreta
 mutuador
@@ -49121,6 +49157,7 @@ mônada
 mônade
 môr
 môrto
+môça
 múltiplo
 múmia
 múnus
@@ -49782,11 +49819,13 @@ ninfomaníaco
 ninféia
 ninfómana
 ningres-ningres
+ninguem
 ninguém
 ninguém diria
 ninguém merece
 ninguém é de ferro
 ninguém é perfeito
+ninguêm
 ninhada
 ninhal
 ninharia
@@ -51974,6 +52013,7 @@ paragem
 paragem cardíaca
 paraguaia
 paraguaio
+paraguation
 paraibana
 paraibano
 paralaxe
@@ -52728,6 +52768,7 @@ peixe gato
 peixeira
 peixeiro
 peixinho
+peixinho-da-horta
 peixinho dourado
 peixota
 peixão
@@ -53145,6 +53186,7 @@ permeável
 permil
 permissão
 permitir
+permittir
 permuta
 permutar
 permutação
@@ -53878,6 +53920,7 @@ pitstop
 pitu
 pitão
 pitéu
+pitú
 piurso
 piuí
 pivete
@@ -56962,6 +57005,7 @@ quíntuplo
 quíton
 quórum
 quẽ
+qùingentésimo
 qüem
 qüera
 qüingentésimo
@@ -57217,6 +57261,10 @@ raposinho
 raposo
 rappel
 rapper
+rapsodista
+rapsodo
+rapsódia
+rapsódico
 raptar
 rapto
 raptor
@@ -58146,6 +58194,7 @@ repolho-gambá
 repolho branco
 repolho roxo
 repolir
+reponível
 repor
 reportado
 reportagem
@@ -59317,6 +59366,7 @@ saguaro
 sagui
 saguim
 saguão
+sagùi
 sagüi
 sahir
 sai fora
@@ -59546,6 +59596,7 @@ sangue ruim
 sangueira
 sanguento
 sanguessuga
+sanguineo
 sanguinho
 sanguino
 sanguinolento
@@ -59554,6 +59605,7 @@ sanguinária-do-canadá
 sanguinária do Canadá
 sanguinário
 sanguíneo
+sangùino
 sangùíneo
 sangüino
 sangüíneo
@@ -59741,9 +59793,12 @@ saüde
 scaner
 scanner
 scat
+scena
 scenario
 scenico
 scenário
+sceptica
+scepticismo
 sceptico
 sceticismo
 scheelita
@@ -59755,10 +59810,13 @@ schnitzel
 schola
 schwa
 sciencia
+sciente
 scientificamente
 scientifico
+scientista
 scientífico
 scintilar
+scintillar
 scisão
 sciência
 sciêntífico
@@ -59769,6 +59827,7 @@ script
 scrr
 scâner
 scénico
+scéptica
 scéptico
 se
 se Deus quiser
@@ -60238,6 +60297,8 @@ sequoia
 sequência
 sequíssimo
 sequóia
+seqùela
+seqùência
 seqüela
 seqüestrar
 seqüestro
@@ -61543,6 +61604,7 @@ subscrição
 subsecção
 subsequente
 subsequentemente
+subseqùente
 subseqüente
 subserviente
 subserviência
@@ -61612,6 +61674,7 @@ sucateamento
 sucatear
 succeder
 succo
+succumbir
 succínico
 suceder
 sucedâneo
@@ -61928,6 +61991,7 @@ surpresa
 surpreso
 surpreza
 surprêsa
+surprêso
 surra
 surrar
 surreal
@@ -62122,6 +62186,8 @@ síndrome de Klinefelter
 síndrome de Marfan
 síndrome de Moebius
 síndrome de Möbius
+síndrome de Rett
+síndrome de Tourette
 síndrome de Turner
 síndrome de Williams
 síndrome de abstinência
@@ -62173,6 +62239,7 @@ sósia
 sótão
 sô
 sôbre
+sôbre-salto
 sôfrego
 sôldo
 sôlto
@@ -63339,6 +63406,7 @@ tipo assim
 tipo de dado
 tipo de letra
 tipo sanguíneo
+tipo sangùíneo
 tipo sangüíneo
 tipografia
 tipográfico
@@ -63701,6 +63769,8 @@ torturante
 torturar
 tortéi
 torvelinho
+torvoada
+torvão
 torácico
 toráxico
 torça
@@ -63886,13 +63956,25 @@ tranquilizador
 tranquilizadora
 tranquilizante
 tranquilizar
+tranquillamente
+tranquillidade
+tranquillizar
 tranquillo
 tranquilo
 tranquilão
 tranquilíssimo
+tranqùilamente
+tranqùilidade
+tranqùilizador
+tranqùilizadora
+tranqùilizante
+tranqùilizar
+tranqùilo
 tranqüilamente
 tranqüilidade
 tranqüilizador
+tranqüilizante
+tranqüilizar
 tranqüilo
 trans
 trans-
@@ -64033,6 +64115,7 @@ transtorno de personalidade esquizotípica
 transtorno do déficit de atenção com hiperatividade
 transtorno do déficit de atenção e hiperatividade
 transtorno do espectro autista
+transtorno esquizoafetivo
 transtorno invasivo do desenvolvimento
 transtorno obsessivo-compulsivo
 transtorno opositivo desafiador
@@ -64514,6 +64597,7 @@ tropologicamente
 tropológico
 tropomiosina
 troposfera
+tropêço
 trotar
 trote
 trotineta
@@ -64592,6 +64676,7 @@ trítono
 trólebus
 trópico
 trôco
+trôço
 tsar
 tsarina
 tsc
@@ -64782,6 +64867,7 @@ typho
 typicamente
 typico
 typo
+typo sanguineo
 tzar
 tzarina
 tzarismo
@@ -64889,6 +64975,7 @@ tóteme
 tótil
 tóxico
 tô ligado
+tôda
 tôner
 tônica
 tônico
@@ -64927,6 +65014,7 @@ uberizar
 uberização
 ubicação
 ubiquidade
+ubiqùidade
 ubiqüidade
 ubre
 ubuntu
@@ -65096,6 +65184,7 @@ ungidor
 ungir
 unguento
 ungulado
+ungùento
 ungüento
 unha
 unha-de-asno

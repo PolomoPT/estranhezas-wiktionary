@@ -2258,6 +2258,7 @@ coadministrar
 coadunar
 coagir
 coagular
+coalescer
 coalhar
 coanhar
 coar
@@ -4031,6 +4032,7 @@ engrampar
 engrandecer
 engranzar
 engravidar
+engravidecer
 engraxar
 engrazar
 engraçar
@@ -4060,6 +4062,7 @@ enlevar
 enlojar
 enloular
 enlouquecer
+enlutar
 ennobrecer
 enobrecer
 enodoar
@@ -4268,6 +4271,7 @@ escachar
 escachoar
 escacholar
 escachouçar
+escafeder-se
 escafular
 escalambrar
 escalar
@@ -5336,6 +5340,7 @@ grelar
 grelhar
 gretar
 grichar
+grifar
 grilar
 gritar
 grolar
@@ -5769,6 +5774,7 @@ irrogar
 irromper
 iscar
 isentar
+islamizar
 isolar
 isolar a bola
 italianizar

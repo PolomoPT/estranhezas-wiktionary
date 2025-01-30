@@ -1,7 +1,6 @@
 -a
 -abilidade
 -acho
--acção
 -ada
 -ado
 -ae
@@ -145,7 +144,6 @@
 -itude
 -ivo
 -izar
--ização
 -iço
 -l-
 -latra

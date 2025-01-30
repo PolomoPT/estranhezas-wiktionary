@@ -97,7 +97,6 @@
 |aborrido
 |aborsivo
 |aborticida
-|abortista
 |abouxador<qq:has gl>
 |abragonense
 |abrancaçado
@@ -1101,6 +1100,7 @@
 |azimutal
 |azinhavre
 |azo<qq:has gl>
+|azueirense
 |azul-ardósia-claro
 |azul-areado
 |azul-aço-claro
@@ -1304,6 +1304,7 @@
 |berberoparlante
 |berceiro
 |berdamerda
+|beringelense
 |berizalense
 |berlengueiro
 |bermudês
@@ -1749,6 +1750,7 @@
 |canhengue
 |canhestro
 |canhão
+|canidelense
 |caniforme
 |canitarense
 |canonizado
@@ -1814,6 +1816,7 @@
 |carcerário
 |carcunda
 |cardial
+|cardiguense
 |cardinalense
 |cardinalício
 |cardosense
@@ -2010,6 +2013,7 @@
 |cheio de si
 |cheira
 |cheiíssimo
+|chelense
 |chente
 |cherokee
 |chiador
@@ -2458,6 +2462,10 @@
 |cotroso<qq:has gl>
 |couché
 |country
+|courense
+|coutoense
+|covelense
+|covense
 |coxambre
 |coxinense
 |coxé
@@ -4120,6 +4128,7 @@
 |gielense
 |gimnodesportivo
 |gimnospérmico
+|gimondense
 |ginasial
 |ginecomasto
 |ginófilo
@@ -4175,6 +4184,7 @@
 |grandolense
 |grandíloco
 |granfino
+|granhense
 |granular
 |grapiúna
 |gravado
@@ -5228,6 +5238,7 @@
 |lamuriento
 |lanceolado
 |lancha
+|landalense
 |landeirense
 |landeiro
 |langrão<qq:has gl>
@@ -5405,6 +5416,7 @@
 |longomelense
 |loquacíssimo
 |loque
+|lordelense
 |lordento<qq:has gl>
 |lordosense
 |lorfo
@@ -5542,6 +5554,7 @@
 |maladio
 |malaio-polinésio
 |malamanhado
+|malaqueijense
 |malato
 |malauiano
 |malaviano
@@ -5558,6 +5571,7 @@
 |malinês
 |malogrado
 |malpassado
+|malpiqueiro
 |malpocado<qq:has gl>
 |malsoante
 |malsonante
@@ -5692,16 +5706,19 @@
 |matuto
 |mauaense
 |maula
+|maurelense
 |mauritaniano
 |mauritânio
 |maué
 |maxialense
+|maximinense
 |maximizado
 |mazaganense
 |mazanza
 |mazedense
 |maçorano
 |meada
+|meadelense
 |mec
 |mecanicista
 |medeirosnetense
@@ -5837,6 +5854,7 @@
 |mimológico
 |mimoso
 |minacíssimo
+|mindelense
 |minderico
 |mindinho
 |minerador
@@ -6367,6 +6385,8 @@
 |padornelense
 |padreirense
 |padroense
+|padronelense
+|paialvense
 |paifoco<qq:has gl>
 |pailão<qq:has gl>
 |paio
@@ -6819,11 +6839,13 @@
 |policiado
 |policialesco
 |poliesportivo
+|polimense
 |polissexual
 |polissindético
 |poloniense
 |polonoparlante
 |polski
+|polvoreirense
 |polígamo
 |polígino
 |polímata
@@ -6899,6 +6921,7 @@
 |potoqueiro
 |potreiro
 |pouca-roupa
+|poucas ideia
 |pouco
 |poupável
 |pousa-fole<qq:has gl>
@@ -7076,6 +7099,7 @@
 |provocado
 |provocante
 |provocativo
+|prozelense
 |prudentino
 |prussiano
 |pré-cambriano
@@ -7234,7 +7258,6 @@
 |rapinante
 |raposeiro
 |raposense
-|rapsódico
 |rarefato
 |rarefeito
 |rastreado
@@ -7546,6 +7569,7 @@
 |sadino
 |saeliano
 |safade
+|safio
 |sagradense
 |sagrense
 |saguntino
@@ -8291,7 +8315,6 @@
 |trajado
 |tramagalense
 |trancado
-|tranqüilizante
 |transado
 |transalpino
 |transariano
@@ -8382,6 +8405,7 @@
 |troca-tintas
 |trocadilhista
 |trocado
+|trocaz
 |trocentos
 |trocho
 |trocista

@@ -133,7 +133,9 @@ nenhuma
 nenhũa
 ngm
 nicles
+ninguem
 ninguém
+ninguêm
 no
 nos
 nossa
@@ -213,8 +215,6 @@ te
 teu
 teus
 ti
-toda
-todas
 todes
 todo mundo
 todos
@@ -223,7 +223,6 @@ tua
 tuas
 tudo
 tãto
-tôda
 um
 um ao outro
 um pouco

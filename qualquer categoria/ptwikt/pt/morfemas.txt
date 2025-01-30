@@ -306,6 +306,7 @@ hedon-
 helico-
 helio-
 hemi-
+hemo-
 hepta-
 hetero-
 hexa-

@@ -146,6 +146,7 @@ aborrecido
 aborrido
 aborsivo
 abortado
+aborteiro
 aborticida
 abortista
 abortivo
@@ -1507,6 +1508,7 @@ aristotélico
 aritmético
 armado
 armador
+armamarense
 armazenado
 armazenense
 armental
@@ -1944,6 +1946,7 @@ aziago
 azimutal
 azinhavre
 azo
+azueirense
 azul
 azul-ardósia-claro
 azul-areado
@@ -2245,6 +2248,7 @@ berbere
 berberoparlante
 berceiro
 berdamerda
+beringelense
 berizalense
 berlengueiro
 berlinense
@@ -2897,6 +2901,7 @@ canhengue
 canhestro
 canhoto
 canhão
+canidelense
 caniforme
 canino
 canitarense
@@ -2986,6 +2991,7 @@ carcerário
 carcunda
 cardeal
 cardial
+cardiguense
 cardinal
 cardinalense
 cardinalício
@@ -3300,6 +3306,7 @@ cheio de si
 cheira
 cheiroso
 cheiíssimo
+chelense
 chente
 cherokee
 cheroqui
@@ -4055,7 +4062,12 @@ cotrento
 cotroso
 couché
 country
+courense
+coutoense
 covarde
+covelense
+covense
+covilhanense
 covo
 coxambre
 coxinense
@@ -6999,6 +7011,7 @@ gigante
 gigantesco
 gimnodesportivo
 gimnospérmico
+gimondense
 ginasial
 ginecológico
 ginecomasto
@@ -7095,6 +7108,7 @@ grandíloco
 grandíloquo
 grandíssimo
 granfino
+granhense
 granular
 grapiúna
 grato
@@ -8881,6 +8895,7 @@ lamuriento
 lanceolado
 lancha
 lancinante
+landalense
 landeirense
 landeiro
 langrão
@@ -9168,6 +9183,7 @@ longínquo
 loquacíssimo
 loquaz
 loque
+lordelense
 lordento
 lordosense
 lorfo
@@ -9386,6 +9402,7 @@ malaio-polinésio
 malamanhado
 malandrino
 malandro
+malaqueijense
 malato
 malauiano
 malaviano
@@ -9418,6 +9435,7 @@ malinês
 malogrado
 maloio
 malpassado
+malpiqueiro
 malpocado
 malquisto
 malsoante
@@ -9634,6 +9652,7 @@ mau
 mau-caráter
 mauaense
 maula
+maurelense
 mauriciano
 mauritaniano
 mauritano
@@ -9642,6 +9661,7 @@ mauro
 maué
 mavioso
 maxialense
+maximinense
 maximizado
 mazaganense
 mazanza
@@ -9654,6 +9674,7 @@ maçónico
 maçônico
 mbaco
 meada
+meadelense
 meado
 mealhadense
 mec
@@ -9872,6 +9893,7 @@ mimizento
 mimológico
 mimoso
 minacíssimo
+mindelense
 minderico
 mindinho
 mineiro
@@ -9894,6 +9916,7 @@ miqueado
 mirabolante
 miracatuense
 miraculoso
+mirandelense
 mirandense
 mirandopolense
 mirandopolitano
@@ -10810,10 +10833,12 @@ padornelense
 padreirense
 padroeiro
 padroense
+padronelense
 pago
 pagável
 pagão
 paia
+paialvense
 paifoco
 pailão
 paio
@@ -11046,6 +11071,7 @@ patogênico
 patológico
 patriarcal
 patricida
+patriota
 patriótico
 patrocinado
 patrocinense
@@ -11151,6 +11177,7 @@ pelviano
 pelágico
 pelágio
 penacha
+penafidelense
 penaguiense
 penaguiota
 penal
@@ -11379,6 +11406,7 @@ pingue
 pinhalnovense
 pinheirense
 pinheiro
+pinhelense
 pintadense
 pintado
 pintalegrete
@@ -11526,6 +11554,7 @@ polifónico
 polifônico
 poliglota
 poligâmico
+polimense
 polinésio
 polissexual
 polissindético
@@ -11539,6 +11568,7 @@ polonês
 polpudo
 polski
 poltrão
+polvoreirense
 polémico
 polêmico
 polígamo
@@ -11656,6 +11686,7 @@ potoqueiro
 potreiro
 potável
 pouca-roupa
+poucas ideia
 pouco
 poupável
 pousa-fole
@@ -11976,6 +12007,7 @@ provocativo
 provocatório
 provável
 proximal
+prozelense
 prudente
 prudentino
 prussiano
@@ -12810,6 +12842,7 @@ sadino
 saeliano
 safade
 safado
+safio
 safista
 safo
 sagaz
@@ -14262,6 +14295,7 @@ triúno
 troca-tintas
 trocadilhista
 trocado
+trocaz
 trocentos
 trocho
 trocista

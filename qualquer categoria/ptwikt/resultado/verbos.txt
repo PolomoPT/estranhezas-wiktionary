@@ -950,7 +950,6 @@
 |bornear
 |bosquejar
 |bostar
-|bostejar
 |botafogar
 |botar a boca no trombone
 |botar a mão
@@ -1981,6 +1980,7 @@
 |engradar
 |engrampar
 |engranzar
+|engravidecer
 |engrazar
 |engrisar
 |engrolar
@@ -2110,6 +2110,7 @@
 |escachapernar
 |escacholar
 |escachouçar
+|escafeder-se
 |escafular
 |escalambrar
 |escalaçar<qq:has gl>
@@ -3804,7 +3805,6 @@
 |trainar
 |traja
 |tralhar
-|tranqüilizar
 |transacionar
 |transfixar
 |transigir

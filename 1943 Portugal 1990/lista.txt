@@ -1,4 +1,3 @@
--acção
 Abril
 Agosto
 Dezembro
@@ -57,7 +56,6 @@ bissectriz
 calefacção
 caçador-recolector
 caçadora-recolectora
-cepticismo
 circunspecção
 co-adopção
 coacção
@@ -204,6 +202,7 @@ predilecção
 prelecção
 projectar
 projecto
+projector
 projecção
 proteccionismo
 proteccionista

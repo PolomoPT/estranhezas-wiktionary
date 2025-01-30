@@ -907,6 +907,7 @@
 |Ernesta
 |Ernestino
 |Erídano
+|Esc
 |Escolástica
 |Escolástico
 |Escopro
@@ -1730,6 +1731,7 @@
 |Maragateria
 |Marajó
 |Marca
+|Marcas
 |Marcel
 |Marcelina
 |Marcelino
@@ -3218,6 +3220,7 @@
 |acalcanhamento
 |acalefologia
 |acalento
+|acalmia
 |acanhamento
 |acantologia
 |acantonamento
@@ -4634,7 +4637,6 @@
 |arpoadouro
 |arqueologia verbal
 |arqueta
-|arqui-rival
 |arquiavó
 |arquiavô
 |arquiministro
@@ -5121,6 +5123,7 @@
 |aziúme
 |azoamento
 |azoth
+|azueirense
 |azul de metileno
 |azul genciana
 |azul-alice
@@ -5773,6 +5776,7 @@
 |berimbau de barriga
 |berimbau de beiço
 |berimbau de boca
+|beringelense
 |berizalense
 |berlengueiro
 |berloque
@@ -7325,6 +7329,7 @@
 |canhos
 |canicarcaça
 |caniceira<qq:has gl>
+|canidelense
 |caniforme
 |caniformes
 |caniformia
@@ -7547,6 +7552,7 @@
 |cardenha
 |cardenho
 |cardialgia
+|cardiguense
 |cardinalense
 |cardiotirotoxicose
 |cardo-corredor
@@ -7950,6 +7956,7 @@
 |cavouqueiro
 |caxambu
 |caxambuense
+|caxangá
 |caxarela
 |caxemira
 |caxiense
@@ -8259,6 +8266,7 @@
 |cheiro de corpo
 |cheiroga
 |cheiura
+|chelense
 |chelpa
 |cheque sem cobertura
 |cheremisso
@@ -9351,16 +9359,20 @@
 |couquilhada
 |coura
 |courela
+|courense
 |courão
 |couselo<qq:has gl>
 |cousso<qq:has gl>
 |coutada
+|coutoense
 |couve-penca
 |couve-roxa
 |couve-troncha
 |couvert
 |couvert artístico
 |covalência
+|covelense
+|covense
 |cover-girl
 |covia
 |covid
@@ -10532,6 +10544,7 @@
 |drathais
 |drawback
 |droguista
+|drongo
 |drope
 |drops
 |drugstore
@@ -10643,7 +10656,6 @@
 |ecleticista
 |ecletismo
 |ecletista
-|eclâmpsia
 |ecoansiedade
 |ecobag
 |ecobranqueamento
@@ -13222,6 +13234,7 @@
 |gilbarbeira
 |gilbardeira
 |gilbertês
+|gimondense
 |ginarquia
 |gindungo
 |ginecocracia
@@ -13440,6 +13453,7 @@
 |granete
 |grangazá
 |granheira
+|granhense
 |granola
 |granzal
 |grape fruit
@@ -14283,7 +14297,6 @@
 |iepeense
 |ifrite
 |igaporãense
-|igara
 |igarapavense
 |igarataense
 |igaçaba
@@ -14971,7 +14984,6 @@
 |jarai
 |jaraqui
 |jararacuçu
-|jardim murado
 |jardim-alegrense
 |jardinense
 |jardinopolense
@@ -15634,6 +15646,7 @@
 |lanche da manhã
 |lanche da noite
 |lanche da tarde
+|landalense
 |landeira
 |landeirense
 |landra
@@ -15659,7 +15672,6 @@
 |lançada
 |lançado
 |lançarote
-|lanço
 |lao
 |laogai
 |laoparlante
@@ -16073,7 +16085,6 @@
 |lite
 |liteireiro
 |literarização
-|literato
 |litigante
 |litisconsorte
 |litispendência
@@ -16177,7 +16188,9 @@
 |loof
 |looque
 |loque-loque
+|lora
 |lorda<qq:has gl>
+|lordelense
 |lordose
 |lordosense
 |lorga
@@ -16567,6 +16580,7 @@
 |malagueira
 |malandrete
 |malango
+|malaqueijense
 |malata
 |malation
 |malato
@@ -16601,6 +16615,7 @@
 |malogro
 |malona
 |malpighiáceas
+|malpiqueiro
 |malpíghia
 |malquisto
 |malunga
@@ -16802,7 +16817,6 @@
 |maracaense
 |maracaiense
 |maracanaço
-|maracatim
 |maracoteiro
 |maracá
 |maragogipano
@@ -17040,6 +17054,7 @@
 |mau hálito
 |mau-caratismo
 |mauaense
+|maurelense
 |mauritaniano
 |maus-fígados
 |mause
@@ -17048,6 +17063,7 @@
 |maxambeta
 |maxambomba
 |maxialense
+|maximinense
 |maximário
 |maxissaia
 |maxuxo
@@ -17082,12 +17098,12 @@
 |mbunga
 |meada
 |meadade
+|meadelense
 |mec
 |mecanicismo
 |mecenas
 |mechelote
 |meco
-|mecânica
 |mecóptero
 |medeiro
 |medeirosnetense
@@ -17464,6 +17480,7 @@
 |min dong
 |min nan
 |minangkabau
+|mindelense
 |minderico
 |mindfulness
 |mindubi
@@ -17690,6 +17707,7 @@
 |mondrongo
 |mondé
 |monecra
+|monema
 |mongaguaense
 |mongoloparlante
 |mongoose
@@ -18321,6 +18339,7 @@
 |nipónio
 |nipônico
 |nipônio
+|niqueleira
 |niquice
 |niquim
 |nisco<qq:has gl>
@@ -18978,6 +18997,7 @@
 |padrinhos
 |padroado
 |padroense
+|padronelense
 |padronizado
 |padrão de projeto
 |paella
@@ -18995,6 +19015,7 @@
 |pai-do-mato
 |pai-gonçalo
 |pai-nosso
+|paialvense
 |paica
 |paidéia
 |paifoco<qq:has gl>
@@ -19663,6 +19684,7 @@
 |pequenos lábios
 |pequetitinho
 |pequetito
+|pequizeiro
 |pera-de-advogado
 |perafita
 |peraltice
@@ -19834,6 +19856,7 @@
 |peça rara
 |peçanhense
 |peúva
+|phosphoro
 |phot
 |piacatuense
 |piacururu
@@ -20233,6 +20256,7 @@
 |poliesportivo
 |polifemo
 |polifonia
+|polimense
 |poliomielite anterior aguda
 |poliorcética
 |poliporáceas
@@ -20255,6 +20279,7 @@
 |poltroneria
 |poltronice
 |poltrão
+|polvoreirense
 |polvorinho
 |polé
 |polícia política
@@ -20332,6 +20357,7 @@
 |popó
 |por ceca e meca
 |porangabense
+|porcariço
 |porco-bravo
 |porco-do-mato
 |porco-montês
@@ -20355,6 +20381,7 @@
 |porrão
 |porta lógica
 |porta-aeronaves
+|porta-níqueis
 |porta-retratos
 |porta-seios
 |portação
@@ -20767,6 +20794,7 @@
 |provincialismo
 |provincianismo
 |provisoriedade
+|prozelense
 |prudente
 |prudentino
 |pruno
@@ -21386,8 +21414,6 @@
 |raporte
 |raposeiro
 |raposense
-|rapsodo
-|rapsódia
 |rapôncio
 |rapúncio
 |rareamento
@@ -22100,6 +22126,8 @@
 |saeta
 |safanão
 |safardana
+|safia
+|safio
 |safu
 |safueiro
 |saganha
@@ -22771,6 +22799,7 @@
 |sirgueiro
 |siriema
 |sirim<qq:has gl>
+|siripuã
 |siriruia
 |siríaco clássico
 |sisa
@@ -23238,7 +23267,6 @@
 |síncrise
 |síndeto
 |síndrome de Arnold-Chiari
-|síndrome de Tourette
 |síndrome do coração partido
 |sínese
 |sínfano
@@ -24059,7 +24087,6 @@
 |trangalhada<qq:has gl>
 |tranqueiro
 |tranquilex
-|tranqüilizante
 |transariano
 |transatlântico
 |transcendente
@@ -24264,6 +24291,7 @@
 |troada
 |troba
 |trocadilhista
+|trocaz
 |trocha
 |trocho
 |trocista
@@ -24449,6 +24477,7 @@
 |tórulo
 |tômbola
 |tômboro
+|tônus
 |túlu
 |túndia
 |túçaro<qq:has gl>

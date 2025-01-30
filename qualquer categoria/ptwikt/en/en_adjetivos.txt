@@ -153,6 +153,8 @@ abordável
 aborrecido
 aborrescente
 abortado
+aborteiro
+abortista
 abortivo
 abortável
 abortífero
@@ -4337,7 +4339,6 @@ comitativo
 comitente
 commercial
 commum
-communicado
 comorense
 comovedor
 comovente
@@ -4386,7 +4387,6 @@ compósito
 comum
 comum de dois
 comunal
-comunicado
 comunicativo
 comunicável
 comunista
@@ -4882,6 +4882,7 @@ de lua
 de luto
 de mal
 de mau gosto
+de menor
 de mentira
 de merda
 de molho
@@ -4899,6 +4900,7 @@ de qualidade
 de rachar
 de renome
 de rotina
+de saco cheio
 de segunda
 de segunda mão
 de sempre
@@ -6697,6 +6699,7 @@ fremente
 frenológico
 frenético
 frequente
+frequentíssimo
 freqùente
 freqüente
 fresador
@@ -8042,6 +8045,7 @@ irremovível
 irreparável
 irrepetível
 irreplicável
+irreponível
 irrepreensível
 irreprimível
 irreprochável
@@ -8206,6 +8210,7 @@ ladinho
 ladino
 laico
 lajeado
+lambão
 lamecense
 lamecha
 lamechas
@@ -8637,6 +8642,7 @@ manteiguense
 manual
 manuscrito
 manuseavel
+manutenível
 manx
 manês
 maníaco
@@ -8734,6 +8740,7 @@ mbaco
 meado
 mealhadense
 mecanizado
+mechanico
 mecklemburguês
 meclemburguês
 mecânico
@@ -10771,6 +10778,7 @@ quéchua
 quíchua
 químico
 quíntuplo
+qùingentésimo
 qüera
 qüingentésimo
 qüinquagésimo
@@ -10818,6 +10826,7 @@ rançoso
 rapace
 rapidíssimo
 raposo
+rapsódico
 raptor
 raquítico
 raro
@@ -10974,6 +10983,7 @@ repetido
 repetível
 repleto
 replicável
+reponível
 reportado
 repreensível
 representado
@@ -11266,10 +11276,12 @@ sangrador
 sangrento
 sangue azul
 sanguento
+sanguineo
 sanguino
 sanguinolento
 sanguinário
 sanguíneo
+sangùino
 sangùíneo
 sangüino
 sangüíneo
@@ -11321,6 +11333,7 @@ saxônio
 sazonal
 scenico
 sceptico
+sciente
 scientifico
 scientífico
 sciêntífico
@@ -11718,6 +11731,7 @@ subordinado
 subsaariano
 subscrito
 subsequente
+subseqùente
 subseqüente
 subserviente
 subsidiário
@@ -11829,6 +11843,7 @@ surpreendente
 surpreendido
 surprehendente
 surpreso
+surprêso
 surreal
 surrealista
 surtseyano
@@ -12182,7 +12197,11 @@ tranquillo
 tranquilo
 tranquilão
 tranquilíssimo
+tranqùilizador
+tranqùilizante
+tranqùilo
 tranqüilizador
+tranqüilizante
 tranqüilo
 trans
 transactinídeo
@@ -12379,6 +12398,7 @@ tónico
 tópico
 tórrido
 tóxico
+tôda
 tônico
 túmido
 túngstico

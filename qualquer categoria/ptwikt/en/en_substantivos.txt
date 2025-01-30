@@ -3829,6 +3829,7 @@ Guadeloupe
 Guadiana
 Guaiaquil
 Guaimbê
+Guaixará
 Guaiçara
 Guajeru
 Gualtério
@@ -6708,6 +6709,7 @@ Paraguai
 Paraguay
 Paraguaçu
 Paraguaçu Paulista
+Parahyba
 Paraibuna
 Paraisópolis
 Paralimpíadas
@@ -6939,6 +6941,7 @@ Piacenza
 Piastri
 Piatã
 Piau
+Piauhy
 Piauí
 Picada Café
 Picardia
@@ -9317,6 +9320,7 @@ ULA
 UNASUL
 UNESCO
 UNITA
+UOL
 UPP
 URL amigável
 URSAL
@@ -10070,6 +10074,8 @@ aborrescente
 abort
 abortador
 abortamento
+aborteira
+aborteiro
 abortina
 abortismo
 abortista
@@ -12190,6 +12196,7 @@ além-mar
 além-túmulo
 alérgeno
 alérgico
+alêm
 alínea
 alíquota
 alísio
@@ -14933,6 +14940,7 @@ arqueólogo
 arqui-herege
 arqui-inimiga
 arqui-inimigo
+arqui-rival
 arquiabade
 arquiabadia
 arquianelídeo
@@ -15918,6 +15926,7 @@ açaime
 açaimo
 açaiteria
 açaizeiro
+açaìzeiro
 açaí
 aço
 aço carbono
@@ -17470,6 +17479,7 @@ botilhão
 botina
 botiquense
 boto
+boto-cor-de-rosa
 botocudo
 botoeira
 botoque
@@ -20135,6 +20145,7 @@ chuinga
 chuiva
 chukchi
 chulca
+chulezito
 chulipa
 chulo
 chulé
@@ -24448,6 +24459,7 @@ eclipse solar
 eclosão
 eclusa
 eclusa de ar
+eclâmpsia
 eclésia
 eclíptica
 eco
@@ -24513,6 +24525,7 @@ efeito
 efeito Allee
 efeito Casimir
 efeito Doppler
+efeito Mandela
 efeito Mozart
 efeito borboleta
 efeito colateral
@@ -26695,6 +26708,7 @@ família elementar
 família linguística
 família mista
 família nuclear
+fanarte
 fanatismo
 fancaria
 fandom
@@ -28111,7 +28125,6 @@ fênice
 fênix
 fêra
 fêvera
-fêz
 fía
 fíbula
 fígado
@@ -30319,6 +30332,7 @@ ieti
 ifante
 iffante
 ifrita-de-coroa-azul
+igara
 igarapé
 iglu
 ignição
@@ -31067,6 +31081,7 @@ invariante
 invasor
 invasora
 invasão
+invasão de Pindorama
 invectiva
 inveja
 invencionice
@@ -31337,6 +31352,7 @@ jardim
 jardim-de-infância
 jardim botânico
 jardim de infância
+jardim murado
 jardim zoológico
 jardinagem
 jardineira
@@ -31599,6 +31615,7 @@ jónica
 jónico
 jóquei
 jóquer
+jôgo
 júbilo
 júlio
 júnior
@@ -31888,6 +31905,7 @@ lançamento do disco
 lançamento do martelo
 lançamento do peso
 lançamento lateral
+lanço
 laociano
 laosiana
 laosiano
@@ -32504,6 +32522,7 @@ litargírio
 liteira
 literacia
 literal
+literato
 literatura
 literácia
 litisconsórcio
@@ -33490,6 +33509,7 @@ marabu
 marabunta
 marabuto
 maraca
+maracatim
 maracatu
 marachão
 maracotão
@@ -33876,6 +33896,7 @@ maçônica
 maçônico
 maís
 maõ
+mbaua
 mboa
 meado
 mealha
@@ -33890,9 +33911,12 @@ mecatrónica
 mecatrônica
 mecenato
 mecha
+mechanica
+mechanico
 mecklemburguês
 meclemburguesa
 meclemburguês
+mecânica
 mecânica analítica
 mecânica quântica
 mecânico
@@ -35295,6 +35319,7 @@ mutagenicidade
 mutante
 mutação
 mutilação
+mutilação genital feminina
 mutirão
 mutreta
 mutuador
@@ -35444,6 +35469,7 @@ mônada
 mônade
 môr
 môrto
+môça
 múltiplo
 múmia
 múnus
@@ -35894,7 +35920,9 @@ ninfomaníaca
 ninféia
 ninfómana
 ningres-ningres
+ninguem
 ninguém
+ninguêm
 ninhada
 ninhal
 ninharia
@@ -37326,6 +37354,7 @@ paragem
 paragem cardíaca
 paraguaia
 paraguaio
+paraguation
 paraibana
 paraibano
 paralaxe
@@ -37924,6 +37953,7 @@ peixe gato
 peixeira
 peixeiro
 peixinho
+peixinho-da-horta
 peixinho dourado
 peixota
 peixão
@@ -38770,6 +38800,7 @@ pitstop
 pitu
 pitão
 pitéu
+pitú
 piuí
 pivete
 pivô
@@ -40855,7 +40886,10 @@ químio
 quíntuplo
 quíton
 quórum
+qùingentésimo
 qüera
+qüingentésimo
+qüinquagésimo
 qüiproquó
 qüociente
 r/c
@@ -41039,6 +41073,9 @@ raposinho
 raposo
 rappel
 rapper
+rapsodista
+rapsodo
+rapsódia
 rapto
 raptor
 rapá
@@ -42392,6 +42429,7 @@ saguaro
 sagui
 saguim
 saguão
+sagùi
 sagüi
 saia
 saia justa
@@ -42708,8 +42746,11 @@ saüde
 scaner
 scanner
 scat
+scena
 scenario
 scenário
+sceptica
+scepticismo
 sceptico
 sceticismo
 scheelita
@@ -42721,6 +42762,7 @@ schnitzel
 schola
 schwa
 sciencia
+scientista
 scisão
 sciência
 scrapie
@@ -42728,6 +42770,7 @@ screencast
 screenshot
 script
 scâner
+scéptica
 scéptico
 seabórgio
 seara
@@ -43010,6 +43053,8 @@ sequestro
 sequoia
 sequência
 sequóia
+seqùela
+seqùência
 seqüela
 seqüestro
 seqüência
@@ -44335,6 +44380,8 @@ síndrome de Klinefelter
 síndrome de Marfan
 síndrome de Moebius
 síndrome de Möbius
+síndrome de Rett
+síndrome de Tourette
 síndrome de Turner
 síndrome de Williams
 síndrome de abstinência
@@ -44368,6 +44415,7 @@ sóror
 sósia
 sótão
 sô
+sôbre-salto
 sôldo
 sôpro
 súbdita
@@ -45249,6 +45297,7 @@ tipo
 tipo de dado
 tipo de letra
 tipo sanguíneo
+tipo sangùíneo
 tipo sangüíneo
 tipografia
 tipoia
@@ -45499,6 +45548,8 @@ torturador
 torturadora
 tortéi
 torvelinho
+torvoada
+torvão
 torça
 torção
 toró
@@ -45636,8 +45687,14 @@ tranquilidade
 tranquilizador
 tranquilizadora
 tranquilizante
+tranquillidade
+tranqùilidade
+tranqùilizador
+tranqùilizadora
+tranqùilizante
 tranqüilidade
 tranqüilizador
+tranqüilizante
 trans
 transa
 transacção
@@ -45724,6 +45781,7 @@ transtorno de personalidade esquizotípica
 transtorno do déficit de atenção com hiperatividade
 transtorno do déficit de atenção e hiperatividade
 transtorno do espectro autista
+transtorno esquizoafetivo
 transtorno invasivo do desenvolvimento
 transtorno obsessivo-compulsivo
 transtorno opositivo desafiador
@@ -46066,6 +46124,7 @@ tropicalista
 tropicália
 tropomiosina
 troposfera
+tropêço
 trote
 trotineta
 trotinete
@@ -46127,6 +46186,7 @@ trítono
 trólebus
 trópico
 trôco
+trôço
 tsar
 tsarina
 tsuga
@@ -46273,6 +46333,7 @@ twink
 twist
 typho
 typo
+typo sanguineo
 tzar
 tzarina
 tzarismo
@@ -46349,6 +46410,7 @@ tório
 tóron
 tóteme
 tóxico
+tôda
 tôner
 tônica
 tônico
@@ -46382,6 +46444,7 @@ uaçu
 uberização
 ubicação
 ubiquidade
+ubiqùidade
 ubiqüidade
 ubre
 ubuntu
@@ -46462,6 +46525,7 @@ undécuplo
 ungidor
 unguento
 ungulado
+ungùento
 ungüento
 unha
 unha-de-asno

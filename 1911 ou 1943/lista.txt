@@ -1,4 +1,3 @@
--acção
 -ae
 -aes
 -aria
@@ -98,6 +97,7 @@ Outubro
 Palmyra
 Pannónia
 Paraguay
+Parahyba
 Parthenope
 Parthia
 Parthénope
@@ -109,6 +109,7 @@ Phenícia
 Phocida
 Phénix
 Phócida
+Piauhy
 Plutarcho
 Polyhymnia
 Prometheu
@@ -131,6 +132,7 @@ Theodoro
 Thessalia
 Thessália
 Thucydides
+Vienna
 Zephiro
 Zephyro
 Zéphiro
@@ -325,7 +327,6 @@ cavallo
 caçador-recolector
 caçadora-recolectora
 ceo
-cepticismo
 cerimonia
 chamaleão
 chamma
@@ -361,16 +362,25 @@ collocar
 columna
 cometter
 commeter
-commeterão
 commetter
+commigo
+communa
+communicado
+communicar
+communicação
+communidade
 comprehender
 comquanto
+comsigo
 condemnado
 conductivo
 conductor
 conflicto
 conjunccional
+conjuncto
 conjuncção
+connectar
+connexão
 conteudo
 contracto
 contracção
@@ -393,8 +403,27 @@ céo
 cíthara
 d'ahi
 d'ali
+d'aquella
+d'aquellas
+d'aquelle
+d'aquelles
+d'aqui
+d'aquillo
+d'esta
+d'estas
+d'este
+d'estes
+d'isto
 dahi
 damnado
+damnar
+damnação
+damno
+daquella
+daquellas
+daquelle
+daquelles
+daquillo
 defecção
 dejecto
 dejecção
@@ -690,9 +719,10 @@ maxilla
 maxillar
 maxillar inferior
 maxillar superior
+mechanicamente
+mechanico
 mediocre
 memoria
-mes
 mesolecto
 metamorphose
 metaphysico
@@ -700,6 +730,7 @@ metempsychose
 methodo
 methodologia
 metter
+mez
 mirandez
 mirandeza
 miseravel
@@ -713,13 +744,22 @@ myosótis
 myrrha
 myrtillo
 mytho
+n'aquella
+n'aquellas
 n'aquelle
+n'aquelles
+n'aquillo
 n'um
 n'uma
 n'umas
 n'uns
+naquella
+naquellas
 naquelle
+naquelles
+naquillo
 neodymio
+ninguem
 nocturnal
 nocturno
 objectar
@@ -735,6 +775,7 @@ occidental
 occidente
 occupação
 odio
+offerecer
 official
 officina
 officio
@@ -759,6 +800,7 @@ pathetico
 patria
 patriarcha
 patriarchado
+permittir
 pessego
 phagocyto
 phalange
@@ -815,6 +857,7 @@ prohibir
 prohibição
 projectar
 projecto
+projector
 projecção
 prompto
 proposito
@@ -875,16 +918,21 @@ sabbado
 saccharose
 sahir
 sanctuário
+sanguineo
 satyríase
+scena
 scenario
 scenico
+scepticismo
 sceptico
 sceticismo
 schisto
 sciencia
+sciente
 scientificamente
 scientifico
-scintilar
+scientista
+scintillar
 scisão
 seleccionado
 seleccionador
@@ -898,6 +946,7 @@ selectivo
 selecto
 selecção
 semi-recta
+sobre-salto
 sobrejectivo
 sobrejecção
 sobresaltar
@@ -909,6 +958,7 @@ subjectividade
 subjectivo
 subjunctivo
 subtracção
+succumbir
 syllogismo
 sylphide
 symptoma
@@ -918,6 +968,7 @@ systematizar
 tacticamente
 tambem
 tecto
+teem
 theatro
 thema
 theodiceia
@@ -940,6 +991,10 @@ trahidor
 trahir
 trahira
 trajecto
+tranquillamente
+tranquillidade
+tranquillizar
+tranquillo
 transacção
 triumpho
 tumefacção
@@ -947,6 +1002,7 @@ typho
 typicamente
 typico
 typo
+typo sanguineo
 ultimo
 unctar
 unico
@@ -955,6 +1011,7 @@ vae
 vario
 vector
 vectorial
+veem
 villa
 vintem
 walsa

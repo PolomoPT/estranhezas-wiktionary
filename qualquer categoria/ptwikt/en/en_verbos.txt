@@ -1066,6 +1066,7 @@ borrar
 borraçar
 borrifar
 borriçar
+bostejar
 botanizar
 botar
 botar a mão no fogo
@@ -3894,6 +3895,7 @@ indemnizar
 indenizar
 independer
 indexar
+indianizar
 indicar
 indiciar
 indignar
@@ -4107,6 +4109,8 @@ kibar
 kickar
 labutar
 lacerar
+laconisar
+laconizar
 lacrar
 lacrimejar
 lactar
@@ -4834,6 +4838,7 @@ perlavar
 permanecer
 permear
 permitir
+permittir
 permutar
 pernear
 pernoitar
@@ -5686,6 +5691,7 @@ saturar
 saudar
 sayr
 scintilar
+scintillar
 secar
 seccar
 secretar
@@ -5884,6 +5890,7 @@ subvencionar
 subverter
 sucatear
 succeder
+succumbir
 suceder
 sucumbir
 sufixar
@@ -6103,6 +6110,9 @@ trampear
 trancafiar
 trancar
 tranquilizar
+tranquillizar
+tranqùilizar
+tranqüilizar
 transar
 transbordar
 transcender
