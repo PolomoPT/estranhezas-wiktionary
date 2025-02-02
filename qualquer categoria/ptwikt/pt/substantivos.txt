@@ -1,3 +1,5 @@
+'s-Hertogenbosch
+'s Hertogenbosch
 1
 10
 171
@@ -2255,6 +2257,7 @@ Freetown
 Frei Gaspar
 Freire
 Freitas
+Friul-Veneza Júlia
 Fromager
 Frota
 Frutal
@@ -2670,6 +2673,7 @@ Iacanga
 Iaciara
 Iacri
 Iago
+Iama
 Iane
 Iansã
 Iapu
@@ -3785,6 +3789,7 @@ Moimenta da Beira
 Moisés
 Moita
 Moldávia
+Molise
 Mombaça
 Mombuca
 Monaco-Ville
@@ -5626,6 +5631,7 @@ Toro
 Toropi
 Torquato
 Torres Novas
+Toscânia
 Tottori
 Touro
 Toyama
@@ -13958,6 +13964,7 @@ caneira
 caneiro
 canela
 caneladura
+canelense
 canelha
 canelho
 canelhão
@@ -14370,6 +14377,7 @@ cardeal
 cardenha
 cardenho
 cardialgia
+cardielense
 cardiguense
 cardinalense
 cardinalidade
@@ -15520,6 +15528,7 @@ charena
 charge
 chargista
 charguaço
+charia
 charivari
 charla
 charlata
@@ -18656,6 +18665,7 @@ danoparlante
 danura
 dança
 dança-de-são-vito
+dança das cadeiras
 dança de São Vito
 dança de salão
 dança do ventre
@@ -27424,6 +27434,7 @@ indaiatubense
 indecente
 indeciso
 indecisão
+indecência
 indego
 indeiscência
 indemnização
@@ -28040,6 +28051,7 @@ islame
 islamismo
 islamista
 islamita
+islamofobia
 islandês
 islã
 islão
@@ -33268,7 +33280,6 @@ muleta
 mulher
 mulher-a-dias
 mulher-da-vida
-mulher-feita
 mulher-homem
 mulher-macho
 mulher da vida
@@ -36453,6 +36464,7 @@ peneira
 peneireiro
 peneireiro-das-torres
 peneireiro-de-dorso-liso
+penelense
 peneplanície
 penetra
 penetração
@@ -41781,6 +41793,7 @@ seabórgio
 seara
 seareiro
 seba
+sebalense
 sebastianense
 sebe
 sebo
@@ -43479,6 +43492,8 @@ síndrome de Arnold-Chiari
 síndrome de Asperger
 síndrome de Down
 síndrome de Ehlers-Danlos
+síndrome de Estocolmo
+síndrome de Jerusalém
 síndrome de Tourette
 síndrome de vira-lata
 síndrome do coração partido
@@ -43554,6 +43569,7 @@ tabu
 tabua
 tabuacense
 tabuada
+tabueiro
 tabuense
 tabulação
 tabule
@@ -44790,6 +44806,7 @@ torresmo
 torreão
 torriano
 torriense
+torroselense
 torrão
 torso
 torta
@@ -45111,6 +45128,7 @@ traumatologia
 trava
 trava-língua
 travamento
+travancinhense
 travatura
 trave
 traveco
@@ -46058,6 +46076,7 @@ usinagem
 uso
 uspanteco
 uspiano
+usseirense
 ustensílio
 usual
 usualidade

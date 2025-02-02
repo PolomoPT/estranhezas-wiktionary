@@ -351,11 +351,11 @@ colectivamente
 colectivismo
 colectivizar
 colectivização
-colectivo
 colector
 colecção
 collar
 collarinho
+collectivo
 collega
 collo
 collocar
@@ -710,6 +710,7 @@ malinformado
 mamma
 mammar
 mammão
+manuseavel
 mappa
 marionette
 marionnette
@@ -784,6 +785,8 @@ onomatopéa
 onyx
 ophthalmologista
 ophídio
+opposição
+opposto
 optimamente
 optimizado
 optimizar
@@ -800,6 +803,7 @@ pathetico
 patria
 patriarcha
 patriarchado
+patrimonio
 permittir
 pessego
 phagocyto
@@ -920,6 +924,7 @@ sahir
 sanctuário
 sanguineo
 satyríase
+saude
 scena
 scenario
 scenico
@@ -959,6 +964,7 @@ subjectivo
 subjunctivo
 subtracção
 succumbir
+suite
 syllogismo
 sylphide
 symptoma

@@ -4731,6 +4731,7 @@ Jeriquara
 Jersey
 Jerusalem
 Jerusalém
+Jerusalêm
 Jerónimo
 Jerônimo
 Jessé
@@ -18878,6 +18879,8 @@ caractere
 caractere chinês
 caracterização
 característica
+caracu
+caracú
 carago
 caraguatá
 carai
@@ -20889,6 +20892,7 @@ collants
 collapso
 collar
 collarinho
+collectivo
 collega
 collo
 colmeia
@@ -31256,12 +31260,14 @@ jabota
 jaboticaba
 jaboticabeira
 jaboty
+jabotí
 jaburu
 jabuti
 jabuti-piranga
 jabuti-tinga
 jabuticaba
 jabuticabeira
+jabutí
 jabá
 jaca
 jacarandá
@@ -31551,6 +31557,7 @@ junco
 juncção
 jundiá
 junho
+junker
 junquilho
 junta
 junta-panelas
@@ -33898,6 +33905,9 @@ maís
 maõ
 mbaua
 mboa
+mboi
+mboia
+mbóia
 meado
 mealha
 mealhadense
@@ -33947,6 +33957,7 @@ medicina veterinária
 medida
 medidor
 mediocridade
+mediolíneo
 meditação
 mediunidade
 medição
@@ -34484,6 +34495,7 @@ milho-miúdo
 milho verde
 milhão
 milhões
+miliardário
 milibar
 miliciana
 miliciano
@@ -34503,6 +34515,7 @@ militarização
 militância
 milkshake
 millerita
+milmilionário
 milola
 milonga
 milorde
@@ -36648,6 +36661,7 @@ oposicionista
 oposição
 oposto
 opposição
+opposto
 opressor
 opressão
 opróbrio
@@ -37124,6 +37138,7 @@ palmeira
 palmeirense
 palmeyra
 palmilha
+palmitagem
 palmiteira
 palmiteiro
 palmito
@@ -37454,6 +37469,7 @@ parelha
 paremiologia
 parentada
 parentagem
+parentalidade
 parente
 parentela
 parentesco
@@ -37671,7 +37687,6 @@ patinação
 patinação artística
 patinação de velocidade
 patinete
-patinete elétrico
 patinha
 patinho
 patinho feio
@@ -42203,6 +42218,7 @@ rubrica
 rubro
 rubro-negro
 rubéola
+rubí
 rubídio
 rudeza
 ruela
@@ -42712,6 +42728,7 @@ satélite
 saudade
 saudação
 saudação romana
+saude
 saudita
 saudosismo
 saudosista
@@ -43919,6 +43936,7 @@ sub-rés-do-chão
 suba
 subalterno
 subarrendamento
+subcategoria
 subcelebridade
 subclasse
 subcomponente
@@ -45629,6 +45647,7 @@ traducção
 tradutologia
 tradutor
 tradutora
+tradutês
 traduçaõ
 tradução
 tradução automática
@@ -46647,6 +46666,7 @@ urubu-de-cabeça-vermelha
 urubu-preto
 urubu-rei
 urubutinga
+urubú
 urucu
 urucubaca
 urucueiro
@@ -46848,6 +46868,8 @@ vaqueiro
 vaquejada
 vaqueyro
 vaquinha
+vaquita
+vaquita-marinha
 vara
 vara-de-ouro
 vara de pesca

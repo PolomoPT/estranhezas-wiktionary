@@ -4305,6 +4305,7 @@ coletor
 coligado
 colinoso
 collante
+collectivo
 colocado
 coloidal
 colombiano
@@ -8412,7 +8413,6 @@ lorpa
 lotado
 lotérico
 louco
-louco e sonhador
 lourinho
 louro
 lousadense
@@ -8642,6 +8642,7 @@ manteiguense
 manual
 manuscrito
 manuseavel
+manuseável
 manutenível
 manx
 manês
@@ -8898,12 +8899,14 @@ milagroso
 milanês
 milenar
 milhor
+miliardário
 milimetrado
 milimétrico
 milionário
 milionésimo
 militante
 militar
+milmilionário
 milésimo
 mimado
 mimimizento
@@ -9479,6 +9482,7 @@ néscio
 nêustrio
 nítido
 nítrico
+nóia
 nómada
 nómade
 nómico
@@ -9633,6 +9637,7 @@ oportunista
 oportuno
 oposto
 opportuno
+opposto
 opressivo
 opresso
 opressor
@@ -10121,6 +10126,7 @@ piezoelétrico
 pigarrento
 pigmeu
 pignoratício
+pilaco
 pilantra
 pimpão
 pinado
@@ -11171,6 +11177,7 @@ rubi
 rubiginoso
 rubro
 rubro-negro
+rubí
 rude
 rudimentar
 rueiro
@@ -12475,6 +12482,7 @@ urogenital
 urológico
 urubiciense
 urubu
+urubú
 uruguaio
 uruguayo
 urupemense

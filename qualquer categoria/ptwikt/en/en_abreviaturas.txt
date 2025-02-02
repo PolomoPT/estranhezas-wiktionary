@@ -478,7 +478,6 @@ id
 ing.
 int
 interj.
-intro
 jũto
 k7
 kbça

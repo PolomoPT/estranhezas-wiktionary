@@ -4,6 +4,7 @@
 -adas
 -ados
 -aes
+-agens
 -ais
 -am
 -amentos
@@ -64939,8 +64940,10 @@ característica
 características
 característicos
 caractér
+caracus
 caracóis
 caracóis de Pascal
+caracús
 caragos
 caraguatás
 caralhadas
@@ -65879,6 +65882,7 @@ cartórios
 cartões
 cartões SIM
 cartões amarelos
+cartões de cidadão
 cartões de crédito
 cartões de débito
 cartões de embarque
@@ -76306,6 +76310,8 @@ colisionadores
 colisores
 colisões
 collarinhos
+collectivas
+collectivos
 colloca
 collocada
 collocadas
@@ -89081,6 +89087,7 @@ crackeásseis
 crackeássemos
 crackeávamos
 crackeáveis
+crackudos
 cracolândias
 cracuda
 cracudas
@@ -91855,7 +91862,6 @@ curvais
 curvam
 curvamos
 curvando
-curvar-se
 curvara
 curvaram
 curvaras
@@ -197810,6 +197816,7 @@ intrometêssemos
 intrometíamos
 intrometíeis
 intromisções
+intros
 introspectiva
 introspectivas
 introspectivos
@@ -199809,10 +199816,12 @@ jaborandis
 jaborandys
 jabotas
 jabotys
+jabotís
 jaburus
 jabutis
 jabutis-piranga
 jabutis-tinga
+jabutís
 jacarandás
 jacaroas
 jacarèzinhos
@@ -201409,6 +201418,7 @@ kafkianas
 kafkianos
 kainitas
 kamacitas
+karaokês
 kardecistas
 kartódromos
 kas-churrascos
@@ -207266,11 +207276,8 @@ lotáveis
 lotérica
 lotéricas
 louca
-louca e sonhadora
 loucas
-loucas e sonhadoras
 loucos
-loucos e sonhadores
 loucuras
 louqueado
 louqueai
@@ -213560,6 +213567,9 @@ mbacas
 mbacos
 mbauas
 mboas
+mboias
+mbois
+mbóias
 me
 meada
 meadas
@@ -224793,6 +224803,7 @@ níveis
 níveres
 nódoas
 nódulos
+nóias
 nómadas
 nómades
 nómica
@@ -227910,7 +227921,10 @@ opporão
 opporíamos
 opporíeis
 opposições
+opposta
+oppostas
 opposto
+oppostos
 opprima
 opprimais
 opprimam
@@ -231274,6 +231288,7 @@ palmitada
 palmitadas
 palmitado
 palmitados
+palmitagens
 palmitai
 palmitais
 palmitam
@@ -232839,6 +232854,7 @@ parem
 paremos
 parentadas
 parentais
+parentalidades
 parentes
 parentescos
 pares
@@ -239427,6 +239443,7 @@ pilhávamos
 pilháveis
 pilhérias
 pilhões
+pillares
 pilo
 piloros
 pilos
@@ -241456,6 +241473,7 @@ plebeias
 plebes
 plebeus
 plebiscitos
+plectros
 pleiteado
 pleiteai
 pleiteais
@@ -276309,6 +276327,7 @@ rubriques
 rubros
 rubéola
 rubéolas
+rubís
 rudes
 rudezas
 rudimentares
@@ -279642,6 +279661,7 @@ saudações romanas
 saudei
 saudeis
 saudemos
+saudes
 sauditas
 saudosa
 saudosas
@@ -288150,6 +288170,7 @@ subatómicos
 subatômica
 subatômicas
 subatômicos
+subcategorias
 subcelebridades
 subclínica
 subclínicas
@@ -306621,6 +306642,7 @@ urubuzásseis
 urubuzássemos
 urubuzávamos
 urubuzáveis
+urubús
 uruguaia
 uruguaias
 uruguaios
@@ -308193,6 +308215,8 @@ vaquemos
 vaques
 vaqueyros
 vaquinhas
+vaquitas
+vaquitas-marinhas
 vara
 varada
 varadas
@@ -315947,7 +315971,6 @@ zôo
 êrvodos
 ês
 êsses
-êstes
 êxitos
 êxodos
 êxtases

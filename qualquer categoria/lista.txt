@@ -3032,6 +3032,7 @@ Deus Filho
 Deus Pai
 Deus ajuda quem cedo madruga
 Deus ajuda quem se ajuda
+Deus escreve certo por linhas tortas
 Deus lhe pague
 Deus me perdoe
 Deus que me perdoe
@@ -5044,6 +5045,7 @@ Jeriquara
 Jersey
 Jerusalem
 Jerusalém
+Jerusalêm
 Jerónimo
 Jerônimo
 Jessé
@@ -24130,6 +24132,8 @@ caracterizar
 caracterização
 característica
 característico
+caracu
+caracú
 carago
 caraguatá
 carai
@@ -26665,6 +26669,7 @@ collants
 collapso
 collar
 collarinho
+collectivo
 collega
 collo
 collocar
@@ -29878,7 +29883,6 @@ declamador
 declamar
 declaradamente
 declarar
-declarar guerra
 declarativo
 declaratório
 declaração
@@ -33263,7 +33267,6 @@ em quanto
 em questão
 em regra
 em relação a
-em se tratando de
 em seguida
 em suma
 em série
@@ -43662,12 +43665,14 @@ jabota
 jaboticaba
 jaboticabeira
 jaboty
+jabotí
 jaburu
 jabuti
 jabuti-piranga
 jabuti-tinga
 jabuticaba
 jabuticabeira
+jabutí
 jabá
 jaca
 jacarandá
@@ -44009,6 +44014,7 @@ jundiá
 jungir
 junho
 junino
+junker
 junquilho
 junta
 junta-panelas
@@ -45546,7 +45552,6 @@ lotérico
 louca
 loucamente
 louco
-louco e sonhador
 loucura
 louquear
 loureiro
@@ -46507,6 +46512,7 @@ manuseamento
 manusear
 manuseavel
 manuseio
+manuseável
 manutenir
 manutenção
 manutenível
@@ -47050,6 +47056,9 @@ maõ
 mbaco
 mbaua
 mboa
+mboi
+mboia
+mbóia
 mds
 me erra
 meado
@@ -47117,6 +47126,7 @@ medidor
 medieval
 mediocre
 mediocridade
+mediolíneo
 medir
 medir esforços
 meditabundo
@@ -47848,6 +47858,7 @@ milhor
 milhão
 milhões
 mili-
+miliardário
 milibar
 miliciana
 miliciano
@@ -47869,6 +47880,7 @@ militarização
 militância
 milkshake
 millerita
+milmilionário
 milola
 milonga
 milorde
@@ -51007,6 +51019,7 @@ oposição
 oposto
 opportuno
 opposição
+opposto
 opprimir
 oppôr
 opressivamente
@@ -51713,6 +51726,7 @@ palmeira
 palmeirense
 palmeyra
 palmilha
+palmitagem
 palmitar
 palmiteira
 palmiteiro
@@ -52140,6 +52154,7 @@ paremiologia
 parentada
 parentagem
 parental
+parentalidade
 parente
 parentela
 parenteral
@@ -52414,7 +52429,6 @@ patinação
 patinação artística
 patinação de velocidade
 patinete
-patinete elétrico
 patinha
 patinhar
 patinho
@@ -53592,6 +53606,7 @@ pii
 piii
 pijama
 pila
+pilaco
 pilaf
 pilafe
 pilantra
@@ -59056,6 +59071,7 @@ rubricar
 rubro
 rubro-negro
 rubéola
+rubí
 rubídio
 rude
 rudemente
@@ -59753,6 +59769,7 @@ saudar
 saudavelmente
 saudação
 saudação romana
+saude
 saudita
 saudosismo
 saudosista
@@ -61513,6 +61530,7 @@ subarrendamento
 subatómico
 subatômico
 subaxilar
+subcategoria
 subcelebridade
 subclasse
 subclínico
@@ -63873,6 +63891,7 @@ tradutivo
 tradutologia
 tradutor
 tradutora
+tradutês
 traduzir
 traduzível
 traduçaõ
@@ -65358,6 +65377,7 @@ urubu-preto
 urubu-rei
 urubutinga
 urubuzar
+urubú
 urucu
 urucubaca
 urucueiro
@@ -65659,6 +65679,8 @@ vaquejada
 vaquejar
 vaqueyro
 vaquinha
+vaquita
+vaquita-marinha
 vara
 vara-de-ouro
 vara de pesca

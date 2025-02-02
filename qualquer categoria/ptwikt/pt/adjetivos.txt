@@ -2891,6 +2891,7 @@ candolado
 candomblecista
 candosense
 canecense
+canelense
 caneludo
 canga
 canguleiro
@@ -2991,6 +2992,7 @@ carcerário
 carcunda
 cardeal
 cardial
+cardielense
 cardiguense
 cardinal
 cardinalense
@@ -5861,6 +5863,7 @@ esporádico
 esposendense
 espreitador
 espremido
+esprândigo
 espumante
 espumoso
 espândigo
@@ -11187,6 +11190,7 @@ pendente
 pendular
 pendurado
 peneirado
+penelense
 penetrado
 penetrante
 penhascoso
@@ -13027,6 +13031,7 @@ saçamelo
 saído
 seabrense
 seareiro
+sebalense
 sebastianense
 seboso
 sebáceo
@@ -13747,6 +13752,7 @@ tablóide
 taboeirense
 taboquense
 tabuacense
+tabueiro
 tabuense
 tabular
 tacanho
@@ -14075,6 +14081,7 @@ torrencial
 torrense
 torriano
 torriense
+torroselense
 torticeiro
 torto
 tortuoso
@@ -14218,6 +14225,7 @@ tratado
 tratante
 traumático
 travado
+travancinhense
 travequeiro
 travesso
 traído
@@ -14548,6 +14556,7 @@ usado
 usbeque
 usbequistanês
 uspiano
+usseirense
 usual
 usurário
 usuário

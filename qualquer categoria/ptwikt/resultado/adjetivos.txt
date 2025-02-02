@@ -1741,6 +1741,7 @@
 |candolado
 |candosense
 |canecense
+|canelense
 |caneludo
 |canga
 |canguleiro
@@ -1816,6 +1817,7 @@
 |carcerário
 |carcunda
 |cardial
+|cardielense
 |cardiguense
 |cardinalense
 |cardinalício
@@ -3510,6 +3512,7 @@
 |esposendense
 |espreitador
 |espremido
+|esprândigo
 |espândigo
 |espírita
 |espúmeo
@@ -7692,6 +7695,7 @@
 |saído
 |seabrense
 |seareiro
+|sebalense
 |sebastianense
 |secante
 |secretório
@@ -8077,6 +8081,7 @@
 |tablóide
 |taboeirense
 |taboquense
+|tabueiro
 |tacibense
 |tacométrico
 |tadinense
@@ -8273,6 +8278,7 @@
 |torrense
 |torriano
 |torriense
+|torroselense
 |torticeiro
 |torturado
 |torvado
@@ -8356,6 +8362,7 @@
 |traquina
 |trash
 |trasmontano
+|travancinhense
 |travequeiro
 |trecado
 |trecentista
@@ -8559,6 +8566,7 @@
 |uruçuquense
 |urzelinense
 |usbequistanês
+|usseirense
 |usuário
 |utente
 |uteromaníaco
