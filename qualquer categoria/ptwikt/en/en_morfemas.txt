@@ -326,6 +326,7 @@ entomo-
 entre-
 epi-
 equi-
+es-
 etno-
 euro-
 ex-

@@ -87,6 +87,7 @@ Malachias
 Marathona
 Março
 Nabuchodonosor
+Nictheroy
 Novembro
 Occidente
 Odysseu
@@ -229,6 +230,7 @@ amygdala
 analysta
 ancora
 annal
+annel
 anno
 annuncio
 anteacto
@@ -256,9 +258,12 @@ aspero
 assedio
 assignalar
 assignar
+assucar
 assumpto
 assumpção
 assyriologia
+atmosphera
+atmospherico
 atravez
 attacar
 attentar
@@ -339,6 +344,7 @@ chirurgião
 chirúrgico
 christão
 chrónica
+circumstancia
 circunspecção
 ciumes
 co-adopção
@@ -364,6 +370,8 @@ cometter
 commeter
 commetter
 commigo
+commoção
+commum
 communa
 communicado
 communicar
@@ -372,6 +380,7 @@ communidade
 comprehender
 comquanto
 comsigo
+comtanto
 condemnado
 conductivo
 conductor
@@ -393,6 +402,8 @@ correctivo
 correcto
 corrector
 correcção
+creador
+creatura
 cyclo
 cyclope
 cynica
@@ -456,6 +467,7 @@ difficuldade
 diffusamente
 diffuso
 diffusão
+dignissimo
 diphthongo
 direccional
 direccionar
@@ -483,8 +495,10 @@ effectivar
 effectivação
 effectivo
 effectuar
+effeito
 efficaz
 egreja
+egual
 egypcio
 ejectar
 ejecção
@@ -557,7 +571,9 @@ ethmoide
 etymologia
 eucalypto
 eurocepticismo
+evangelico
 exactamente
+exactidão
 exacto
 excellencia
 excellente
@@ -575,6 +591,9 @@ extractar
 extracto
 extracção
 extrahir
+extrangeiro
+extranhar
+extranho
 factor
 factorial
 factorizar
@@ -591,6 +610,8 @@ fraccionamento
 fractura
 fracturar
 fracção
+francez
+franceza
 frequencia
 fructo
 funccionalidade
@@ -641,6 +662,8 @@ inactivar
 inactivação
 inactividade
 inacção
+inclue
+inclues
 incorrectamente
 incorrecto
 indifferente
@@ -653,9 +676,12 @@ influencia
 infortunio
 infractor
 infracção
+inglez
+ingleza
 inhabil
 inherencia
 inhumano
+inicio
 injectar
 injectividade
 injectivo
@@ -682,10 +708,12 @@ interacção nuclear fraca
 introjectar
 introjecção
 iris
+irreconciliavel
 isempto
 isomorphismo
 itinerario
 jacto
+janella
 juizo
 juncção
 lagryma
@@ -794,6 +822,7 @@ optimização
 optimo
 ordinario
 orthographia
+outomno
 pae
 panno
 parabens
@@ -856,6 +885,7 @@ producto
 productor
 producção
 producção em massa
+programma
 prohibido
 prohibir
 prohibição
@@ -939,6 +969,7 @@ scientifico
 scientista
 scintillar
 scisão
+seculo
 seleccionado
 seleccionador
 seleccionar

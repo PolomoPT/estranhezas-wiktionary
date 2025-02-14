@@ -94,7 +94,6 @@ abespinhar
 abestalhar
 abestiar
 abetumar
-abezerrar
 abicar
 abichar
 abichornar
@@ -1646,6 +1645,7 @@ barquejar
 barranhar
 barrar
 barricar
+barrir
 barroar
 barrotar
 barrotear
@@ -2312,6 +2312,7 @@ coligar
 coligir
 colimar
 colinear
+collocar
 colmar
 colmatar
 colocar
@@ -3360,6 +3361,7 @@ desmoralizar
 desmoronar
 desmotivar
 desmunhecar
+desnacionalizar
 desnatar
 desnaturalizar
 desnaturar
@@ -4291,6 +4293,7 @@ escandir
 escanear
 escanerizar
 escangalhar
+escanhoar
 escapar
 escapar fedendo
 escapulir
@@ -4363,6 +4366,8 @@ esculachar
 esculcar
 esculhambar
 esculpir
+escultar
+esculturar
 escumar
 escupir
 escurecer
@@ -6887,6 +6892,7 @@ profundar
 prognosticar
 programar
 progredir
+prohibir
 proibir
 projectar
 projetar
@@ -7570,6 +7576,7 @@ sanear
 sanforizar
 sangrar
 sanguificar
+sanscritizar
 santificar
 saponificar
 saquear
@@ -7589,6 +7596,7 @@ saçaricar
 saçarico
 schedular
 secar
+seco
 secularizar
 secundar
 sedar
@@ -8176,6 +8184,7 @@ triscar
 triturar
 trivializar
 troar
+trocadilhar
 trocar
 trolar
 trollar

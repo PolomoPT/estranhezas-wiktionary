@@ -8,6 +8,7 @@
 |3ªp.s.
 |A.
 |A.B.
+|A3ES
 |AA
 |AA.
 |AAA
@@ -85,6 +86,7 @@
 |ANESPO
 |ANOP
 |ANPOC
+|ANPRI
 |ANQEP
 |ANS
 |ANTAQ
@@ -106,11 +108,14 @@
 |APCP
 |APDSI
 |APEC
+|APECA
+|APECE
 |APEE
 |APEF
 |APEGAC
 |APENO
 |APF
+|APFAC
 |APFIPP
 |APH
 |APHP
@@ -237,7 +242,9 @@
 |CMIN
 |CMN
 |CMU
+|CNADS
 |CNC
+|CNCS
 |CNE
 |CNECV
 |CNIACC
@@ -399,6 +406,7 @@
 |FC
 |FCSH
 |FDS
+|FE-AP
 |FEAMP
 |FEB
 |FEC
@@ -406,6 +414,7 @@
 |FEI
 |FEM
 |FEP
+|FEPODABES
 |FESAHT
 |FESAP
 |FF
@@ -462,6 +471,7 @@
 |GQ
 |GRG
 |GTC
+|Gr
 |HBP
 |HBV
 |HCM
@@ -536,9 +546,11 @@
 |IURD
 |IgM
 |Infraero
+|Ing
 |Inmetro
 |Ipatimup
 |Iphan
+|It
 |J
 |JAE
 |JC
@@ -553,6 +565,7 @@
 |LC
 |LCA
 |LCH
+|LCP
 |LCR
 |LDB
 |LDO
@@ -843,6 +856,7 @@
 |SEPLEU
 |SFN
 |SGA
+|SGPCM
 |SGQ
 |SIAC
 |SIBS
@@ -869,6 +883,7 @@
 |SNP
 |SNTCT
 |SPA
+|SPAVC
 |SPC
 |SPDV
 |SPEDM
@@ -892,6 +907,7 @@
 |SUDENE
 |SUNAB
 |Saara
+|Sanscr
 |Senatran
 |TAA
 |TAE
@@ -937,6 +953,7 @@
 |UCC
 |UCCI
 |UCCLA
+|UDS
 |UEO
 |UERJ
 |UFCE
@@ -1005,6 +1022,7 @@
 |cc
 |cel.
 |cf.
+|cll
 |dC
 |dom
 |drª
@@ -1058,5 +1076,6 @@
 |v.t.
 |v.t.d.
 |wysiwyg
+|Ár
 |ã
 |ãã

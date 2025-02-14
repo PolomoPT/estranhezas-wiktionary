@@ -62,7 +62,6 @@
 |abestalhar
 |abestiar
 |abetumar
-|abezerrar
 |abichar
 |abichornar
 |abicorar
@@ -486,7 +485,6 @@
 |amiserar
 |amistar
 |amocar
-|amochar
 |amochilar
 |amodorrar
 |amoedar
@@ -1702,6 +1700,7 @@
 |desmangar
 |desmaranhar
 |desmunhecar
+|desnacionalizar
 |desnatar
 |desnaturalizar
 |desnaturar
@@ -1798,7 +1797,6 @@
 |dormir no Senhor
 |dormir sobre o caso
 |doutorar
-|doxar
 |draivar
 |ebulir
 |ecolocar
@@ -2120,6 +2118,7 @@
 |escanar
 |escanchar
 |escanerizar
+|escanhoar
 |escapar fedendo
 |escaquear
 |escarabanar
@@ -2161,6 +2160,8 @@
 |escuchar
 |escudrinhar
 |esculcar<qq:has gl>
+|escultar
+|esculturar
 |escumar
 |escupir
 |esfaimar
@@ -2601,7 +2602,6 @@
 |gasear
 |gastar o seu latim
 |gatafunhar
-|gatinhar
 |gauderar
 |gauderiar
 |gavear<qq:has gl>
@@ -3567,6 +3567,7 @@
 |saçaricar
 |saçarico
 |schedular
+|seco
 |sementar<qq:has gl>
 |semostrar
 |sencenar

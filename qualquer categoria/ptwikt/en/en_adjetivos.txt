@@ -26,6 +26,7 @@
 5.º
 500.º
 500º
+5ª série
 5º
 6.º
 6º
@@ -974,6 +975,7 @@ alíbil
 alílico
 alípede
 alísio
+alístico
 alóctone
 alógamo
 alógeno
@@ -3152,6 +3154,7 @@ atleticano
 atlântico
 atlético
 atmosférico
+atmospherico
 atonal
 atormentador
 atractivo
@@ -3583,6 +3586,7 @@ boca dura
 bochechudo
 bocudo
 bocó
+boieiro
 bolachudo
 bolado
 bolar
@@ -3830,6 +3834,7 @@ cambaleante
 cambiante
 cambojano
 cambrense
+camelídeo
 camicase
 caminhante
 caminhense
@@ -4528,6 +4533,7 @@ contracíclico
 contraditado
 contradito
 contraditório
+contranatura
 contranatural
 contraprodutivo
 contrastante
@@ -4703,6 +4709,7 @@ criterioso
 crivado
 croata
 crocante
+crocodiliano
 cromatográfico
 cromo
 cromossomático
@@ -4979,6 +4986,7 @@ demenciado
 demente
 demissexual
 demo
+democrata
 democrático
 demodê
 demográfico
@@ -5588,6 +5596,7 @@ egiptológico
 egocêntrico
 egoísta
 egrégio
+egual
 egypcio
 egípcio
 eidético
@@ -5681,6 +5690,7 @@ embaçado
 embebido
 embevecido
 emblemático
+emboaba
 embolorado
 emboscado
 emboscador
@@ -5698,6 +5708,7 @@ emendador
 emendativo
 emendável
 emergente
+emigrês
 eminente
 emissor
 emocionado
@@ -5715,6 +5726,7 @@ empobrecido
 empolado
 empolgado
 empolgante
+empreendedor
 empregado
 empregatício
 empresarial
@@ -6028,6 +6040,7 @@ espeleológico
 espelhante
 esperado
 esperançado
+esperançoso
 espermático
 espertinho
 esperto
@@ -6224,6 +6237,7 @@ europoide
 eurovisivo
 eutético
 eutímico
+evangelico
 evangélico
 evasivo
 eventual
@@ -6313,6 +6327,7 @@ extracontratual
 extrajudicial
 extramundano
 extrangeiro
+extranho
 extraoficial
 extraordinário
 extrassensorial
@@ -7066,6 +7081,7 @@ grávido
 grãde
 grão
 grêgo
+guajajara
 guanabarino
 guapo
 guarani
@@ -8031,6 +8047,7 @@ irlandês
 iroquês
 irracional
 irreal
+irreconciliavel
 irreconciliável
 irreconhecível
 irredutível
@@ -8946,6 +8963,7 @@ mirrado
 mirífico
 misantrópico
 miscível
+miserabilista
 miseravel
 misericordioso
 miserável
@@ -11017,6 +11035,7 @@ resistente
 resistível
 resmungão
 resoluto
+resolvente
 respectivo
 respeitante
 respeitoso
@@ -11699,8 +11718,10 @@ stalinista
 stressado
 stressante
 style
+suado
 suahíli
 suante
+suarento
 suave
 suavizante
 suavíssimo
@@ -11968,6 +11989,7 @@ taquimétrico
 tarado
 tardio
 tardo
+tareco
 tarifário
 tarouquense
 tarsiliano
@@ -12027,6 +12049,7 @@ temático
 temível
 tenaz
 tendencioso
+tenebrista
 tenebroso
 tenor
 tenro
@@ -12339,6 +12362,7 @@ tropical
 tropicalista
 tropológico
 truculento
+trumpista
 truncado
 trácio
 trágico

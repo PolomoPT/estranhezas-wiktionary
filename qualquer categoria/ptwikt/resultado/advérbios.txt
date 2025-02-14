@@ -85,7 +85,6 @@
 |baril
 |beleza
 |benignamente
-|bimensalmente
 |bissexualmente
 |boamente
 |bofá

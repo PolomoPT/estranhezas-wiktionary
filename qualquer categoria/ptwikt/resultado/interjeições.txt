@@ -2,6 +2,7 @@
 |Deus te abençoe
 |Deus é brasileiro
 |Deus é pai, não é padrasto
+|Selá
 |a cobra vai fumar
 |a coisa ficou preta
 |a noite é uma criança
@@ -281,6 +282,7 @@
 |sei não
 |seja
 |selva
+|selá
 |sem dúvida
 |sentido
 |será que

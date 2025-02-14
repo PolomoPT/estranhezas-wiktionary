@@ -29,6 +29,7 @@
 3 João
 3ª pessoa
 4-momento
+5ª série
 7 de Setembro
 9dade
 A
@@ -1452,6 +1453,7 @@ Boeing
 Bofete
 Bogdanov
 Bogotá
+Boieiro
 Bois-le-Duc
 Bois le Duc
 Boituva
@@ -1546,6 +1548,8 @@ Branco
 Brandemburgo
 Brandenburgo
 Brasil
+Brasileiro
+Brasileirão
 Brasilândia de Minas
 Brasilândia do Sul
 Brasília
@@ -1851,6 +1855,7 @@ Campolide
 Campos
 Campos Altos
 Campos Borges
+Campos Elísios
 Campos Gerais
 Campos Novos
 Campos Novos Paulista
@@ -2266,6 +2271,7 @@ Clara
 Claraval
 Claro dos Poções
 Cleber
+Cleide
 Cleiton
 Clemente
 Clementina
@@ -3679,6 +3685,7 @@ Getulina
 Getúlio
 Getúlio Vargas
 Geórgia
+Geóvina
 Gi
 Giannuzzi
 Gibraltar
@@ -5664,6 +5671,7 @@ Martins Soares
 Martinópolis
 Marvão
 Maryland
+Marçal
 Março
 Maré
 Marília
@@ -6178,6 +6186,7 @@ Negueb
 Neguebe
 Neguev
 Nehemias
+Neila
 Nelas
 Nem
 Neotrópico
@@ -6206,6 +6215,7 @@ Niceia
 Nicolau
 Nicolau Vergueiro
 Nicolescu
+Nictheroy
 Niculescu
 Nicéia
 Nicósia
@@ -7800,6 +7810,7 @@ Rothkopf
 Rothschild
 Rothstein
 Rouen
+Rousseau
 Rousseff
 Rovaniemi
 Rovigo
@@ -9512,6 +9523,7 @@ Velas
 Velho Chico
 Velho Mundo
 Velho Oeste
+Velho Testamento
 Veloso
 Venancio
 Venceslau
@@ -9766,6 +9778,7 @@ Xique-Xique
 Xiraz
 Xiva
 Xororó
+Xuxa
 Y
 Yaeko
 Yaguchi
@@ -10012,7 +10025,6 @@ abeto
 abeto-de-Douglas
 abeto-de-douglas
 abeto-vermelho
-abeto Douglas
 abeto de Douglas
 abeto vermelho
 abetouro
@@ -11356,6 +11368,8 @@ airela
 airo
 aiveca
 aião
+aió
+ajeum
 ajmalicina
 ajmalina
 ajuda
@@ -12201,6 +12215,8 @@ alêm
 alínea
 alíquota
 alísio
+alística
+alístico
 alívio
 alívio cómico
 alívio cômico
@@ -12757,6 +12773,7 @@ anamnésia
 anamorfismo
 anamorfo
 anamorfose
+ananaseiro
 anandamida
 ananke
 ananás
@@ -13243,6 +13260,7 @@ ankerita
 ankh
 anlodipina
 annal
+annel
 anno
 annuncio
 annus horribilis
@@ -15397,6 +15415,7 @@ assopro
 assoreamento
 assovio
 assuada
+assucar
 assumpto
 assumpção
 assunto
@@ -15525,6 +15544,7 @@ atleticano
 atletismo
 atmosfera
 atmosfera física
+atmosphera
 ato
 ato falho
 ato infracional
@@ -15783,6 +15803,7 @@ avelã
 avelãzeira
 avenida
 avental
+aventalzinho
 aventesma
 aventura
 aventurança
@@ -16556,6 +16577,9 @@ baú
 beagle
 beata
 beatbox
+beatlemaníaca
+beatlemaníaco
+beatlômano
 beatnik
 beato
 bebedeira
@@ -16836,6 +16860,7 @@ bicha-galo
 bicha-solitária
 bichano
 bichectomia
+bicheiro
 bichim
 bichinho
 bicho
@@ -17232,12 +17257,14 @@ boiadeira
 boiadeiro
 boiardo
 boicote
+boieira
 boieiro
 boina
 boiola
 boipeva
 boitatá
 boiz
+boião
 bojarda
 bojo
 bokmal
@@ -17967,6 +17994,7 @@ bósnia
 bósnio
 bóson
 bóson de Higgs
+bôca
 bôer
 bôlo
 bônus
@@ -18339,6 +18367,7 @@ calcinação
 calcinha
 calcita
 calciúria
+calco
 calcogénio
 calcogênio
 calcopirita
@@ -18412,6 +18441,7 @@ calote
 caloteiro
 caloura
 calouro
+calque
 calumnia
 caluniador
 calvice
@@ -18489,6 +18519,7 @@ camela
 camelinho
 camelo
 camelo bactriano
+camelídeo
 camelódromo
 camelô
 camembert
@@ -19435,6 +19466,7 @@ catéter
 catódio
 católico
 católico romano
+cauboiada
 caubói
 caucasiana
 caucasiano
@@ -19907,6 +19939,7 @@ charro
 charrua
 charuto
 charácter
+charão
 chasco
 chassi
 chassis
@@ -20601,6 +20634,7 @@ cleptocracia
 cleptocrata
 cleptomania
 cleptomaníaco
+cleptoparasitismo
 clero
 clichê
 cliente
@@ -20696,6 +20730,7 @@ cobertor
 cobertura
 cobertura de risco
 cobiça
+coboiada
 cobra
 cobra-capelo
 cobra-coral
@@ -21032,6 +21067,7 @@ commercio
 commeço
 commodity
 common law
+commoção
 communa
 communicado
 communicação
@@ -21676,10 +21712,12 @@ copo
 copo-de-leite
 copo americano
 copra
+coprocessador
 coprofilia
 coprolalia
 copropraxia
 copta
+copyleft
 copyright
 copázio
 coque
@@ -21976,6 +22014,7 @@ couteiro
 couto
 couve
 couve-chinesa
+couve-coração
 couve-coração-de-boi
 couve-de-bruxelas
 couve-de-folhas
@@ -22233,6 +22272,7 @@ crochet
 croché
 crochê
 croco
+crocodiliano
 crocodilo
 crocoíta
 crocância
@@ -23486,6 +23526,7 @@ destampatório
 destaque
 destemor
 destempero
+desterritorialização
 desterro
 destilado
 destilação
@@ -23502,6 +23543,7 @@ destro
 destroço
 destroços
 destruidor
+destruidora
 destruiçaõ
 destruição
 destrutividade
@@ -24253,6 +24295,7 @@ doutorzinho
 doutrina
 doutrinação
 download
+dox
 doxologia
 doze
 doze trabalhos de Hércules
@@ -24764,6 +24807,7 @@ emberiza
 embigo
 embirração
 emblema
+emboaba
 embocadura
 embolia
 embondeiro
@@ -24795,6 +24839,7 @@ ementa
 emergencista
 emergente
 emergência
+emigra
 emigrante
 emigração
 emigrês
@@ -24802,6 +24847,7 @@ eminência
 eminência parda
 emir
 emirado
+emirato
 emissividade
 emissor
 emissor alfa
@@ -25035,6 +25081,7 @@ engenho
 engenho de açúcar
 engenhoca
 engenhosidade
+engine
 engodo
 engorda
 engorgitamento
@@ -25300,6 +25347,7 @@ equipe
 equipendência
 equitação
 equivalência
+equê
 equívoco
 era
 era apostólica
@@ -25605,6 +25653,7 @@ esgrafito
 esgrima
 esguelha
 esguicho
+esgôto
 eslavismo
 eslavo
 eslavo comum
@@ -25727,6 +25776,7 @@ esperanto
 esperantólogo
 esperança
 esperança de vida
+esperinha
 esperma
 espermatozoide
 espermatozóide
@@ -25853,6 +25903,8 @@ espírito faminto
 espírito áspero
 espólio
 espório
+espôsa
+espôso
 esquadra
 esquadro
 esquadrão
@@ -26369,6 +26421,8 @@ eutimia
 euxenita
 evacuação
 evangelho
+evangelica
+evangelico
 evangélica
 evangélico
 evanjegue
@@ -26548,6 +26602,8 @@ extracto
 extracção
 extradição
 extrangeiro
+extranha
+extranho
 extrapolação
 extraterrestre
 extraterritorialidade
@@ -26947,6 +27003,7 @@ felicidade
 felicitação
 felino
 felizardo
+felizes para sempre
 felizão
 felonia
 felosa
@@ -27609,6 +27666,7 @@ fornecedora
 fornecimento
 fornense
 fornicação
+fornitura
 forno
 forno de micro-ondas
 forno de microondas
@@ -27718,6 +27776,7 @@ francesa
 francesidade
 francesinha
 francez
+franceza
 franchise
 franchising
 franciscano
@@ -28487,6 +28546,7 @@ gaveteira
 gaveteiro
 gavetinha
 gaveto
+gavial
 gaviaõ
 gavinha
 gavião
@@ -29257,6 +29317,7 @@ guaguaçu
 guaguaçú
 guaiamu
 guaiamum
+guajajara
 guaju-guaju
 gualdipério
 guanabarino
@@ -30029,6 +30090,7 @@ homem do fogo
 homem do mundo
 homem doente da Europa
 homem dos sete ofícios
+homem federal
 homenagem
 homenzarrão
 homenzinho
@@ -30558,6 +30620,7 @@ incendiário
 incenso
 incensário
 incensório
+incentivo
 incerteza
 incesto
 inchaço
@@ -30768,6 +30831,7 @@ ingestão
 inglesa
 inglesismo
 inglez
+ingleza
 inglês
 inglês americano
 inglês antigo
@@ -30799,6 +30863,7 @@ inicialização
 iniciante
 iniciativa
 iniciação
+inicio
 inimiga
 inimigo
 inimizade
@@ -32958,6 +33023,7 @@ líquido
 líquido amniótico
 lírica
 lírio
+lírio-da-paz
 lírio-do-amazonas
 lírio-do-mar
 lírio-do-vale
@@ -34627,6 +34693,8 @@ miscelânea
 miscigenação
 mise-en-scène
 mise en scène
+miserabilismo
+miserabilista
 miseravel
 miseria
 misericordia
@@ -34743,6 +34811,7 @@ modernismo
 modernização
 modificador
 modificação
+modilhão
 modinha
 modo
 modo avião
@@ -36260,6 +36329,7 @@ número da besta
 número de Avogadro
 número de Erdös
 número de Mach
+número de Neper
 número de Reynolds
 número de série
 número de telefone
@@ -36854,6 +36924,7 @@ ostrogodo
 ostíaco
 otaku
 otalgia
+otim
 otimismo
 otimista
 otimização
@@ -36892,6 +36963,7 @@ outeiro
 outeyro
 outfit
 outlet
+outomno
 outono
 outorga
 outra história
@@ -36919,6 +36991,7 @@ ovelhinha
 overdose
 overflow
 oviduto
+ovinho
 ovni
 ovnilogia
 ovo
@@ -36931,6 +37004,7 @@ ovoide
 ovos mexidos
 ovulação
 ovário
+ovão
 ovócito
 ovóide
 oxicloreto
@@ -38480,8 +38554,8 @@ piaçava
 piaçá
 pica
 pica-pau
-pica-pau malhado grande
-pica-pau malhado pequeno
+pica-pau-malhado-grande
+pica-pau-malhado-pequeno
 pica-peixe
 pica das galáxias
 picada
@@ -39346,6 +39420,7 @@ porta-joias
 porta-jóias
 porta-luvas
 porta-malas
+porta-retratos
 porta-rolos
 porta-voz
 porta USB
@@ -39597,6 +39672,7 @@ pregador
 pregadora
 prego
 prego no caixão
+preguicinha
 preguicite
 preguiça
 pregunta
@@ -39897,6 +39973,7 @@ programador
 programadora
 programação
 programação orientada a objetos
+programma
 progressismo
 progressista
 progressiva
@@ -42819,6 +42896,7 @@ secretário-geral
 secreção
 sector
 secularização
+seculo
 secundinas
 secundária
 secundário
@@ -43390,6 +43468,7 @@ sinal de mais
 sinal de menos
 sinal de pontuação
 sinal de trânsito
+sinal do Ronaldinho
 sinal verde
 sinaleiro
 sinalizador
@@ -44971,6 +45050,8 @@ tendinite
 tendão
 tendão de Aquiles
 tendência
+tenebrismo
+tenebrista
 tenebrião
 tenente
 tenente-coronel
@@ -46164,6 +46245,8 @@ truco
 truculência
 trufa
 truita
+trumpismo
+trumpista
 trunfa
 trunfo
 trupe
@@ -46312,6 +46395,7 @@ turbulência
 turca
 turco
 turco otomano
+turcologia
 turcomano
 turcomeno
 turfa
@@ -48200,6 +48284,7 @@ zôo
 Óscar
 Última Ceia
 Úmbria
+Úrano
 Úrsula
 à la minuta
 àrvorezinha

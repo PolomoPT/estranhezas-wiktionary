@@ -38,6 +38,7 @@
 |essoutro
 |essoutros
 |esto
+|ilu
 |inúmeros
 |le
 |lhufas

@@ -562,13 +562,18 @@ biblicamente
 bibliograficamente
 bienalmente
 bilateralmente
+bimensalmente
 bimestralmente
 biogeograficamente
 biologicamente
 bis
 bissemanalmente
 blz
+boemiamente
 bonito
+boèmiamente
+boémiamente
+boêmiamente
 brandamente
 braçalmente
 brevemente
@@ -1196,6 +1201,7 @@ faça chuva ou faça sol
 faça favor
 feio
 feito
+felizes para sempre
 felizmente
 fenomenalmente
 fenomenologicamente
@@ -1420,8 +1426,12 @@ infernalmente
 infinitamente
 inflexivelmente
 informalmente
+ingenuamente
 inglesamente
 inglesmente
+ingènuamente
+ingénuamente
+ingênuamente
 inicialmente
 inimaginavelmente
 ininterruptamente

@@ -42,8 +42,10 @@
 -edos
 -ei
 -eiras
+-eiros
 -eis
 -emos
+-enses
 -esa
 -esas
 -eses
@@ -68,6 +70,7 @@
 -inhos
 -io
 -ismos
+-istas
 -itas
 -itos
 -iva
@@ -177,6 +180,7 @@ Big Macs
 Boches
 Brasis
 Brunos
+CCs
 CDCs
 CEPs
 CICs
@@ -2126,6 +2130,7 @@ abestados
 abetardas
 abetos
 abetos-de-Douglas
+abetos-de-douglas
 abetos vermelhos
 abetouros
 abezerrada
@@ -6263,6 +6268,7 @@ acentos agudos
 acentos agudos duplos
 acentos circunflexos
 acentos diacríticos
+acentos graves
 acentua
 acentuada
 acentuadas
@@ -17147,6 +17153,7 @@ airáveis
 aistórica
 aistóricas
 aistóricos
+aiós
 aiões
 aja
 ajais
@@ -17473,6 +17480,7 @@ ajuíze
 ajuízem
 ajuízes
 ajuízo
+akitas
 akrobatas
 aksumitas
 ala
@@ -18705,6 +18713,8 @@ alcáçares
 alcáçovas
 aldeamentos
 aldeias
+aldeolas
+aldeotas
 aldeães
 aldeãos
 aldeãs
@@ -22767,6 +22777,9 @@ alípedes
 alísia
 alísias
 alísios
+alística
+alísticas
+alísticos
 alívios
 alívios cómicos
 alívios cômicos
@@ -26284,6 +26297,7 @@ amuásseis
 amuássemos
 amuávamos
 amuáveis
+amygdalas
 amácrina
 amácrinas
 amácrinos
@@ -26802,6 +26816,7 @@ anamorfos
 anamórfica
 anamórficas
 anamórficos
+ananaseiros
 ananases
 anapestos
 anaplerótica
@@ -28634,6 +28649,7 @@ anjos
 anjos da guarda
 anjos da morte
 anjos de neve
+anneis
 annos
 annuncios
 anococcígea
@@ -30490,6 +30506,7 @@ antinarcótica
 antinarcóticas
 antinarcóticos
 antinativistas
+antinaturais
 antinaturalistas
 antinauseantes
 antinefrítica
@@ -32061,7 +32078,6 @@ apaixonais
 apaixonam
 apaixonamos
 apaixonando
-apaixonar-se
 apaixonara
 apaixonaram
 apaixonaras
@@ -44577,6 +44593,7 @@ assoviássemos
 assoviávamos
 assoviáveis
 assuadas
+assucares
 assuma
 assumais
 assumam
@@ -46386,6 +46403,10 @@ atmosferas
 atmosférica
 atmosféricas
 atmosféricos
+atmospheras
+atmospherica
+atmosphericas
+atmosphericos
 ato
 atoardas
 atocha
@@ -46548,6 +46569,7 @@ atomizásseis
 atomizássemos
 atomizávamos
 atomizáveis
+atonais
 atope
 atopem
 atopes
@@ -49501,6 +49523,7 @@ aventais
 aventalada
 aventaladas
 aventalados
+aventalzinhos
 aventam
 aventamos
 aventando
@@ -54746,6 +54769,8 @@ beatifiqueis
 beatifiquem
 beatifiquemos
 beatifiques
+beatlemaníacas
+beatlemaníacos
 beba
 bebais
 bebam
@@ -57343,6 +57368,7 @@ bobos
 bobos da corte
 bobós
 bobões
+boca
 bocadas
 bocadinhos
 bocados
@@ -57568,6 +57594,7 @@ boicotávamos
 boicotáveis
 boie
 boiei
+boieira
 boieis
 boiem
 boiemos
@@ -57590,6 +57617,7 @@ boiásseis
 boiássemos
 boiávamos
 boiáveis
+boiões
 boja
 bojada
 bojadas
@@ -60859,6 +60887,7 @@ bósnias
 bósnios
 bósons
 bósons de Higgs
+bôcas
 bôrdos
 bôta
 bôtas
@@ -63137,6 +63166,7 @@ camisas-de-vênus
 camisas-marrons
 camisas-pardas
 camisas de força
+camisas de vênus
 camisinhas
 camisolas
 camisolas interiores
@@ -67003,6 +67033,7 @@ católicas
 católicas romanas
 católicos
 católicos romanos
+cauboiadas
 caubóis
 caucasiana
 caucasianas
@@ -72542,6 +72573,7 @@ circum-navegávamos
 circum-navegáveis
 circumpolares
 circumstancia
+circumstancias
 circuncida
 circuncidada
 circuncidadas
@@ -74425,6 +74457,7 @@ cobiçásseis
 cobiçássemos
 cobiçávamos
 cobiçáveis
+coboiadas
 cobra
 cobrada
 cobradas
@@ -77904,6 +77937,7 @@ commeçásseis
 commeçássemos
 commeçávamos
 commeçáveis
+commoções
 communas
 communica
 communicada
@@ -78335,6 +78369,7 @@ compartilhássemos
 compartilhávamos
 compartilháveis
 compartimentos
+comparto
 comparámos
 comparáramos
 comparáreis
@@ -81860,7 +81895,6 @@ conformais
 conformam
 conformamos
 conformando
-conformar-se
 conformara
 conformaram
 conformaras
@@ -85558,6 +85592,8 @@ contraltos
 contramedidas
 contramestras
 contramestres
+contranaturais
+contranaturas
 contraofensivas
 contrapartes
 contrapartidas
@@ -86822,7 +86858,6 @@ convulsionais
 convulsionam
 convulsionamos
 convulsionando
-convulsionar-se
 convulsionara
 convulsionaram
 convulsionaras
@@ -87125,6 +87160,7 @@ copos americanos
 coprima
 coprimas
 coprimos
+coprocessadores
 coprolalias
 coptas
 copula
@@ -88781,7 +88817,9 @@ cousinhas
 couteiros
 coutos
 couves
+couves-coração
 couves-coração-de-boi
+couves-corações
 couves-corações-de-boi
 couves-de-bruxelas
 couves-de-folhas
@@ -89226,6 +89264,8 @@ cravásseis
 cravássemos
 cravávamos
 craváveis
+creadores
+creaturas
 crece
 crecei
 creceis
@@ -90983,7 +91023,6 @@ cuidais
 cuidam
 cuidamos
 cuidando
-cuidar-se
 cuidara
 cuidaram
 cuidaras
@@ -93454,7 +93493,6 @@ debateis
 debatem
 debatemos
 debatendo
-debater-se
 debatera
 debateram
 debateras
@@ -94839,7 +94877,6 @@ decomponhamos
 decomponhas
 decomponho
 decomponíveis
-decompor-se
 decompordes
 decomporei
 decomporeis
@@ -96741,7 +96778,6 @@ deitais
 deitam
 deitamos
 deitando
-deitar-se
 deitara
 deitaram
 deitaras
@@ -97551,7 +97587,6 @@ demitido
 demitidos
 demitimos
 demitindo
-demitir-se
 demitira
 demitiram
 demitiras
@@ -106764,7 +106799,6 @@ desculpam
 desculpamos
 desculpando
 desculpantes
-desculpar-se
 desculpara
 desculparam
 desculparas
@@ -109141,7 +109175,6 @@ desenvolveis
 desenvolvem
 desenvolvemos
 desenvolvendo
-desenvolver-se
 desenvolvera
 desenvolveram
 desenvolveras
@@ -114513,7 +114546,6 @@ despedido
 despedidos
 despedimos
 despedindo
-despedir-se
 despedira
 despediram
 despediras
@@ -115538,6 +115570,58 @@ despregueis
 despreguem
 despreguemos
 despregues
+despreguice
+despreguicei
+despreguiceis
+despreguicem
+despreguicemos
+despreguices
+despreguiça
+despreguiçada
+despreguiçadas
+despreguiçado
+despreguiçados
+despreguiçai
+despreguiçais
+despreguiçam
+despreguiçamos
+despreguiçando
+despreguiçara
+despreguiçaram
+despreguiçaras
+despreguiçardes
+despreguiçarei
+despreguiçareis
+despreguiçarem
+despreguiçaremos
+despreguiçares
+despreguiçaria
+despreguiçariam
+despreguiçarias
+despreguiçarmos
+despreguiçará
+despreguiçarás
+despreguiçarão
+despreguiçaríamos
+despreguiçaríeis
+despreguiças
+despreguiçasse
+despreguiçassem
+despreguiçasses
+despreguiçaste
+despreguiçastes
+despreguiçava
+despreguiçavam
+despreguiçavas
+despreguiço
+despreguiçou
+despreguiçámos
+despreguiçáramos
+despreguiçáreis
+despreguiçásseis
+despreguiçássemos
+despreguiçávamos
+despreguiçáveis
 despregámos
 despregáramos
 despregáreis
@@ -116426,7 +116510,6 @@ destacais
 destacam
 destacamos
 destacando
-destacar-se
 destacara
 destacaram
 destacaras
@@ -117268,6 +117351,8 @@ destruamos
 destruas
 destruem
 destrui
+destruidora
+destruidoras
 destruidores
 destruindo
 destruirdes
@@ -120199,6 +120284,8 @@ dignifiqueis
 dignifiquem
 dignifiquemos
 dignifiques
+dignissima
+dignissimas
 digno
 dignos
 dignou
@@ -120904,7 +120991,6 @@ dirigido
 dirigidos
 dirigimos
 dirigindo
-dirigir-se
 dirigira
 dirigiram
 dirigiras
@@ -123057,7 +123143,6 @@ divertidos
 divertimentos
 divertimos
 divertindo
-divertir-se
 divertira
 divertiram
 divertiras
@@ -123277,7 +123362,6 @@ divorciais
 divorciam
 divorciamos
 divorciando
-divorciar-se
 divorciara
 divorciaram
 divorciaras
@@ -123537,7 +123621,6 @@ dobrais
 dobram
 dobramos
 dobrando
-dobrar-se
 dobrara
 dobraram
 dobraras
@@ -126297,6 +126380,7 @@ egrejas
 egrégia
 egrégias
 egrégios
+eguaes
 egypcia
 egypcias
 egypcios
@@ -127213,7 +127297,6 @@ elevais
 elevam
 elevamos
 elevando
-elevar-se
 elevara
 elevaram
 elevaras
@@ -129116,6 +129199,7 @@ embirrássemos
 embirrávamos
 embirráveis
 emblemas
+emboabas
 embocaduras
 embola
 embolado
@@ -131948,7 +132032,6 @@ empoleirais
 empoleiram
 empoleiramos
 empoleirando
-empoleirar-se
 empoleirara
 empoleiraram
 empoleiraras
@@ -132786,7 +132869,6 @@ enamorais
 enamoram
 enamoramos
 enamorando
-enamorar-se
 enamorara
 enamoraram
 enamoraras
@@ -133550,7 +133632,6 @@ encaminhais
 encaminham
 encaminhamos
 encaminhando
-encaminhar-se
 encaminhara
 encaminharam
 encaminharas
@@ -136451,7 +136532,6 @@ endireitais
 endireitam
 endireitamos
 endireitando
-endireitar-se
 endireitara
 endireitaram
 endireitaras
@@ -138397,7 +138477,6 @@ enganais
 enganam
 enganamos
 enganando
-enganar-se
 enganara
 enganaram
 enganaras
@@ -140815,7 +140894,6 @@ enrolais
 enrolam
 enrolamos
 enrolando
-enrolar-se
 enrolara
 enrolaram
 enrolaras
@@ -142924,7 +143002,6 @@ entregais
 entregam
 entregamos
 entregando
-entregar-se
 entregara
 entregaram
 entregaras
@@ -143147,7 +143224,6 @@ entreolhais
 entreolham
 entreolhamos
 entreolhando
-entreolhar-se
 entreolhara
 entreolharam
 entreolharas
@@ -143732,7 +143808,6 @@ entupido
 entupidos
 entupimos
 entupindo
-entupir-se
 entupira
 entupiram
 entupiras
@@ -145230,7 +145305,6 @@ equivocais
 equivocam
 equivocamos
 equivocando
-equivocar-se
 equivocara
 equivocaram
 equivocaras
@@ -145273,6 +145347,7 @@ equivoqueis
 equivoquem
 equivoquemos
 equivoques
+equês
 equívoca
 equívocas
 equívocos
@@ -150014,7 +150089,6 @@ esforçais
 esforçam
 esforçamos
 esforçando
-esforçar-se
 esforçara
 esforçaram
 esforçaras
@@ -152414,6 +152488,9 @@ esperançado
 esperançadora
 esperançados
 esperanças
+esperançosa
+esperançosas
+esperançosos
 esperara
 esperaram
 esperaras
@@ -152448,6 +152525,7 @@ espereis
 esperem
 esperemos
 esperes
+esperinhas
 espermas
 espermatozoides
 espermatozóides
@@ -153480,6 +153558,7 @@ esporrem
 esporremos
 esporres
 esporro
+esporros
 esporrou
 esporrámos
 esporráramos
@@ -153624,7 +153703,6 @@ espreguiçais
 espreguiçam
 espreguiçamos
 espreguiçando
-espreguiçar-se
 espreguiçara
 espreguiçaram
 espreguiçaras
@@ -153837,6 +153915,7 @@ espíritos famintos
 espíritos ásperos
 espólios
 espórios
+espôsas
 espúria
 espúrias
 espúrios
@@ -157337,7 +157416,6 @@ estreitais
 estreitam
 estreitamos
 estreitando
-estreitar-se
 estreitara
 estreitaram
 estreitaras
@@ -159273,6 +159351,9 @@ evadíreis
 evadísseis
 evadíssemos
 evangelhos
+evangelica
+evangelicas
+evangelicos
 evangeliza
 evangelizada
 evangelizadas
@@ -161348,7 +161429,6 @@ exibido
 exibidos
 exibimos
 exibindo
-exibir-se
 exibira
 exibiram
 exibiras
@@ -163875,6 +163955,59 @@ extramundanos
 extrangeira
 extrangeiras
 extrangeiros
+extranha
+extranhada
+extranhadas
+extranhado
+extranhados
+extranhai
+extranhais
+extranham
+extranhamos
+extranhando
+extranhara
+extranharam
+extranharas
+extranhardes
+extranharei
+extranhareis
+extranharem
+extranharemos
+extranhares
+extranharia
+extranhariam
+extranharias
+extranharmos
+extranhará
+extranharás
+extranharão
+extranharíamos
+extranharíeis
+extranhas
+extranhasse
+extranhassem
+extranhasses
+extranhaste
+extranhastes
+extranhava
+extranhavam
+extranhavas
+extranhe
+extranhei
+extranheis
+extranhem
+extranhemos
+extranhes
+extranho
+extranhos
+extranhou
+extranhámos
+extranháramos
+extranháreis
+extranhásseis
+extranhássemos
+extranhávamos
+extranháveis
 extraoficiais
 extraordinária
 extraordinárias
@@ -166835,7 +166968,6 @@ fazendo
 fazendária
 fazendárias
 fazendários
-fazer-se
 fazerdes
 fazerem
 fazeres
@@ -172893,6 +173025,9 @@ francesa
 francesas
 franceses
 francesinhas
+franceza
+francezas
+francezes
 franciscana
 franciscanas
 franciscanos
@@ -175810,6 +175945,7 @@ fórmicas
 fórmicos
 fórmulas
 fórmulas químicas
+fórmulas resolventes
 fóruns
 fósforos
 fósseis
@@ -177498,7 +177634,9 @@ gatemos
 gates
 gatices
 gatilhos
+gatinha
 gatinhas
+gatinho
 gatinhos
 gatis
 gato
@@ -185241,6 +185379,7 @@ homens de palha
 homens do mundo
 homens doentes da Europa
 homens dos sete ofícios
+homens federais
 homenzarrões
 homenzinhos
 homenzões
@@ -188677,7 +188816,6 @@ importantess
 importantíssima
 importantíssimas
 importantíssimos
-importar-se
 importara
 importaram
 importaras
@@ -190065,6 +190203,7 @@ incentivem
 incentivemos
 incentives
 incentivo
+incentivos
 incentivou
 incentivámos
 incentiváramos
@@ -190369,7 +190508,6 @@ inclinais
 inclinam
 inclinamos
 inclinando
-inclinar-se
 inclinara
 inclinaram
 inclinaras
@@ -195612,7 +195750,6 @@ insumos
 insuperáveis
 insuportáveis
 insurgentes
-insurgir-se
 insurgências
 insurrecta
 insurrectas
@@ -197774,7 +197911,6 @@ intrometeis
 intrometem
 intrometemos
 intrometendo
-intrometer-se
 intrometera
 intrometeram
 intrometeras
@@ -198856,7 +198992,6 @@ ipsilões
 ipês
 iquebanas
 ir-
-ir-se
 ira
 irada
 iradas
@@ -199083,6 +199218,7 @@ irradiássemos
 irradiávamos
 irradiáveis
 irreais
+irreconciliaveis
 irreconciliáveis
 irreconhecíveis
 irredutíveis
@@ -199186,7 +199322,6 @@ irritais
 irritam
 irritamos
 irritando
-irritar-se
 irritara
 irritaram
 irritaras
@@ -199845,7 +199980,6 @@ jactanciosa
 jactanciosas
 jactanciosos
 jactando
-jactar-se
 jactara
 jactaram
 jactaras
@@ -201087,7 +201221,6 @@ juntais
 juntam
 juntamos
 juntando
-juntar-se
 juntara
 juntaram
 juntaras
@@ -204439,7 +204572,6 @@ lembrancinhas
 lembrando
 lembranzas
 lembranças
-lembrar-se
 lembrara
 lembraram
 lembraras
@@ -204495,6 +204627,7 @@ lenga-lengas
 lengalengas
 lenhadores
 lenhas
+lenhos
 lenhosa
 lenhosas
 lenhosos
@@ -204549,7 +204682,6 @@ leptônicos
 leptões
 lepídios
 leques
-ler-se
 lera
 leram
 leras
@@ -205790,6 +205922,7 @@ linguagens de computador
 linguagens de marcação
 linguagens de programação
 linguagens de sinais
+linguagens gestuais
 linguais
 linguaja
 linguajado
@@ -206818,7 +206951,6 @@ localizais
 localizam
 localizamos
 localizando
-localizar-se
 localizara
 localizaram
 localizaras
@@ -208202,6 +208334,7 @@ lírica
 líricas
 líricos
 lírios
+lírios-da-paz
 lírios brancos
 lítios
 lívida
@@ -210986,7 +211119,6 @@ mantenham
 mantenhamos
 mantenhas
 mantenho
-manter-se
 manterdes
 manterei
 mantereis
@@ -215889,7 +216021,6 @@ mexeis
 mexem
 mexemos
 mexendo
-mexer-se
 mexera
 mexeram
 mexeras
@@ -216272,7 +216403,6 @@ mijais
 mijam
 mijamos
 mijando
-mijar-se
 mijara
 mijaram
 mijaras
@@ -217406,7 +217536,9 @@ miscrássemos
 miscrávamos
 miscráveis
 miscíveis
+miserabilismos
 miserabilissimamente
+miserabilistas
 miseraveis
 misericordias
 misericordiosa
@@ -218424,6 +218556,7 @@ modifiqueis
 modifiquem
 modifiquemos
 modifiques
+modilhões
 modinhas
 modorrenta
 modorrentas
@@ -220265,7 +220398,6 @@ mostrais
 mostram
 mostramos
 mostrando
-mostrar-se
 mostrara
 mostraram
 mostraras
@@ -220430,6 +220562,7 @@ motociclistas
 motonetas
 motoneves
 motoqueiras
+motoqueiros
 motor homes
 motora
 motoras
@@ -220954,6 +221087,7 @@ multásseis
 multássemos
 multávamos
 multáveis
+mulás
 mulés
 mumifica
 mumificada
@@ -222891,6 +223025,7 @@ negociais
 negociam
 negociamos
 negociando
+negociantes
 negociara
 negociaram
 negociaras
@@ -228540,7 +228675,6 @@ orgulham
 orgulhamos
 orgulhando
 orgulhantes
-orgulhar-se
 orgulhara
 orgulharam
 orgulharas
@@ -229573,6 +229707,7 @@ otimizásseis
 otimizássemos
 otimizávamos
 otimizáveis
+otins
 otológica
 otológicas
 otológicos
@@ -229704,6 +229839,7 @@ ousáveis
 outdoors
 outeiros
 outeyros
+outomnos
 outonais
 outonos
 outorga
@@ -229919,6 +230055,7 @@ oves
 ovidutos
 ovina
 ovinas
+ovinhos
 ovinos
 ovo
 ovoides
@@ -229991,6 +230128,7 @@ ovássemos
 ovávamos
 ováveis
 ovóides
+ovões
 oxicloretos
 oxida
 oxidada
@@ -233406,6 +233544,7 @@ pasmávamos
 pasmáveis
 paspalhos
 passa
+passabilidades
 passada
 passadas
 passadios
@@ -236333,7 +236472,6 @@ perdem
 perdemos
 perdendo
 perdeo
-perder-se
 perdera
 perderam
 perderas
@@ -236965,7 +237103,6 @@ perguntais
 perguntam
 perguntamos
 perguntando
-perguntar-se
 perguntara
 perguntaram
 perguntaras
@@ -237873,7 +238010,6 @@ persignais
 persignam
 persignamos
 persignando
-persignar-se
 persignara
 persignaram
 persignaras
@@ -245188,6 +245324,7 @@ pregueis
 preguem
 preguemos
 pregues
+preguicinhas
 preguiças
 preguiçosa
 preguiçosas
@@ -245770,7 +245907,6 @@ preocupam
 preocupamos
 preocupando
 preocupantes
-preocupar-se
 preocupara
 preocuparam
 preocuparas
@@ -247653,6 +247789,7 @@ processa
 processada
 processadas
 processado
+processadores
 processados
 processai
 processais
@@ -248334,6 +248471,8 @@ programeis
 programem
 programemos
 programes
+programma
+programmas
 programo
 programou
 programámos
@@ -249948,7 +250087,6 @@ prostrais
 prostram
 prostramos
 prostrando
-prostrar-se
 prostrara
 prostraram
 prostraras
@@ -253308,7 +253446,6 @@ queixais
 queixam
 queixamos
 queixando
-queixar-se
 queixara
 queixaram
 queixaras
@@ -257629,7 +257766,6 @@ rebelais
 rebelam
 rebelamos
 rebelando
-rebelar-se
 rebelara
 rebelaram
 rebelaras
@@ -260034,7 +260170,6 @@ recordais
 recordam
 recordamos
 recordando
-recordar-se
 recordara
 recordaram
 recordaras
@@ -262536,6 +262671,7 @@ refletísseis
 refletíssemos
 reflexa
 reflexas
+reflexiono
 reflexiva
 reflexivas
 reflexivos
@@ -263812,7 +263948,6 @@ regozijais
 regozijam
 regozijamos
 regozijando
-regozijar-se
 regozijara
 regozijaram
 regozijaras
@@ -266876,7 +267011,6 @@ rendem
 rendemos
 rendendo
 rendeo
-render-se
 rendera
 renderam
 renderas
@@ -268418,6 +268552,7 @@ reporás
 reporão
 reporíamos
 reporíeis
+reposiciono
 reposições
 reposta
 repostas
@@ -270394,6 +270529,7 @@ resolveis
 resolvem
 resolvemos
 resolvendo
+resolventes
 resolvera
 resolveram
 resolveras
@@ -273128,6 +273264,7 @@ reusavas
 reusei
 reuseis
 reusemos
+reuso
 reusou
 reusámos
 reusáramos
@@ -273780,6 +273917,7 @@ revisem
 revisemos
 revises
 revisionistas
+revisiono
 reviso
 revisoras
 revisores
@@ -278891,6 +279029,58 @@ sanitários
 sanjoanenses
 sano
 sanou
+sanscritiza
+sanscritizada
+sanscritizadas
+sanscritizado
+sanscritizados
+sanscritizai
+sanscritizais
+sanscritizam
+sanscritizamos
+sanscritizando
+sanscritizara
+sanscritizaram
+sanscritizaras
+sanscritizardes
+sanscritizarei
+sanscritizareis
+sanscritizarem
+sanscritizaremos
+sanscritizares
+sanscritizaria
+sanscritizariam
+sanscritizarias
+sanscritizarmos
+sanscritizará
+sanscritizarás
+sanscritizarão
+sanscritizaríamos
+sanscritizaríeis
+sanscritizas
+sanscritizasse
+sanscritizassem
+sanscritizasses
+sanscritizaste
+sanscritizastes
+sanscritizava
+sanscritizavam
+sanscritizavas
+sanscritize
+sanscritizei
+sanscritizeis
+sanscritizem
+sanscritizemos
+sanscritizes
+sanscritizo
+sanscritizou
+sanscritizámos
+sanscritizáramos
+sanscritizáreis
+sanscritizásseis
+sanscritizássemos
+sanscritizávamos
+sanscritizáveis
 santa
 santa-columbenses
 santa-combenses
@@ -280038,6 +280228,7 @@ secularizásseis
 secularizássemos
 secularizávamos
 secularizáveis
+seculos
 secunda
 secundada
 secundadas
@@ -280563,7 +280754,6 @@ seguimos
 seguindo
 seguintes
 seguio
-seguir-se
 seguira
 seguiram
 seguiras
@@ -282651,6 +282841,9 @@ sifacas
 sifilítica
 sifilíticas
 sifilíticos
+sifonada
+sifonadas
+sifonados
 sifões
 siga
 sigais
@@ -283097,6 +283290,7 @@ simétricas
 simétricos
 sinagogas
 sinais
+sinais do Ronaldinho
 sinaliza
 sinalizada
 sinalizadas
@@ -288068,6 +288262,9 @@ suarei
 suareis
 suarem
 suaremos
+suarenta
+suarentas
+suarentos
 suares
 suaria
 suariam
@@ -289805,7 +290002,6 @@ suicidais
 suicidam
 suicidamos
 suicidando
-suicidar-se
 suicidara
 suicidaram
 suicidaras
@@ -292387,6 +292583,9 @@ sísmicas
 sísmicos
 sístoles
 sítios
+sòzinha
+sòzinhas
+sòzinhos
 sóbria
 sóbrias
 sóbrios
@@ -293515,6 +293714,8 @@ tardássemos
 tardávamos
 tardáveis
 tare
+tareca
+tarecas
 tarecos
 tarefas
 tarei
@@ -295231,6 +295432,8 @@ tendíamos
 tendíeis
 tendões
 tendões de Aquiles
+tenebrismos
+tenebristas
 tenebriões
 tenebrosa
 tenebrosas
@@ -297494,6 +297697,7 @@ tonganesas
 tonganeses
 tongas
 tongos
+toninhas
 tonitroantes
 tonitruantes
 tonneladas
@@ -297739,7 +297943,6 @@ tornais
 tornam
 tornamos
 tornando
-tornar-se
 tornara
 tornaram
 tornaras
@@ -303070,6 +303273,7 @@ triumphem
 triumphemos
 triumphes
 triumpho
+triumphos
 triumphou
 triumphámos
 triumpháramos
@@ -303194,7 +303398,58 @@ trocada
 trocadalhos
 trocadalhos do carilho
 trocadas
+trocadilha
+trocadilhada
+trocadilhadas
+trocadilhado
+trocadilhados
+trocadilhai
+trocadilhais
+trocadilham
+trocadilhamos
+trocadilhando
+trocadilhara
+trocadilharam
+trocadilharas
+trocadilhardes
+trocadilharei
+trocadilhareis
+trocadilharem
+trocadilharemos
+trocadilhares
+trocadilharia
+trocadilhariam
+trocadilharias
+trocadilharmos
+trocadilhará
+trocadilharás
+trocadilharão
+trocadilharíamos
+trocadilharíeis
+trocadilhas
+trocadilhasse
+trocadilhassem
+trocadilhasses
+trocadilhaste
+trocadilhastes
+trocadilhava
+trocadilhavam
+trocadilhavas
+trocadilhe
+trocadilhei
+trocadilheis
+trocadilhem
+trocadilhemos
+trocadilhes
 trocadilhos
+trocadilhou
+trocadilhámos
+trocadilháramos
+trocadilháreis
+trocadilhásseis
+trocadilhássemos
+trocadilhávamos
+trocadilháveis
 trocado
 trocadores
 trocados
@@ -303204,7 +303459,6 @@ trocam
 trocamos
 trocando
 trocanteres
-trocar-se
 trocara
 trocaram
 trocaras
@@ -304053,6 +304307,7 @@ trucávamos
 trucáveis
 trufas
 truitas
+trumpistas
 trunca
 truncada
 truncadas
@@ -304480,6 +304735,7 @@ tupinólogas
 tupinólogos
 tupis
 tupis-guaranis
+tupperwares
 tupãssienses
 tupís
 tuque-tuques
@@ -307594,7 +307850,6 @@ valentias
 valentona
 valentonas
 valentões
-valer-se
 valera
 valeram
 valeras
@@ -309895,7 +310150,6 @@ verificais
 verificam
 verificamos
 verificando
-verificar-se
 verificara
 verificaram
 verificaras

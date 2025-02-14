@@ -9,6 +9,7 @@
 3ªp.s.
 A.
 A.B.
+A3ES
 AA
 AA.
 AAA
@@ -95,6 +96,7 @@ ANL
 ANOP
 ANP
 ANPOC
+ANPRI
 ANQEP
 ANS
 ANTAQ
@@ -118,11 +120,14 @@ APCER
 APCP
 APDSI
 APEC
+APECA
+APECE
 APEE
 APEF
 APEGAC
 APENO
 APF
+APFAC
 APFIPP
 APH
 APHP
@@ -272,7 +277,9 @@ CMD
 CMIN
 CMN
 CMU
+CNADS
 CNC
+CNCS
 CNE
 CNECV
 CNH
@@ -453,6 +460,7 @@ FC
 FCSH
 FDP
 FDS
+FE-AP
 FEAMP
 FEB
 FEC
@@ -460,6 +468,7 @@ FEFSS
 FEI
 FEM
 FEP
+FEPODABES
 FESAHT
 FESAP
 FF
@@ -523,6 +532,7 @@ GPP
 GQ
 GRG
 GTC
+Gr
 HBP
 HBV
 HCM
@@ -608,9 +618,11 @@ IURD
 IVA
 IgM
 Infraero
+Ing
 Inmetro
 Ipatimup
 Iphan
+It
 J
 JAE
 JC
@@ -625,6 +637,7 @@ LBV
 LC
 LCA
 LCH
+LCP
 LCR
 LDB
 LDO
@@ -984,6 +997,7 @@ SEP
 SEPLEU
 SFN
 SGA
+SGPCM
 SGQ
 SIAC
 SIBS
@@ -1014,6 +1028,7 @@ SNTCT
 SO
 SP
 SPA
+SPAVC
 SPC
 SPDV
 SPEDM
@@ -1039,6 +1054,7 @@ SUDENE
 SUNAB
 SUS
 Saara
+Sanscr
 Senatran
 Sr.
 TAA
@@ -1098,6 +1114,7 @@ UCCLA
 UCI
 UCP
 UDN
+UDS
 UE
 UEO
 UERJ
@@ -1179,6 +1196,7 @@ cc
 cel.
 cf.
 cia.
+cll
 d.C.
 dC
 dom
@@ -1194,6 +1212,7 @@ ex.
 exmo.
 f
 f.
+fdp
 fds
 fdx
 feat.
@@ -1238,11 +1257,15 @@ subst.
 sáb
 tbt
 tcc.
+tlmv
+tmb
+tmj
 tv
 v.t.
 v.t.d.
 v.v.
 vsf
 wysiwyg
+Ár
 ã
 ãã

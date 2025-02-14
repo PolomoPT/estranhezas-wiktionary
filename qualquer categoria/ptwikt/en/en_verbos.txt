@@ -464,6 +464,7 @@ amigar
 amimar
 amiudar
 amnistiar
+amochar
 amofinar
 amolar
 amolecer
@@ -871,7 +872,6 @@ auto-sabotar
 autocompletar
 autografar
 automatizar
-automedicar-se
 autopsiar
 autorizar
 autossabotar
@@ -2346,6 +2346,7 @@ desposar
 despovoar
 desprazer
 despregar
+despreguiçar
 desprender
 despresilhar
 despressurizar
@@ -2526,6 +2527,7 @@ dosar
 dotar
 dourar
 doutrinar
+doxar
 dragar
 dramatizar
 drapejar
@@ -3327,6 +3329,7 @@ extractar
 extraditar
 extrahir
 extrair
+extranhar
 extratar
 extravasar
 extraviar
@@ -3658,6 +3661,7 @@ gastar os tubos
 gastar saliva
 gatanhar
 gatar
+gatinhar
 gatunar
 gazear
 gazetear
@@ -5674,6 +5678,7 @@ sanar
 sancionar
 sanduichar
 sangrar
+sanscritizar
 santificar
 sapear
 sapecar
@@ -6187,6 +6192,7 @@ triturar
 triumphar
 triunfar
 troar
+trocadilhar
 trocar
 trocar ideia
 trocar ideias
