@@ -27,6 +27,7 @@
 |-derme
 |-dermo
 |-diço
+|-echo
 |-ectasia
 |-ectômico
 |-eichon

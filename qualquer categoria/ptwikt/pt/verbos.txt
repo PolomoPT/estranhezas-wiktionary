@@ -281,6 +281,7 @@ acaudilhar
 acautelar
 acavalar
 acaçapar
+acceitar
 accionar
 acebar
 acebolar
@@ -2319,6 +2320,7 @@ colocar
 colocar a par
 colocar lenha na fogueira
 colocar no chinelo
+colocar o carro na frente dos bois
 colocar pra jogo
 colonizar
 colorear
@@ -2610,6 +2612,7 @@ crasear
 cravar
 cravejar
 cravunhar
+crear
 crecer
 creditar
 cremar
@@ -4713,6 +4716,7 @@ evolucionar
 evoluir
 exacerbar
 exagerar
+exaggerar
 exalar
 exaltar
 examinar
@@ -5506,6 +5510,7 @@ imigrar
 imiscuir
 imitar
 imitir
+immergir
 imobilizar
 imolar
 imortalizar
@@ -5864,6 +5869,7 @@ labregar
 labrestar
 labutar
 labuzar
+lacaiar
 lacar
 lacear
 lacerar
@@ -7596,7 +7602,6 @@ saçaricar
 saçarico
 schedular
 secar
-seco
 secularizar
 secundar
 sedar
@@ -7862,6 +7867,7 @@ tafular
 tafulhar
 tagantar
 tagantear
+tagar
 tagarelar
 taguear
 tainar

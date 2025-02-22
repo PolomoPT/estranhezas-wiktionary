@@ -175,6 +175,7 @@ abreugráfico
 abreviado
 abrigado
 abrunheirense
+abrunhosense
 abrupto
 absalónico
 absalônico
@@ -236,7 +237,6 @@ acausto
 acautelável
 acaçapado
 accipitriforme
-accumulado
 acebolado
 aceiro
 aceite
@@ -401,6 +401,7 @@ adorador
 adormido
 adornado
 adorável
+adoslouquense
 adossado
 adotado
 adotante
@@ -568,9 +569,11 @@ aguacateco
 aguacento
 aguachado
 aguadeiro
+aguadense
 aguado
 aguaiano
 aguaiense
+agualvense
 aguanilense
 aguateiro
 agudense
@@ -583,9 +586,11 @@ aguentador
 aguerrido
 aguiarado
 aguiarense
+aguinense
 aguista
 aguizalhado
 aguçado
+aguçadourense
 agáteo
 agílimo
 agínico
@@ -596,6 +601,7 @@ aimaroparlante
 aimará
 ainu
 aiquarense
+airense
 airoense
 aironense
 airoso
@@ -657,28 +663,40 @@ albufeirense
 albuginoso
 albugíneo
 alburitelense
+alcacerano
 alcacerense
 alcaincense
+alcainense
 alcalino
 alcalino-terroso
 alcalinoterroso
+alcanenense
+alcanense
 alcantarense
 alcantarilhense
 alcantilado
 alcançado
 alcançável
+alcariense
 alcatreiro
+alcaçovense
 alcinopolense
 alcióneo
 alciôneo
 alciônico
 alcobacense
 alcobertense
+alcochetano
+alcoentrense
 alcofrense
 alcongostense
 alcoolizado
 alcoolátrico
+alcorreguense
 alcorânico
+alcoutenejo
+alcoutenense
+alcoutinense
 alcoólico
 aldagrante
 aldeense
@@ -688,6 +706,7 @@ aldeão
 aldrúbias
 alegado
 alegre
+alegretense
 alegriense
 alegórico
 aleijado
@@ -704,6 +723,7 @@ alemão-ocidental
 alemão palatino
 alemão silesiano
 alencariano
+alenquerense
 alentejano
 alentejanístico
 alentejoado
@@ -722,8 +742,10 @@ alfandegueira
 alfandegueiras
 alfandegueiro
 alfandegueiros
+alfandeguense
 alfanumérico
 alfarelense
+alfeizerense
 alfenense
 alfercenho
 alfinetado
@@ -749,6 +771,7 @@ alienígena
 aliforme
 alifático
 alijado
+alijoense
 alimentado
 alimentar
 alimentício
@@ -765,6 +788,7 @@ almagreirense
 almancilense
 almaço
 almeidense
+almeirinense
 almejado
 almenarense
 almense
@@ -784,11 +808,13 @@ aloprado
 alopsíquico
 alotrópico
 aloucado
+alpalhoense
 alpenduradense
 alpense
 alpercatense
 alpinista
 alpino
+alqueidoense
 alquimista
 alsaciano
 altaico
@@ -1052,6 +1078,7 @@ androgínico
 androide
 andromonoico
 andromonóico
+androssexual
 andrófilo
 andrógeno
 andrógino
@@ -1477,6 +1504,7 @@ arcaico
 arcano
 arcaísta
 arceburguense
+arcoense
 ardente
 ardido
 ardiloso
@@ -1487,6 +1515,7 @@ arealense
 areia
 arejado
 arenapolitano
+arenense
 arenoso
 arentinense
 arenuláceo
@@ -1523,6 +1552,7 @@ aristocrata
 aristocrático
 aristotélico
 aritmético
+armacenense
 armado
 armador
 armamarense
@@ -1542,6 +1572,7 @@ arnazudo
 arnento
 aromatizado
 aromático
+aronense
 arouquense
 arouquês
 arqueológico
@@ -1921,6 +1952,7 @@ aveirense
 avelado
 avelainha
 avelainho
+avelarense
 avelhantado
 aventurado
 aventureiro
@@ -1940,6 +1972,7 @@ aviário
 avoado
 avoante
 avoengo
+avoense
 avolumado
 avorrecido
 avulso
@@ -2045,6 +2078,7 @@ bailarino
 bailundo
 bailão
 baio
+baionense
 bairral
 baita
 baixagrandense
@@ -2519,6 +2553,7 @@ brancuxa
 brancuxo
 brandemburguês
 brando
+brandoense
 branque
 braquial
 braquicéfalo
@@ -2803,6 +2838,7 @@ calcídeo
 caldeira
 caldeiro
 caldeirão-grandense
+caldelense
 calejado
 calhandricense
 calhetense
@@ -2879,12 +2915,14 @@ campanariense
 campanhense
 campeador
 campeiro
+campense
 campesinho
 campesino
 campestre
 campichano
 campineiro
 campinense
+campinhense
 campo-alegrense
 campo-formosense
 campo-grandense
@@ -3134,9 +3172,11 @@ castrador
 castrejo
 castrense
 castro-alvense
+castro-marinense
 castro-verdense
 castro-verdiano
 castroalvense
+castromarinense
 castíssimo
 casual
 casuístico
@@ -3488,6 +3528,7 @@ citado
 citerior
 citotóxico
 ciumento
+ciumentíssimo
 civil
 civilista
 civilizado
@@ -4343,6 +4384,7 @@ da pá virada
 daco-romeno
 dado
 dafundense
+dagordense
 daimoso
 daltónico
 daltônico
@@ -6488,6 +6530,7 @@ fidjiano
 fido
 fiduciário
 fiel
+figueiroense
 figurado
 figurante
 figurativo
@@ -6656,6 +6699,7 @@ formular
 formênico
 fornecido
 fornelense
+fornense
 fornicador
 fornicário
 fornido
@@ -6685,6 +6729,7 @@ foucaultiano
 fouto
 foz-coense
 foz-iguaçuense
+fozcoense
 foção
 fracassado
 fraccionário
@@ -6845,6 +6890,7 @@ furfúreo
 furiba
 furibundo
 furioso
+furnense
 furta-cor
 furtado
 furtivo
@@ -6997,6 +7043,7 @@ gaudério
 gaulês
 gaussiano
 gavense
+gaviense
 gavionense
 gay
 gaélico
@@ -7072,6 +7119,8 @@ gimondense
 ginasial
 ginecológico
 ginecomasto
+ginessexual
+ginessexualidade
 ginófilo
 giratório
 giro
@@ -7555,6 +7604,7 @@ homogéneo
 homogêneo
 homológico
 homonímico
+homorromântico
 homossexual
 homotético
 homérico
@@ -7818,6 +7868,7 @@ imiscuído
 imiscível
 imisso
 imitado
+immediato
 imobiliário
 imoderado
 imodesto
@@ -8342,6 +8393,7 @@ intentado
 intentável
 inter vivos
 interamericano
+interamnense
 interativo
 intercalar
 intercessor
@@ -8921,8 +8973,10 @@ ladrilhado
 ladro
 lafaietense
 lafardo
+lafonense
 laganhento
 laganhoso
+lagarense
 lagedense
 lagoa-realense
 lagoense
@@ -9044,6 +9098,7 @@ lazarento
 laído
 leal
 lebreiro
+lebrense
 leceiro
 lectivo
 ledo
@@ -9069,6 +9124,7 @@ leital
 leitar
 leiteiro
 leitoso
+leixonense
 lelé da cuca
 lembrado
 lemense
@@ -9224,6 +9280,7 @@ livônio
 lixoso
 lobanense
 lobelhense
+lobonense
 local
 locativo
 locomotor
@@ -9255,6 +9312,7 @@ lordento
 lordosense
 lorfo
 lorpa
+lorvanense
 lotado
 lotárico
 louco
@@ -9266,6 +9324,7 @@ lourense
 lourinhanense
 louriçalense
 louro
+lousanense
 louvado
 louvaminheiro
 louveirense
@@ -9617,6 +9676,7 @@ marchetado
 marcial
 marciano
 marcionilense
+marcoense
 mareado
 mareiro
 marejado
@@ -9679,6 +9739,7 @@ martinopolitano
 marulheiro
 marulhento
 marulhoso
+marvanense
 marvilense
 marxista
 marxista-leninista
@@ -9811,6 +9872,7 @@ melindroso
 melodioso
 melodista
 melomaníaco
+melpomenense
 melânio
 melífero
 melífluo
@@ -9865,6 +9927,7 @@ merdento
 merdoso
 merecedor
 merecido
+merelinense
 merencório
 mergulhador
 meridianense
@@ -9888,6 +9951,7 @@ mesquinho
 mesquitense
 messejanense
 messiense
+messinense
 messiânico
 messápico
 messápio
@@ -9951,6 +10015,7 @@ milenarista
 milenário
 milhacense
 milharadense
+milheiroense
 milhor
 milhorde
 milimétrico
@@ -10093,6 +10158,7 @@ monacal
 moncarapachense
 moncorvense
 moncoso
+mondinense
 mondé
 monegasco
 monetário
@@ -10116,6 +10182,7 @@ monozigótico
 monso
 monstruoso
 montado
+montalvanense
 montanhoso
 montante
 montargilense
@@ -10194,6 +10261,7 @@ motor
 motorizado
 moucho
 mouco
+mouranense
 mourense
 mourisco
 mouro
@@ -10260,6 +10328,7 @@ muricídeo
 murino
 muritibano
 murtalense
+murtoense
 murtoseiro
 murtosense
 murzelo
@@ -10456,6 +10525,7 @@ nilo-peçanhense
 nilopolitano
 nilótico
 nimerista
+ninense
 ninfeu
 ninfomaníaco
 ninivita
@@ -10908,6 +10978,7 @@ pacificador
 pacífico
 pacó
 pacóvio
+padernense
 padornelense
 padreirense
 padroeiro
@@ -10922,6 +10993,7 @@ paifoco
 pailão
 paio
 paiolo
+paionense
 paisagístico
 paisano
 paivense
@@ -11029,6 +11101,7 @@ paralelepipédicos
 paralelo
 paralisado
 paralisante
+parallelo
 paralímpico
 paralítico
 paramense
@@ -11062,6 +11135,7 @@ pardacento
 pardelhense
 pardento
 pardilho
+pardilhoense
 pardo
 pardo-escuro
 parecido
@@ -11163,6 +11237,7 @@ patusqueiro
 patético
 pau-brasilense
 pau para toda a obra
+pauense
 pauferrense
 paula-candidense
 paulatino
@@ -11361,6 +11436,7 @@ permutador
 pernambucado
 pernambucano
 pernegudo
+pernense
 pernicioso
 pernilongo
 pernudo
@@ -11541,6 +11617,7 @@ piscoso
 piscívoro
 piseira
 pisiforme
+pisoense
 pistola
 pitagórico
 pitangueirense
@@ -11724,6 +11801,7 @@ portalegrense
 portelense
 portenho
 portentoso
+portimonense
 portista
 porto-alegrense
 porto-monizense
@@ -12748,6 +12826,7 @@ ribatejano
 ribeira-bravense
 ribeira-grandense
 ribeiradiense
+ribeirapenense
 ribeirense
 ribeirinhense
 ribeirão-pretano
@@ -12876,6 +12955,7 @@ ruidento
 ruidoso
 ruim
 ruinoso
+ruivanense
 ruivo
 ruminante
 runfão
@@ -12939,6 +13019,7 @@ sadino
 saeliano
 safade
 safado
+safarense
 safio
 safista
 safo
@@ -13038,6 +13119,7 @@ santa-mariense
 santa-ritense
 santa-teresinhense
 santa iriense
+santaclarense
 santaluzense
 santaluziense
 santanderiense
@@ -13123,7 +13205,6 @@ saxão
 sazonal
 saça
 saçamelo
-saída
 saído
 seabrense
 seareiro
@@ -13132,6 +13213,7 @@ sebastianense
 seboso
 sebáceo
 secante
+secco
 seco
 secreto
 secretório
@@ -13214,8 +13296,10 @@ sempiterno
 semântico
 semítico
 senciente
+sendinense
 senegalense
 senegalês
+senense
 senhor
 senil
 senisga
@@ -13269,6 +13353,7 @@ seroense
 seropedicense
 serpense
 serpentiforme
+serpinense
 serra-douradense
 serra-leonino
 serra-leonês
@@ -13282,6 +13367,7 @@ serrazulense
 serretense
 serrinhense
 serrolandense
+sertaginense
 sertanejense
 sertanejo
 sertanense
@@ -13637,6 +13723,7 @@ subumano
 suburbano
 subutilizado
 subversivo
+successivo
 sucedido
 sucedâneo
 sucessivo
@@ -13813,7 +13900,6 @@ sério
 sérvio
 séssil
 sétimo
-sêcco
 sênior
 símil
 símio
@@ -13872,6 +13958,7 @@ taguaiense
 tai
 taiaçuense
 tailandês
+taipense
 taitiano
 taiuvense
 taiwanês
@@ -14165,6 +14252,7 @@ tonhão
 tonométrico
 tonquinês
 tonto
+topense
 topográfico
 toponímico
 toporâmico
@@ -14178,6 +14266,7 @@ toroidal
 torpe
 torquaz
 torrado
+torranense
 torreense
 torrencial
 torrense
@@ -14700,6 +14789,7 @@ vagueiro
 vaguense
 vai
 vaidoso
+valadarense
 valado
 valboeiro
 valboense
@@ -14715,6 +14805,7 @@ valentão
 valerianáceo
 valeriânico
 valeroso
+valezinense
 validado
 valioso
 valiosíssimo
@@ -14790,6 +14881,7 @@ velino
 velocíssimo
 veloz
 veludo
+venadense
 venal
 venatório
 vencedor
@@ -14974,6 +15066,7 @@ vilego
 vileiro
 vilhenense
 vilão
+vimaranense
 vimiosense
 vincendo
 vincular

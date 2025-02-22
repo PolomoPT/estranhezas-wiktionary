@@ -528,7 +528,6 @@ inferiormente
 infinitamente
 infra
 inicialmente
-ininterruptamente
 injustamente
 inopinadamente
 inseguramente
@@ -888,6 +887,8 @@ subconscientemente
 subitamente
 subsidiariamente
 substantivamente
+successivamente
+sucessivamente
 sucintamente
 sumariamente
 superficialmente

@@ -83,6 +83,7 @@ Abadã
 Abaetetuba
 Abaeté
 Abakan
+Abaporu
 Abaré
 Abatiá
 Abaíra
@@ -692,6 +693,7 @@ Antalya
 Antananarivo
 Antares
 Antas
+Ante Christo
 Anteia
 Antela
 Antelas
@@ -1855,7 +1857,6 @@ Campolide
 Campos
 Campos Altos
 Campos Borges
-Campos Elísios
 Campos Gerais
 Campos Novos
 Campos Novos Paulista
@@ -2230,6 +2231,7 @@ Ciclades
 Cida
 Cidade Gaúcha
 Cidade Imperial
+Cidade Maravilhosa
 Cidade Velha
 Cidade de Belize
 Cidade de Guatemala
@@ -2271,7 +2273,6 @@ Clara
 Claraval
 Claro dos Poções
 Cleber
-Cleide
 Cleiton
 Clemente
 Clementina
@@ -3054,6 +3055,7 @@ Ema
 Emanuel
 Embach
 Embaúba
+Embraer
 Embrapa
 Embu-Guaçu
 Embu das Artes
@@ -3685,7 +3687,6 @@ Getulina
 Getúlio
 Getúlio Vargas
 Geórgia
-Geóvina
 Gi
 Giannuzzi
 Gibraltar
@@ -4014,6 +4015,7 @@ Heligoland
 Heligolândia
 Heliodora
 Heliópolis
+Hell de Janeiro
 Heloísa
 Helsinke
 Helsinki
@@ -6186,7 +6188,6 @@ Negueb
 Neguebe
 Neguev
 Nehemias
-Neila
 Nelas
 Nem
 Neotrópico
@@ -7857,6 +7858,7 @@ SAC
 SAMAE
 SAMU
 SAU
+SBT
 SC
 SE
 SEMA
@@ -8473,6 +8475,7 @@ Sony
 Sonya
 Sophonias
 Soprano
+Soraia
 Sorocaba
 Sotchi
 Soure
@@ -9144,6 +9147,7 @@ Torres Vedras
 Torrinha
 Torshavn
 Torá
+Toríbio
 Toscana
 Toscânia
 Toselli
@@ -9776,9 +9780,9 @@ Xingu
 Xinjiang
 Xique-Xique
 Xiraz
+Xisto
 Xiva
 Xororó
-Xuxa
 Y
 Yaeko
 Yaguchi
@@ -10292,6 +10296,7 @@ accelerador
 accessit
 acciaccatura
 accionista
+accumulo
 ace
 acedapsona
 acedência
@@ -10988,6 +10993,7 @@ aetossauro
 afabilidade
 afagia
 afago
+afantasia
 afaquia
 afar
 afasia
@@ -15762,7 +15768,9 @@ autópsia
 autótrofa
 autótrofo
 autômato
+auxanologia
 auxina
+auxologia
 auxílio
 aução
 auê
@@ -16994,6 +17002,7 @@ biombo
 biomedicina
 biometria
 biomolécula
+biomédico
 biopirata
 biopirataria
 bioprograma
@@ -17487,6 +17496,7 @@ bosão
 bosão de Higgs
 bot
 bota
+bota-fogo
 botadeira
 botafoguense
 botanista
@@ -19014,6 +19024,8 @@ cardã
 cardíaca
 cardíaco
 careca
+carena
+carenagem
 carestia
 careta
 careto
@@ -20695,6 +20707,7 @@ clítico
 clítoris
 cnidário
 co-adopção
+co-herdeira
 co-herdeiro
 co-hipónimo
 co-hipônimo
@@ -20730,6 +20743,7 @@ cobertor
 cobertura
 cobertura de risco
 cobiça
+cobogó
 coboiada
 cobra
 cobra-capelo
@@ -22085,12 +22099,17 @@ cravista
 cravo
 cravo-da-índia
 crawl
+creada
+creado
 creado mudo
 creador
+creadora
 cream cheese
 cream cracker
+creança
 creatina
 creatura
+creação
 crec
 creche
 credenciador
@@ -22192,6 +22211,7 @@ criptofascista
 criptofone
 criptoftalmia
 criptoftalmo
+criptogamia
 criptografia
 criptograma
 criptojudaísmo
@@ -24177,6 +24197,7 @@ dogue alemão
 doguinho
 dogão
 doida
+doideira
 doidivana
 doido
 doidão
@@ -24263,6 +24284,7 @@ dormente
 dormideira
 dorminhoca
 dorminhoco
+dormitorio
 dormitório
 dormência
 dorsal
@@ -25022,6 +25044,7 @@ endurecimento
 endívia
 ene
 eneadecavô
+eneagrama
 eneavô
 enema
 eneolítico
@@ -25035,6 +25058,7 @@ energia negra
 energia nuclear
 energia potencial
 energético
+energúmena
 energúmeno
 enervação
 eneágono
@@ -25419,6 +25443,7 @@ escada
 escada rolante
 escadaria
 escadeira
+escadinha
 escadote
 escadório
 escafandro
@@ -26985,6 +27010,7 @@ feitiço
 feito
 feitor
 feitoria
+feitura
 feitura de santo
 feiura
 feixe
@@ -27244,6 +27270,7 @@ filigrana
 filipina
 filipino
 filisteu
+filistinismo
 film
 filmagem
 filmaço
@@ -28549,12 +28576,15 @@ gaveto
 gavial
 gaviaõ
 gavinha
+gavioa
+gaviã
 gavião
 gavião-carijó
 gavião-de-cauda-curta
 gavião-de-cauda-vermelha
 gavião-de-rabo-branco
 gavião-de-sobre-branco
+gavião-real
 gaxeta
 gay
 gaydar
@@ -28878,6 +28908,7 @@ glossário
 glotal
 glote
 glotocronologia
+glow up
 gloxínia
 glucagon
 glucoronideo
@@ -31878,6 +31909,7 @@ lagoa
 lagopo
 lagosta
 lagostim
+lagostinha
 lagrima
 lagryma
 laguinho
@@ -34614,6 +34646,7 @@ mineralogista
 mineração
 minete
 mingau
+mingo
 minguante
 minhoca
 minhocuçu
@@ -35502,6 +35535,7 @@ média
 média aritmética
 média harmónica
 média harmônica
+médica
 médica-legista
 médico
 médico-legista
@@ -35552,6 +35586,7 @@ mônade
 môr
 môrto
 môça
+múleo
 múltiplo
 múmia
 múnus
@@ -37095,6 +37130,7 @@ pagé
 pahoehoe
 pai
 pai-de-santo
+pai-nosso
 pai de família
 pai de santo
 pai dos burros
@@ -38739,6 +38775,7 @@ pintor
 pintora
 pintura
 pintura gestual
+pintão
 pinyin
 pináculo
 pinça
@@ -38778,6 +38815,7 @@ pira
 piracanjuba
 piracema
 pirambeira
+piramutaba
 piranambu
 piranha
 piranha-vermelha
@@ -38896,6 +38934,7 @@ pivô
 pix
 pixador
 pixadora
+pixaim
 pixação
 pixel
 pixelização
@@ -40083,6 +40122,7 @@ prosciutto
 proscrição
 proselitismo
 prosencéfalo
+prosopagnosia
 prosopopeia
 prosopopéia
 prospecção
@@ -40147,6 +40187,7 @@ protocolo
 protocooperação
 protoeslavo
 protoestrela
+protofonia
 protogermânico
 protoindo-europeia
 protoindo-europeu
@@ -40183,6 +40224,7 @@ provocação
 provérbio
 província
 proxeneta
+proxenetismo
 proxenêta
 proximidade
 proxy
@@ -40233,6 +40275,7 @@ pró-reitor
 próclise
 pródromo
 prólogo
+própole
 própolis
 próstata
 prótalo
@@ -41081,6 +41124,7 @@ raio globular
 raio laser
 raison d'être
 raiva
+raivinha
 raiz
 raiz-forte
 raiz cúbica
@@ -42524,6 +42568,7 @@ saguim
 saguão
 sagùi
 sagüi
+sahida
 saia
 saia justa
 saibro
@@ -42879,6 +42924,7 @@ secador de cabelo
 secadora
 secagem
 secante
+secca
 secessionismo
 secessionista
 secessão
@@ -44111,6 +44157,7 @@ subóxido
 subúrbio
 sucata
 sucateamento
+successo
 succo
 sucedâneo
 suceptibilidade
@@ -44340,6 +44387,7 @@ surucucu
 surucuá
 suruma
 susceptibilidade
+suscetibilidade
 suserania
 suserano
 sushi
@@ -44388,6 +44436,7 @@ symmetria
 symptoma
 syncope
 syntaxe
+systema
 szlachta
 sábado
 sábia
@@ -44435,6 +44484,7 @@ sésamo
 sétimo
 sétimo céu
 sétuplo
+sêca
 sêda
 sêde
 sêmea
@@ -44760,6 +44810,7 @@ tapuio
 tapume
 taquara
 taquara rachada
+taquaral
 taquaruçu
 taquiarritmia
 taquicardia
@@ -46173,6 +46224,7 @@ troco
 trocos
 trocânter
 trofense
+trofologia
 troféu
 troglodita
 troiana
@@ -46635,6 +46687,7 @@ unha-de-asno
 unha-de-cavalo
 unha-de-gato
 unhas-de-gato
+unhinha
 uni-duni-tê
 unicamaralismo
 unicameralismo
@@ -47291,6 +47344,7 @@ via crucis
 via crúcis
 via férrea
 viabilidade
+viadagem
 viadinho
 viado
 viaduto

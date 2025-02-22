@@ -118,6 +118,7 @@ Rheia
 Rhenânia
 Ruthenia
 Sagittario
+Sahara
 Scithia
 Scythia
 Scytia
@@ -163,6 +164,8 @@ accolher
 accommodar
 accordar
 accreditar
+accumular
+accumulo
 accusar
 acetyleno
 acrolectal
@@ -350,6 +353,7 @@ ciumes
 co-adopção
 coacção
 coccyx
+cohibir
 cohorte
 coleccionador
 coleccionar
@@ -402,8 +406,15 @@ correctivo
 correcto
 corrector
 correcção
+creada
+creado
+creado mudo
 creador
+creadora
+creança
+crear
 creatura
+creação
 cyclo
 cyclope
 cynica
@@ -486,6 +497,7 @@ distracção
 distrahir
 dithongo
 divergencia
+dormitorio
 dynamico
 dysenteria
 echo
@@ -950,6 +962,7 @@ rhetórica
 rhuibarbo
 sabbado
 saccharose
+sahida
 sahir
 sanctuário
 sanguineo
@@ -969,6 +982,8 @@ scientifico
 scientista
 scintillar
 scisão
+secca
+secco
 seculo
 seleccionado
 seleccionador
@@ -994,13 +1009,19 @@ subjectividade
 subjectivo
 subjunctivo
 subtracção
+succeder
+successivamente
+successivo
+successo
 succumbir
 suite
+susceptivel
 syllogismo
 sylphide
 symptoma
 syncope
 syntaxe
+systema
 systematizar
 tacticamente
 tambem
@@ -1049,8 +1070,11 @@ vario
 vector
 vectorial
 veem
+vehemente
+vehementemente
 villa
 vintem
+viv'alma
 walsa
 zygoma
 zygomatico

@@ -200,6 +200,7 @@
 -tivo
 -triz
 -tório
+-ucha
 -ucho
 -udo
 -ume
@@ -231,6 +232,7 @@
 -íssimo
 -ístico
 -ível
+-óico
 -óide
 -ómano
 -ónimo
@@ -361,6 +363,7 @@ Abadã
 Abaetetuba
 Abaeté
 Abakan
+Abaporu
 Abaré
 Abatiá
 Abaíra
@@ -971,6 +974,7 @@ Antalya
 Antananarivo
 Antares
 Antas
+Ante Christo
 Anteia
 Antela
 Antelas
@@ -2141,7 +2145,6 @@ Campolide
 Campos
 Campos Altos
 Campos Borges
-Campos Elísios
 Campos Gerais
 Campos Novos
 Campos Novos Paulista
@@ -2516,6 +2519,7 @@ Ciclades
 Cida
 Cidade Gaúcha
 Cidade Imperial
+Cidade Maravilhosa
 Cidade Velha
 Cidade de Belize
 Cidade de Guatemala
@@ -2557,7 +2561,6 @@ Clara
 Claraval
 Claro dos Poções
 Cleber
-Cleide
 Cleiton
 Clemente
 Clementina
@@ -3356,6 +3359,7 @@ Ema
 Emanuel
 Embach
 Embaúba
+Embraer
 Embrapa
 Embu-Guaçu
 Embu das Artes
@@ -3993,7 +3997,6 @@ Getulina
 Getúlio
 Getúlio Vargas
 Geórgia
-Geóvina
 Gi
 Giannuzzi
 Gibraltar
@@ -4325,6 +4328,7 @@ Heligoland
 Heligolândia
 Heliodora
 Heliópolis
+Hell de Janeiro
 Heloísa
 Helsinke
 Helsinki
@@ -6510,7 +6514,6 @@ Negueb
 Neguebe
 Neguev
 Nehemias
-Neila
 Nelas
 Nem
 Neotrópico
@@ -8193,6 +8196,7 @@ SAC
 SAMAE
 SAMU
 SAU
+SBT
 SC
 SE
 SEMA
@@ -8810,6 +8814,7 @@ Sony
 Sonya
 Sophonias
 Soprano
+Soraia
 Sorocaba
 Sotchi
 Soure
@@ -9485,6 +9490,7 @@ Torres Vedras
 Torrinha
 Torshavn
 Torá
+Toríbio
 Toscana
 Toscânia
 Toselli
@@ -10128,9 +10134,9 @@ Xingu
 Xinjiang
 Xique-Xique
 Xiraz
+Xisto
 Xiva
 Xororó
-Xuxa
 Y
 Yaeko
 Yaguchi
@@ -10418,7 +10424,6 @@ abafador
 abafadora
 abafante
 abafar
-abafar o caso
 abafação
 abafeira
 abainhar
@@ -11043,6 +11048,8 @@ accolher
 accommodar
 accordar
 accreditar
+accumular
+accumulo
 accusar
 ace
 acebolado
@@ -12222,6 +12229,7 @@ afamado
 afamar
 afanar
 afanoso
+afantasia
 afanítico
 afaquia
 afar
@@ -20162,6 +20170,7 @@ automaticamente
 automatizar
 automatização
 automação
+automedicar
 automedicação
 automobilismo
 automobilista
@@ -20231,9 +20240,11 @@ autótrofa
 autótrofo
 autômato
 autônomo
+auxanologia
 auxiliar
 auxiliário
 auxina
+auxologia
 auxílio
 aução
 auê
@@ -21481,6 +21492,7 @@ benzoato de sódio
 benzodiazepina
 benzoico
 benzílico
+benzóico
 benção
 benèficamente
 benéfico
@@ -22425,6 +22437,7 @@ bosónico
 bosônico
 bot
 bota
+bota-fogo
 botadeira
 botafoguense
 botanista
@@ -22962,9 +22975,11 @@ bustiê
 busto
 busão
 butano
+butanoico
 butanol
 butanona
 butanês
+butanóico
 butelo
 butil
 butilo
@@ -24298,6 +24313,9 @@ careca
 careca de
 carecer
 careiro
+carena
+carenagem
+carenar
 carenciado
 carente
 carestia
@@ -26396,6 +26414,7 @@ cnidário
 co'a breca
 co-
 co-adopção
+co-herdeira
 co-herdeiro
 co-hipónimo
 co-hipônimo
@@ -26450,6 +26469,7 @@ cobertura de risco
 cobiça
 cobiçado
 cobiçar
+cobogó
 coboiada
 cobra
 cobra-capelo
@@ -26569,6 +26589,7 @@ cognome
 cogombro
 cogumelo
 cogumelo-do-sol
+cohibir
 cohomologia
 cohorte
 coibir
@@ -28504,12 +28525,19 @@ cravista
 cravo
 cravo-da-índia
 crawl
+crazy
+creada
+creado
 creado mudo
 creador
+creadora
 cream cheese
 cream cracker
+creança
+crear
 creatina
 creatura
+creação
 crec
 crecer
 creche
@@ -28646,6 +28674,7 @@ criptofascista
 criptofone
 criptoftalmia
 criptoftalmo
+criptogamia
 criptografado
 criptografar
 criptografia
@@ -32187,7 +32216,6 @@ divã
 divórcio
 diz-me com quem andas
 diz-me com quem andas, dir-te-ei quem és
-diz-se
 diz que diz
 diz que diz que
 dizem por aí
@@ -32334,6 +32362,7 @@ doguinho
 dogão
 doida
 doidamente
+doideira
 doidivana
 doido
 doido varrido
@@ -32451,6 +32480,7 @@ dormir com um olho aberto
 dormir como uma pedra
 dormir sobre os louros
 dormitar
+dormitorio
 dormitório
 dormência
 dorsal
@@ -33877,6 +33907,7 @@ endócrino
 endógeno
 ene
 eneadecavô
+eneagrama
 eneavô
 enegrecer
 enema
@@ -33894,6 +33925,7 @@ energia potencial
 energicamente
 energizar
 energético
+energúmena
 energúmeno
 enervar
 enervação
@@ -34612,7 +34644,7 @@ erógeno
 erótico
 es-
 esbaforido
-esbaldar-se
+esbaldar
 esbanjamento
 esbanjar
 esbardalhar
@@ -34642,6 +34674,7 @@ escada rolante
 escadaria
 escadeira
 escadeirar
+escadinha
 escadote
 escadório
 escafandro
@@ -36015,8 +36048,10 @@ eta
 etanal
 etanamida
 etano
+etanoico
 etanol
 etanolamina
+etanóico
 etapa
 etarismo
 etarista
@@ -37191,6 +37226,7 @@ feito
 feito nas coxas
 feitor
 feitoria
+feitura
 feitura de santo
 feiura
 feixe
@@ -37545,6 +37581,7 @@ filigrana
 filipina
 filipino
 filisteu
+filistinismo
 filiável
 film
 filmagem
@@ -38103,7 +38140,7 @@ formato
 formatura
 formação
 formação de quadrilha
-formicar-se
+formicar
 formicário
 formidavelmente
 formidável
@@ -39331,12 +39368,15 @@ gaveto
 gavial
 gaviaõ
 gavinha
+gavioa
+gaviã
 gavião
 gavião-carijó
 gavião-de-cauda-curta
 gavião-de-cauda-vermelha
 gavião-de-rabo-branco
 gavião-de-sobre-branco
+gavião-real
 gaxeta
 gay
 gaydar
@@ -39765,6 +39805,7 @@ glossário
 glotal
 glote
 glotocronologia
+glow up
 gloxínia
 glucagon
 glucoronideo
@@ -41541,6 +41582,7 @@ humidificador
 humidificar
 humido
 humildade
+humildar
 humilde
 humildemente
 humilhante
@@ -44376,6 +44418,7 @@ labuta
 labutar
 labéu
 laca
+lacaiar
 lacaio
 lacassá
 lace
@@ -44447,6 +44490,7 @@ lagoa
 lagopo
 lagosta
 lagostim
+lagostinha
 lagrima
 lagryma
 laguinho
@@ -45233,6 +45277,7 @@ limusina
 limusine
 limão
 limítrofe
+lincar
 lince
 lince-do-canadá
 lince-do-deserto
@@ -45316,6 +45361,7 @@ linho
 link
 link azul
 link vermelho
+linkar
 linoleico
 linoléico
 linque
@@ -46041,6 +46087,7 @@ maconheira
 maconheiro
 macro
 macro-
+macrobiótico
 macrocefalia
 macroconídio
 macrocosmo
@@ -47686,9 +47733,11 @@ metanfetamina
 metano
 metanogênico
 metanoia
+metanoico
 metanol
 metanotrófico
 metanálise
+metanóico
 metapesquisador
 metaphysico
 metassilicato
@@ -47710,7 +47759,6 @@ meteoróide
 meteoróloga
 meteorólogo
 meter
-meter-se em
 meter a mão na massa
 meter fita
 meter o bedelho
@@ -48011,6 +48059,7 @@ mineração
 minete
 mingar
 mingau
+mingo
 minguante
 minguar
 minha nossa
@@ -49201,6 +49250,7 @@ média
 média aritmética
 média harmónica
 média harmônica
+médica
 médica-legista
 médico
 médico-legista
@@ -49259,6 +49309,7 @@ mônade
 môr
 môrto
 môça
+múleo
 múltiplo
 múmia
 múnus
@@ -51677,6 +51728,7 @@ pagé
 pahoehoe
 pai
 pai-de-santo
+pai-nosso
 pai de família
 pai de santo
 pai dos burros
@@ -53024,6 +53076,8 @@ pentagonal
 pentagrama
 pentaiodeto
 pentano
+pentanoico
+pentanóico
 pentatleta
 pentatlo
 pentavalente
@@ -53841,6 +53895,7 @@ pintura
 pintura gestual
 pinturesco
 pintável
+pintão
 pinyin
 pináculo
 pinça
@@ -53890,6 +53945,7 @@ piracema
 pirado
 pirambeira
 piramidal
+piramutaba
 piranambu
 piranha
 piranha-vermelha
@@ -54038,6 +54094,7 @@ pivô
 pix
 pixador
 pixadora
+pixaim
 pixar
 pixação
 pixel
@@ -55701,7 +55758,6 @@ prometer
 promiscuamente
 promiscuidade
 promiscuir
-promiscuir-se
 promissor
 promissão
 promissória
@@ -55751,7 +55807,9 @@ propagandismo
 propagar
 propagação
 propano
+propanoico
 propanol
+propanóico
 proparoxítono
 propelente
 propenso
@@ -55807,6 +55865,7 @@ proselitar
 proselitismo
 proselitizar
 prosencéfalo
+prosopagnosia
 prosopopeia
 prosopopéia
 prospectar
@@ -55894,6 +55953,7 @@ protocolo
 protocooperação
 protoeslavo
 protoestrela
+protofonia
 protogermânico
 protoindo-europeia
 protoindo-europeu
@@ -55958,6 +56018,7 @@ provável
 provérbio
 província
 proxeneta
+proxenetismo
 proxenêta
 proximal
 proximamente
@@ -56042,6 +56103,7 @@ pródromo
 prógnato
 prólogo
 própio
+própole
 própolis
 próprio
 próspero
@@ -57260,6 +57322,8 @@ raio globular
 raio laser
 raison d'être
 raiva
+raivar
+raivinha
 raivosamente
 raivoso
 raiz
@@ -57717,7 +57781,6 @@ recomeço
 recompensa
 recompensar
 recompor
-recompor-se
 reconciliar
 reconciliação
 reconciliável
@@ -57878,7 +57941,6 @@ referendar
 referendo
 referente
 referir
-referir-se a
 referência
 refill
 refilmagem
@@ -58501,7 +58563,6 @@ responsabilizar
 responsabilização
 responsavelmente
 responsável
-responsável por
 resposta
 resquício
 ressabiar
@@ -59482,6 +59543,7 @@ saguim
 saguão
 sagùi
 sagüi
+sahida
 sahir
 sai fora
 saia
@@ -59981,7 +60043,9 @@ secagem
 secamente
 secante
 secar
+secca
 seccar
+secco
 secessionismo
 secessionista
 secessão
@@ -61794,6 +61858,9 @@ sucata
 sucateamento
 sucatear
 succeder
+successivamente
+successivo
+successo
 succo
 succumbir
 succínico
@@ -62132,7 +62199,9 @@ surucuá
 suruma
 sus
 susceptibilidade
+susceptivel
 susceptível
+suscetibilidade
 suscetível
 suscitar
 suserania
@@ -62205,6 +62274,7 @@ symmétrico
 symptoma
 syncope
 syntaxe
+systema
 systematizar
 szlachta
 sábado
@@ -62263,6 +62333,8 @@ sético
 sétimo
 sétimo céu
 sétuplo
+sêca
+sêco
 sêda
 sêde
 sêmea
@@ -62462,6 +62534,7 @@ taful
 tag
 tagalo
 tagalog
+tagar
 tagarela
 tagarelar
 tagarelice
@@ -62665,6 +62738,7 @@ tapuio
 tapume
 taquara
 taquara rachada
+taquaral
 taquaruçu
 taquiarritmia
 taquicardia
@@ -63207,6 +63281,7 @@ terminal
 terminante
 terminantemente
 terminar
+terminar em pizza
 terminação
 terminologia
 terminologicamente
@@ -63718,7 +63793,6 @@ toma lá dá cá
 tomada
 tomada de decisão
 tomada de decisões
-tomado
 tomahawk
 tomar
 tomar a liberdade
@@ -64490,7 +64564,7 @@ trifólio
 triga
 trigal
 trigamia
-trigar-se
+trigar
 trigo
 trigo-duro
 trigo-mourisco
@@ -64656,6 +64730,7 @@ trocos
 trocável
 trocânter
 trofense
+trofologia
 troféu
 troglodita
 troiana
@@ -65123,6 +65198,7 @@ túnel do carpo
 túngstico
 túnica
 túrgido
+túrquico
 tẽpo
 u
 uacari
@@ -65321,6 +65397,7 @@ unha-de-gato
 unha e carne
 unhar
 unhas-de-gato
+unhinha
 uni-
 uni-duni-tê
 unicamaral
@@ -65695,7 +65772,6 @@ valentia
 valentona
 valentão
 valer
-valer-se de
 valer a pena
 valeriana
 valet
@@ -65927,6 +66003,7 @@ vegetarianismo
 vegetariano
 vegetação
 vehemente
+vehementemente
 vehiculo
 veia
 veia cava
@@ -66270,6 +66347,7 @@ via de regra
 via férrea
 viabilidade
 viabilizar
+viadagem
 viadinho
 viado
 viaduto
@@ -67626,6 +67704,7 @@ zôo
 à vista
 à vontade
 à época
+àrduamente
 àrvorezinha
 às armas
 às arrecuas
@@ -67834,6 +67913,7 @@ zôo
 árbitro
 árbitro da elegância
 árctico
+árduamente
 árduo
 área
 área de serviço

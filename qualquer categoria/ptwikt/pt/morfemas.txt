@@ -57,6 +57,7 @@
 -e
 -ear
 -ecer
+-echo
 -eco
 -ectasia
 -ectomia
@@ -109,6 +110,7 @@
 -ica
 -ical
 -ice
+-icho
 -ico
 -ida
 -idade

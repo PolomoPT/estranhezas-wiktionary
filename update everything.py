@@ -44,4 +44,4 @@ try:
         exec(f.read())
     print("Executed 'criar lista.py' in qualquer categoria")
 except Exception as e:
-    print(f"Error executing 'sem Brazil 1990\\programa\\criar lista.py': {e}")
+    print(f"Error executing 'qualquer categoria\\programa\\criar lista.py': {e}")

@@ -6,16 +6,16 @@
 ! Count
 |-
 |[[/Other#Abbreviations|Abbreviations]]
-| 1081
+| 1088
 |-
 |[[/Adjectives|Adjectives]]
-| 9018
+| 9097
 |-
 |[[/Other#Adverbs|Adverbs]]
 | 404
 |-
 |[[/Other#Affixes|Affixes]]
-| 213
+| 214
 |-
 |[[/Other#Articles|Articles]]
 | 5
@@ -33,7 +33,7 @@
 | 219
 |-
 |[[/Nouns/1|Nouns]]
-| 25839
+| 25921
 |-
 |[[/Other#Prepositions|Prepositions]]
 | 47
@@ -42,12 +42,12 @@
 | 89
 |-
 |[[/Verbs|Verbs]]
-| 3991
+| 3988
 |-
 |[[/Other#Phrases|Phrases]]
-| 641
+| 643
 |-
 |'''Total'''
-| 42023
+| 42191
 |-
 |}

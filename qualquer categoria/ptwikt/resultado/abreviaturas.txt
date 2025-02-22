@@ -14,6 +14,7 @@
 |AAA
 |AAAF
 |AACS
+|AADIC
 |AAS
 |ABAE
 |ABIC
@@ -40,6 +41,8 @@
 |ADoP
 |AEC
 |AEEP
+|AEOP
+|AEPF
 |AEPGA
 |AFA
 |AGIR
@@ -120,6 +123,7 @@
 |APH
 |APHP
 |APIC
+|APIR
 |APIRAC
 |APIT
 |APO
@@ -128,6 +132,7 @@
 |APPI
 |APR
 |APRH
+|APROLEP
 |APROSOC
 |APSI
 |ARDITI
@@ -583,6 +588,7 @@
 |LPP
 |LRP
 |LSD
+|LU.CA
 |M
 |MAAC
 |MAI
@@ -631,7 +637,6 @@
 |Matopiba
 |MdC
 |MdM
-|Mercosul
 |MinC
 |MpD
 |NAC
@@ -802,6 +807,7 @@
 |RCD
 |RCPIT
 |RCPITA
+|REA
 |REDE
 |REP
 |RERE
@@ -863,6 +869,7 @@
 |SICAD
 |SIEM
 |SIGI
+|SINAVE
 |SINTAP
 |SIP
 |SIPA

@@ -88,6 +88,7 @@ B.O.
 B.el
 B.ᵉˡ
 BA
+BACEN
 BBB
 BC
 BCB
@@ -236,6 +237,7 @@ MRE
 MS
 MST
 MT
+Mercosul
 Mq.
 N
 NB

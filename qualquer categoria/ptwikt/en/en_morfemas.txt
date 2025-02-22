@@ -193,6 +193,7 @@
 -tivo
 -triz
 -tório
+-ucha
 -ucho
 -udo
 -ume
@@ -224,6 +225,7 @@
 -íssimo
 -ístico
 -ível
+-óico
 -óide
 -ómano
 -ónimo

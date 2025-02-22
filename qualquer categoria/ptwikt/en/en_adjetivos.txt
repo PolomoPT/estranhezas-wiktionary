@@ -3475,6 +3475,7 @@ benquisto
 bento
 benzoico
 benzílico
+benzóico
 benéfico
 benévolo
 berlinense
@@ -3736,7 +3737,9 @@ burro
 burro como uma porta
 burundês
 buscante
+butanoico
 butanês
+butanóico
 bv
 báltico
 báquico
@@ -4666,6 +4669,7 @@ craseado
 crasso
 crassuláceo
 cravejado
+crazy
 credencial
 credenciável
 creditório
@@ -6196,6 +6200,8 @@ estônio
 estúpido
 estúrdio
 esverdeado
+etanoico
+etanóico
 etarista
 etarra
 eternal
@@ -8517,6 +8523,7 @@ machucado
 macilento
 macio
 maciço
+macrobiótico
 macrocéfalo
 macroeconómico
 macroeconômico
@@ -8555,6 +8562,7 @@ maia
 maior
 maior de idade
 maioritário
+mais louco que o padre do balão
 mais ou menos
 mais perdido que cego em tiroteio
 mais velho que a Sé de Braga
@@ -8866,7 +8874,9 @@ metalotérmico
 metalúrgico
 metamórfico
 metanogênico
+metanoico
 metanotrófico
+metanóico
 metaphysico
 metastático
 metediço
@@ -10002,6 +10012,8 @@ pensador
 pensativo
 pensoso
 pentagonal
+pentanoico
+pentanóico
 pentavalente
 pentelho
 penúltimo
@@ -10193,6 +10205,7 @@ pitoresco
 pitosga
 piurso
 pivotal
+pixaim
 pixelizado
 piá
 placebo
@@ -10536,6 +10549,8 @@ prontinho
 pronto
 pronunciado
 pronóstico
+propanoico
+propanóico
 proparoxítono
 propelente
 propenso
@@ -11367,6 +11382,7 @@ scénico
 scéptico
 seboso
 sebáceo
+secco
 secessionista
 seco
 secreto
@@ -11779,6 +11795,7 @@ subtônico
 suburbano
 subversivo
 subártico
+successivo
 succínico
 sucedâneo
 sucessivo
@@ -11876,6 +11893,7 @@ surreal
 surrealista
 surtseyano
 suruba
+susceptivel
 susceptível
 suscetível
 suspeito
@@ -11922,6 +11940,7 @@ sérvio
 sético
 sétimo
 sétuplo
+sêco
 sênior
 sêxtuplo
 símio
@@ -12157,7 +12176,6 @@ togolês
 tolerante
 tolerável
 tolo
-tomado
 tomara que caia
 tomarense
 tomentoso
@@ -12434,6 +12452,7 @@ tônico
 túmido
 túngstico
 túrgido
+túrquico
 ubérrimo
 ubíquo
 ucraniano

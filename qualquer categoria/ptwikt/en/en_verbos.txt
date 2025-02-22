@@ -5,7 +5,6 @@ ab-rogar
 abacharelar
 abacinar
 abafar
-abafar o caso
 abainhar
 abaixar
 abalançar
@@ -111,6 +110,7 @@ accolher
 accommodar
 accordar
 accreditar
+accumular
 accusar
 acebolar
 aceder
@@ -872,6 +872,7 @@ auto-sabotar
 autocompletar
 autografar
 automatizar
+automedicar
 autopsiar
 autorizar
 autossabotar
@@ -1212,6 +1213,7 @@ carcar
 carcomer
 cardar
 carecer
+carenar
 cariciar
 carimbar
 carpir
@@ -1410,6 +1412,7 @@ coevoluir
 coexistir
 cofiar
 cogitar
+cohibir
 coibir
 coicear
 coimar
@@ -1702,6 +1705,7 @@ craquear
 crasear
 crashar
 cravar
+crear
 crecer
 credenciar
 creditar
@@ -2499,7 +2503,6 @@ divinizar
 divisar
 divorciar
 divulgar
-diz-se
 dizer
 dizer palavrões
 dizer xis
@@ -2958,7 +2961,7 @@ erradicar
 errar
 eructar
 erupcionar
-esbaldar-se
+esbaldar
 esbanjar
 esbardalhar
 esbarrar
@@ -3546,7 +3549,7 @@ forjar
 formalizar
 formar
 formatar
-formicar-se
+formicar
 formigar
 formosear
 formosentar
@@ -3807,6 +3810,7 @@ humanizar
 humedecer
 humidecer
 humidificar
+humildar
 humilhar
 idealizar
 idear
@@ -4111,6 +4115,7 @@ justificar
 kibar
 kickar
 labutar
+lacaiar
 lacerar
 laconisar
 laconizar
@@ -4200,10 +4205,12 @@ limitar
 limpar
 limpar a barra
 limpar o salão
+lincar
 linchar
 lindar
 lingotar
 linguajar
+linkar
 liquefazer
 liquidar
 lisonjar
@@ -4388,7 +4395,6 @@ mesmerizar
 mestrar
 metabolizar
 meter
-meter-se em
 meter a mão na massa
 meter fita
 meter o bedelho
@@ -5066,7 +5072,6 @@ prolongar
 promanar
 prometer
 promiscuir
-promiscuir-se
 promover
 promulgar
 pronunciar
@@ -5193,6 +5198,7 @@ racionar
 radicalizar
 radicar
 raiar
+raivar
 ralar
 ralear
 ralhar
@@ -5289,7 +5295,6 @@ recomendar
 recomeçar
 recompensar
 recompor
-recompor-se
 reconciliar
 reconfirmar
 reconfortar
@@ -5346,7 +5351,6 @@ refazer
 referenciar
 referendar
 referir
-referir-se a
 refinar
 refirir
 reflectir
@@ -5951,6 +5955,7 @@ tabular
 tacar
 tachar
 tactear
+tagar
 tagarelar
 taixar
 talar
@@ -6019,6 +6024,7 @@ ter sol na eira e chuva no nabal
 terceirizar
 tergiversar
 terminar
+terminar em pizza
 terraformar
 terrar
 terçar
@@ -6175,7 +6181,7 @@ triangular
 triar
 tributar
 tricotar
-trigar-se
+trigar
 trilar
 trilhar
 trinar
@@ -6278,7 +6284,6 @@ vagar
 vaguear
 vaiar
 valer
-valer-se de
 valer a pena
 validar
 valorar
