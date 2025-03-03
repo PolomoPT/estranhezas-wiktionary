@@ -528,6 +528,7 @@ inferiormente
 infinitamente
 infra
 inicialmente
+ininterruptamente
 injustamente
 inopinadamente
 inseguramente
@@ -897,6 +898,7 @@ suso
 sussa
 sutilmente
 sãmente
+sòmente
 só
 sómente
 súper

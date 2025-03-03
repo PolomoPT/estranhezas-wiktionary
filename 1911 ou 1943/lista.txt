@@ -446,6 +446,8 @@ daquellas
 daquelle
 daquelles
 daquillo
+de ponta cabeça
+de pontacabeça
 defecção
 dejecto
 dejecção
@@ -517,6 +519,7 @@ ejecção
 electivo
 electricidade
 electricista
+electrico
 electrificado
 electrificar
 electrificação

@@ -1457,6 +1457,7 @@ atrofiar
 atrolhar
 atronar
 atropelar
+attenuar
 atualizar
 atuar
 atucanar
@@ -3665,6 +3666,7 @@ efetivar
 efetuar
 efluir
 egressar
+egualar
 eivar
 ejacular
 ejectar

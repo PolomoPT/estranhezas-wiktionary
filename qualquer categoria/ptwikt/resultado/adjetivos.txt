@@ -459,22 +459,29 @@
 |algarvio
 |algonquiano
 |algáceo
+|alhadense
+|alhandrense
 |alhanse
 |alheado
 |alheeiro<qq:has gl>
+|alhosvedrense
 |aliancista
 |aliciado
 |alijado
 |alimentado
 |alinhavado
 |alisado
+|aljezurense
+|almacedense
 |almadense
 |almadinense
 |almagreirense
 |almancilense
+|almargense
 |almeirinense
 |almejado
 |almenarense
+|almendrense
 |almense
 |almofalense
 |almosterense
@@ -491,18 +498,23 @@
 |alpense
 |alpercatense
 |alpinista
+|alqueidanense
 |alqueidoense
 |alquimista
 |altairense
 |altamirense
+|altarense
 |altariqueiro
+|altense
 |altercado
+|alterense
 |alterniflóreo
 |alterosense
 |altiloqüente
 |altista
 |alto-astral
 |altos
+|alturense
 |altíloquo
 |altívago
 |alucinado
@@ -515,14 +527,20 @@
 |aluminense
 |alunado
 |alvacenta
+|alvaiazerense
 |alvar
 |alvarenguense
+|alvarense
 |alvaresiano
 |alvarizado
+|alveguense
 |alvejado
+|alverquense
 |alvidense
 |alvissareiro
+|alvocense
 |alvoraçado
+|alvorense
 |alvoroçado
 |alárvio<qq:has gl>
 |alçado
@@ -997,6 +1015,7 @@
 |asso
 |assoalhado
 |assoberbado
+|assobiador
 |assolador
 |assonsado
 |assovalhante<qq:has gl>
@@ -1048,6 +1067,7 @@
 |atractivos
 |atracto
 |atractriz
+|atrasadíssimo
 |atravessado
 |atrecido
 |atreito
@@ -1210,6 +1230,7 @@
 |baixo-bretão
 |bajulador
 |balanceiro
+|balasarense
 |balbo
 |balceiro
 |baldeiro<qq:has gl>
@@ -1223,6 +1244,7 @@
 |balsamense
 |balsâmico
 |baltar
+|baltarense
 |baluchoparlante
 |baludo
 |bambara
@@ -1337,6 +1359,7 @@
 |belo-campense
 |belo-horizontino
 |belocampense
+|belverense
 |belígero
 |bem talhado
 |bem-amado
@@ -1539,6 +1562,7 @@
 |brejinhense
 |brejoense
 |brejolandense
+|brenhense
 |brenhoso
 |bretchiano
 |bretemoso<qq:has gl>
@@ -1627,6 +1651,7 @@
 |cabardino
 |cabaçuda
 |cabaçudo
+|cabeceirense
 |cabeça dura
 |cabeçanense
 |cabeçudense
@@ -1931,6 +1956,7 @@
 |cascalense
 |cascalhense
 |cascarejo
+|caseguense
 |casevelense
 |casquense
 |casquinho
@@ -2006,6 +2032,7 @@
 |cedido
 |cedilhado
 |cedofeitense
+|cedrense
 |cedrinense
 |cefaleico
 |ceifador
@@ -2051,6 +2078,7 @@
 |cerimonioso
 |cernachense
 |cerquilhense
+|cesarense
 |cesariano
 |cesarino
 |cessionário
@@ -2137,6 +2165,7 @@
 |cianortense
 |cianípede
 |cianópode
+|ciborrense
 |cicatrizante
 |cicloviário
 |ciclístico
@@ -2245,6 +2274,7 @@
 |colaborador
 |colado
 |colapsível
+|colarense
 |colecionista
 |colegiado
 |colendo
@@ -2374,6 +2404,7 @@
 |conimbrigense
 |conjacuipense
 |conjurado
+|connaisseur
 |conquistado
 |conquistense
 |consabido
@@ -3217,6 +3248,7 @@
 |egresso
 |eguariço
 |egóico
+|eirense
 |eirolense
 |eivado
 |ejetado
@@ -3353,7 +3385,6 @@
 |enfarado
 |enfartado
 |enfeitado
-|enfezado
 |enfiado
 |enfraquecido
 |enfunado
@@ -3795,6 +3826,7 @@
 |fanhoense
 |fanqueirense
 |fantasmal
+|fanzerense
 |fanzoca
 |farejador
 |fareleiro
@@ -3960,6 +3992,7 @@
 |folheira
 |folheiro
 |foliforme
+|folquense
 |fomento
 |fonador
 |fontícola
@@ -4310,6 +4343,7 @@
 |guaiçarense
 |guajeruense
 |guajá
+|gualtarense
 |guanabarense
 |guanambiense
 |guanhanense
@@ -5095,6 +5129,7 @@
 |ituveravense
 |iuiuense
 |ivinhemense
+|ivoiriense
 |ivoraense
 |ivotiense
 |izedense
@@ -5447,6 +5482,7 @@
 |levantada
 |levantado
 |levedado
+|leverense
 |lexificador
 |lezguiano
 |lgbt
@@ -5517,6 +5553,7 @@
 |loeste
 |logomaníaco
 |loio
+|lomarense
 |lombeiro
 |lombão
 |londrinense
@@ -5609,6 +5646,7 @@
 |macaubalense
 |macaubense
 |maceioense
+|maceirense
 |macerado
 |machadense
 |machedense
@@ -5634,6 +5672,7 @@
 |madredeusense
 |maetinguense
 |mafarrico
+|mafrense
 |magano
 |maganão
 |mageense
@@ -5668,6 +5707,7 @@
 |malamanhado
 |malaqueijense
 |malato
+|malaui
 |malauiano
 |malauiense
 |malauita
@@ -6067,6 +6107,7 @@
 |montargilense
 |monte-santense
 |montealtense
+|montelavarense
 |montesaltense
 |montevideuense
 |montijense
@@ -6100,6 +6141,7 @@
 |mosqueada
 |mosqueiro
 |mosqueteiro
+|mosteirense
 |mostrado
 |motejador
 |motivacional
@@ -6382,6 +6424,7 @@
 |oda
 |odemirense
 |odiado
+|odiaxerense
 |odivelense
 |odorífero
 |ofendedor
@@ -6991,6 +7034,7 @@
 |políptico
 |político-administrativo
 |polófono
+|pomarense
 |pombalense
 |pomerânio
 |ponente
@@ -7332,6 +7376,7 @@
 |quebrantado
 |queer
 |queijoso
+|queimadelense
 |queimadense
 |queimoso
 |queimão
@@ -7760,6 +7805,7 @@
 |samotraceno
 |sampaense
 |sampaiense
+|sampedrense
 |sanabrês
 |sancionado
 |sanfonado
@@ -7779,6 +7825,7 @@
 |santa iriense
 |santa-brigidense
 |santa-catarinense
+|santa-clarense
 |santa-cruzense
 |santa-ernestinense
 |santa-lucense
@@ -7966,6 +8013,7 @@
 |sextissecular
 |sexualista
 |seychellense
+|sezurense
 |sgìth
 |siamoparlante
 |sibling
@@ -7980,6 +8028,7 @@
 |silicaluminoso
 |silvaldense
 |silvano
+|silvarense
 |silveirense
 |silvense
 |silvestrino
@@ -8027,6 +8076,7 @@
 |soa
 |soado
 |soalhanense
+|soarense
 |sob júdice
 |sobrado
 |sobralense
@@ -8211,6 +8261,7 @@
 |são-marinhense
 |são-mateuense
 |são-mateusense
+|são-pedrense
 |são-roquense
 |são-tirsense
 |são-tomeense
@@ -8752,6 +8803,7 @@
 |valboeiro
 |valboense
 |valdense
+|valecambrense
 |valencense
 |valentense
 |valentim-gentilense
@@ -8902,12 +8954,14 @@
 |vila-viçosense
 |vilameanense
 |vilamouense
+|vilarense
 |vilarinhense
 |vilarregense
 |vilaçorano
 |vilego<qq:has gl>
 |vileiro
 |vilhenense
+|vimarense
 |vincendo
 |vincular
 |vinhalense

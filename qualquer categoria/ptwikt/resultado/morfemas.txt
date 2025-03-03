@@ -15,7 +15,6 @@
 |-bio
 |-bote
 |-caína
-|-cola
 |-coniose
 |-craft
 |-cultor

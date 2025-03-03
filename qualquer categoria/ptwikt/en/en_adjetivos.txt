@@ -2783,6 +2783,7 @@ aquivo
 aquoso
 aquático
 aquícola
+aqüícola
 arabescado
 arabófono
 aracniforme
@@ -5608,6 +5609,7 @@ einsteiniano
 elaborado
 elativo
 electivo
+electrico
 electrificado
 electrizante
 electroacústico
@@ -5798,6 +5800,7 @@ enfeitiçado
 enfermiço
 enfermo
 enferrujado
+enfezado
 enfitêutico
 enfumaçado
 enfático
@@ -6172,6 +6175,7 @@ estroboscópico
 estromal
 estrompado
 estropiado
+estrumbado
 estrutural
 estrábico
 estrénuo
@@ -8323,6 +8327,7 @@ lessepsiano
 lesto
 letal
 letivo
+leto
 letrado
 letárgico
 letão
@@ -8479,6 +8484,7 @@ lédo
 lémnio
 lépido
 lésbico
+lético
 léxico
 lêmnio
 lêntico
@@ -11377,7 +11383,6 @@ sceptico
 sciente
 scientifico
 scientífico
-sciêntífico
 scénico
 scéptico
 seboso
@@ -12960,6 +12965,7 @@ zygomatico
 ápodo
 áqueo
 áquico
+áqüico
 árabe
 árctico
 árduo

@@ -87,7 +87,7 @@ with open(nonlemma_file_path, 'r', encoding='utf-8') as input_file, open(co_re_f
 
 uncountable_file_path = 'qualquer categoria\\listas diversas\\uncountable.txt'
 
-with open(nonlemma_file_path, 'r', encoding='utf-8') as input_file, open(uncountable_file_path, 'a', encoding='utf-8') as output_file:
+with open(nonlemma_file_path, 'r', encoding='utf-8') as input_file, open(uncountable_file_path, 'w', encoding='utf-8') as output_file:
     for line in input_file:
         match = re.search('(logia|fobia|dade)s(?= |-) ', line) or re.search('(logia|fobia|dade)s$', line)
         if match:

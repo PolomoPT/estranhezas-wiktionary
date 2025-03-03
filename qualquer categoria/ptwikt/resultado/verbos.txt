@@ -773,6 +773,7 @@
 |atricular
 |atrolhar
 |atronar
+|attenuar
 |atuir
 |atulhar
 |atumultuar
@@ -1809,6 +1810,7 @@
 |efeminar
 |efervescer
 |egressar
+|egualar
 |elar
 |electrolisar
 |eletrocutir
@@ -1948,7 +1950,6 @@
 |enfastiar
 |enfeixar
 |enfermar
-|enfezar
 |enfiar bufa no cordão
 |enfiar os pés pelas mãos
 |enfonchar<qq:has gl>

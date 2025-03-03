@@ -1857,6 +1857,7 @@ Campolide
 Campos
 Campos Altos
 Campos Borges
+Campos Elísios
 Campos Gerais
 Campos Novos
 Campos Novos Paulista
@@ -2273,6 +2274,7 @@ Clara
 Claraval
 Claro dos Poções
 Cleber
+Cleide
 Cleiton
 Clemente
 Clementina
@@ -4043,6 +4045,7 @@ Herval
 Herval d'Oeste
 Herveiras
 Herzegovina
+Herzegóvina
 Heráclion
 Heráclito
 Heródoto
@@ -4150,6 +4153,7 @@ Héstia
 Híades
 Hígia
 Hórus
+I-Juca-Pirama
 IA
 IBAMA
 IBAS
@@ -5280,6 +5284,7 @@ Lineu
 Linguagem de Marcação de Hipertexto
 Linha Nova
 Lins
+Linux
 Lipetsk
 Lisboa
 Listenstaine
@@ -6188,6 +6193,7 @@ Negueb
 Neguebe
 Neguev
 Nehemias
+Neila
 Nelas
 Nem
 Neotrópico
@@ -9336,7 +9342,6 @@ ULA
 UNASUL
 UNESCO
 UNITA
-UOL
 UPP
 URL amigável
 URSAL
@@ -9783,6 +9788,7 @@ Xiraz
 Xisto
 Xiva
 Xororó
+Xuxa
 Y
 Yaeko
 Yaguchi
@@ -14511,9 +14517,12 @@ aquário
 aqué
 aquénio
 aquênio
+aquícola
 aquífero
 aqùífero
 aqüeduto
+aqüiclude
+aqüícola
 aqüífero
 ar
 ar-condicionado
@@ -24677,6 +24686,7 @@ elativo
 ele
 electricidade
 electricista
+electrico
 electrificação
 electroacústica
 electrobiologia
@@ -32084,8 +32094,8 @@ latejo
 lateral
 laticínio
 latido
-latifundio
 latifundiário
+latifúndio
 latim
 latim antigo
 latim clássico
@@ -32326,9 +32336,13 @@ lesão
 lesão corporal
 lesão em chicote
 lesão por esforço repetitivo
+leta
 letalidade
 letargia
 letissimulação
+leto
+letoniano
+letonês
 letra
 letrada
 letrado
@@ -32340,6 +32354,8 @@ letrista
 lettra
 letã
 letão
+letónio
+letônio
 leu
 leucemia
 leucemia linfoblástica aguda
@@ -33011,6 +33027,7 @@ lépton
 léria
 lés
 lésbica
+lético
 léu
 léxico
 léxicon
@@ -36206,6 +36223,7 @@ notívago
 nougat
 noute
 nova
+nova-iorquina
 nova-iorquino
 nova ordem mundial
 novato
@@ -36571,6 +36589,7 @@ oftalmoscópio
 oftalmotorrinolaringologista
 oftalmóloga
 oftalmólogo
+ofuro
 ofurô
 ofício
 ofídio
@@ -36878,6 +36897,7 @@ oromo
 orquestra
 orquestra de câmara
 orquidário
+orquiectomia
 orquídea
 orthographia
 ortiga
@@ -37372,7 +37392,9 @@ papagaio-do-mar
 papagaio-do-mar-do-atlântico
 papagaio de pirata
 papai
+papai-mamãe
 papai do céu
+papai e mamãe
 papaia
 papamóvel
 paparazzi
@@ -39526,6 +39548,7 @@ posição
 posição anatómica
 posição anatômica
 posição de Trendelenburg
+posição papai-mamãe
 posição papai e mamãe
 posologia
 posposição
@@ -40554,6 +40577,7 @@ pé-de-galinha
 pé-de-gato
 pé-de-meia
 pé-de-moleque
+pé-de-moça
 pé-de-pato
 pé-direito
 pé-grande
@@ -44111,6 +44135,7 @@ subordinação
 suborno
 subpasta
 subproduto
+subpágina
 subscrito
 subscritor
 subscritora
@@ -44788,6 +44813,7 @@ taoísmo
 tapa
 tapa-olho
 tapa-sexo
+tapa na barata
 tapada
 tapado
 tapajoara

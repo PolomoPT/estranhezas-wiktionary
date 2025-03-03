@@ -6,7 +6,6 @@
 +/-
 +QD+
 -a
--abilidade
 -acho
 -ada
 -ado
@@ -47,6 +46,7 @@
 -centrismo
 -cida
 -cito
+-cola
 -cracia
 -crata
 -cêntrico
@@ -122,7 +122,6 @@
 -gráfico
 -ia
 -iano
--ibilidade
 -ice
 -icho
 -ico
@@ -2145,6 +2144,7 @@ Campolide
 Campos
 Campos Altos
 Campos Borges
+Campos Elísios
 Campos Gerais
 Campos Novos
 Campos Novos Paulista
@@ -2561,6 +2561,7 @@ Clara
 Claraval
 Claro dos Poções
 Cleber
+Cleide
 Cleiton
 Clemente
 Clementina
@@ -4204,6 +4205,7 @@ Guerra dos Canudos
 Guerra dos Cem Anos
 Guerra dos Trinta Anos
 Gugu
+Gui
 Guiana
 Guiana Francesa
 Guiana Holandesa
@@ -4356,6 +4358,7 @@ Herval
 Herval d'Oeste
 Herveiras
 Herzegovina
+Herzegóvina
 Heráclion
 Heráclito
 Heródoto
@@ -4464,6 +4467,7 @@ Híades
 Hígia
 Hórus
 I
+I-Juca-Pirama
 IA
 IBAMA
 IBAS
@@ -5593,6 +5597,7 @@ Limburg
 Limburgo
 Limeira
 Limeira do Oeste
+Limpopo
 Limusino
 Lincoln
 Lindolfo Collor
@@ -5602,6 +5607,7 @@ Lineu
 Linguagem de Marcação de Hipertexto
 Linha Nova
 Lins
+Linux
 Lipetsk
 Lisboa
 Listenstaine
@@ -6514,6 +6520,7 @@ Negueb
 Neguebe
 Neguev
 Nehemias
+Neila
 Nelas
 Nem
 Neotrópico
@@ -9680,7 +9687,6 @@ ULA
 UNASUL
 UNESCO
 UNITA
-UOL
 UPP
 URL amigável
 URSAL
@@ -9780,6 +9786,7 @@ Uzbequistão
 V
 V.
 V.Exa
+V.M.
 V.S.ª
 V. Ex.ª
 VAR
@@ -10025,6 +10032,7 @@ Vorontsov
 Vossa Alteza
 Vossa Excelência
 Vossa Majestade
+Vossa Majestade Imperial
 Votorantim
 Votuporanga
 Vouga
@@ -10137,6 +10145,7 @@ Xiraz
 Xisto
 Xiva
 Xororó
+Xuxa
 Y
 Yaeko
 Yaguchi
@@ -10927,6 +10936,7 @@ acabamento
 acabar
 acabar com
 acabar com o sofrimento
+acabar de
 acabar em pizza
 acabrunhar
 acacetina
@@ -16579,6 +16589,7 @@ antigênico
 antigùidade
 antigüidade
 antihackers
+antiimperialista
 antiinflamatório
 antijacobino
 antijaponês
@@ -17986,6 +17997,7 @@ appelaçam
 appelaçaõ
 appelação
 appelido
+appellar
 appellaçam
 appellaçaõ
 appellação
@@ -18208,6 +18220,7 @@ aquaticamente
 aquatinta
 aquavit
 aquação
+aque-
 aque-d'el-rei
 aquecedor
 aquecer
@@ -18282,6 +18295,8 @@ aquícola
 aquífero
 aqùífero
 aqüeduto
+aqüiclude
+aqüícola
 aqüífero
 ar
 ar-condicionado
@@ -19895,6 +19910,7 @@ atravessar o Rubicão
 atravez
 através
 através de
+atraz
 atração
 atração de van der Waals
 atraído
@@ -21294,6 +21310,7 @@ bazar
 bazofiador
 bazofiar
 bazuca
+bazé
 bazófia
 baço
 baía
@@ -21895,6 +21912,7 @@ biscoiteira
 biscoiteiro
 biscoito
 biscoito da sorte
+biscouto
 bisectriz
 bisfenol
 bislama
@@ -22519,6 +22537,7 @@ boémiamente
 boémio
 boêmiamente
 boêmio
+boîte
 br
 brabo
 bracarense
@@ -25409,6 +25428,7 @@ chapim
 chapim-azul
 chapim-preto
 chapim azul
+chapinha
 chapinhar
 chapèuzinho
 chapéu
@@ -26972,7 +26992,6 @@ communidade
 commêço
 como
 como assim
-como de costume
 como diria Jack o Estripador, vamos por partes
 como em cima, assim embaixo
 como já era de esperar
@@ -29047,6 +29066,7 @@ cunhado
 cunhagem
 cunhantã
 cunhar
+cunharapixara
 cunhatã
 cunheta
 cunho
@@ -29749,6 +29769,7 @@ de certo
 de chofre
 de cor
 de cor e salteado
+de costume
 de cu é rola
 de dia
 de direita
@@ -30469,6 +30490,7 @@ desabitado
 desabituar
 desabonar
 desabotoar
+desabrasileirar
 desabraçar
 desabridamente
 desabrido
@@ -30631,6 +30653,7 @@ desbloqueio
 desbocado
 desbotado
 desbotar
+desbrasileirar
 desbravador
 descabelado
 descabelar
@@ -31852,7 +31875,9 @@ diplomacia
 diplomar
 diplomata
 diplomaticamente
+diplomàticamente
 diplomática
+diplomáticamente
 diplomático
 dipnoico
 dipnóico
@@ -32260,6 +32285,7 @@ do balacobaco
 do caralho
 do caramba
 do contra
+do costume
 do dia para a noite
 do dia pra noite
 do fundo do coração
@@ -32853,6 +32879,7 @@ eco
 eco-
 ecoar
 ecocardiografia
+ecoduto
 ecografia
 ecogénico
 ecogênico
@@ -33077,6 +33104,7 @@ ele
 electivo
 electricidade
 electricista
+electrico
 electrificado
 electrificar
 electrificação
@@ -33962,6 +33990,8 @@ enfermo
 enferrujado
 enferrujamento
 enferrujar
+enfezado
+enfezar
 enfiar
 enfiar a faca
 enfiar o pé na jaca
@@ -35936,6 +35966,7 @@ estructura
 estrufegar
 estrugido
 estrumar
+estrumbado
 estrume
 estrumpfe
 estrunfe
@@ -38589,6 +38620,7 @@ frustro
 fruta
 fruta-de-manteiga
 fruta-do-conde
+fruta-pinha
 fruta-pão
 frutado
 frutarianismo
@@ -40027,6 +40059,7 @@ governo
 govêrno
 goy
 goyaba
+goyroroba
 gozada
 gozado
 gozar
@@ -40568,6 +40601,7 @@ gémeo
 gémeo siamês
 género
 génese
+génia
 génio
 gérmen
 gérmen de trigo
@@ -40578,6 +40612,7 @@ gêmeo
 gêmeo siamês
 gênero
 gênese
+gênia
 gênio
 gênti
 gínglimo
@@ -40803,6 +40838,7 @@ hematologista
 hematológico
 hematoma
 hematócito
+hematófago
 hematólogo
 hematúria
 hemeródromo
@@ -40845,6 +40881,7 @@ hendíade
 hendíadis
 henry
 hentai
+henê
 hepatite
 hepatoma
 heptacampeão
@@ -40892,9 +40929,11 @@ hermão
 hermético
 herniotomia
 herniário
+heroe
 heroicamente
 heroicidade
 heroico
+heroina
 heroína
 heroísmo
 herpes
@@ -41347,6 +41386,8 @@ holerite
 holiganismo
 holismo
 holista
+hollandez
+hollandeza
 holo-
 holobionte
 holoblástico
@@ -44438,6 +44479,7 @@ lacrar
 lacrau
 lacração
 lacre
+lacrear
 lacrimal
 lacrimejante
 lacrimejar
@@ -44712,8 +44754,8 @@ lateral
 lateralmente
 laticínio
 latido
-latifundio
 latifundiário
+latifúndio
 latim
 latim antigo
 latim clássico
@@ -45022,12 +45064,16 @@ lesão
 lesão corporal
 lesão em chicote
 lesão por esforço repetitivo
+leta
 letal
 letalidade
 letalmente
 letargia
 letissimulação
 letivo
+leto
+letoniano
+letonês
 letra
 letrada
 letrado
@@ -45042,6 +45088,8 @@ letã
 letão
 letífero
 letífico
+letónio
+letônio
 leu
 leucemia
 leucemia linfoblástica aguda
@@ -45911,6 +45959,7 @@ léria
 lés
 lésbica
 lésbico
+lético
 léu
 léxico
 léxicon
@@ -46895,6 +46944,7 @@ marselhês
 marshallês
 marshmallow
 marsupial
+marsuíno
 marsúpio
 marta
 marta europeia
@@ -46905,6 +46955,7 @@ martelo
 martim-pescador
 martirizar
 martirológio
+martyrio
 martyrisar
 martíni
 martírio
@@ -48514,6 +48565,7 @@ monitor
 monitorado
 monitorar
 monitoração
+monitoria
 monitorizar
 monja
 mono
@@ -49234,6 +49286,7 @@ mão de ferro
 mão de obra
 mão de vaca
 mão francesa
+mão furada
 mão inglesa
 mão na roda
 mãos ao alto
@@ -49246,6 +49299,7 @@ mãtimento
 mãtimẽto
 mãy
 mès
+mé
 média
 média aritmética
 média harmónica
@@ -49448,6 +49502,7 @@ namorida
 namorido
 namoro
 namíbio
+namôro
 nana
 nananinanão
 nanar
@@ -50226,6 +50281,7 @@ nougat
 noute
 nouturno
 nova
+nova-iorquina
 nova-iorquino
 nova ordem mundial
 novamente
@@ -50866,6 +50922,7 @@ oftalmotorrinolaringologista
 oftalmóloga
 oftalmólogo
 oftálmico
+ofuro
 ofurô
 ofuscante
 ofuscar
@@ -51354,6 +51411,7 @@ orquestral
 orquestrar
 orquidáceo
 orquidário
+orquiectomia
 orquídea
 orthographia
 ortiga
@@ -52022,7 +52080,9 @@ papagaio velho não aprende a falar
 papagaios
 papaguear
 papai
+papai-mamãe
 papai do céu
+papai e mamãe
 papaia
 papal
 papamóvel
@@ -53051,6 +53111,7 @@ pensador
 pensadora
 pensamento
 pensamento desejoso
+pensamento intrusivo
 pensar
 pensar com seus botões
 pensar duas vezes
@@ -53123,6 +53184,8 @@ peptídeo
 peptídico
 peptídio
 pequena
+pequenez
+pequeneza
 pequenininho
 pequenino
 pequenito
@@ -54935,6 +54998,7 @@ posição
 posição anatómica
 posição anatômica
 posição de Trendelenburg
+posição papai-mamãe
 posição papai e mamãe
 posologia
 pospor
@@ -56468,6 +56532,7 @@ pé-de-galinha
 pé-de-gato
 pé-de-meia
 pé-de-moleque
+pé-de-moça
 pé-de-pato
 pé-direito
 pé-grande
@@ -59205,6 +59270,7 @@ roupão
 rouquidão
 rousseauniano
 rousseaunismo
+router
 rouxinol
 roxinho
 roxo
@@ -59997,7 +60063,6 @@ scintilar
 scintillar
 scisão
 sciência
-sciêntífico
 scrapie
 screencast
 screenshot
@@ -61780,6 +61845,7 @@ subornar
 suborno
 subpasta
 subproduto
+subpágina
 subsaariano
 subscrever
 subscrito
@@ -62285,6 +62351,7 @@ sádico
 sáfico
 sálvia
 sápido
+sári
 sátira
 sátiro
 sátrapa
@@ -62714,6 +62781,7 @@ taoísmo
 tapa
 tapa-olho
 tapa-sexo
+tapa na barata
 tapada
 tapado
 tapajoara
@@ -63222,6 +63290,7 @@ ter
 ter a ver
 ter bicho-carpinteiro
 ter como
+ter de
 ter dois pés esquerdos
 ter em mente
 ter em vista
@@ -64402,6 +64471,7 @@ travestido
 travestir
 travo
 travão
+traz
 trazer
 trazer ao mundo
 traça
@@ -64560,6 +64630,7 @@ triestino
 trifle
 trifluoreto
 trifurcado
+trifásico
 trifólio
 triga
 trigal
@@ -67115,6 +67186,7 @@ wiki
 wikificar
 wikificação
 wikimedista
+wikimedista em residência
 wikipediano
 wikipedista
 wireless
@@ -67904,6 +67976,7 @@ zôo
 áqueo
 áquico
 áquila
+áqüico
 árabe
 árabe andaluz
 árabe clássico

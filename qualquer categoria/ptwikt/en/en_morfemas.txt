@@ -1,5 +1,4 @@
 -a
--abilidade
 -acho
 -ada
 -ado
@@ -40,6 +39,7 @@
 -centrismo
 -cida
 -cito
+-cola
 -cracia
 -crata
 -cêntrico
@@ -115,7 +115,6 @@
 -gráfico
 -ia
 -iano
--ibilidade
 -ice
 -icho
 -ico
@@ -272,6 +271,7 @@ aorto-
 apico-
 apo-
 aqua-
+aque-
 aqui-
 aquo-
 arco-
