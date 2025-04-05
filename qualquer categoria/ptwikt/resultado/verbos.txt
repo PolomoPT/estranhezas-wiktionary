@@ -136,7 +136,6 @@
 |aburilar
 |aburrinhar
 |abvolar
-|acabar de
 |acaboclar
 |acabramar
 |acachafundar
@@ -197,7 +196,6 @@
 |acendrar
 |aceniscar
 |acepilhar
-|acepipar
 |acequiar
 |acerejar
 |acerolhar
@@ -805,6 +803,7 @@
 |avinhar
 |aviscar<qq:has gl>
 |avizinhar
+|avoar
 |avolumar
 |avortar
 |avultar
@@ -886,7 +885,6 @@
 |bater perna
 |bater pratos
 |bater roupa
-|bath
 |beber do próprio veneno
 |beber os ares por
 |beber sobre dente
@@ -964,6 +962,7 @@
 |botar no bolso
 |botar no chinelo
 |botar no olho da rua
+|botar os pingos nos is
 |botar panos quentes
 |botar pra jogo
 |botar pra lascar
@@ -992,7 +991,6 @@
 |bular
 |bulatar
 |buligar<qq:has gl>
-|bumbar
 |bungular
 |bunhar
 |burburejar
@@ -1102,6 +1100,8 @@
 |carboidratar
 |carbonar
 |carinhar
+|carnavalear
+|carnavalizar
 |carnear
 |carpelar
 |carpetar
@@ -2102,7 +2102,6 @@
 |esbofetar
 |esbolar
 |esbordoar
-|esborrachar
 |esbritar
 |esbrugar
 |esburgar
@@ -2114,7 +2113,6 @@
 |escafular
 |escalambrar
 |escalaçar<qq:has gl>
-|escambar
 |escambrar
 |escampar
 |escanar
@@ -2152,7 +2150,6 @@
 |escorvar
 |escoscar<qq:has gl>
 |escouçar
-|escrachar
 |escrachetar
 |escrafular
 |escrotizar
@@ -2223,7 +2220,6 @@
 |esparregar
 |esparrinhar
 |esparsar
-|espatifar
 |espelir<qq:has gl>
 |espenujar
 |esperançar
@@ -2252,7 +2248,6 @@
 |estalicar<qq:has gl>
 |estalquear
 |estandarizar
-|estapear
 |estar a jeito
 |estar apertado
 |estar apertado da brocha
@@ -2443,6 +2438,7 @@
 |fertir
 |fervelhar
 |fervilhetar
+|fetichizar
 |ficar a ver navios
 |ficar ao Deus dará
 |ficar cantando de galo
@@ -2603,6 +2599,7 @@
 |garimpar
 |garrular
 |gasear
+|gastar o latim
 |gastar o seu latim
 |gatafunhar
 |gauderar
@@ -2885,8 +2882,6 @@
 |labrestar
 |labuzar
 |lacar
-|lacear
-|lacrear
 |lacrimar
 |ladroeirar
 |laiar<qq:has gl>
@@ -3222,6 +3217,7 @@
 |penicar
 |peniscar
 |percolar
+|perder o latim
 |pererecar
 |perfeccionar
 |perfectibilizar
@@ -3267,7 +3263,6 @@
 |poltronear
 |pombear
 |pombeirar
-|pontapear
 |pontear
 |porcionar
 |portugalizar
@@ -3305,13 +3300,13 @@
 |profundar
 |prolatar
 |promandar
+|prometter
 |propagandear
 |propalar
 |propelir
 |propender
 |propinar
 |propositar
-|propugnar
 |prorromper
 |protocolar
 |psicografar
@@ -3386,6 +3381,7 @@
 |recoletar
 |recolhe
 |recolonizar
+|recommendar
 |recongraçar
 |reconvir
 |recordou
@@ -3503,7 +3499,6 @@
 |reverdecer
 |reverencia
 |revirar os olhos
-|reviver
 |revolucionar
 |rexurdir<qq:has gl>
 |rifar<qq:has gl>
@@ -3682,8 +3677,6 @@
 |tangenciar
 |tanguear
 |tanoar
-|tapear
-|tapetar
 |tapeçar
 |tapizar
 |taquigrafar
@@ -3731,6 +3724,7 @@
 |ter confiança
 |ter cuidado
 |ter lugar
+|ter pé
 |tercetar
 |terebintinar
 |terebrar

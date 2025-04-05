@@ -155,6 +155,7 @@ incorrectamente
 incorrecto
 indirecta
 indirecto
+inexactidão
 infractor
 infracção
 injectar

@@ -141,6 +141,7 @@ sem
 sob
 sobre
 sôbre
+traz
 trás
 té
 versus

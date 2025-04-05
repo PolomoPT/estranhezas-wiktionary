@@ -84,7 +84,6 @@
 |-uo
 |-usco
 |-uxa
-|-uxo
 |-uço
 |-vel
 |-zar
@@ -123,6 +122,7 @@
 |enantio-
 |entero-
 |equo-
+|esquizo-
 |estato-
 |et-
 |eu-
@@ -141,6 +141,7 @@
 |helio-
 |hemo-
 |hepta-
+|hiero-
 |i-
 |ign-
 |igni-
@@ -168,6 +169,7 @@
 |nuper-
 |não-
 |odonto-
+|oniro-
 |oro-
 |para-
 |patri-

@@ -77,14 +77,20 @@
 |atrasmente
 |atropeladamente
 |atá
+|autobiograficamente
 |avançadamente
+|axiologicamente
 |baixinho
 |baixo
 |baralhadamente
 |barato
 |baril
+|beatificamente
 |beleza
+|beneficamente
 |benignamente
+|biograficamente
+|biotecnologicamente
 |bissexualmente
 |boamente
 |bofá
@@ -98,11 +104,16 @@
 |cajo
 |caladamente
 |caracteristicamente
+|cartograficamente
+|catastroficamente
+|cenograficamente
 |cerce
 |chega
+|cinematograficamente
 |cinquenta/cinquenta
 |circunspectamente
 |clandestinamente
+|claustrofobicamente
 |commummente
 |comprovadamente
 |conaturalmente
@@ -119,7 +130,9 @@
 |convictamente
 |copiosamente
 |corcunhas
+|coreograficamente
 |correndinho
+|criptograficamente
 |cristãmente
 |dançandinho
 |daquela<qq:has gl>
@@ -127,7 +140,10 @@
 |debalde
 |debaxo
 |definidamente
+|demograficamente
+|demoniacamente
 |demoradamente
+|dende
 |denodadamente
 |densamente
 |depreciativamente
@@ -142,6 +158,7 @@
 |detidamente
 |devera
 |dignamente
+|discograficamente
 |discriminadamente
 |discutidamente
 |distritalmente
@@ -150,6 +167,7 @@
 |dorosamente
 |draconianamente
 |duramente
+|ecograficamente
 |educacionalmente
 |educativamente
 |electricamente
@@ -164,6 +182,8 @@
 |entremente
 |entrenoite
 |entrenoute
+|epigraficamente
+|episodicamente
 |equilibradamente
 |eruditamente
 |escassamente
@@ -173,6 +193,7 @@
 |estenograficamente
 |estereotipicamente
 |estonces
+|estratigraficamente
 |eufemisticamente
 |exaustivamente
 |excentricamente
@@ -180,7 +201,10 @@
 |exclusive
 |extrabarreiras
 |extramuros
+|extrinsecamente
+|farisaicamente
 |faticamente
+|fatidicamente
 |femininamente
 |fifty-fifty
 |figuradamente
@@ -192,22 +216,31 @@
 |frente-a-frente
 |fundo
 |futuramente
+|geoestrategicamente
+|geomorfologicamente
 |glè
 |gostoso
 |harto
+|heraldicamente
 |heterossexualmente
 |hierarquicamente
+|historiograficamente
+|holograficamente
 |homossexualmente
+|honorificamente
 |horariamente
 |hourly
 |humanamente
 |humildosamente
 |ibidem
+|iconograficamente
 |ignobilmente
 |ignominiosamente
+|imagiologicamente
 |imediato
 |imprevistamente
 |impropriamente
+|impudicamente
 |in
 |in memoriam
 |inagora
@@ -232,11 +265,13 @@
 |irrefletidamente
 |irrespectivo
 |irritantemente
+|isomorficamente
 |jamé
 |jubilantemente
 |jubilosamente
 |judicialmente
 |justo
+|laicamente
 |legal
 |legislativamente
 |lento
@@ -245,8 +280,11 @@
 |linguisticamente
 |liso
 |logaritmicamente
+|lombalgicamente
 |longitudinalmente
+|ludicamente
 |maciçamente
+|magnificamente
 |maino<qq:has gl>
 |mal-mal
 |mal-pecado
@@ -256,24 +294,30 @@
 |malmentinhos
 |malpecado
 |malpocado<qq:has gl>
+|maniacamente
 |mansamente
 |manso
 |masculinamente
 |massivamente
 |mei
+|melancholicamente
 |melhor
 |melhormente
+|melodicamente
 |mentes
 |mentres<qq:has gl>
 |milhor
 |militarmente
 |minado
+|mineralogicamente
 |minimamente
 |minoritariamente
 |miraculosamente
 |modernamente
 |moito
 |momentaneamente
+|monocordicamente
+|monograficamente
 |muite
 |muitíssimo
 |mum
@@ -293,9 +337,13 @@
 |negativo
 |nente
 |nessora
+|neurobiologicamente
+|neurocientificamente
+|neurofisiologicamente
 |nicles
 |nimiamente
 |nominalmente
+|nostalgicamente
 |noutrora
 |nõ
 |obliquamente
@@ -304,14 +352,19 @@
 |odiosamente
 |off
 |omnimodamente
+|oncologicamente
 |onlaine
 |onte
+|opacamente
 |operosamente
 |organizadamente
+|orograficamente
+|ortopedicamente
 |ousadamente
 |outrures
 |pagãmente
 |parcamente
+|parodicamente
 |passadamente
 |passeninho<qq:has gl>
 |passo
@@ -322,6 +375,7 @@
 |pesado
 |placidamente
 |pluralmente
+|pornograficamente
 |pousão<qq:has gl>
 |precedentemente
 |precipuamente
@@ -329,9 +383,13 @@
 |primorosamente
 |prodigamente
 |profeticamente
+|prolificamente
 |propositalmente
+|prosaicamente
+|prosodicamente
 |prosperamente
 |pró
+|pudicamente
 |pulandinho
 |qualitativamente
 |quantitativamente
@@ -339,6 +397,7 @@
 |quiçais<qq:has gl>
 |quotidianamente
 |racistamente
+|radiograficamente
 |redondamente
 |refece
 |rejo<qq:has gl>
@@ -350,13 +409,17 @@
 |retroativamente
 |rijamente
 |rotineiramente
+|sadicamente
+|salvificamente
 |sarcasticamente
 |scilicet
 |seguido
 |sentenciosamente
 |sequera
+|seraficamente
 |serialmente
 |servilmente
+|silabicamente
 |silandeiro<qq:has gl>
 |singularmente
 |soberbamente
@@ -373,23 +436,33 @@
 |tacitamente
 |taquigraficamente
 |tefe-tefe
+|telegraficamente
 |televisivamente
 |tempestivamente
+|terrificamente
+|tipograficamente
 |tira-que-tira
 |tode
+|topograficamente
 |torpemente
 |torrencialmente
 |toscamente
+|toxicologicamente
 |transitoriamente
 |transversalmente
+|tribologicamente
 |trás
 |tão só
 |tão-somente
 |tão-só
+|técnico-cientificamente
+|técnico-juridicamente
 |ulo<qq:has gl>
 |ulteriormente
 |variamente
 |velaí<qq:has gl>
+|velhacamente
+|veridicamente
 |virulentamente
 |vividamente
 |à tona
@@ -402,3 +475,4 @@
 |às carranholas
 |âmen
 |ãa
+|ético-juridicamente

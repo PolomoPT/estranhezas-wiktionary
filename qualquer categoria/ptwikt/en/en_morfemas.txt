@@ -173,6 +173,7 @@
 -oma
 -ona
 -onímia
+-opia
 -ose
 -oso
 -oto
@@ -313,6 +314,7 @@ deci-
 demo-
 des-
 di-
+diplo-
 dis-
 duo-
 e-

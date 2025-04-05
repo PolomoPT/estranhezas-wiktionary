@@ -319,6 +319,7 @@ animisticamente
 anionicamente
 anisotropicamente
 anistoricamente
+annualmente
 ano que vem
 anodicamente
 anomalamente
@@ -513,6 +514,7 @@ atraiçoadamente
 atrativamente
 atravez
 através
+atraz
 atrevidamente
 atrozmente
 atrás
@@ -659,7 +661,6 @@ comicamente
 comigo
 commigo
 como
-como de costume
 como já era de esperar
 como já era de se esperar
 como o caralho
@@ -824,6 +825,8 @@ de nenhuma maneira
 de noite
 de novo
 de olho
+de onde a onde
+de onde em onde
 de papel passado
 de par em par
 de permeio
@@ -957,6 +960,8 @@ diligentemente
 dinamicamente
 dinâmicamente
 diplomaticamente
+diplomàticamente
+diplomáticamente
 directamente
 diretamente
 direto
@@ -1304,6 +1309,7 @@ habitualmente
 harmonicamente
 harmoniosamente
 hedonicamente
+hermeneuticamente
 hermeticamente
 heroicamente
 heròicamente

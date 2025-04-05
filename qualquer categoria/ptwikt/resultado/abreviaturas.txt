@@ -18,6 +18,7 @@
 |AAIPS
 |AAS
 |ABAE
+|ABC
 |ABIC
 |ABP
 |AC
@@ -45,6 +46,7 @@
 |AEOP
 |AEPF
 |AEPGA
+|AEPSA
 |AFA
 |AGIR
 |AGU
@@ -77,6 +79,7 @@
 |AMF
 |AMM
 |AMP
+|AMRAM
 |AMRS
 |AMS
 |ANAC
@@ -101,6 +104,7 @@
 |ANVISA
 |AO
 |AO1990
+|AOA
 |AOFA
 |AOLP
 |AOP
@@ -132,7 +136,9 @@
 |APIT
 |APO
 |APOM
+|APOTEC
 |APP
+|APPA
 |APPI
 |APR
 |APRH
@@ -446,6 +452,7 @@
 |FNAM
 |FND
 |FNDE
+|FNS
 |FOB
 |FONP
 |FPAS
@@ -473,6 +480,7 @@
 |GIP
 |GIPS
 |GLP
+|GMCL
 |GNC
 |GNS
 |GPIAAF
@@ -499,6 +507,7 @@
 |IASAÚDE
 |IASD
 |IB
+|IBMC
 |IC
 |ICAO
 |ICAP
@@ -707,7 +716,6 @@
 |PCdoB
 |PDC
 |PDS
-|PDT
 |PDU
 |PDV
 |PEAD
@@ -762,6 +770,7 @@
 |PQ
 |PRB
 |PRC
+|PREVPAP
 |PRN
 |PROINFO
 |PRONA
@@ -777,7 +786,6 @@
 |PST
 |PSTU
 |PSU
-|PTB
 |PTC
 |PTFE
 |PTN
@@ -970,7 +978,6 @@
 |UERJ
 |UFCE
 |UFES
-|UFF
 |UFLA
 |UFMS
 |UFPE
@@ -1053,6 +1060,7 @@
 |g
 |i.e.
 |id.
+|lda.
 |lgbt
 |libras
 |m
@@ -1089,5 +1097,4 @@
 |v.t.d.
 |wysiwyg
 |Ár
-|ã
 |ãã

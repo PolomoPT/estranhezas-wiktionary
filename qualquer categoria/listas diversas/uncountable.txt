@@ -318,6 +318,7 @@
 |inflexibilidades
 |informalidades
 |ingenuidades
+|inhabilidades
 |injectividades
 |insanidades
 |insensibilidades
@@ -513,7 +514,6 @@
 |subjectividades
 |subjetividades
 |subunidades
-|suceptibilidades
 |supercondutividades
 |superelasticidades
 |superioridades

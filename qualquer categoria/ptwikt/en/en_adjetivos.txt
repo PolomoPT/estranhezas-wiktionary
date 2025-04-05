@@ -127,6 +127,7 @@ abiológico
 abiotrófico
 abismado
 abismal
+abismático
 abissal
 abissopelágico
 abissínio
@@ -582,6 +583,7 @@ afetável
 affectado
 affectivo
 affectuoso
+afflicto
 afiado
 afidófago
 afilado
@@ -1421,6 +1423,7 @@ aniversário
 aniónico
 aniônico
 annal
+annual
 anococcígeo
 anocrático
 anodal
@@ -1490,6 +1493,7 @@ anterífero
 anterógrado
 antessépalo
 antevertido
+anthropophago
 anti
 anti-G
 anti-Markovnikov
@@ -2022,6 +2026,7 @@ antigás
 antigénico
 antigênico
 antihackers
+antiimperialista
 antiinflamatório
 antijaponês
 antijudaico
@@ -2726,6 +2731,7 @@ apreensível
 apresentante
 apressado
 apressorial
+apresuntado
 apriorístico
 aprisionado
 aprismático
@@ -3423,6 +3429,7 @@ batizado
 batométrico
 batuta
 bayesiano
+bazé
 baço
 bebaço
 bebido
@@ -4773,6 +4780,7 @@ cultural
 cumpridor
 cumulativo
 cuneiforme
+cunharapixara
 cuproso
 curador
 curatelado
@@ -4883,6 +4891,7 @@ de cair o cu da bunda
 de cama
 de cara
 de cor
+de costume
 de direita
 de então
 de esquerda
@@ -5172,6 +5181,7 @@ desgovernado
 desgracioso
 desgraçado
 desgrenhado
+deshabitado
 deshumano
 desidratante
 designado
@@ -5436,6 +5446,7 @@ do balaco
 do balacobaco
 do caralho
 do caramba
+do costume
 dobradiço
 dobrado
 dobrável
@@ -5821,6 +5832,7 @@ enjeitado
 enjoativo
 enlatado
 enlouquecedor
+enluarado
 enlutado
 enológico
 enorme
@@ -6889,6 +6901,7 @@ ganzado
 ganês
 garavetado
 garboso
+garganeiro
 garrafal
 garrido
 gasosa
@@ -7020,6 +7033,7 @@ gordão
 gordíssimo
 gore
 gosmento
+gospel
 gostoso
 gourmet
 gouveense
@@ -7036,6 +7050,7 @@ grafológico
 gram
 gramatical
 grammatical
+grammatico
 gramsciano
 gramático
 granadino
@@ -7161,6 +7176,7 @@ helénico
 helênico
 hematoencefálico
 hematológico
+hematófago
 hemisférico
 hemodinâmico
 hemolítico
@@ -7184,6 +7200,7 @@ herético
 heróico
 hesitante
 hespanhol
+hesterno
 heterocíclico
 heterodoxo
 heterofóbico
@@ -7290,6 +7307,7 @@ hodierno
 holandez
 holandês
 holista
+hollandez
 holoblástico
 holoceno
 holístico
@@ -7795,6 +7813,9 @@ inguche
 ingénuo
 ingênuo
 inhabil
+inhabitado
+inhabitavel
+inhabitável
 inherente
 inhumano
 inhábil
@@ -7888,6 +7909,7 @@ instruído
 instável
 insubstancial
 insubstituível
+insufficiente
 insuficiente
 insular
 insulso
@@ -8448,6 +8470,7 @@ lousanense
 louvável
 loxodrómico
 loxodrômico
+luarento
 lucense
 lucrativo
 luctador
@@ -8627,6 +8650,7 @@ maltês
 maluco
 malufista
 malvado
+malvadíssimo
 malváceo
 malásio
 maléfico
@@ -8781,7 +8805,9 @@ mediano
 medicamentoso
 medidor
 medieval
+medio
 mediocre
+mediolíneo
 meditabundo
 mediterrâneo
 mediterrânico
@@ -8944,6 +8970,7 @@ milésimo
 mimado
 mimimizento
 mimizento
+mimoso
 minarquista
 mineiro
 mineral
@@ -9235,6 +9262,7 @@ mão-aberta
 mão-de-vaca
 mão-furada
 mão de vaca
+mão furada
 médico
 médio
 mércio
@@ -11172,6 +11200,7 @@ rodesiano
 rodoviário
 rodriguiano
 rogatório
+roim
 roliço
 rolê
 rom
@@ -11202,6 +11231,7 @@ rosinha
 rossiniano
 rostral
 rosé
+rosê
 rotacional
 rotativo
 rotineiro
@@ -11212,6 +11242,7 @@ rouco
 rousseauniano
 roxinho
 roxo
+ruainga
 ruandês
 rubi
 rubiginoso
@@ -11350,6 +11381,7 @@ sapeca
 sapiente
 saprófago
 sarado
+saramaguiano
 sarcástico
 sardenho
 sardento
@@ -11616,6 +11648,7 @@ singular
 sinistro
 sino-japonês
 sinocêntrico
+sinodal
 sintetizador
 sintomático
 sintático
@@ -11713,6 +11746,8 @@ sonoro
 sonso
 sonâmbulo
 sonífero
+sopeiro
+sopista
 soporífero
 soporífico
 soropositivo
@@ -11736,6 +11771,7 @@ sportinguista
 srilankês
 srilanquês
 stalinista
+standard
 stressado
 stressante
 style
@@ -11797,6 +11833,7 @@ subtil
 subtropical
 subtónico
 subtônico
+subumano
 suburbano
 subversivo
 subártico
@@ -11815,6 +11852,7 @@ sudorífico
 sudoríparo
 sueco
 suevo
+sufficiente
 suficiente
 sufixal
 sufocante
@@ -11987,6 +12025,7 @@ taitiano
 taiuanês
 taiwanês
 tajique
+tal
 talar
 talarico
 talassa
@@ -12015,6 +12054,7 @@ tardio
 tardo
 tareco
 tarifário
+tarouco
 tarouquense
 tarsiliano
 tartéssio
@@ -12034,6 +12074,7 @@ tcheco-eslovaco
 tchecoslovaco
 tcheio
 tchetcheno
+tchola
 tchonga
 tchongo
 tchuvache
@@ -12139,6 +12180,7 @@ textual
 teísta
 teístico
 teórico
+theorico
 ti
 tibetano
 tico
@@ -12146,6 +12188,7 @@ tifoide
 tifoso
 tigrado
 tijolo
+time-lapse
 timorense
 timpanal
 timpânico
@@ -12345,6 +12388,7 @@ triduano
 trienal
 triestino
 trifurcado
+trifásico
 trifólio
 trigonométrico
 trigésimo
@@ -12477,6 +12521,7 @@ ultradireitista
 ultrajante
 ultramarino
 ultramáfico
+ultraoceânico
 ultrapassado
 ultrapasteurizado
 ultrarrápido
@@ -12876,6 +12921,8 @@ weberiano
 whorfiano
 wikipediano
 wireless
+woke
+wokista
 wolof
 wolofe
 x-ésimo

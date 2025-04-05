@@ -185,6 +185,7 @@ GNR
 GNV
 GO
 GP
+GPS
 GRU
 GTDN
 HAP
@@ -265,6 +266,7 @@ PB
 PC
 PCC
 PCUS
+PDT
 PE
 PEC
 PES
@@ -293,6 +295,7 @@ PSDB
 PSOL
 PSP
 PT
+PTB
 PTS
 PcD
 Pe.
@@ -325,6 +328,7 @@ SAC
 SAMAE
 SAMU
 SAU
+SBT
 SC
 SE
 SEMA
@@ -379,6 +383,7 @@ UDN
 UE
 UER
 UF
+UFF
 UFMG
 UHE
 ULA
@@ -392,6 +397,7 @@ USP
 UTI
 Univ.
 V.
+V.M.
 V.S.ª
 V. Ex.ª
 VLT
@@ -559,6 +565,7 @@ smt
 sqn
 sr.e
 sre.
+séc.
 tambẽ
 tb
 tbm
@@ -574,7 +581,9 @@ trocadalho
 tãto
 tẽpo
 v.v.
+v6
 vc
+vcs
 vdd
 vrdd
 vs.

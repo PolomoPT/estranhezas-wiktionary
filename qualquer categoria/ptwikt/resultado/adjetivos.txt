@@ -156,6 +156,7 @@
 |acetabuliforme
 |acetinado
 |achaboucado
+|achadinhense
 |achador
 |achaninca
 |achegado
@@ -209,6 +210,7 @@
 |adestrado
 |adiado
 |adiantado em anos
+|adicense
 |adicionado
 |adicto
 |adietado
@@ -295,6 +297,7 @@
 |afuleimado
 |afulo
 |afunado
+|afuradense
 |afábil
 |afórico
 |agachado
@@ -388,20 +391,22 @@
 |albardeiro
 |albarraquense
 |albernoense
+|albidomense
 |albufeirense
 |albuginoso
 |albugíneo
 |alburitelense
-|alcacerano
 |alcacerense
 |alcaincense
 |alcainense
 |alcalino-terroso
+|alcanedense
 |alcanenense
 |alcanense
 |alcantarense
 |alcantarilhense
 |alcançado
+|alcaravelense
 |alcariense
 |alcatreiro
 |alcaçovense
@@ -411,6 +416,7 @@
 |alciônico
 |alcobertense
 |alcochetano
+|alcochetense
 |alcoentrense
 |alcofrense
 |alcongostense
@@ -424,6 +430,7 @@
 |aldeense
 |aldegalense
 |aldeia-grandense
+|aldenovense
 |aldeão
 |aldrúbias
 |alegretense
@@ -458,12 +465,14 @@
 |algarviense
 |algarvio
 |algonquiano
+|algozense
 |algáceo
 |alhadense
 |alhandrense
 |alhanse
 |alheado
 |alheeiro<qq:has gl>
+|alheirense
 |alhosvedrense
 |aliancista
 |aliciado
@@ -472,6 +481,7 @@
 |alinhavado
 |alisado
 |aljezurense
+|aljubarrotense
 |almacedense
 |almadense
 |almadinense
@@ -497,9 +507,13 @@
 |alpenduradense
 |alpense
 |alpercatense
+|alpiarcense
+|alpiarçolho
 |alpinista
+|alportelense
 |alqueidanense
 |alqueidoense
+|alquevense
 |alquimista
 |altairense
 |altamirense
@@ -528,19 +542,23 @@
 |alunado
 |alvacenta
 |alvaiazerense
+|alvaladense
 |alvar
+|alvaranense
 |alvarenguense
 |alvarense
 |alvaresiano
 |alvarizado
 |alveguense
 |alvejado
+|alvelense
 |alverquense
 |alvidense
 |alvissareiro
 |alvocense
 |alvoraçado
 |alvorense
+|alvorgense
 |alvoroçado
 |alárvio<qq:has gl>
 |alçado
@@ -587,6 +605,7 @@
 |ambíparo
 |ameaçado
 |ameixialense
+|ameixoeirense
 |amelaçado
 |ameninado
 |amenizado
@@ -597,6 +616,7 @@
 |ameriliense
 |ameroso
 |ameríndio
+|amieirense
 |amieirinhense
 |amiense
 |amigado
@@ -609,7 +629,9 @@
 |amonetário
 |amorado
 |amorcegado
+|amoreirense
 |amorense
+|amorinense
 |amorinopolense
 |amorinopolitano
 |amornado
@@ -647,6 +669,7 @@
 |anatrópico
 |anchietense
 |ancorado
+|ancorense
 |andado
 |andaraiense
 |andarego
@@ -677,6 +700,7 @@
 |anfictiônio
 |anfiónio
 |angatubense
+|angejense
 |angelicense
 |angelinense
 |angelino
@@ -689,12 +713,14 @@
 |angueirense
 |anguerense
 |anguicida
+|anguilano
 |angulense
 |angustiante
 |anhembiense
 |anhumense
 |anil
 |anilhado
+|animadíssimo
 |anisado
 |anisador
 |anisante
@@ -738,6 +764,7 @@
 |antieuclidiano
 |antigalhaço
 |antigaço
+|antiguense
 |antilusitano
 |antimanicomial
 |antimense
@@ -788,7 +815,6 @@
 |aparecido
 |aparelhado
 |apartado
-|aparvalhado
 |apassivador
 |apelaçonense
 |apenado
@@ -838,7 +864,6 @@
 |apresentado
 |apresentador
 |apresso
-|apresuntado
 |apriorista
 |apropinquado
 |apropositado
@@ -851,6 +876,8 @@
 |aquecedor
 |aquesto
 |aquidabãense
+|aquiflaviense
+|arabrigense
 |arabutanense
 |aracajuano
 |aracajuense
@@ -858,6 +885,8 @@
 |araciense
 |aracitabense
 |aracnoídeo
+|aracoiabense
+|aradense
 |arado
 |araguariense
 |aramado
@@ -892,21 +921,26 @@
 |arborizado
 |arceburguense
 |arcoense
+|arcozelense
 |ardoroso
 |areadense
 |arealense
+|areguense
 |areia
+|arelhense
 |arenapolitano
 |arenense
 |arentinense
 |arenuláceo
 |arenário
+|areosense
 |arestoso
 |arfado
 |arfante
 |argalheiro<qq:has gl>
 |argel
 |argiritense
+|argivaiense
 |argolado
 |argozelense
 |arguciador
@@ -923,12 +957,16 @@
 |armazenense
 |armental
 |armentoso
+|armilense
 |arménio oriental
 |armênio oriental
 |arnal
 |arnaz
 |arnazudo
+|arneirense
 |arnento
+|arnoiense
+|aroense
 |aromatizado
 |aronense
 |arouquês
@@ -939,6 +977,7 @@
 |arquitetado
 |arquitetonográfico
 |arquivado
+|arrabidense
 |arraiano
 |arraiolense
 |arrancado
@@ -956,14 +995,17 @@
 |arreganhado
 |arregaçado
 |arregimentado
+|arreigadense
 |arreitado
 |arreliado
 |arrendável
 |arrentelense
 |arrifanense
+|arrifense
 |arroalho<qq:has gl>
 |arrochado
 |arrogado
+|arroiense
 |arrombado
 |arronchense
 |arroteense
@@ -981,6 +1023,7 @@
 |arujaense
 |aruá
 |arvense
+|arvorense
 |ascaroso
 |ascoroso
 |asfixiado
@@ -993,6 +1036,7 @@
 |asperso
 |aspirado
 |aspudo
+|assaforense
 |assaltado
 |assassinado
 |assediado
@@ -1034,6 +1078,7 @@
 |astrólogo
 |asturanense
 |asturo-leonês
+|ataense
 |atajeiro
 |atalaiense
 |ataleense
@@ -1091,6 +1136,7 @@
 |atóxico
 |audacíssimo
 |audifalante
+|audio-visual
 |aueti
 |aueté
 |augustino
@@ -1142,9 +1188,13 @@
 |avelado
 |avelainha<qq:has gl>
 |avelainho<qq:has gl>
+|avelanense
 |avelarense
 |avelhantado
+|avelosense
+|avense
 |avermelhado
+|averomarense
 |aversivo
 |avesseiro
 |avestruzeiro
@@ -1153,6 +1203,8 @@
 |avicultor
 |avieirado
 |aviltado
+|avintense
+|avisense
 |avoante
 |avoense
 |avolumado
@@ -1171,6 +1223,7 @@
 |azeitonense
 |azeviche
 |azimutal
+|azinhaguense
 |azinhavre
 |azo<qq:has gl>
 |azueirense
@@ -1183,6 +1236,7 @@
 |azul-escuro
 |azul-furtivo
 |azul-médio
+|azurarense
 |aça
 |açapado
 |açodado
@@ -1202,6 +1256,7 @@
 |baboso
 |babélico
 |bacaceiro<qq:has gl>
+|bacalhau
 |bacana
 |bacanal
 |bachiano
@@ -1218,16 +1273,22 @@
 |bagageiro
 |bagudo
 |baguntense
+|baianense
 |baianopolense
 |bailador
 |bailarino
 |bailundo
 |bailão
 |baio
+|baionês
+|bairradense
+|bairradino
 |bairral
+|bairrense
 |baixagrandense
 |baixo-alemão
 |baixo-bretão
+|bajouquense
 |bajulador
 |balanceiro
 |balasarense
@@ -1238,15 +1299,18 @@
 |baleigão<qq:has gl>
 |baleiro<qq:has gl>
 |bali
+|baliense
 |balnear
 |balordo
 |balorento<qq:has gl>
 |balsamense
+|balsense
 |balsâmico
 |baltar
 |baltarense
 |baluchoparlante
 |baludo
+|baluganense
 |bambara
 |bambaroparlante
 |bambuiense
@@ -1262,6 +1326,7 @@
 |bangladeshiano
 |bangladês
 |banhado
+|banheirense
 |banhista
 |bantológico
 |bantoídeo
@@ -1270,6 +1335,7 @@
 |baquara
 |baralhado
 |baratex
+|baraçalense
 |barbacenense
 |barbadense
 |barbaquá
@@ -1278,12 +1344,15 @@
 |barbarisco
 |barbarista
 |barbeiro
+|barbeitense
 |barbosense
+|barcarenense
 |barcelense
 |barcoucense
 |bardamerda
 |baremita
 |baririense
+|barqueirense
 |barquinhense
 |barra-garcense
 |barra-mendense
@@ -1307,6 +1376,7 @@
 |barropretense
 |barroquense
 |barroseiro
+|barroselense
 |barrosense
 |barrusco
 |barueriense
@@ -1331,6 +1401,7 @@
 |batudo
 |bauruense
 |bazófio
+|beatense
 |beato
 |bebedourense
 |beberrão
@@ -1347,7 +1418,9 @@
 |beiradeiro
 |beiraltino
 |beirense
+|beirizense
 |bela-vistense
+|belazaimense
 |belemense
 |belemita
 |belfo
@@ -1369,14 +1442,23 @@
 |bem-humorado
 |bem-ido
 |bem-mandado
+|bempostense
 |benafinense
+|benaventense
+|benavilense
+|bencatelense
+|bendadense
+|beneditense
 |beneficentíssimo
 |benevolentíssimo
+|benfeitense
 |benfeitor
+|benfiquense
 |bengaloparlante
 |bengalês
 |benino
 |beninês
+|bentense
 |berbere
 |berberoparlante
 |berceiro
@@ -1391,6 +1473,8 @@
 |beselguense
 |best seller
 |best-seller
+|besteirense
+|bestiário
 |besuntado
 |betinense
 |bezerrense
@@ -1424,6 +1508,7 @@
 |biguano
 |bigue
 |bilaterado
+|bilhoense
 |biliar
 |bilinear
 |bilíngüe
@@ -1441,7 +1526,9 @@
 |birreme
 |biruleibe
 |biruta
+|biscainhense
 |biscainho
+|biscoitense
 |bisesdrúxulo
 |bismulense
 |bissau-guineense
@@ -1468,10 +1555,12 @@
 |boceto
 |bocoió
 |bocomoco
+|bodiosense
 |bodoso
 |boelhense
 |bofetense
 |boiadeiro
+|boicense
 |boidobrense
 |boituvense
 |boiuno
@@ -1482,6 +1571,7 @@
 |bolchevista
 |boldrego
 |boleco
+|boliqueimense
 |bolsolulista
 |bolsopetista
 |bom de bico
@@ -1505,6 +1595,7 @@
 |borbense
 |borboremense
 |bordeaux
+|bordeirense
 |bordoado
 |bordô
 |borebiense
@@ -1530,7 +1621,11 @@
 |botucatuense
 |botumirinense
 |botuporãense
+|bougadense
+|bourense
 |bovídeo
+|bracaraugustano
+|bragadense
 |bragancense
 |bragancês
 |bragantino
@@ -1569,6 +1664,7 @@
 |brilhoso
 |brinchense
 |briol
+|britelense
 |brobeiro
 |brocha
 |broco
@@ -1608,8 +1704,10 @@
 |bunheirense
 |bur
 |burganense
+|burguense
 |burilador
 |burilista
+|burinhosense
 |buritamense
 |buritiramense
 |buritizalense
@@ -1652,6 +1750,7 @@
 |cabaçuda
 |cabaçudo
 |cabeceirense
+|cabecense
 |cabeça dura
 |cabeçanense
 |cabeçudense
@@ -1660,23 +1759,30 @@
 |cabo-verdense
 |cabonde
 |cabouquense
+|cabreirense
 |cabreiro
 |cabreuvense
 |cabril
+|cabrilense
 |cabrito
 |cabrum
 |cabujento<qq:has gl>
 |cacaranho<qq:has gl>
+|cacelense
 |cacenense
 |cacete
 |cachaceiro
 |cacher
 |cachoeirano
+|cachoeirense
 |cacholão<qq:has gl>
 |cachonda
 |cachondo
+|cachopense
 |cachúbio
 |cacical
+|caciense
+|cacilhense
 |cacofónico
 |cacofônico
 |cacolálico
@@ -1708,6 +1814,7 @@
 |cagativo
 |cagação
 |cagoeta
+|cagueiro
 |caiabi
 |caiabuense
 |caiado
@@ -1718,9 +1825,11 @@
 |caicó
 |caideiro
 |caidiço
+|caiense
 |caincenta
 |cainho
 |caiová
+|cairense
 |cairo<qq:has gl>
 |cairuense
 |caiuaense
@@ -1741,7 +1850,11 @@
 |caldeiro
 |caldeirão-grandense
 |caldelense
+|caldense
+|caldário
+|calendarense
 |calhandricense
+|calharizense
 |calhetense
 |calhorda
 |califal
@@ -1757,6 +1870,7 @@
 |calpense
 |caluniado
 |calunioso
+|calvoense
 |calçoenense
 |camacaense
 |camachense
@@ -1777,6 +1891,7 @@
 |cambeba
 |cambedense
 |cambembe
+|cambense
 |cambesense
 |cambeta
 |cambial
@@ -1796,6 +1911,7 @@
 |campanariense
 |campanhense
 |campeador
+|campelense
 |campense
 |campesinho
 |campichano
@@ -1806,6 +1922,8 @@
 |campo-formosense
 |campo-grandense
 |campochano
+|campolidense
+|campomaiorense
 |camurro
 |canabíneo
 |canaense
@@ -1830,6 +1948,7 @@
 |candolado
 |candosense
 |canecense
+|canedense
 |canelense
 |caneludo
 |canense
@@ -1841,6 +1960,7 @@
 |canhengue
 |canhestro
 |canhão
+|canicense
 |canidelense
 |caniforme
 |canitarense
@@ -1858,7 +1978,9 @@
 |capado
 |capador
 |caparaoense
+|caparicano
 |caparidense
+|capariquense
 |capelense
 |capetinguense
 |capim-grossense
@@ -1890,12 +2012,15 @@
 |caranaibense
 |carandaiense
 |carangolense
+|caranguejeirense
 |caranguejeiro
 |carapebuense
 |carapecense
 |carapicuibano
 |carapicuibense
+|carapinheirense
 |carapinhudo
+|carapitense
 |caratinguense
 |caravelense
 |carbonado
@@ -1926,6 +2051,7 @@
 |carmense
 |carminativo
 |carneirense
+|carnidense
 |carnoso
 |carolinense
 |carotídeo
@@ -1933,26 +2059,41 @@
 |carral
 |carranhoso
 |carrapateirense
+|carrecense
+|carregadense
+|carregosense
+|carregueirense
+|carreirense
 |carreirista
 |carreteira
 |carreteiro
 |carriçoso<qq:has gl>
+|cartaxeiro
+|cartaxense
 |carteado
 |cartesiano
 |cartomante
 |cartonado
+|cartorial
 |cartunista
 |cartuxo
 |caruaruense
 |carvalhense
 |carvalhopolitano
+|carvalhosense
 |carvalhoso
+|carvidense
+|carviçaense
+|carvoeirense
 |carvoeiro
 |carçonense
 |carélio
 |casa-novense
+|casaense
 |casaleiro
+|casalense
 |casalinhense
+|cascaense
 |cascalense
 |cascalhense
 |cascarejo
@@ -1964,12 +2105,15 @@
 |casso
 |cassubiano
 |cassúbio
+|castanheirense
 |castanho-avermelhado
 |castanho-claro
+|castedense
 |casteleiro
 |castelejense
 |castelense
 |castelhanizante
+|castelo-vidense
 |castilhense
 |castiço
 |castrado
@@ -2001,6 +2145,7 @@
 |catiguaense
 |catireiro
 |cativado
+|cativelense
 |cativo<qq:has gl>
 |catolandiano
 |catorzeno
@@ -2013,8 +2158,11 @@
 |cavalariano
 |cavalcantense
 |cavalgador
+|caveirense
+|cavezense
 |cavo
 |caxambuense
+|caxariense
 |caxiense
 |caça-níqueis
 |caçado
@@ -2024,6 +2172,7 @@
 |caçapavano
 |caçapavense
 |ceará-mirinense
+|cebolal
 |ceboleira
 |ceboleiro
 |cebolense
@@ -2032,12 +2181,16 @@
 |cedido
 |cedilhado
 |cedofeitense
+|cedovinense
 |cedrense
 |cedrinense
 |cefaleico
 |ceifador
+|ceirense
 |ceive<qq:has gl>
+|celavisense
 |celebrante
+|celense
 |celmoso<qq:has gl>
 |celso
 |celta continental
@@ -2045,6 +2198,7 @@
 |celtoparlante
 |celérrimo
 |celífluo
+|cem-soldense
 |cenatório
 |cenobítico
 |cenológico
@@ -2069,23 +2223,29 @@
 |cenário
 |cepanense
 |cepelense
+|cepense
 |cercalense
 |cercano
 |cercão
 |cerda
+|cerdalense
 |cerdo
 |cereja
 |cerimonioso
 |cernachense
+|cernadelense
 |cerquilhense
+|cervense
 |cesarense
 |cesariano
 |cesarino
 |cessionário
 |cesário-langense
+|cetense
 |cetônico
 |ceutense
 |chacarense
+|chacinense
 |chacoteiro
 |chadiense
 |chafalhas<qq:has gl>
@@ -2103,9 +2263,12 @@
 |chambão
 |chamejante
 |chamorro
+|chamusquense
+|chancense
 |chanqueiro
 |chapa e cruz
 |chargista
+|charnequense
 |charruense
 |chavelha
 |chaviano
@@ -2116,6 +2279,7 @@
 |cheio de si
 |cheira
 |cheiíssimo
+|cheleirense
 |chelense
 |chente
 |cherokee
@@ -2171,6 +2335,7 @@
 |ciclístico
 |ciconiforme
 |ciganoparlante
+|cimadense
 |cimeiro
 |cinegético
 |cinestésico
@@ -2253,6 +2418,7 @@
 |cobregante<qq:has gl>
 |cocama
 |cochino
+|codessense
 |codificado
 |codilhado
 |coelho-netense
@@ -2264,7 +2430,9 @@
 |cognitivo-comportamental
 |cognoscente
 |cognoscível
+|cogulense
 |coimeiro
+|coinense
 |coio<qq:has gl>
 |coirmão
 |coiteense
@@ -2274,10 +2442,12 @@
 |colaborador
 |colado
 |colapsível
+|colarejo
 |colarense
 |colecionista
 |colegiado
 |colendo
+|colense
 |coletável
 |coleóptero
 |colgesense
@@ -2300,6 +2470,7 @@
 |comelhão<qq:has gl>
 |comemorado
 |comemorativo
+|comendense
 |comensal
 |comensurável
 |comentado
@@ -2351,6 +2522,7 @@
 |conatural
 |concani
 |concassor
+|concavadense
 |conceiçoense
 |concelheiro<qq:has gl>
 |concelhio
@@ -2399,6 +2571,7 @@
 |congenial
 |conglomerado
 |congolense
+|conhecidíssimo
 |coniforme
 |conimbricense
 |conimbrigense
@@ -2535,6 +2708,9 @@
 |corruto
 |corsário
 |cortador
+|cortegacense
+|cortense
+|cortesense
 |cortical
 |corticoide
 |corticosteroide
@@ -2554,6 +2730,7 @@
 |cosmoramense
 |cosmorâmico
 |cossecante
+|cossouradense
 |costa-ricense
 |costarriquenho
 |costarriquense
@@ -2568,9 +2745,12 @@
 |cotra<qq:has gl>
 |cotrento<qq:has gl>
 |cotroso<qq:has gl>
+|coucense
 |couché
+|coucieirense
 |country
 |courense
+|coutadense
 |coutoense
 |covelense
 |covense
@@ -2587,6 +2767,7 @@
 |crebro
 |crecho<qq:has gl>
 |credibilíssimo
+|creixomilense
 |cremado
 |creme
 |crencho
@@ -2609,6 +2790,7 @@
 |crisolitense
 |crisopolense
 |cristado
+|cristelense
 |cristianizado
 |cristianíssimo
 |cristinense
@@ -2623,15 +2805,18 @@
 |cromossômico
 |cronicamente online
 |crucificado
+|crucifixense
 |crucilandense
 |crudívoro
 |cruento
 |crural
 |cruz-almense
+|cruz-quebradense
 |cruzaliense
 |cruzante
 |cruzeiro
 |cruziliense
+|crystallino
 |crépido
 |ctoniano
 |cuamato
@@ -2641,6 +2826,7 @@
 |cucular
 |cucurbitáceo
 |cuiudo
+|culatrense
 |culinário
 |culminante
 |culpade
@@ -2650,6 +2836,8 @@
 |cultor
 |culturalista
 |cumanagoto
+|cumeadense
+|cumieirense
 |cumpre
 |cumprido
 |cuna
@@ -2665,10 +2853,12 @@
 |curvado
 |curvelano
 |curvelense
+|curvense
 |curvilíneo
 |cuspido e escarrado
 |cusquilheiro
 |custeador
+|custoiense
 |custódio
 |cute
 |cute-cute
@@ -2718,8 +2908,10 @@
 |dançarino
 |danófono
 |dargínico
+|darquense
 |daspiano
 |de Itu
+|de Schrödinger
 |de acordo
 |de aguar a boca
 |de alta plumagem
@@ -2816,6 +3008,7 @@
 |deforme
 |defraudado
 |defumado
+|degoladense
 |degredado
 |deicida
 |deiscente
@@ -2855,6 +3048,7 @@
 |dentirrostro
 |dentífrico
 |denunciado
+|deocristense
 |departamental
 |departamentalista
 |departamentalizável
@@ -3192,8 +3386,10 @@
 |donairoso
 |donatista
 |dondo<qq:has gl>
+|doniense
 |donoso
 |dorminhão
+|dornelense
 |doroso
 |dorsálgico
 |double face
@@ -3248,9 +3444,11 @@
 |egresso
 |eguariço
 |egóico
+|eirapedrense
 |eirense
 |eirolense
 |eivado
+|eixense
 |ejetado
 |elcosita
 |electrofototermoterapêutico
@@ -3269,6 +3467,7 @@
 |elogiado
 |elogioso
 |elucubrado
+|elvense
 |elísio-medradense
 |em baixo
 |em cana
@@ -3288,6 +3487,7 @@
 |embaciado
 |embaidor
 |embainhado
+|embaraçadíssimo
 |embargado
 |embaubense
 |embelezado
@@ -3355,6 +3555,7 @@
 |encarapinhado
 |encarecido
 |encaretado
+|encarnacense
 |encartado
 |encasquetado
 |encauchado
@@ -3419,7 +3620,6 @@
 |enlameado
 |enlaçado
 |enlevado
-|enluarado
 |enojado
 |enojoso
 |enquizilado
@@ -3444,6 +3644,7 @@
 |enterocélico
 |entorpecente
 |entourado
+|entradense
 |entrado
 |entrançado
 |entregado
@@ -3460,6 +3661,7 @@
 |entusiasmante
 |envaretado
 |envelhecido
+|envendense
 |enverista
 |enviado
 |envidraçado
@@ -3497,25 +3699,32 @@
 |epulótico
 |epígeo
 |equadorense
+|equato-guineense
 |equipotencial
 |equânimo
 |equídeo
 |equídnico
 |equóreo
 |eqüino
+|eradense
 |erado
+|ereirense
 |erga omnes
 |ergueito<qq:has gl>
 |erguido
 |ergótico
 |ericeirense
 |eriçado
+|ermegeirense
+|ermelense
 |ermesindense
 |ermidense
+|ermiense
 |ernestinense
 |erotista
 |erotizado
 |erradicador
+|errense
 |errático
 |ervedalense
 |ervedosense
@@ -3535,6 +3744,7 @@
 |escacha-pedras<qq:has gl>
 |escacha-pessegueiro
 |escachelado
+|escalense
 |escalonável
 |escamento
 |escamoteado
@@ -3554,6 +3764,7 @@
 |escolado
 |escorpenídeo
 |escorreito
+|escouralense
 |escrachado
 |escravocrata
 |escrevente
@@ -3575,6 +3786,7 @@
 |esgazeado
 |esgaçado
 |esgrêvio<qq:has gl>
+|esgueirense
 |esgulepado
 |esguíçaro<qq:has gl>
 |esgúvio
@@ -3585,6 +3797,7 @@
 |esmerado
 |esmeraldense
 |esmeraldino
+|esmerizense
 |esmiudado
 |esmiuçador
 |esmiuçante
@@ -3592,6 +3805,7 @@
 |esmolambado
 |esmolante
 |esmoleiro
+|esmorizense
 |esofagectómico
 |espandongado
 |espanhol medieval
@@ -3603,15 +3817,20 @@
 |espectador
 |espelido<qq:has gl>
 |esperancense
+|esperantista
 |espermatófito
 |espertalhão
 |espetado
 |espetador
 |espezinhado
+|espichense
 |espido<qq:has gl>
 |espilicute
+|espinhalense
+|espinheirense
 |espiral
 |espiralado
+|espirituense
 |espirítico
 |espiuncado
 |esplanadense
@@ -3635,6 +3854,7 @@
 |esquizocélico
 |esquizoide
 |esquálido
+|essuatiniano
 |estacado
 |estafante
 |estagnante
@@ -3651,6 +3871,7 @@
 |estatolátrico
 |esteatopígico
 |estefo
+|estelense
 |estelífero
 |estenográfico
 |estercado
@@ -3658,6 +3879,7 @@
 |estereotípico
 |esterlicado
 |estevalense
+|estevense
 |esteárico
 |esticado
 |estilista
@@ -3669,6 +3891,7 @@
 |estirado
 |estocado
 |estofo
+|estoiense
 |estombarense
 |estonoparlante
 |estonteante
@@ -3679,10 +3902,13 @@
 |estrangulador
 |estransilhado
 |estratosférico
+|estreitense
 |estrelar
+|estrelense
 |estrelicado
 |estremado
 |estreme
+|estremocense
 |estremunhado
 |estrepitante
 |estrepitoso
@@ -3726,6 +3952,8 @@
 |evangelizado
 |evangelístico
 |evitado
+|evoramontense
+|evorense
 |ex adverso
 |exacerbado
 |examinado
@@ -3803,7 +4031,10 @@
 |fagildense
 |fagundense
 |faiado<qq:has gl>
+|faiense
+|faildense
 |fajanense
+|fajardense
 |fajã-grandense
 |fala-barato
 |falada
@@ -3849,6 +4080,7 @@
 |faustiano
 |faustino
 |fautor
+|favaiense
 |favónio
 |favônio
 |fazendense
@@ -3863,7 +4095,9 @@
 |fedífrago
 |feireira
 |feireiro
+|feitalense
 |feitosense
+|felgarense
 |felisburguense
 |felixlandense
 |feliz-natalense
@@ -3885,6 +4119,7 @@
 |fenicense
 |fenomenalista
 |feral
+|fermelanense
 |fermentelense
 |fermentescente
 |fermentescível
@@ -3908,7 +4143,9 @@
 |fescenino
 |festejado
 |festival
+|feteirense
 |fianense
+|ficalhense
 |ficáceo
 |ficável
 |fidejussório
@@ -3941,6 +4178,7 @@
 |finissecular
 |finoparlante
 |finófono
+|fiolhosense
 |fiota
 |fiote
 |firmado
@@ -3958,6 +4196,7 @@
 |fiúza
 |flagelado
 |flambê
+|flamenguense
 |flavo
 |flex
 |flexionável
@@ -3995,6 +4234,10 @@
 |folquense
 |fomento
 |fonador
+|fontanense
+|fontelense
+|fontense
+|fontourense
 |fontícola
 |fora da caixinha
 |fora de série
@@ -4015,6 +4258,7 @@
 |fornicador
 |fornicário
 |fornido
+|forninhense
 |forra
 |forricas<qq:has gl>
 |fortalezense
@@ -4027,10 +4271,12 @@
 |fouto
 |foz-iguaçuense
 |fozcoense
+|fozense
 |foção
 |fracassado
 |fraccionário
 |fracionário
+|fradelense
 |fragilizado
 |fragmático
 |frajola
@@ -4053,12 +4299,19 @@
 |fratelense
 |fraudado
 |fraudador
+|frazoeirense
 |freamundense
 |free
 |freelancer
 |frei-gasparense
+|freinedense
 |freiral
 |freirático
+|freixedense
+|freixenista
+|freixonista
+|freixonita
+|frendense
 |frequentado
 |frequentador
 |frequentativo
@@ -4068,15 +4321,20 @@
 |freqüentativo
 |freqüentável
 |frescal
+|frexenista
+|friandense
 |friburguense
 |friccionante
+|frieleiro
 |frielense
+|friestense
 |frigidíssimo
 |frigorífero
 |frila
 |fringilídeo
 |frisão setentrional
 |froide
+|fronteirense
 |frustrado
 |frutal
 |frutalense
@@ -4121,11 +4379,14 @@
 |fuscalvo
 |fuscicolo
 |fuscirrostro
+|fusetense
 |futre
 |futriqueiro
 |futuniano
+|fuzetense
 |fuá
 |fáctico
+|fãozense
 |fãzaço
 |féerique
 |féleo
@@ -4148,6 +4409,8 @@
 |gadeiro
 |gaeirense
 |gafanhense
+|gafanhonazareno
+|gafetense
 |gagauze
 |gaiado
 |gaizo
@@ -4179,6 +4442,10 @@
 |gamado
 |gamenho
 |gandarelense
+|gandarense
+|gandarinho
+|gandarês
+|gandrense
 |ganduense
 |ganense
 |gangento
@@ -4190,7 +4457,8 @@
 |garatujeiro<qq:has gl>
 |garceiro
 |garcense
-|garganeiro
+|garciense
+|garfense
 |garganta
 |garimoso
 |garnisé
@@ -4240,6 +4508,7 @@
 |geotécnico
 |geralista
 |gerativista
+|geresiano
 |geriátrico
 |germanoparlante
 |germanófilo
@@ -4284,6 +4553,10 @@
 |golo
 |golpilheirense
 |gondarenense
+|gondarense
+|gondemariense
+|gondinense
+|gondizalvense
 |gondorizense
 |gondwânico
 |gongogiense
@@ -4296,6 +4569,7 @@
 |goro
 |gotado
 |gougueiro
+|govense
 |governado
 |governador
 |governante
@@ -4304,9 +4578,12 @@
 |grabado
 |graciosense
 |gracílimo
+|gradilense
 |graduado
 |gradualista
+|gralheirense
 |gramadense
+|gramidense
 |gramixó
 |gramscista
 |grandessíssimo
@@ -4315,6 +4592,7 @@
 |grandíloco
 |granfino
 |granhense
+|granjense
 |granular
 |grapiúna
 |gravado
@@ -4330,6 +4608,7 @@
 |grencho
 |grenho
 |grifo
+|grijoense
 |grileiro<qq:has gl>
 |gritador
 |grolo<qq:has gl>
@@ -4337,6 +4616,7 @@
 |grudado
 |grutesco
 |grácil
+|guadalupense
 |guaicuru
 |guaimbeense
 |guairense
@@ -4359,6 +4639,7 @@
 |guaraçaiense
 |guardado
 |guardador
+|guardizelense
 |guareiense
 |guaribense
 |guariní
@@ -4374,14 +4655,18 @@
 |guiador
 |guianês
 |guicho
+|guidoense
 |guidonense
 |guiense
 |guilhado<qq:has gl>
+|guilhufense
+|guimaranense
 |guinaldeiro
 |guinchador
 |guindalense
 |guinéu-equatoriano
 |gulaimas
+|gulpilharense
 |gute
 |gute-gute
 |guzolandense
@@ -4446,12 +4731,12 @@
 |helíaco
 |hematopoiético
 |hematopoético
-|hematófago
 |hemeralope
 |hemi-atrófico
 |hemi-singínio
 |hemimetabólico
 |hemorroidal
+|hemorroidário
 |hemorrágico
 |hemostático
 |hemíptero
@@ -4477,7 +4762,6 @@
 |herói-cómico
 |herói-cômico
 |hespério
-|hesterno
 |heterolécito
 |heteromorfo
 |heteronómico
@@ -4558,6 +4842,7 @@
 |histórico-pedagógico
 |holambrense
 |holando-belga
+|hollywoodiano
 |holmiense
 |holofrástico
 |holometabólico
@@ -4685,6 +4970,7 @@
 |ignívoro
 |igrapiunense
 |igreja-novense
+|igrejanovense
 |igrejinhense
 |iguaiense
 |igual a
@@ -4692,6 +4978,7 @@
 |iguapense
 |iguaraçuense
 |iguatamense
+|iguatemiense
 |iguatuense
 |iguaçuano
 |iguaçuense
@@ -4740,7 +5027,6 @@
 |impalpável
 |impelido
 |impendente
-|impenetrabilidade
 |impensado
 |imperado
 |imperatrizense
@@ -4836,6 +5122,7 @@
 |indexado
 |indicado
 |indiciado
+|indiciário
 |indigenista
 |indigesto
 |indigitado
@@ -4875,6 +5162,7 @@
 |inferido
 |infermentescível
 |infido
+|infiense
 |infiltrado
 |infinitivo
 |infinitésimo
@@ -4939,6 +5227,7 @@
 |inteirado
 |inteiriço
 |intelectualoide
+|inteligentíssimo
 |intemerato
 |intensificativo
 |intentado
@@ -5161,6 +5450,7 @@
 |janal
 |jandairense
 |jandirense
+|janeirense
 |janeirinho
 |janicefálico
 |janicular
@@ -5173,6 +5463,7 @@
 |januário
 |japeriense
 |japônico
+|jardiense
 |jardim-alegrense
 |jardinense
 |jardinopolense
@@ -5246,6 +5537,7 @@
 |juncalense
 |jundiaiense
 |junguiano
+|junqueirense
 |junqueiropolense
 |junqueiropolitano
 |juquiaense
@@ -5347,6 +5639,7 @@
 |laganhoso
 |lagarense
 |lagedense
+|lagense
 |lagoa-realense
 |lagoense
 |laical
@@ -5357,6 +5650,7 @@
 |lajista
 |lajo
 |lakota
+|lamacense
 |lamacento
 |lamarento
 |lamarosense
@@ -5367,6 +5661,7 @@
 |lambeta
 |lambeteiro
 |lambisqueiro
+|lameirense
 |lameirento
 |lamelicórneo
 |lameliforme
@@ -5384,7 +5679,9 @@
 |langrão<qq:has gl>
 |langão
 |lanhelense
+|lanhosense
 |lanudo
+|lanutense
 |lançado
 |lançal<qq:has gl>
 |lanífero
@@ -5406,6 +5703,7 @@
 |larchão<qq:has gl>
 |lardo
 |lardoeiro
+|lardosense
 |lareiras
 |larengo<qq:has gl>
 |lareta<qq:has gl>
@@ -5428,16 +5726,19 @@
 |laudabilíssimo
 |laudatório
 |laudável
+|laurbanense
 |laurentinense
 |lauro
 |lauro-freitense
 |lauto
+|lavacolhense
 |lavado
 |lavinense
 |laviniense
 |lavradiense
 |lavradio
 |lavrador
+|lavrense
 |lavínio
 |lazarado
 |laído<qq:has gl>
@@ -5464,6 +5765,7 @@
 |lentisca
 |lentrisca
 |lençoense
+|leocadense
 |leomilense
 |leopoldense
 |leporino
@@ -5497,14 +5799,17 @@
 |liechtensteiniano
 |ligado nos 220
 |ligadão
+|ligarês
 |liguriano
 |ligúrico
+|lijoense
 |lilaino<qq:has gl>
 |lima-duartense
 |limeirense
 |limerente
 |limiense
 |liminar
+|limitada
 |limitante
 |limitativo
 |limoso
@@ -5518,6 +5823,7 @@
 |linguareiro
 |linguiforme
 |linguodental
+|linharense
 |linolênico
 |lionês
 |liorteiro<qq:has gl>
@@ -5545,6 +5851,7 @@
 |livramentense
 |livreiro
 |livresco
+|lixense
 |lixoso
 |lobanense
 |lobelhense
@@ -5555,27 +5862,36 @@
 |loio
 |lomarense
 |lombeiro
+|lombense
 |lombão
 |londrinense
 |longico
 |longinco
 |longitudinal
 |longomelense
+|longroivense
 |loquacíssimo
 |loque
 |lordelense
 |lordento<qq:has gl>
 |lordosense
 |lorfo
+|loricense
+|loriguense
 |lorvanense
 |lotárico
+|louletano
+|louredense
 |loureirense
 |loureiro
 |lourencense
 |lourenciano
 |lourense
+|louriceirense
 |lourinhanense
 |louriçalense
+|lourosense
+|lousense
 |louvado
 |louvaminheiro
 |louveirense
@@ -5601,14 +5917,17 @@
 |luisianense
 |luisianiense
 |lulopetista
+|lumiarense
 |luminosos
 |lumioso
 |lunação
 |luperciense
 |lupino
+|lusense
 |lusitanista
 |luso-brasileiro
 |lusoparlante
+|lustosense
 |lustrador
 |lusófobo
 |luverdense
@@ -5634,7 +5953,6 @@
 |lúdicro
 |lúdrico
 |lúrido
-|lúrpio<qq:has gl>
 |mabaça
 |macaco
 |macaeense
@@ -5652,6 +5970,8 @@
 |machedense
 |machiquense
 |machorro
+|macieirense
+|macinhatense
 |maconhado
 |maconheiro
 |macro-jê
@@ -5667,6 +5987,7 @@
 |madalenense
 |madalense
 |madeira
+|madeiranense
 |madeirense
 |madrasto
 |madredeusense
@@ -5678,6 +5999,7 @@
 |mageense
 |magistral
 |magmático
+|magnetense
 |magnetizado
 |magnificentíssimo
 |magniloquente
@@ -5688,7 +6010,12 @@
 |maguindanao
 |magérrimo
 |mahometa
+|maiano
+|maiato
 |maino<qq:has gl>
+|maiorguense
+|maiorquense
+|maiotense
 |maiquiniquense
 |mairiense
 |mairinquense
@@ -5713,6 +6040,8 @@
 |malauita
 |malaviano
 |malawiense
+|malcatenho
+|malcatense
 |maldizente
 |malecho
 |maleficentíssimo
@@ -5722,26 +6051,29 @@
 |malgaxoparlante
 |malhada-pedrense
 |malhadense
+|malhouense
 |malinado
 |malinês
 |malogrado
 |malpassado
 |malpiqueiro
+|malpiquense
 |malpocado<qq:has gl>
 |malsoante
 |malsonante
 |malsão
 |maluquete
 |malva
+|malveirense
 |malvestido
 |mamal
 |mamalão<qq:has gl>
 |mamarrão
 |mambembeiro
+|mamedense
 |mamoilas
 |mamote<qq:has gl>
 |mamudo
-|mamão com açucar
 |managuenho
 |managuense
 |manante
@@ -5756,9 +6088,11 @@
 |mangaz
 |mangonheiro
 |manhas
+|manhoucense
 |maniado
 |manicomial
 |manifestante
+|manigotense
 |manino
 |maniqueu
 |maniqueísta
@@ -5768,6 +6102,7 @@
 |mansi
 |mansidãoense
 |mansorense
+|mansuetíssimo
 |mantedor
 |mantenedor
 |manteúdo
@@ -5826,6 +6161,7 @@
 |marouco
 |maroutalho<qq:has gl>
 |marralheiro
+|marrazense
 |marrom-avermelhado
 |marrom-escuro
 |marrã
@@ -5847,8 +6183,10 @@
 |mascotense
 |masmarro
 |mastigado
+|matamourisquense
 |mate
 |mateense
+|matelense
 |matematicista
 |matense
 |materna
@@ -5875,12 +6213,14 @@
 |mazaganense
 |mazanza
 |mazedense
+|maçaense
 |maçorano
 |meada
 |meadelense
 |mec
 |mecanicista
 |medeirosnetense
+|medelinense
 |mediador
 |mediato
 |mediatário
@@ -5898,12 +6238,14 @@
 |mefítico
 |mei
 |meiaviense
+|meidubrigense
 |meigas
 |meigengro
 |meigos
 |meiguiceiro
 |meijengo
 |meijengro
+|meirinhense
 |meisinho<qq:has gl>
 |meixela<qq:has gl>
 |mela-cueca
@@ -5915,18 +6257,23 @@
 |melgo
 |melhorado
 |melhorável
+|melidense
 |melificado
+|melilhense
+|melilhês
 |melindano
 |melindrado
 |melodista
 |melomaníaco
 |melpomenense
+|melrense
 |melânio
 |melífero
 |membrudo
 |memorado
 |memorando
 |memorial
+|memoriense
 |memorizado
 |memético
 |menchevique
@@ -5938,6 +6285,7 @@
 |mendes-pimentelense
 |mendinho
 |mendoncense
+|menina
 |menineiro
 |menonita
 |menopáusico
@@ -5963,6 +6311,7 @@
 |meritiense
 |mertolense
 |mertolino
+|merufense
 |merugense
 |merístico
 |mesclado
@@ -5990,6 +6339,7 @@
 |metromaníaco
 |metrorrágico
 |mexeroto
+|mexilhoeirense
 |mexível
 |mia-telhados
 |miador
@@ -6007,17 +6357,19 @@
 |milagrense
 |milenarista
 |milenário
+|milfontense
 |milhacense
 |milharadense
 |milheiroense
 |milhorde
 |milinguido
 |milingüido
+|miliário
 |mimalho
 |mimológico
-|mimoso
 |minacíssimo
 |mindelense
+|mindense
 |minderico
 |mindinho
 |minerador
@@ -6036,6 +6388,7 @@
 |mirantense
 |mirassolandense
 |mirassolense
+|mirobrigense
 |mirocho
 |mirolho
 |mirrelhas
@@ -6050,16 +6403,19 @@
 |misturado
 |misólogo
 |mitigado
+|miuzelense
 |mobile
 |mocheno
 |mocoquense
 |mocoso<qq:has gl>
 |modelar
+|modelense
 |modernista
 |modinha
 |modivense
 |modulador
 |modulável
+|mogegense
 |mogengo
 |mogoforense
 |mogueiro
@@ -6069,12 +6425,15 @@
 |moina
 |moinante
 |moisaico
+|moitense
 |moito
 |molambo
 |molangueiro
 |molanqueiro
+|moldense
 |moldávico
 |molecório
+|moledense
 |molente
 |moleque
 |molestado
@@ -6085,9 +6444,13 @@
 |moluscoide
 |moluscóide
 |mombuquense
+|momento
 |moncarapachense
+|monchiqueiro
+|monchiquense
 |moncoso
 |mondé
+|monfortense
 |mongaguaense
 |mongoloparlante
 |monitor
@@ -6100,14 +6463,22 @@
 |monodáctilo
 |monossílabo
 |monotonous
+|monsantense
 |monso
 |montado
 |montalvanense
+|montalvense
 |montante
 |montargilense
+|monte-gordino
+|monte-realense
 |monte-santense
 |montealtense
 |montelavarense
+|montemaiorense
+|montemor-novense
+|montenegrense
+|montense
 |montesaltense
 |montevideuense
 |montijense
@@ -6123,13 +6494,16 @@
 |moratense
 |morboso
 |morcegal
+|moreirense
 |morena
+|morense
 |morfoclimático
 |morfético
 |morganho
 |morigerado
 |mornado
 |morparaense
+|morreirense
 |morrense
 |morrido
 |morrinha<qq:has gl>
@@ -6141,6 +6515,7 @@
 |mosqueada
 |mosqueiro
 |mosqueteiro
+|mossoroense
 |mosteirense
 |mostrado
 |motejador
@@ -6152,6 +6527,7 @@
 |moucho<qq:has gl>
 |mouranense
 |mourense
+|mourisquense
 |mouronhense
 |movido
 |mozelense
@@ -6163,6 +6539,7 @@
 |mucuriense
 |mudado
 |mudo como um peixe
+|mugense
 |muita areia para o caminhão
 |muita areia para o caminhãozinho
 |muita areia pro caminhão
@@ -6191,6 +6568,8 @@
 |muricídeo
 |muritibano
 |murtalense
+|murtedense
+|murteirense
 |murtoseiro
 |murzelo
 |museológico
@@ -6227,6 +6606,7 @@
 |naipeiro
 |namorado
 |namorido
+|nandufense
 |nantense
 |napeiro
 |narandibense
@@ -6247,6 +6627,8 @@
 |nazifascista
 |naça
 |nebular
+|necessariíssimo
+|necessaríssimo
 |necho
 |necrófobo
 |nectáreo
@@ -6278,6 +6660,7 @@
 |neptunino
 |nerudiano
 |nesgo
+|nespereirense
 |neto
 |neurastênico
 |neurobiológico
@@ -6305,6 +6688,7 @@
 |nipófilo
 |nipófono
 |niquento
+|nisense
 |niteroiense
 |nivoso
 |nobiliárquico
@@ -6323,6 +6707,7 @@
 |norte
 |norte-pontealtense
 |norteiro
+|nortense
 |nortino
 |noruegoparlante
 |nosológico
@@ -6422,11 +6807,13 @@
 |octossecular
 |octossílabo
 |oda
+|odeceixense
 |odemirense
 |odiado
 |odiaxerense
 |odivelense
 |odorífero
+|odrinhense
 |ofendedor
 |ofendide
 |ofenso
@@ -6440,13 +6827,18 @@
 |oitentista
 |oito ou oitenta
 |okinawano
+|oledense
+|olhalvense
 |olhento
 |olhizaino
+|olhomarinhense
 |oligomesotrófico
 |olimpiense
 |olindense
 |olindinense
 |olivalense
+|olivanense
+|oliventino
 |olímpio-noronhense
 |omitido
 |omnicolor
@@ -6480,6 +6872,7 @@
 |opinioso
 |opiniático
 |opioide
+|opistógrafo
 |oponente
 |oposicionista
 |opositivo
@@ -6492,6 +6885,7 @@
 |orbícola
 |orientador
 |orindiuvense
+|oriolense
 |orkutiano
 |orlado
 |orlandiense
@@ -6506,6 +6900,7 @@
 |ortigosense
 |ortofónico
 |ortofônico
+|orvalhense
 |orwelliano
 |osage
 |oscilante
@@ -6520,9 +6915,11 @@
 |ostreiro
 |ostrino
 |ostráceo
+|otense
 |oticista
 |ototóxico
 |ouguelense
+|ouquense
 |oureense
 |ourensano
 |ourensão
@@ -6533,6 +6930,8 @@
 |ouro-pretano
 |ouro-pretense
 |ourolandense
+|ourondense
+|outeirense
 |outgoing
 |outoniço
 |outorgado
@@ -6556,6 +6955,7 @@
 |pachancas
 |pacó
 |padernense
+|padinense
 |padornelense
 |padreirense
 |padroense
@@ -6584,6 +6984,7 @@
 |palingenésico
 |palmado
 |palmarense
+|palmazense
 |palmela
 |palmelense
 |palmense
@@ -6610,6 +7011,7 @@
 |panegírico
 |panguá
 |panificador
+|panoiense
 |panoramense
 |pansófico
 |papa-ovo
@@ -6624,6 +7026,7 @@
 |para viagem
 |paracanã
 |paraconsistente
+|paradelense
 |paradense
 |paradidático
 |parafrasta
@@ -6643,6 +7046,7 @@
 |paramétrico
 |paranaibense
 |paranapuanense
+|paranhense
 |paranomástico
 |paraolímpico
 |parapuanense
@@ -6653,12 +7057,15 @@
 |paratinguense
 |parboiled
 |parboilizado
+|parceirense
+|parcelário
 |parchalense
 |parcíssimo
 |pardacento
 |pardelhense
 |pardento
 |pardilho
+|pardilhoeiro
 |pardilhoense
 |pardo-escuro
 |parencioso
@@ -6722,6 +7129,7 @@
 |pauferrense
 |paula-candidense
 |pauleira
+|pauleiro
 |paulense
 |paulinense
 |paulinista
@@ -6729,9 +7137,11 @@
 |paulo-afonsense
 |paulo-ramense
 |pausado
+|paviense
 |pavimentado
 |pavonense
 |paz e amor
+|paço-arquense
 |paíba
 |pebado
 |pecebista
@@ -6743,18 +7153,23 @@
 |peculatário
 |pecunioso
 |pedernal
+|pederneirense
 |pedestrianista
 |pediculoso
 |pedinte
 |pedofílico
 |pedofóbico
 |pedrabranquense
+|pedracense
 |pedregulhense
 |pedrense
 |pedrinopolense
 |pedrinopolitano
 |pedro-alexandrense
+|pedroense
+|pedroguense
 |pedronense
+|pedroucense
 |pedrulhense
 |pedrês
 |pedólatra
@@ -6788,6 +7203,7 @@
 |penacha
 |penalista
 |penamaiorense
+|pendilhense
 |pendurado
 |peneirado
 |penetrado
@@ -6807,8 +7223,11 @@
 |pentecostalista
 |pentecostense
 |pentecostista
+|penudense
 |pequeniníssimo
 |pequerrucho
+|peraboense
+|perafitense
 |percentual
 |perclaro
 |percorrido
@@ -6821,7 +7240,9 @@
 |perebento
 |peregrinante
 |pereirense
+|perelhalense
 |perenal
+|perense
 |perequeté
 |perfeccional
 |perfilhado
@@ -6852,6 +7273,7 @@
 |pernense
 |perolado
 |perolense
+|perosinhense
 |perpassável
 |perpetrado
 |perpetrador
@@ -6871,9 +7293,12 @@
 |pescador
 |pescantim<qq:has gl>
 |pesco<qq:has gl>
+|pesense
 |pespegado
 |pespineta
+|pesqueirense
 |pesquisado
+|pessegueirense
 |pessoense
 |pessolista
 |pesteado
@@ -6895,6 +7320,7 @@
 |pianístico
 |piatãense
 |picareta
+|picaroto
 |pichaim
 |pichilemino
 |pichinchinho
@@ -6906,6 +7332,7 @@
 |pictórico
 |picuense
 |picuinhas
+|piedense
 |piense
 |pigeirense
 |pigmentado
@@ -6920,6 +7347,7 @@
 |pimentense
 |pindaiense
 |pindelense
+|pindense
 |pindobaçuense
 |pineal
 |pinel
@@ -6929,14 +7357,17 @@
 |pinhalnovense
 |pinheirense
 |pinheiro
+|pinhoense
 |pintadense
 |pintalegrete
 |pinto-calçudo
 |pinípede
+|piodense
 |piorado
 |piorável
 |piperáceo
 |pipoqueiro
+|piquense
 |piquerobiense
 |piquetense
 |piracaiense
@@ -6966,6 +7397,7 @@
 |pisoense
 |pitagórico
 |pitangueirense
+|pitonense
 |pitável
 |piuiense
 |piumense
@@ -7004,12 +7436,14 @@
 |plurianual
 |plurissecular
 |pluviométrico
+|pluviófilo
 |pneumoultramicroscopicossilicovulcanoconiótico
 |pneumônico
 |pocaricense
 |podador
 |podrido
 |podólatra
+|poense
 |poiquilotérmico
 |poiético
 |pojucano
@@ -7020,6 +7454,7 @@
 |poliana
 |policiado
 |policialesco
+|policlínico
 |poliesportivo
 |polimense
 |polissexual
@@ -7049,12 +7484,15 @@
 |ponte-pretense
 |pontealtense
 |ponteiro
+|pontense
 |ponterrolense
+|pontessorense
 |pontevedrino
 |pontevedrês
 |pontevelense
 |pontifical
 |pontifício
+|pontinhense
 |ponto-novense
 |pontoso
 |pop
@@ -7077,11 +7515,15 @@
 |portelense
 |portenho
 |portimonense
+|porto-monicense
 |porto-monizense
+|porto-salvense
 |porto-santense
 |porto-segurense
 |porto-velhense
+|portocovense
 |portograndense
+|portomosense
 |portucalense
 |posicionado
 |positivista
@@ -7112,11 +7554,14 @@
 |poupável
 |pousa-fole<qq:has gl>
 |pousa-foles<qq:has gl>
+|pousadense
+|pousense
 |pousio
 |pousão<qq:has gl>
 |povoacense
 |povoador
 |povoense
+|povolidense
 |poçoense
 |pra viagem
 |pra-frente
@@ -7143,7 +7588,6 @@
 |preclaro
 |preconcebido
 |preconceitual
-|precípua
 |precípuo
 |predito
 |preemptivo
@@ -7179,7 +7623,9 @@
 |presumido
 |presuntuoso
 |pretoriano
+|pretónico
 |pretório
+|pretônico
 |previdenciário
 |primaiense
 |primal
@@ -7188,6 +7634,7 @@
 |princeso
 |principiante
 |principiológico
+|priorense
 |priscilianista
 |prisciliano
 |prisional
@@ -7366,6 +7813,7 @@
 |quantioso
 |quaraiense
 |quaresmal
+|quarteirense
 |quartel-geralense
 |quartezífero
 |quarto-centenariense
@@ -7380,6 +7828,7 @@
 |queimadense
 |queimoso
 |queimão
+|queiriguense
 |queiro
 |queirozense
 |queirozianista
@@ -7389,7 +7838,9 @@
 |querelante
 |querencho
 |queride
+|queridíssimo
 |questionado
+|quiaense
 |quijinguense
 |quilombense
 |quimbundo
@@ -7398,6 +7849,7 @@
 |quinta-condense
 |quintajense
 |quintanense
+|quintelense
 |quintenário
 |quintinense
 |quinze-novembrense
@@ -7419,9 +7871,11 @@
 |qüinqüenal
 |rabaceiro
 |rabaz
+|rabaçalense
 |rabigo
 |rabilongo
 |rabissaco<qq:has gl>
+|rabopeixense
 |rachado
 |rachão
 |racionalista
@@ -7438,6 +7892,8 @@
 |raiola<qq:has gl>
 |ralasso
 |ralável
+|ramaldense
+|ramalhense
 |rameário
 |ramíparo
 |ranchariense
@@ -7451,6 +7907,7 @@
 |rarefato
 |rarefeito
 |rastreado
+|ratense
 |ratificado
 |rato
 |ratona
@@ -7467,7 +7924,9 @@
 |rebocador
 |rebolado
 |rebolal
+|rebordelense
 |rebordoense
+|rebordosense
 |recaredense
 |recas
 |recebido
@@ -7486,6 +7945,7 @@
 |recrudescente
 |rectilíneo
 |rectângulo
+|recuadíssimo
 |recurvado
 |recurvo
 |recusado
@@ -7509,6 +7969,7 @@
 |reforçado
 |refreado
 |refrigerado
+|refugiense
 |refundido
 |regador
 |regal
@@ -7522,6 +7983,7 @@
 |registrense
 |regravável
 |regressivo
+|reguenguense
 |regulado
 |regulamentado
 |regulamentar
@@ -7544,6 +8006,7 @@
 |religiofóbico
 |religionário
 |relvado
+|relvense
 |remanchão
 |remansense
 |remasterizado
@@ -7554,11 +8017,13 @@
 |remisso
 |remissível
 |remoso
+|remotíssimo
 |removido
 |remunerado
 |renascencense
 |rendido
 |rendilhado
+|rendufense
 |rengo
 |renovado
 |renovador
@@ -7568,6 +8033,7 @@
 |repelente
 |repelujado<qq:has gl>
 |repesador
+|repesense
 |repetitivo
 |repoisado
 |repoisante
@@ -7596,6 +8062,7 @@
 |requianense
 |requisitado
 |requisito
+|rerizense
 |rescendente
 |resenha
 |reservador
@@ -7621,6 +8088,7 @@
 |resumido
 |resvaladiço
 |retado
+|retaxense
 |retido
 |retilíneo
 |retininte
@@ -7631,6 +8099,7 @@
 |retomado
 |retorcido
 |retornável
+|retortense
 |retranqueiro<qq:has gl>
 |retraído
 |retro
@@ -7659,7 +8128,10 @@
 |revolvido
 |riachense
 |riachão-nevense
+|ribadavense
+|ribadense
 |ribatejano
+|ribatuense
 |ribeira-bravense
 |ribeira-grandense
 |ribeiradiense
@@ -7679,13 +8151,21 @@
 |rio-antense
 |rio-antoniense
 |rio-grandense-do-sul
+|rio-maiorense
+|rio-mauense
 |rio-pirense
 |rio-pretano
 |rio-realense
 |riocontense
+|riodadense
+|riodemoinhense
+|riomaiorense
 |riomoinhense
 |riopardense
 |riostrense
+|riotintense
+|riotortense
+|riovidense
 |riquinho
 |riscado
 |riseiro<qq:has gl>
@@ -7710,6 +8190,7 @@
 |romantista
 |romariense
 |romarizense
+|romeirense
 |romeiro
 |romeloso
 |romenoparlante
@@ -7718,10 +8199,16 @@
 |roncão<qq:has gl>
 |rondonense
 |rondonopolitano
+|ronfense
+|rorizense
+|rosalense
 |rosalvo
 |rosanense
 |rosariense
 |roseirense
+|rosmaninhense
+|rossense
+|rossiense
 |rosáceo
 |rotular
 |roubada
@@ -7745,6 +8232,7 @@
 |rétro
 |rímico
 |rúnico
+|saaraui
 |saarauí
 |sabe
 |sabelianista
@@ -7752,6 +8240,8 @@
 |saboiano
 |saboneteiro
 |saborido
+|sabugueirense
+|sabuguense
 |sabujo
 |sabulícola
 |sacado
@@ -7782,34 +8272,46 @@
 |salazarista
 |saleiro
 |salernitano
+|salgueirense
 |salinense
 |salish
 |salmanticense
 |salmantino
 |salonicense
+|salreense
 |salso
 |saltador
 |salteado
 |saltense
 |saltão
+|salvadense
 |salvante
+|salvaterrense
 |salvaterriano
 |samarinês
 |samarita
 |sambanga
 |sambista
+|sambrasense
 |same
 |samideano
 |samorano
 |samorense
 |samotraceno
+|samouquense
 |sampaense
 |sampaiense
 |sampedrense
 |sanabrês
+|sancheirense
 |sancionado
+|sandenense
+|sandinense
+|sandoeirense
+|sanfinense
 |sanfonado
 |sanfranciscano
+|sangalhense
 |sangianense
 |sangoparlante
 |sangue bom
@@ -7828,6 +8330,7 @@
 |santa-clarense
 |santa-cruzense
 |santa-ernestinense
+|santa-helenense
 |santa-lucense
 |santa-luzense
 |santa-luziense
@@ -7835,22 +8338,28 @@
 |santa-ritense
 |santa-teresinhense
 |santaclarense
+|santacombadense
 |santaluzense
 |santaluziense
+|santamartense
 |santanderiense
 |santanderino
 |santanopolinense
 |santareno
+|santarense
 |santiagueiro
 |santiaguense
 |santiaguino
 |santiaguês
 |santificado
 |santinense
+|santo-aleixense
 |santo-amarense
 |santo-antoniense
 |santo-estevense
+|santoamadorense
 |santoantoniense
+|santulhanense
 |saníssimo
 |sapeaçuense
 |saperê
@@ -7884,6 +8393,7 @@
 |satirense
 |satisfazente
 |saturável
+|satélite
 |saubarense
 |saudadense
 |saudense
@@ -7892,6 +8402,7 @@
 |saxoso
 |saça
 |saçamelo
+|saço
 |saído
 |seabrense
 |seareiro
@@ -7911,6 +8422,7 @@
 |seguidor
 |segurado
 |seibe
+|seicense
 |seixalense
 |seixezelense
 |seixoso
@@ -7926,6 +8438,7 @@
 |semi-filosófico
 |semi-racional
 |semicircular
+|semidense
 |semifilosófico
 |semilendário
 |seminômade
@@ -7945,6 +8458,7 @@
 |sendinense
 |senegalense
 |senhor
+|senhorense
 |senisga
 |senouro
 |sensabor
@@ -7964,6 +8478,7 @@
 |sepultado
 |sepulto
 |sequaz
+|sequeirense
 |sequeiro
 |serendipista
 |seresteiro
@@ -7984,6 +8499,7 @@
 |serra-pretense
 |serranense
 |serrano
+|serrazense
 |serrazulense
 |serretense
 |serrinhense
@@ -8075,17 +8591,22 @@
 |snob
 |soa
 |soado
+|soajense
 |soalhanense
 |soarense
 |sob júdice
+|sobradense
 |sobrado
 |sobralense
+|sobralgordense
 |sobre-explorado
 |sobrecarregado
+|sobredense
 |sobreexplorada
 |sobreexploradas
 |sobreexplorado
 |sobreexplorados
+|sobreirense
 |sobreposse
 |sobrepujado
 |sobrepujante
@@ -8103,6 +8624,7 @@
 |sofrido
 |soft
 |soidoso
+|soitense
 |sojugado
 |solecista
 |solenizado
@@ -8114,6 +8636,9 @@
 |soluto
 |solícito
 |solípede
+|somaliense
+|somalilandense
+|somalilandês
 |somalioparlante
 |sombriço<qq:has gl>
 |sometido
@@ -8127,11 +8652,11 @@
 |sonométrico
 |sonípede
 |sopeado
-|sopista
 |sorete
 |sorna
 |sorocabano
 |sorteado
+|sosense
 |sosso
 |soterrado
 |soto-posto
@@ -8141,11 +8666,11 @@
 |sousense
 |soutelense
 |soutelinhense
+|soutense
 |souto-soarense
 |sovado
 |sozense
 |sozinhe
-|standard
 |stark naked
 |sua
 |suailoparlante
@@ -8167,7 +8692,6 @@
 |subsumível
 |subtitular
 |subtraído
-|subumano
 |subutilizado
 |sucedido
 |sucessor
@@ -8190,6 +8714,7 @@
 |sulino
 |sumareense
 |sumarento
+|sumariíssimo
 |sumidourense
 |sumoso
 |sumptuoso
@@ -8259,6 +8784,8 @@
 |são-lourençano
 |são-marinense
 |são-marinhense
+|são-marquense
+|são-martinhense
 |são-mateuense
 |são-mateusense
 |são-pedrense
@@ -8292,6 +8819,7 @@
 |tablóide
 |taboeirense
 |taboquense
+|tabosense
 |tabueiro
 |tacibense
 |tacométrico
@@ -8301,11 +8829,13 @@
 |taguaiense
 |tai
 |taiaçuense
+|taidense
 |taipense
 |taiuvense
 |tajiquistanês
-|tal
+|talabrigense
 |talado
+|talhadense
 |talhado
 |taliban
 |taludo
@@ -8318,6 +8848,7 @@
 |tancredense
 |tandem
 |tangedor
+|tangilense
 |tanguaense
 |tangueiro
 |tanhaçuense
@@ -8346,6 +8877,7 @@
 |tarantino
 |tarasco
 |tarentino
+|tari
 |tarimbado
 |tarraconense
 |tarragonês
@@ -8360,16 +8892,20 @@
 |taurepang
 |tauxiado
 |tavaredense
+|taveirense
 |tavirense
+|tavorense
 |tchecoparlante
 |tcheremisso
 |tchicaridjana
 |teatrológico
+|tebosense
 |tedesco
 |tedioso
 |teimudo<qq:has gl>
 |teio
 |teixeirense
+|teixosense
 |tejupaense
 |telecinematográfico
 |teleclinográfico
@@ -8377,7 +8913,9 @@
 |televisivo
 |televisual
 |teleósteo
+|telhadense
 |telhalense
+|telheirense
 |telugoparlante
 |telêmaco-borbense
 |tembé
@@ -8417,8 +8955,13 @@
 |terra-a-terra
 |terra-bourense
 |terra-novense
+|terrabourense
 |terreste
 |terribilíssimo
+|terrosense
+|terrosenses
+|terrugense
+|terrugenses
 |terríbil
 |terso
 |teste
@@ -8429,6 +8972,7 @@
 |tetracampeão
 |tetradáctilo
 |tetragonal
+|tetrassílabo
 |tetro
 |tetrápode
 |tetudo
@@ -8455,6 +8999,7 @@
 |tiranicida
 |tiranizado
 |tirante
+|tirense
 |tireotóxico
 |tirinista
 |tiririca da vida
@@ -8467,6 +9012,7 @@
 |tobaguiano
 |tocador
 |tocantim
+|tochense
 |tocho
 |toeiro
 |togado
@@ -8474,27 +9020,34 @@
 |tokelauano
 |toldado
 |tolheito
+|tolosense
 |tomado
 |tomasiano
 |tomba-lata
+|tongobricense
 |tonhão
 |tonométrico
 |topense
 |toporâmico
+|torcatense
 |torcaz
 |torcedor
 |torcionário
 |torcular
 |tordilho
+|torense
 |torquaz
 |torrado
 |torranense
+|torredeitense
 |torreense
+|torrejano
 |torrense
 |torriano
 |torriense
 |torroselense
 |torticeiro
+|tortosendense
 |torturado
 |torvado
 |torvo
@@ -8502,10 +9055,13 @@
 |tosquiado
 |totemizado
 |toucado
+|touguense
+|touguinhense
 |toural
 |toureiro
 |tourense
 |touriguense
+|tourizense
 |toxicado
 |toxicante
 |toxicodependente
@@ -8530,12 +9086,14 @@
 |traboleia
 |tracalheiro
 |tractório
+|trafariense
 |traficante
 |tragediográfico
 |tragicômico
 |trajado
 |tramagalense
 |trancado
+|trandeirense
 |transado
 |transalpino
 |transariano
@@ -8578,14 +9136,18 @@
 |trash
 |trasmontano
 |travancinhense
+|travassoense
+|travassolense
 |travequeiro
 |trecado
 |trecentista
 |tredécimo
 |treinado
+|treito<qq:has gl>
 |tremedal
 |tremedalense
 |tremembeense
+|tremendíssimo
 |tremesinho
 |trentino
 |trepadeira
@@ -8610,6 +9172,7 @@
 |trimaiense
 |trimariense
 |trinchante
+|trinhaense
 |trinitino
 |trinitário
 |tripolitano
@@ -8619,6 +9182,7 @@
 |triscaidecafóbico
 |trissecular
 |trissílabo
+|tristanita
 |tristeiro<qq:has gl>
 |triunviral
 |trivalente
@@ -8638,6 +9202,7 @@
 |tronchudo
 |troula<qq:has gl>
 |trovadoresco
+|troviscalense
 |truanesco
 |trubufu
 |truita<qq:has gl>
@@ -8654,6 +9219,7 @@
 |tua
 |tubaronense
 |tuberculoso
+|tubário
 |tucanalha
 |tucanense
 |tucanista
@@ -8663,17 +9229,20 @@
 |tumbal
 |tunado
 |tunante
+|tunense
 |tunesino
 |tunetano
 |tupanense
 |tupari
 |tupinense
 |tupãense
+|turcifalense
 |turco-europeu
 |turcoparlante
 |turgente
 |turinês
 |turiubense
+|turizense
 |turmalinense
 |turmalinoso
 |turonense
@@ -8714,9 +9283,11 @@
 |ufanista
 |ugandês
 |uibaiense
+|ulense
 |ulisseu
 |ulissibonense
 |ulixibonense
+|ulmeirense
 |ulmense
 |ultra-esdrúxulo
 |ultraesdrúxulo
@@ -8792,6 +9363,7 @@
 |uxorilocal
 |uxórico
 |vacariano
+|vacaricense
 |vacariense
 |vacilante
 |vacum
@@ -8799,23 +9371,33 @@
 |vaginuterino
 |vagueiro
 |vai
+|vaiamontense
 |valadarense
+|valadense
 |valboeiro
 |valboense
+|valcavalense
 |valdense
+|valdoarquense
+|vale-figueirense
+|vale-pereirense
 |valecambrense
+|valeguense
 |valencense
 |valentense
 |valentim-gentilense
 |valentino
+|valepedrense
 |valerianáceo
 |valeriânico
 |valeroso
 |valezinense
 |validado
 |valiosíssimo
+|valmaiorense
 |valo
 |valongueiro
+|valpedrense
 |valsador
 |valsante
 |valvarguense
@@ -8824,11 +9406,13 @@
 |vangloriado
 |vaníssimo
 |vapt-vupt
+|vaqueirense
 |vaqueiro
 |varanídeo
 |vareiro
 |varginhense
 |varino
+|variíssimo
 |varsoviense
 |varudo<qq:has gl>
 |varzealegrense
@@ -8838,10 +9422,13 @@
 |varzeense
 |vasoconstritor
 |vassourense
+|vauense
+|vedor
 |vedranho<qq:has gl>
 |vedro
 |vegansexual
 |veicular
+|veirense
 |veiro
 |veleiro
 |velense
@@ -8853,6 +9440,8 @@
 |venadense
 |vencedor
 |venda-novense
+|vendas-novense
+|vendasnovense
 |vendidiço
 |vendíbil
 |venerado
@@ -8873,6 +9462,7 @@
 |verdeal
 |verdelengo
 |verdelhense
+|verdoejense
 |verecundo
 |veredense
 |verense
@@ -8886,6 +9476,7 @@
 |veritativo-funcional
 |vermelho-alaranjado
 |vermelho-escuro
+|vermilense
 |verminoso
 |vermoilense
 |verofuncional
@@ -8930,6 +9521,7 @@
 |vicenciense
 |vicentinense
 |vicioso
+|vidaguense
 |vidalino
 |videirense
 |vidigalense
@@ -8952,21 +9544,42 @@
 |vila-velhense
 |vila-verdense
 |vila-viçosense
+|vilaboense
+|vilaboinense
+|vilacovense
+|vilaflorense
+|vilafradense
+|vilafranquense
+|vilalvense
+|vilamaiorense
+|vilamarense
 |vilameanense
 |vilamouense
+|vilanovense
+|vilaplanense
+|vilapontense
+|vilapunhense
+|vilarandelense
 |vilarense
+|vilarformosense
 |vilarinhense
+|vilarmaiorense
+|vilarmourense
 |vilarregense
 |vilaçorano
 |vilego<qq:has gl>
 |vileiro
+|vilelense
 |vilhenense
 |vimarense
+|vimeirense
+|vimieirense
 |vincendo
 |vincular
 |vinhalense
 |vinhedense
 |vinhense
+|vinhoense
 |vintage
 |violado
 |violáceo
@@ -9005,6 +9618,7 @@
 |votuporanguense
 |votíaco
 |vougo<qq:has gl>
+|vouguense
 |vulgado
 |vulgarizante
 |vulturino
@@ -9072,6 +9686,7 @@
 |zambo
 |zambro
 |zambujalense
+|zambujeirense
 |zamorano
 |zanoio
 |zanzibarita
@@ -9097,7 +9712,9 @@
 |zero-bala
 |zetético
 |zeugmático
+|zezerense
 |zibelina
+|zibreirense
 |zicado
 |zimbabuano
 |zimbabwense

@@ -198,9 +198,9 @@
 -ura
 -usco
 -uxa
--uxo
 -uço
 -vel
+-x
 -zar
 -zinho
 -á
@@ -282,9 +282,11 @@ epi-
 equi-
 equo-
 es-
+esquizo-
 estato-
 et-
 eu-
+euro-
 ex-
 exa-
 exo-
@@ -312,6 +314,7 @@ hemo-
 hepta-
 hetero-
 hexa-
+hiero-
 hiper-
 hipo-
 holo-
@@ -364,6 +367,7 @@ não-
 odonto-
 omni-
 oni-
+oniro-
 oro-
 orto-
 pan-
@@ -431,6 +435,7 @@ ur-
 vampir-
 x-
 xeno-
+xilo-
 yocto-
 zepto-
 zeta-

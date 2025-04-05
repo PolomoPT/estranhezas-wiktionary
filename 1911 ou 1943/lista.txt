@@ -63,6 +63,7 @@ Ethiópia
 Ethyopia
 Eurydice
 Fevereiro
+Guahyba
 Helsinquia
 Hygeia
 Hygia
@@ -208,6 +209,9 @@ affectivo
 affecto
 affectuoso
 affirmar
+afflicto
+afflicção
+affligir
 affluxo
 agradavel
 agua
@@ -235,10 +239,16 @@ ancora
 annal
 annel
 anno
+annual
+annualmente
 annuncio
 anteacto
+anthropophagia
+anthropophago
 apparente
+appellar
 appellidar
+appello
 applicar
 approvar
 apêllo
@@ -268,9 +278,11 @@ assyriologia
 atmosphera
 atmospherico
 atravez
+atraz
 attacar
 attentar
 attinente
+attitude
 attractivamente
 attractivo
 attractor
@@ -305,6 +317,7 @@ bijectivo
 bijecção
 bissectriz
 bocca
+brazileiro
 bromelia
 cahio
 cahir
@@ -342,6 +355,7 @@ character
 characterização
 charácter
 cherubim
+chicara
 chimico
 chirurgião
 chirúrgico
@@ -365,8 +379,12 @@ colector
 colecção
 collar
 collarinho
+collecta
+collectar
 collectivo
+collecção
 collega
+collegio
 collo
 collocar
 columna
@@ -385,7 +403,10 @@ comprehender
 comquanto
 comsigo
 comtanto
+concluhir
 condemnado
+condemnar
+condemnação
 conductivo
 conductor
 conflicto
@@ -460,6 +481,7 @@ desactivado
 desactivar
 descontracção
 desemmaranhar
+deshabitado
 deshabitar
 deshonra
 deshumano
@@ -600,6 +622,7 @@ exhalar
 exhaurir
 exhausto
 exhibir
+existencia
 extender
 extincção
 extractar
@@ -609,6 +632,7 @@ extrahir
 extrangeiro
 extranhar
 extranho
+facil
 factor
 factorial
 factorizar
@@ -641,12 +665,16 @@ gotta
 gotteira
 grammatica
 grammatical
+grammatico
 gratis
 gráphico
 góthico
 haver-de
 hemorrhagia
+heroe
+heroina
 historia
+hollandez
 hombro
 hontem
 humido
@@ -687,6 +715,7 @@ indirecta
 indirecto
 indulgencia
 industria
+inexactidão
 influencia
 infortunio
 infractor
@@ -694,6 +723,9 @@ infracção
 inglez
 ingleza
 inhabil
+inhabilidade
+inhabitado
+inhabitavel
 inherencia
 inhumano
 inicio
@@ -711,6 +743,7 @@ inspector
 inspectora
 inspecção
 instructor
+insufficiente
 intelligencia
 intelligente
 interacção
@@ -720,6 +753,7 @@ interacção fundamental
 interacção gravitacional
 interacção nuclear forte
 interacção nuclear fraca
+intermedio
 introjectar
 introjecção
 iris
@@ -758,6 +792,7 @@ mappa
 marionette
 marionnette
 marquez
+martyrio
 materia
 maxilla
 maxillar
@@ -765,6 +800,7 @@ maxillar inferior
 maxillar superior
 mechanicamente
 mechanico
+medio
 mediocre
 memoria
 mesolecto
@@ -783,6 +819,7 @@ misericordia
 monarcha
 monographia
 monophthongo
+musculo
 myopia
 myosótis
 myrrha
@@ -838,7 +875,9 @@ optimo
 ordinario
 orthographia
 outomno
+p'ra
 pae
+paiz
 panno
 parabens
 parochia
@@ -955,6 +994,7 @@ reluctancia
 remedio
 reprehender
 reproducção
+resingar
 retractar
 retrahir
 retroactividade
@@ -1017,6 +1057,7 @@ successivamente
 successivo
 successo
 succumbir
+sufficiente
 suite
 susceptivel
 syllogismo
@@ -1034,6 +1075,7 @@ theatro
 thema
 theodiceia
 theoria
+theorico
 these
 thesoiro
 thesoura
@@ -1057,6 +1099,7 @@ tranquillidade
 tranquillizar
 tranquillo
 transacção
+traz
 triumpho
 tumefacção
 typho
@@ -1077,6 +1120,7 @@ vehemente
 vehementemente
 villa
 vintem
+violencia
 viv'alma
 walsa
 zygoma

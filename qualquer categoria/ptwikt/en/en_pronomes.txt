@@ -1,11 +1,15 @@
 'cê
 Sua Alteza
 Sua Majestade
+Suas Majestades
 V.Exa
+V.M.
 V. Ex.ª
 Vossa Alteza
 Vossa Excelência
 Vossa Majestade
+Vossa Majestade Imperial
+Vossas Majestades
 a
 a gentchi
 a gente
@@ -132,6 +136,7 @@ necas de pitibiribas
 nenhuma
 nenhũa
 ngm
+nhũa
 nicles
 ninguem
 ninguém
@@ -150,10 +155,10 @@ o
 o mesmo
 o qual
 o que
+o que quer que
 o quê
 o senhor
 ocê
-onde
 os
 os mesmos
 os quais
@@ -206,6 +211,7 @@ sua
 sua santidade
 suas
 sy
+tal
 tal e tal
 tanta
 tantas

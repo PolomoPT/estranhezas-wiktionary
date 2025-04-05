@@ -7,6 +7,7 @@ agr
 ainda mais
 ao passo que
 ao pé de
+aonde quer que
 apesar de que
 assim como
 assim que
@@ -27,6 +28,7 @@ cuando
 dado que
 de modo que
 desde que
+donde quer que
 e
 e/ou
 em contrapartida
@@ -56,7 +58,6 @@ muito menos
 mêsmo
 nem
 no que
-onde
 onde quer que
 ora
 ou

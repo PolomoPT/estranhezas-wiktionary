@@ -1095,6 +1095,7 @@ apoucar
 apoular
 apousentar
 apouvigar
+applicar
 aprazar
 aprazer
 apreciar
@@ -1528,6 +1529,7 @@ avistar
 avivar
 aviventar
 avizinhar
+avoar
 avocar
 avolumar
 avondar
@@ -1676,7 +1678,6 @@ bater punheta
 bater roupa
 bater um fio
 bater à porta
-bath
 batizar
 batucar
 bazar
@@ -1808,6 +1809,7 @@ botar mola
 botar no bolso
 botar no chinelo
 botar no olho da rua
+botar os pingos nos is
 botar panos quentes
 botar pra jogo
 botar pra lascar
@@ -2042,6 +2044,8 @@ carecer
 carenar
 carimbar
 carinhar
+carnavalear
+carnavalizar
 carnear
 carpelar
 carpetar
@@ -3201,6 +3205,7 @@ descriptografar
 descuidar
 desculpar
 descumprir
+descupinizar
 descurar
 descurtir
 desdar
@@ -4950,6 +4955,7 @@ ferver
 fervilhar
 fervilhetar
 festejar
+fetichizar
 fiar
 ficar
 ficar a ver navios
@@ -5250,6 +5256,7 @@ garrir
 garrotar
 garrular
 gasear
+gastar o latim
 gastar o seu latim
 gastar saliva
 gatafunhar
@@ -5997,6 +6004,7 @@ locupletar
 logar
 lograr
 lomear
+lorotar
 lostregar
 lotar
 louquejar
@@ -6224,6 +6232,7 @@ miquear
 mirar
 mirrar
 miscrar
+miserar
 missar
 mistificar
 misturar
@@ -6649,6 +6658,7 @@ percolar
 percorrer
 percutir
 perder
+perder o latim
 perder o seu latim
 perdoar
 perdurar
@@ -6801,6 +6811,7 @@ postar
 postergar
 postular
 potenciar
+potocar
 poupar
 pousar
 povoar
@@ -6911,6 +6922,7 @@ prolongar
 promanar
 promandar
 prometer
+prometter
 promiscuir
 promover
 promulgar
@@ -7127,6 +7139,7 @@ recolher
 recolonizar
 recomendar
 recomeçar
+recommendar
 recompensar
 reconciliar
 reconfortar
@@ -7603,6 +7616,7 @@ saudar
 saçaricar
 saçarico
 schedular
+scintillar
 secar
 secularizar
 secundar
@@ -7974,6 +7988,7 @@ ter categoria
 ter confiança
 ter cuidado
 ter lugar
+ter pé
 terceirizar
 tercetar
 terebintinar
@@ -8239,6 +8254,7 @@ tutorar
 tweetar
 twittar
 uberar
+uberizar
 ucranizar
 ufanar
 ugalhar
@@ -8404,6 +8420,7 @@ viscar
 visitar
 vislumbrar
 vistoriar
+vitimar
 vitrificar
 vituperar
 vivar
