@@ -42,6 +42,7 @@
 -cola
 -cracia
 -crata
+-crático
 -cêntrico
 -cídio
 -cómio
@@ -95,6 +96,7 @@
 -eza
 -fagia
 -fago
+-fania
 -ficar
 -filia
 -filo
@@ -104,6 +106,7 @@
 -fone
 -fonia
 -fono
+-frenia
 -fóbico
 -gamia
 -geno
@@ -158,6 +161,8 @@
 -mero
 -metria
 -metro
+-morfia
+-morfo
 -métrico
 -n-
 -nauta
@@ -190,6 +195,8 @@
 -t-
 -teca
 -tico
+-tipia
+-tipo
 -tivo
 -triz
 -tório
@@ -198,6 +205,8 @@
 -udo
 -ume
 -ura
+-vora
+-voro
 -x
 -z-
 -zinha
@@ -319,6 +328,7 @@ dis-
 duo-
 e-
 eco-
+ecto-
 electro-
 eletro-
 eluro-
@@ -357,6 +367,7 @@ hemi-
 hetero-
 hexa-
 hidro-
+hiero-
 hiper-
 hipno-
 hipo-
@@ -417,6 +428,8 @@ plati-
 pneumo-
 podo-
 poli-
+pono-
+porno-
 pos-
 pre-
 proto-
@@ -427,6 +440,7 @@ psico-
 pós-
 quilo-
 quimio-
+quiro-
 radio-
 re-
 recém-
@@ -461,6 +475,7 @@ viti-
 web-
 x-
 xanto-
+xeno-
 xilo-
 xylo-
 yotta-

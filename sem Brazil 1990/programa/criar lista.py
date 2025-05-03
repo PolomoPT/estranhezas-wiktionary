@@ -87,7 +87,7 @@ input_file_path = 'sem Brazil 1990\\lista.txt'
 
 with open(input_file_path, 'r', encoding='utf-8') as input_file, open(ü_file_path, 'w', encoding='utf-8') as output_file:
     for line in input_file:
-        match_ü = re.search('[q|g]ü', line)
+        match_ü = re.search('(q|g)ü(e|é|ê|è|i|í|ì|ï)', line)
         if match_ü:
             output_file.write("|"+line)
 

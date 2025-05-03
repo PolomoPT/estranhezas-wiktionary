@@ -623,6 +623,7 @@ certamente
 certo
 chus
 cientificamente
+cientìficamente
 cineticamente
 cinicamente
 cirurgicamente
@@ -1093,6 +1094,7 @@ emfim
 eminentemente
 emocionalmente
 empiricamente
+en passant
 encantadoramente
 endemicamente
 endotermicamente
@@ -1177,6 +1179,7 @@ excelentemente
 excepcionalmente
 excessivamente
 exclusivamente
+exegeticamente
 exotermicamente
 explicitamente
 explosivamente
@@ -1250,6 +1253,7 @@ fracamente
 fragilmente
 francamente
 francesamente
+francesmente
 fraternalmente
 freneticamente
 frequentemente
@@ -1375,6 +1379,7 @@ impudentemente
 impulsivamente
 impuramente
 imunologicamente
+in memoriam
 in vitro
 inaceitavelmente
 inacreditavelmente
@@ -1508,6 +1513,7 @@ ja
 jah
 jamais
 japonesamente
+japonesmente
 judaicamente
 juntamente
 junto
@@ -1767,6 +1773,7 @@ ombro a ombro
 onde
 onde Judas perdeu as botas
 onde já se viu
+online
 onomasiologicamente
 ontem
 ontologicamente
@@ -2129,6 +2136,8 @@ satiricamente
 satisfatoriamente
 saudavelmente
 scientificamente
+scientìficamente
+scientíficamente
 se Deus quiser
 se bobear
 se calhar
@@ -2213,6 +2222,7 @@ sonicamente
 sorrateiramente
 sossegadamente
 soteriologicamente
+sozinhamente
 sozinho
 sqn
 ss
@@ -2433,6 +2443,7 @@ zoologicamente
 à canzana
 à capela
 à cata
+à caçador
 à deriva
 à distância
 à força
@@ -2442,6 +2453,7 @@ zoologicamente
 à moda antiga
 à mostra
 à noite
+à pai Adão
 à paisana
 à parte
 à partida

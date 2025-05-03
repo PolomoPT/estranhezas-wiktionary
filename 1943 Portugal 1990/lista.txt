@@ -146,7 +146,6 @@ fraccionamento
 fractura
 fracturar
 fracção
-haver-de
 inactivar
 inactivação
 inactividade
@@ -235,6 +234,7 @@ redireccionar
 reflectir
 reflector
 retractar
+retracto
 retroactividade
 retroactivo
 retroprojector

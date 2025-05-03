@@ -44,6 +44,8 @@
 |apressado come cru
 |aqui é que a porca torce o rabo
 |as aparências enganam
+|atirar barro à parede
+|atirar o barro à parede
 |ato ou efeito de
 |atrás da moita
 |avant la lettre
@@ -65,6 +67,7 @@
 |chumbo trocado não dói
 |cobra que não anda, não engole sapo
 |colocar o carro na frente dos bois
+|colocar os pingos nos is
 |com as calças arriadas
 |com ferro fere, com ferro será ferido
 |comme il faut
@@ -89,6 +92,8 @@
 |de quem pode-se depender
 |de rastos
 |de tanto
+|deitar barro à parede
+|deitar o barro à parede
 |dinheiro na mão, calcinha no chão
 |diz-me com quem andas e dir-te-ei quem és
 |do bom e do melhor
@@ -145,10 +150,14 @@
 |in se
 |inutilia truncat
 |isto é
+|jogar barro à parede
+|jogar o barro à parede
 |lamber as botas
 |lamber embira
+|lançar barro à parede
 |lançar ferro
 |lançar mão de
+|lançar o barro à parede
 |lançar poeira aos olhos
 |largar do pé
 |lavar a burra
@@ -183,7 +192,6 @@
 |mais perdido que cusco em procissão
 |mais vale a fé que o pau da barca
 |malhar em ferro frio
-|malhar o ferro enquanto está quente
 |mandar brasa
 |mandar bronca
 |mandar ver
@@ -199,7 +207,6 @@
 |meter a boca no trombone
 |meter a foice na roça alheia
 |meter bronca
-|meter ferro a
 |meter mão à obra
 |meter nas embiras
 |meter o Rossio na Betesga
@@ -273,7 +280,6 @@
 |o melhor é
 |o pau cantar
 |o pau comer
-|o peixe morre pela boca
 |o que bem entender
 |o que o cu tem a ver com as calças
 |o que tem o cu a ver com as calças
@@ -312,7 +318,6 @@
 |passar a perna em
 |passar as passas do Algarve
 |passar de pato a ganso
-|passar ferro em
 |passar lotado
 |passar nas embiras
 |passar nos cobres
@@ -349,7 +354,6 @@
 |per se
 |perder a cabeça
 |perder a razão
-|perder ferro e sinal
 |perder o pé de
 |perder peso
 |pessoa de má morte
@@ -396,7 +400,9 @@
 |pôr no gancho
 |pôr nos cornos da Lua
 |pôr o guizo no gato
+|pôr os pingos nos ii
 |pôr os pingos nos is
+|pôr os pontos nos ii
 |pôr pitafe a
 |pôr-se à coca
 |quae sunt caesaris, caesari
@@ -535,7 +541,6 @@
 |tirar do rabo
 |tirar do sério
 |tirar nabos da púcara
-|tirar o atraso
 |tirar o cavalinho da chuva
 |tirar o cavalo da chuva
 |tirar o corpo fora

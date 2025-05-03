@@ -237,6 +237,7 @@ ei
 eia
 eim
 eita
+eita, piula
 em guarda
 ent
 entendeu
@@ -250,6 +251,7 @@ eu
 eu, hein
 eureca
 exato
+fala
 fala aí
 fala sério
 falou
@@ -474,8 +476,10 @@ positivo
 poxa
 poça
 pqp
+prazer
 pronto
 protesto
+prr
 pru
 psit
 psiu
@@ -614,6 +618,7 @@ upa
 ups
 urra
 ué
+vai catar coquinho
 vai com Deus
 vai entender
 vai se foder
@@ -644,6 +649,7 @@ vou pensar
 vou pensar no seu caso
 vrum
 vá-se foder
+vá catar coquinho
 vá com Deus
 véi
 véio

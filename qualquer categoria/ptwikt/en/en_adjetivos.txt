@@ -398,6 +398,7 @@ aculturante
 aculturativo
 acumbente
 acuminado
+acumulador
 acumulativo
 acumulável
 acupuntural
@@ -716,6 +717,8 @@ aguiarense
 aguçado
 agádico
 agâmico
+agénero
+agênero
 agónico
 agônico
 aidético
@@ -3036,6 +3039,7 @@ artesanal
 artesiano
 articulado
 articulador
+articular
 articulativo
 articulatório
 articulável
@@ -3067,6 +3071,7 @@ arídico
 ascendente
 ascensional
 ascético
+asfáltico
 asinino
 asiático
 asnal
@@ -3091,6 +3096,7 @@ assim chamado
 assimptótico
 assimétrico
 assinalado
+assinalável
 assindético
 assintomático
 assintótico
@@ -3143,6 +3149,7 @@ atento
 atenuante
 aterogénico
 aterogênico
+aterrado
 aterrador
 ateísta
 atilado
@@ -3416,6 +3423,7 @@ basco
 basculante
 baseado
 bashkir
+basifixo
 basilar
 bastante
 bastardo
@@ -3828,6 +3836,8 @@ calorento
 calorimétrico
 caloroso
 caloso
+calumniador
+caluniador
 calvejante
 calvinista
 calvo
@@ -3843,6 +3853,7 @@ camaronês
 cambacica
 cambaleante
 cambiante
+cambodjano
 cambojano
 cambrense
 camelídeo
@@ -3929,7 +3940,6 @@ cardiopulmonar
 cardiovascular
 cardíaco
 careca
-careca de
 careiro
 carenciado
 carente
@@ -4744,6 +4754,7 @@ crucial
 cruciforme
 crucífero
 crudelíssimo
+crudívoro
 cruel
 cruelíssimo
 crustáceo
@@ -5108,6 +5119,7 @@ descalçado
 descalço
 descampado
 descansado
+descapotável
 descarado
 descaridoso
 descaroçado
@@ -5447,6 +5459,7 @@ do balacobaco
 do caralho
 do caramba
 do costume
+do mundo
 dobradiço
 dobrado
 dobrável
@@ -5485,6 +5498,7 @@ dorido
 dormente
 dorminhoco
 dorsal
+dorsifixo
 dotado
 dotal
 doudo
@@ -5572,6 +5586,8 @@ económico
 econômico
 ecossistémico
 ecossustentável
+ectomorfo
+ectomórfico
 ectoplásmico
 ectoplástico
 ecuménico
@@ -5753,6 +5769,7 @@ emulsificante
 emurchecido
 emérito
 emético
+en passant
 enamorado
 encalhado
 encanado
@@ -5787,7 +5804,9 @@ endemoniado
 endividado
 endocrinológico
 endomingado
+endomorfo
 endométrico
+endomórfico
 endoplasmático
 endorreico
 endoscópico
@@ -5841,6 +5860,7 @@ enriquecido
 enriçado
 enrustido
 ensanguentado
+ensimesmado
 ensolarado
 ensonado
 ensurdecedor
@@ -5922,6 +5942,8 @@ equânime
 equívoco
 eqùitativo
 eqüitativo
+erasmiano
+erasmista
 erecto
 ereto
 ergométrico
@@ -5938,6 +5960,7 @@ errante
 erróneo
 errôneo
 erudito
+erásmico
 eréctil
 erétil
 erógeno
@@ -6058,6 +6081,7 @@ específico
 espeleológico
 espelhante
 esperado
+esperantista
 esperançado
 esperançoso
 espermático
@@ -6146,6 +6170,7 @@ estereofônico
 estereoscópico
 esterilizável
 esterlino
+estileiro
 estiloso
 estimado
 estimativo
@@ -6297,6 +6322,8 @@ excêntrico
 execrável
 executivo
 executável
+exegetista
+exegético
 exemplar
 exequível
 exhausto
@@ -6317,6 +6344,7 @@ experiente
 experimental
 experto
 expletivo
+explicador
 explicável
 explorável
 explosivo
@@ -6328,6 +6356,7 @@ expressionista
 expressivo
 expresso
 exprimível
+exquisito
 exsicante
 extemporâneo
 extensivo
@@ -6381,6 +6410,7 @@ fabuloso
 faceiro
 facho
 facial
+faciente
 facil
 facilíssimo
 factorial
@@ -6469,6 +6499,7 @@ favorecido
 favorito
 favorável
 fazendário
+fazente
 fazível
 febeu
 febo
@@ -6706,6 +6737,7 @@ fotoluminescente
 fotoquímico
 fotossensível
 fotossintético
+fototípico
 fotovoltaico
 fotónico
 fotônico
@@ -7579,6 +7611,7 @@ inapto
 inarmónico
 inarmônico
 inarrável
+inartístico
 inatingível
 inativo
 inato
@@ -8024,7 +8057,6 @@ inusual
 inutilizável
 inuíte
 invalidado
-invariado
 invariante
 invariável
 invasivo
@@ -8078,10 +8110,12 @@ irlandez
 irlandês
 iroquês
 irracional
+irracionalíssimo
 irreal
 irreconciliavel
 irreconciliável
 irreconhecível
+irredimível
 irredutível
 irrefragável
 irrefreável
@@ -8205,6 +8239,7 @@ jumento
 junino
 junto
 jupiteriano
+jurado
 juramentado
 jurisdicional
 jururu
@@ -8415,6 +8450,7 @@ lingüístico
 linha-dura
 linoleico
 linoléico
+lioz
 lipofílico
 lipossolúvel
 liquidificador
@@ -8594,6 +8630,7 @@ maioritário
 mais louco que o padre do balão
 mais ou menos
 mais perdido que cego em tiroteio
+mais sossegado que pai de menina feia
 mais velho que a Sé de Braga
 maiúsculo
 majestoso
@@ -8884,6 +8921,8 @@ mesangial
 mesmo
 mesmíssimo
 mesológico
+mesomorfo
+mesomórfico
 mesozoico
 mesquinho
 messiânico
@@ -9092,9 +9131,11 @@ monoatómico
 monoatômico
 monocasta
 monocolor
+monocrata
 monocristalino
 monocromo
 monocromático
+monocrático
 monocíclico
 monofisista
 monofónico
@@ -9648,6 +9689,8 @@ olfativo
 olfatório
 olhanense
 olhudo
+oligofrénico
+oligofrênico
 oligárquico
 olisiponense
 olissiponense
@@ -9900,6 +9943,7 @@ paralítico
 paramagnético
 paramilitar
 paranaense
+paranista
 paranoico
 paranormal
 paranóico
@@ -10038,6 +10082,7 @@ penedonense
 penelense
 penetra
 penetrante
+penetrável
 penetrãte
 penhascoso
 peninsular
@@ -10352,6 +10397,8 @@ pomológico
 pompeiano
 pomposo
 ponderado
+ponocrata
+ponocrático
 ponte-limense
 pontiagudo
 pontual
@@ -10368,6 +10415,7 @@ porco
 porfiado
 pormenorizado
 porno
+pornocrático
 pornográfico
 pornô
 poroso
@@ -10744,6 +10792,7 @@ pândego
 pão-duro
 pão com ovo
 pé frio
+pé no chão
 pélvico
 pénico
 pérfido
@@ -10841,6 +10890,9 @@ quinto
 quinzenal
 quiral
 quirguiz
+quirográfico
+quiromântico
+quiroscópico
 quisto
 quite
 quixotesco
@@ -10897,6 +10949,7 @@ ranzinza
 ranço
 rançoso
 rapace
+rapidinho
 rapidíssimo
 raposo
 rapsódico
@@ -11123,6 +11176,7 @@ retinho
 retiniano
 retinto
 reto
+retracto
 retrasado
 retrato
 retroactivo
@@ -11443,6 +11497,7 @@ sefardi
 sefardim
 sefardita
 seguinte
+segundinho
 segundo
 seguro
 seguro de si
@@ -11644,6 +11699,7 @@ sinfônico
 singapurense
 singapuriano
 singelo
+singráfico
 singular
 sinistro
 sino-japonês
@@ -11731,6 +11787,7 @@ solvente
 solúvel
 somali
 somaliano
+somatotípico
 sombreado
 sombreiro
 sombrio
@@ -11768,6 +11825,7 @@ soviético
 sozinho
 spinozista
 sportinguista
+sri-lankês
 srilankês
 srilanquês
 stalinista
@@ -12537,6 +12595,9 @@ umami
 umbandista
 umbelífero
 umbroso
+umbrático
+umbrátil
+umbrífero
 umedecido
 undecenal
 undécimo
@@ -12882,6 +12943,7 @@ volátil
 volémico
 volúvel
 vomeronasal
+vomitado
 voraz
 vortiginoso
 votante
@@ -12986,10 +13048,12 @@ zwitteriónico
 zwitteriônico
 zygomatico
 à bolonhesa
+à caçador
 à deriva
 à frente de seu tempo
 à moda antiga
 à mão
+à pai Adão
 à paisana
 à prova de fogo
 à solta

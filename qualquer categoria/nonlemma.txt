@@ -16,6 +16,7 @@
 -aria
 -armos
 -as
+-ases
 -asse
 -aste
 -astes
@@ -266,8 +267,13 @@ PCs da Xuxa
 PECs
 PFs
 PMs
+Pascoelas
+Promptos Soccorros
+Páscoas
 QGs
+RAMs
 RGs
+ROMs
 Ritas
 Ruis
 Réveillons
@@ -290,6 +296,8 @@ São Bernardos
 TCCs
 TVs de plasma
 Taijiquistão
+Tias Paulas
+Tios Paulos
 UFOs
 UFs
 URLs amigáveis
@@ -443,9 +451,13 @@ ab-rogássemos
 ab-rogávamos
 ab-rogáveis
 aba
+abacados
 abacalhoada
 abacalhoadas
 abacalhoados
+abacatais
+abacateirais
+abacateiras
 abacateiros
 abacates
 abacaxis
@@ -2142,6 +2154,7 @@ abespinhássemos
 abespinhávamos
 abespinháveis
 abestada
+abestadas
 abestado
 abestados
 abetardas
@@ -7544,6 +7557,58 @@ acionásseis
 acionássemos
 acionávamos
 acionáveis
+aciranda
+acirandada
+acirandadas
+acirandado
+acirandados
+acirandai
+acirandais
+acirandam
+acirandamos
+acirandando
+acirandara
+acirandaram
+acirandaras
+acirandardes
+acirandarei
+acirandareis
+acirandarem
+acirandaremos
+acirandares
+acirandaria
+acirandariam
+acirandarias
+acirandarmos
+acirandará
+acirandarás
+acirandarão
+acirandaríamos
+acirandaríeis
+acirandas
+acirandasse
+acirandassem
+acirandasses
+acirandaste
+acirandastes
+acirandava
+acirandavam
+acirandavas
+acirande
+acirandei
+acirandeis
+acirandem
+acirandemos
+acirandes
+acirando
+acirandou
+acirandámos
+acirandáramos
+acirandáreis
+acirandásseis
+acirandássemos
+acirandávamos
+acirandáveis
 acirra
 acirrada
 acirradas
@@ -15533,6 +15598,7 @@ agatanháveis
 agatológica
 agatológicas
 agatológicos
+agaves
 age
 agelastas
 agem
@@ -16793,6 +16859,7 @@ agrônoma
 agrônomas
 agrônomos
 agua
+aguacates
 aguaceiros
 aguada
 aguadas
@@ -20888,6 +20955,7 @@ almas gêmeas
 almaça
 almaças
 almaços
+almeidas
 almeidenses
 almeja
 almejada
@@ -22234,6 +22302,8 @@ alumiásseis
 alumiássemos
 alumiávamos
 alumiáveis
+alumnas
+alumnos
 alumínica
 alumínicas
 alumínicos
@@ -36258,7 +36328,10 @@ apreçássemos
 apreçávamos
 apreçáveis
 aprimora
+aprimorada
+aprimoradas
 aprimorado
+aprimorados
 aprimorai
 aprimorais
 aprimoram
@@ -38718,6 +38791,7 @@ arianizássemos
 arianizávamos
 arianizáveis
 arianos
+aribés
 aridades
 aridezes
 aridificações
@@ -41441,6 +41515,7 @@ arrizotônica
 arrizotônicas
 arrizotônicos
 arrobas
+arrocha
 arrochada
 arrochadas
 arrochado
@@ -42565,6 +42640,7 @@ aruaques
 arundinácea
 arundináceas
 arundináceos
+arus
 arvernos
 arvicolídeos
 arviculturas
@@ -42802,6 +42878,7 @@ asfaltei
 asfalteis
 asfaltem
 asfaltemos
+asfaltenos
 asfaltes
 asfalto
 asfaltos
@@ -42865,6 +42942,9 @@ asfixiásseis
 asfixiássemos
 asfixiávamos
 asfixiáveis
+asfáltica
+asfálticas
+asfálticos
 asfódelos
 ashantis
 asila
@@ -47753,6 +47833,11 @@ attentássemos
 attentávamos
 attentáveis
 attitudes
+attractora
+attractoras
+attractores
+attribuições
+attributos
 attrito
 attritos
 attura
@@ -48176,6 +48261,7 @@ audiências
 audiências-alvo
 audiências objetivadas
 audiências visadas
+audiômetros
 audácias
 audíveis
 aufere
@@ -50894,6 +50980,8 @@ azafamávamos
 azafamáveis
 azagaias
 azaleias
+azambujeiras
+azambujeiros
 azara
 azarada
 azaradas
@@ -52167,6 +52255,8 @@ bagos
 bagres
 baguais
 baguetes
+baguiches
+baguitches
 bagulho
 bagulhos
 bagunce
@@ -52227,6 +52317,9 @@ bagunçáveis
 bahamiana
 bahamianas
 bahamianos
+bahiana
+bahianas
+bahianos
 bahias
 baiacus
 baiana
@@ -54388,6 +54481,9 @@ baseássemos
 baseávamos
 baseáveis
 bashkires
+basifixa
+basifixas
+basifixos
 basilares
 basilectos
 basiletos
@@ -55163,6 +55259,7 @@ begónias
 begônias
 beicinhos
 beija
+beija-flores
 beija-flores-de-barriga-branca
 beija-flores-de-fronte-violeta
 beija-flores-de-garganta-verde
@@ -55628,6 +55725,7 @@ benzílicos
 benzóica
 benzóicas
 benzóicos
+benças
 bençoens
 bençoẽs
 benéfica
@@ -56121,6 +56219,8 @@ bichávamos
 bicháveis
 bicicletas
 bicicletas de montanha
+bicicletas ergométricas
+bicicletas estáticas
 bicicletes
 bicicletinhas
 bicicletários
@@ -56253,6 +56353,7 @@ bilhares
 bilhas
 bilheteiras
 bilheteiros
+bilheterias
 bilhetes
 bilhetes de identidade
 bilhetes sem volta
@@ -57333,7 +57434,9 @@ blocagens
 blockbusters
 blocks
 blocos
+blocos cirúrgicos
 blocos de nota
+blocos operatórios
 bloga
 blogada
 blogadas
@@ -58777,6 +58880,7 @@ botava
 botavam
 botavas
 bote
+botecos
 botei
 boteis
 botelhas
@@ -59809,6 +59913,7 @@ briosos
 briquete
 briquetes
 brisa
+brisadeiros
 brisado
 brisai
 brisais
@@ -60772,6 +60877,9 @@ burduada
 burduadas
 burelas
 buretas
+burgessa
+burgessas
+burgessos
 burgomestres
 burgraves
 burguesa
@@ -61373,7 +61481,9 @@ cabocla
 caboclas
 caboclos
 cabos
+cabos-de-secção
 cabos de guerra
+cabos de secção
 cabotagens
 caboucos
 cabras
@@ -62400,6 +62510,7 @@ caiássemos
 caiávamos
 caiáveis
 caiçaras
+cajadadas
 cajados
 cajueiros
 cajus
@@ -63032,11 +63143,17 @@ calqueis
 calquem
 calquemos
 calques
+calumniadora
+calumniadoras
+calumniadores
 calumnias
 calunia
 caluniada
 caluniadas
 caluniado
+caluniadora
+caluniadoras
+caluniadores
 caluniados
 caluniai
 caluniais
@@ -63186,6 +63303,7 @@ camareiras
 camareiros
 camarinhas
 camarins
+camarlengados
 camaronesa
 camaronesas
 camaroneses
@@ -63346,6 +63464,9 @@ cambiávamos
 cambiáveis
 cambo
 camboas
+cambodjana
+cambodjanas
+cambodjanos
 cambojana
 cambojanas
 cambojanos
@@ -63367,6 +63488,7 @@ camelos
 camelos bactrianos
 camelôs
 cameradas
+camerlengados
 camerlengos
 cames
 caminha
@@ -64818,6 +64940,7 @@ capitem
 capitemos
 capites
 capito
+capitoas
 capitosa
 capitosas
 capitosos
@@ -65265,6 +65388,7 @@ caramelos
 caramujeiras
 caramujos
 carangas
+carangos
 caranguejeiras
 caranguejolas
 caranguejos
@@ -67649,6 +67773,7 @@ cavalgaduras
 cavalgai
 cavalgais
 cavalgam
+cavalgamentos
 cavalgamos
 cavalgando
 cavalgara
@@ -68390,6 +68515,8 @@ celgas
 celibatária
 celibatárias
 celibatários
+celiotomias
+celiotomii
 celoricenses
 celtas
 celtistas
@@ -69486,7 +69613,56 @@ chagáveis
 chahadas
 chaise longues
 chalanas
+chaleirada
+chaleiradas
+chaleirado
+chaleirados
+chaleirai
+chaleirais
+chaleiram
+chaleiramos
+chaleirando
+chaleirara
+chaleiraram
+chaleiraras
+chaleirardes
+chaleirarei
+chaleirareis
+chaleirarem
+chaleiraremos
+chaleirares
+chaleiraria
+chaleirariam
+chaleirarias
+chaleirarmos
+chaleirará
+chaleirarás
+chaleirarão
+chaleiraríamos
+chaleiraríeis
 chaleiras
+chaleirasse
+chaleirassem
+chaleirasses
+chaleiraste
+chaleirastes
+chaleirava
+chaleiravam
+chaleiravas
+chaleire
+chaleirei
+chaleireis
+chaleirem
+chaleiremos
+chaleires
+chaleiro
+chaleirou
+chaleiráramos
+chaleiráreis
+chaleirásseis
+chaleirássemos
+chaleirávamos
+chaleiráveis
 chalotas
 chalretas
 chalupas
@@ -69997,6 +70173,7 @@ chapéus
 chapéus-coco
 chapéus-de-chuva
 chapéus-de-coco
+chapéus-de-côco
 chapéus chineses
 chapéus coco
 chapéus côco
@@ -71890,6 +72067,7 @@ chupássemos
 chupávamos
 chupáveis
 chupões
+churrascamentos
 churrascaria
 churrascarias
 churrasco
@@ -72002,6 +72180,7 @@ chá-mates
 chácaras
 chás
 chás da tarde
+chás de bebê
 chás de revelação
 chás gelados
 chás pretos
@@ -72026,6 +72205,7 @@ cianídricas
 cianídricos
 cias.
 ciberataques
+cibercafés
 cibercrimes
 ciberespaços
 ciberguerras
@@ -72754,8 +72934,58 @@ cipós amargos
 cipós capadores
 cipós de rego
 ciranda
+cirandada
+cirandadas
+cirandado
+cirandados
+cirandai
+cirandais
+cirandam
+cirandamos
+cirandando
+cirandara
+cirandaram
+cirandaras
+cirandardes
+cirandarei
+cirandareis
+cirandarem
+cirandaremos
+cirandares
+cirandaria
+cirandariam
+cirandarias
+cirandarmos
+cirandará
+cirandarás
+cirandarão
+cirandaríamos
+cirandaríeis
 cirandas
+cirandasse
+cirandassem
+cirandasses
+cirandaste
+cirandastes
+cirandava
+cirandavam
+cirandavas
+cirande
+cirandei
+cirandeis
+cirandem
+cirandemos
+cirandes
 cirandinhas
+cirando
+cirandou
+cirandámos
+cirandáramos
+cirandáreis
+cirandásseis
+cirandássemos
+cirandávamos
+cirandáveis
 circatejana
 circatejanas
 circatejanos
@@ -74923,6 +75153,7 @@ cocainómana
 cocainómanas
 cocainómanos
 cocares
+cocas
 coccidioses
 coccídios
 coccígea
@@ -80770,6 +81001,7 @@ conclamásseis
 conclamássemos
 conclamávamos
 conclamáveis
+conclaves
 conclua
 concluais
 concluam
@@ -87591,6 +87823,7 @@ coquetes
 coquetéis
 coquetéis Molotov
 coquilhas
+coquinhas
 coquinhos
 cora
 corada
@@ -90388,6 +90621,7 @@ criptomoedas
 criptopórticos
 criptorquidias
 criptos
+criptídeos
 criptónimos
 criptônimos
 crisadas
@@ -91134,6 +91368,10 @@ crucíferos
 crudelíssima
 crudelíssimas
 crudelíssimos
+crudivorismos
+crudívora
+crudívoras
+crudívoros
 crueldades
 cruelíssima
 cruelíssimas
@@ -91256,6 +91494,7 @@ ctônica
 ctônicas
 ctônicos
 ctônios
+cuandus
 cuanzas
 cuatás
 cuba
@@ -91381,9 +91620,49 @@ cubávamos
 cubáveis
 cubículos
 cubóides
+cucado
+cucai
+cucais
+cucam
+cucamos
+cucando
+cucara
+cucaram
+cucaras
+cucardes
+cucarei
+cucareis
+cucarem
+cucaremos
+cucares
+cucaria
+cucariam
+cucarias
+cucarmos
+cucará
+cucarás
+cucarão
+cucaríamos
+cucaríeis
 cucas
+cucasse
+cucassem
+cucasses
+cucaste
+cucastes
+cucava
+cucavam
+cucavas
 cucetas
 cucos
+cucou
+cucámos
+cucáramos
+cucáreis
+cucásseis
+cucássemos
+cucávamos
+cucáveis
 cuecas
 cueiros
 cuias
@@ -91928,6 +92207,10 @@ cupuaçus
 cupuaçuzeiros
 cupuaçús
 cupões
+cuquei
+cuqueis
+cuquem
+cuquemos
 cuques
 cura
 curada
@@ -92786,6 +93069,7 @@ cuzinhos
 cuzonas
 cuzões
 cuícas
+cuís
 cyclopes
 cynica
 cynicas
@@ -92992,6 +93276,8 @@ córtices
 cósmica
 cósmicas
 cósmicos
+côa
+côas
 côcos
 côdeas
 cômica
@@ -94431,6 +94717,7 @@ debuxem
 debuxemos
 debuxes
 debuxo
+debuxos
 debuxou
 debuxámos
 debuxáramos
@@ -104513,6 +104800,7 @@ descansásseis
 descansássemos
 descansávamos
 descansáveis
+descapotáveis
 descara
 descarada
 descaradas
@@ -111937,7 +112225,59 @@ desinflásseis
 desinflássemos
 desinflávamos
 desinfláveis
+desinforma
+desinformada
+desinformadas
+desinformado
+desinformados
+desinformai
+desinformais
+desinformam
+desinformamos
+desinformando
+desinformara
+desinformaram
+desinformaras
+desinformardes
+desinformarei
+desinformareis
+desinformarem
+desinformaremos
+desinformares
+desinformaria
+desinformariam
+desinformarias
+desinformarmos
+desinformará
+desinformarás
+desinformarão
+desinformaríamos
+desinformaríeis
+desinformas
+desinformasse
+desinformassem
+desinformasses
+desinformaste
+desinformastes
+desinformava
+desinformavam
+desinformavas
 desinformações
+desinforme
+desinformei
+desinformeis
+desinformem
+desinformemos
+desinformes
+desinformo
+desinformou
+desinformámos
+desinformáramos
+desinformáreis
+desinformásseis
+desinformássemos
+desinformávamos
+desinformáveis
 desinibida
 desinibidas
 desinibidos
@@ -114325,6 +114665,7 @@ desocupásseis
 desocupássemos
 desocupávamos
 desocupáveis
+desodorantes
 desola
 desolada
 desoladas
@@ -120062,9 +120403,12 @@ dicotiledôneas
 dicrômica
 dicrômicas
 dicrômicos
-dictatoriais
+dictaduras
 dicto
 dicções
+didactica
+didacticas
+didacticos
 didáctica
 didácticas
 didácticos
@@ -124105,6 +124449,7 @@ diária
 diárias
 diários
 diâmetros
+dições
 diésteres
 dióptrica
 dióspiros
@@ -124734,6 +125079,7 @@ donas
 donas de casa
 donatários
 donde
+dondocas
 doninhas
 donos
 donos de casa
@@ -124915,6 +125261,9 @@ dormísseis
 dormíssemos
 dorsais
 dorsais oceânicas
+dorsifixa
+dorsifixas
+dorsifixos
 dorsos
 dorzinhas
 dos
@@ -125882,6 +126231,7 @@ dureis
 durem
 duremos
 dures
+duriões
 durma
 durmais
 durmam
@@ -126013,6 +126363,8 @@ dácios
 dádivas
 dáimios
 dálias
+dálitas
+dálites
 dálmatas
 dáricos
 dás
@@ -126389,6 +126741,13 @@ ecoáveis
 ecrão
 ecrãos
 ecrãs
+ectomorfa
+ectomorfas
+ectomorfias
+ectomorfos
+ectomórfica
+ectomórficas
+ectomórficos
 ectoparasitas
 ectoplasmas
 ectoplásmica
@@ -126397,6 +126756,7 @@ ectoplásmicos
 ectoplástica
 ectoplásticas
 ectoplásticos
+ecumenismos
 ecuménica
 ecuménicas
 ecuménicos
@@ -126416,6 +126776,7 @@ edades
 edafoclimática
 edafoclimáticas
 edafoclimáticos
+edamames
 edeagais
 edifica
 edificada
@@ -137292,7 +137653,14 @@ endoidáveis
 endomingada
 endomingadas
 endomingados
+endomorfa
+endomorfas
+endomorfias
+endomorfos
 endométrios
+endomórfica
+endomórficas
+endomórficos
 endoplasmática
 endoplasmáticas
 endoplasmáticos
@@ -142177,6 +142545,7 @@ ensejássemos
 ensejávamos
 ensejáveis
 ensembles
+ensimesmado
 ensina
 ensinada
 ensinadas
@@ -144889,6 +145258,58 @@ envernizásseis
 envernizássemos
 envernizávamos
 envernizáveis
+envesga
+envesgada
+envesgadas
+envesgado
+envesgados
+envesgai
+envesgais
+envesgam
+envesgamos
+envesgando
+envesgara
+envesgaram
+envesgaras
+envesgardes
+envesgarei
+envesgareis
+envesgarem
+envesgaremos
+envesgares
+envesgaria
+envesgariam
+envesgarias
+envesgarmos
+envesgará
+envesgarás
+envesgarão
+envesgaríamos
+envesgaríeis
+envesgas
+envesgasse
+envesgassem
+envesgasses
+envesgaste
+envesgastes
+envesgava
+envesgavam
+envesgavas
+envesgo
+envesgou
+envesgue
+envesguei
+envesgueis
+envesguem
+envesguemos
+envesgues
+envesgámos
+envesgáramos
+envesgáreis
+envesgásseis
+envesgássemos
+envesgávamos
+envesgáveis
 envia
 enviada
 enviadas
@@ -145616,6 +146037,8 @@ epitomizávamos
 epitomizáveis
 epitáfios
 epitélios
+epocas
+epochas
 epopeias
 epopéias
 epênteses
@@ -145928,6 +146351,7 @@ eram
 eras
 eras do gelo
 eras glaciais
+erasmistas
 eraõ
 erecta
 erectas
@@ -146405,6 +146829,9 @@ ervilhas
 ervilhas-de-cheiro
 ervilhas de cheiro
 erários
+erásmica
+erásmicas
+erásmicos
 erão
 erécteis
 eréteis
@@ -153256,6 +153683,7 @@ esperais
 esperam
 esperamos
 esperando
+esperantistas
 esperançada
 esperançadas
 esperançado
@@ -161982,7 +162410,15 @@ executávamos
 executáveis
 execuções
 exegeses
+exegetado
 exegetas
+exegetei
+exegetes
+exegetistas
+exegeto
+exegética
+exegéticas
+exegéticos
 exemplares
 exemplifica
 exemplificado
@@ -163216,6 +163652,9 @@ explica
 explicada
 explicadas
 explicado
+explicadora
+explicadoras
+explicadores
 explicados
 explicai
 explicais
@@ -163918,6 +164357,9 @@ expõem
 expões
 expúnhamos
 expúnheis
+exquisita
+exquisitas
+exquisitos
 exsecuta
 exsecutada
 exsecutadas
@@ -165479,6 +165921,7 @@ facholávamos
 facholáveis
 fachos
 faciais
+facientes
 facilidades
 facilita
 facilitada
@@ -167186,6 +167629,7 @@ faríngica
 faríngicas
 faríngicos
 faróis
+faróis acesos
 fasciites
 fascina
 fascinada
@@ -167807,6 +168251,7 @@ fazendo
 fazendária
 fazendárias
 fazendários
+fazentes
 fazerdes
 fazerem
 fazeres
@@ -168487,6 +168932,7 @@ feria
 feriada
 feriadas
 feriados
+feriadões
 feriam
 ferias
 feriaõ
@@ -168888,6 +169334,9 @@ festarão
 festaríamos
 festaríeis
 festas
+festas de 15 anos
+festas de pijama
+festas de quinze anos
 festas do sacrifício
 festas julinas
 festasse
@@ -168965,7 +169414,111 @@ festivas
 festividades
 festivos
 festo
+festoa
+festoada
+festoadas
+festoado
+festoados
+festoai
+festoais
+festoam
+festoamos
+festoando
+festoara
+festoaram
+festoaras
+festoardes
+festoarei
+festoareis
+festoarem
+festoaremos
+festoares
+festoaria
+festoariam
+festoarias
+festoarmos
+festoará
+festoarás
+festoarão
+festoaríamos
+festoaríeis
+festoas
+festoasse
+festoassem
+festoasses
+festoaste
+festoastes
+festoava
+festoavam
+festoavas
+festoe
+festoei
+festoeis
+festoem
+festoemos
+festoes
+festona
+festonada
+festonadas
+festonado
+festonados
+festonai
+festonais
+festonam
+festonamos
+festonando
+festonara
+festonaram
+festonaras
+festonardes
+festonarei
+festonareis
+festonarem
+festonaremos
+festonares
+festonaria
+festonariam
+festonarias
+festonarmos
+festonará
+festonarás
+festonarão
+festonaríamos
+festonaríeis
+festonas
+festonasse
+festonassem
+festonasses
+festonaste
+festonastes
+festonava
+festonavam
+festonavas
+festone
+festonei
+festoneis
+festonem
+festonemos
+festones
+festono
+festonou
+festonámos
+festonáramos
+festonáreis
+festonásseis
+festonássemos
+festonávamos
+festonáveis
+festoo
+festoou
 festou
+festoámos
+festoáramos
+festoáreis
+festoásseis
+festoássemos
+festoávamos
+festoáveis
 festámos
 festáramos
 festáreis
@@ -168973,6 +169526,8 @@ festásseis
 festássemos
 festávamos
 festáveis
+festôo
+festões
 fetais
 fetiches
 fetos
@@ -173535,6 +174090,7 @@ fotografásseis
 fotografássemos
 fotografávamos
 fotografáveis
+fotogravuras
 fotográfica
 fotográficas
 fotográficos
@@ -173558,6 +174114,12 @@ fotossintéticas
 fotossintéticos
 fotossistemas
 fotossínteses
+fototipias
+fototipografias
+fototipogravuras
+fototípica
+fototípicas
+fototípicos
 fotovoltaica
 fotovoltaicas
 fotovoltaicos
@@ -173568,6 +174130,7 @@ fotómetros
 fotónica
 fotónicas
 fotónicos
+fotótipos
 fotômetros
 fotônica
 fotônicas
@@ -178026,11 +178589,13 @@ garoasse
 garoava
 garoe
 garoou
+garota
 garotadas
 garotas
 garotas de programa
 garotinhas
 garotinhos
+garoto
 garotos
 garotos de programa
 garotões
@@ -178204,6 +178769,7 @@ garças reais
 garçonetes
 garçons
 garções
+garôtas
 gaseifica
 gaseificada
 gaseificadas
@@ -179918,6 +180484,7 @@ ginástica
 ginásticas
 ginásticos
 gira
+gira-giras
 girada
 giradas
 girado
@@ -180241,6 +180808,7 @@ gloses
 gloso
 glosou
 glossários
+glossónimos
 glosámos
 glosáramos
 glosáreis
@@ -181696,6 +182264,58 @@ gramasses
 gramaste
 gramastes
 gramaticais
+gramaticaliza
+gramaticalizada
+gramaticalizadas
+gramaticalizado
+gramaticalizados
+gramaticalizai
+gramaticalizais
+gramaticalizam
+gramaticalizamos
+gramaticalizando
+gramaticalizara
+gramaticalizaram
+gramaticalizaras
+gramaticalizardes
+gramaticalizarei
+gramaticalizareis
+gramaticalizarem
+gramaticalizaremos
+gramaticalizares
+gramaticalizaria
+gramaticalizariam
+gramaticalizarias
+gramaticalizarmos
+gramaticalizará
+gramaticalizarás
+gramaticalizarão
+gramaticalizaríamos
+gramaticalizaríeis
+gramaticalizas
+gramaticalizasse
+gramaticalizassem
+gramaticalizasses
+gramaticalizaste
+gramaticalizastes
+gramaticalizava
+gramaticalizavam
+gramaticalizavas
+gramaticalize
+gramaticalizei
+gramaticalizeis
+gramaticalizem
+gramaticalizemos
+gramaticalizes
+gramaticalizo
+gramaticalizou
+gramaticalizámos
+gramaticalizáramos
+gramaticalizáreis
+gramaticalizásseis
+gramaticalizássemos
+gramaticalizávamos
+gramaticalizáveis
 gramava
 gramavam
 gramavas
@@ -181706,6 +182326,7 @@ gramem
 gramemos
 grames
 graminhos
+grammatica
 grammaticais
 grammaticas
 grammaticos
@@ -182484,6 +183105,7 @@ gregásseis
 gregássemos
 gregávamos
 gregáveis
+gregórios
 grelha
 grelhada
 grelhadas
@@ -183253,6 +183875,7 @@ guarda-caças
 guarda-chuvas
 guarda-corpos
 guarda-lamas
+guarda-marinhas
 guarda-parques
 guarda-roupas
 guarda-sóis
@@ -183287,6 +183910,8 @@ guardarão
 guardaríamos
 guardaríeis
 guardas
+guardas-marinha
+guardas-marinhas
 guardas costeiras
 guardas de farol
 guardasse
@@ -184313,6 +184938,7 @@ halogenásseis
 halogenássemos
 halogenávamos
 halogenáveis
+halogénios
 halogênios
 halos
 halteres
@@ -184627,6 +185253,7 @@ hegemônica
 hegemônicas
 hegemônicos
 hei
+hei-de
 heis
 helenistas
 heleniza
@@ -185479,6 +186106,7 @@ hierarquias
 hierodulas
 hierodulias
 hierodulos
+hierofanias
 hierofantas
 hierofontes
 hieromancias
@@ -186082,6 +186710,7 @@ hispânica
 hispânicas
 hispânicos
 hissopes
+hissopos
 histerectomias
 histereses
 histogramas
@@ -186273,6 +186902,7 @@ homes
 homicidas
 homicídios
 homicídios em legítima defesa
+homilias
 hominhos
 hominídeos
 hominídios
@@ -186669,6 +187299,7 @@ hortejos
 horteleiros
 hortelãos
 hortelãs
+hortelãs-verdes
 hortem
 hortemos
 hortes
@@ -187191,6 +187822,7 @@ hypertextos
 hypochondrias
 hypocrisias
 há
+há-de
 hábeis
 hábitats
 hábitos
@@ -187202,9 +187834,11 @@ háptica
 hápticas
 hápticos
 hás
+hás-de
 hâmsteres
 hâmsters
 hão
+hão-de
 hélices
 hélios
 hérnias
@@ -188835,6 +189469,7 @@ impaludismos
 imparciais
 imparcialidades
 imparáveis
+impasse
 impasses
 impassíveis
 impeachments
@@ -190713,6 +191348,9 @@ inarmônicas
 inarmônicos
 inarráveis
 inarticulada
+inartística
+inartísticas
+inartísticos
 inata
 inatas
 inatingíveis
@@ -193677,6 +194315,58 @@ infirmássemos
 infirmávamos
 infirmáveis
 infiro
+infixa
+infixada
+infixadas
+infixado
+infixados
+infixai
+infixais
+infixam
+infixamos
+infixando
+infixara
+infixaram
+infixaras
+infixardes
+infixarei
+infixareis
+infixarem
+infixaremos
+infixares
+infixaria
+infixariam
+infixarias
+infixarmos
+infixará
+infixarás
+infixarão
+infixaríamos
+infixaríeis
+infixas
+infixasse
+infixassem
+infixasses
+infixaste
+infixastes
+infixava
+infixavam
+infixavas
+infixe
+infixei
+infixeis
+infixem
+infixemos
+infixes
+infixos
+infixou
+infixámos
+infixáramos
+infixáreis
+infixásseis
+infixássemos
+infixávamos
+infixáveis
 infiéis
 infla
 inflaciona
@@ -197399,6 +198089,7 @@ interferisses
 interferiste
 interferistes
 interferiu
+interferons
 interferências
 interferíamos
 interferíeis
@@ -200056,6 +200747,9 @@ iroqueses
 irou
 irracionais
 irracionalidades
+irracionalíssima
+irracionalíssimas
+irracionalíssimos
 irradia
 irradiada
 irradiadas
@@ -200113,6 +200807,7 @@ irreais
 irreconciliaveis
 irreconciliáveis
 irreconhecíveis
+irredimíveis
 irredutíveis
 irrefreáveis
 irrefutáveis
@@ -201444,6 +202139,7 @@ jerosolimitanas
 jerosolimitanos
 jerosolimitas
 jeróglifos
+jesuses
 jesuítas
 jiboias
 jibóias
@@ -202449,6 +203145,7 @@ kardecistas
 kartódromos
 kas-churrascos
 kbças
+kelvins
 kernitas
 khutbas
 kiba
@@ -203334,6 +204031,7 @@ lambais
 lambam
 lambamos
 lambas
+lambdacismos
 lambe
 lambe-lambes
 lambedoras
@@ -204054,6 +204752,7 @@ lapadas
 laparoscópica
 laparoscópicas
 laparoscópicos
+laparotomias
 lapas
 lapelas
 lapida
@@ -206154,6 +206853,7 @@ liastes
 liava
 liavam
 liavas
+liações
 libanesa
 libanesas
 libaneses
@@ -207114,6 +207814,8 @@ linoleicos
 linoléica
 linoléicas
 linoléicos
+linotipias
+linotipos
 linquei
 linqueis
 linquem
@@ -207121,8 +207823,10 @@ linquemos
 linques
 linárias
 linóleos
+linótipos
 lio
 liou
+liozes
 lipoaspirações
 lipofílica
 lipofílicas
@@ -208389,6 +209093,58 @@ lontras
 lontras-gigantes
 loo
 looks
+looteada
+looteadas
+looteado
+looteados
+looteai
+looteais
+looteamos
+looteando
+looteara
+lootearam
+lootearas
+looteardes
+lootearei
+looteareis
+lootearem
+lootearemos
+looteares
+lootearia
+looteariam
+lootearias
+lootearmos
+looteará
+lootearás
+lootearão
+lootearíamos
+lootearíeis
+looteasse
+looteassem
+looteasses
+looteaste
+looteastes
+looteava
+looteavam
+looteavas
+looteei
+looteeis
+looteemos
+looteia
+looteiam
+looteias
+looteie
+looteiem
+looteies
+looteio
+looteou
+looteámos
+looteáramos
+looteáreis
+looteásseis
+looteássemos
+looteávamos
+looteáveis
 loou
 loquacidades
 loquazes
@@ -209465,6 +210221,7 @@ lícita
 lícitas
 lícitos
 líderes
+líderes de torcida
 líderes supremos
 lídia
 lídias
@@ -209914,6 +210671,7 @@ machados
 machambas
 machas
 machimbombos
+machinas
 machinas de escrever
 machismos
 machistas
@@ -210490,6 +211248,9 @@ mais-valias
 mais louca que o padre do balão
 mais loucas que o padre do balão
 mais loucos que o padre do balão
+mais sossegada que pai de menina feia
+mais sossegadas que pai de menina feia
+mais sossegados que pai de menina feia
 mais velha que a Sé de Braga
 mais velhas que a Sé de Braga
 mais velhos que a Sé de Braga
@@ -213411,6 +214172,7 @@ marroquinos
 marruás
 marrãos
 marrãs
+marrêtas
 marrões
 marselhesa
 marshallesa
@@ -214619,6 +215381,9 @@ matéria prima
 matérias
 matérias-primas
 matérias cinzentas
+mauerado
+mauerei
+mauero
 maura
 mauras
 mauriciana
@@ -214877,6 +215642,7 @@ maçônicas
 maçônicos
 mações
 maís
+maíses
 mbaca
 mbacas
 mbacos
@@ -215439,6 +216205,7 @@ meias-luas
 meias-noites
 meias-voltas
 meias arrastão
+meias de leite
 meias dúzias
 meie
 meiem
@@ -215876,6 +216643,7 @@ memoriávamos
 memoriáveis
 memoráveis
 memórias
+memórias RAM
 memórias ROM
 memórias dinâmicas
 memórias fotográficas
@@ -216600,6 +217368,7 @@ merufos
 meruje
 merujes
 merónimos
+merônimos
 mesa-tenistas
 mesa-tenística
 mesa-tenísticas
@@ -216732,6 +217501,13 @@ mesologias
 mesológica
 mesológicas
 mesológicos
+mesomorfa
+mesomorfas
+mesomorfias
+mesomorfos
+mesomórfica
+mesomórficas
+mesomórficos
 mesonas
 mesorregiões
 mesquinha
@@ -218795,6 +219571,7 @@ miserásseis
 miserássemos
 miserávamos
 miseráveis
+misocinesias
 misoginias
 missa
 missada
@@ -220157,6 +220934,7 @@ molestásseis
 molestássemos
 molestávamos
 molestáveis
+moletons
 molezas
 molha
 molhada
@@ -220496,6 +221274,8 @@ monocelhas
 monocolores
 monocotiledóneas
 monocotiledôneas
+monocracias
+monocratas
 monocristais
 monocristalina
 monocristalinas
@@ -220506,6 +221286,9 @@ monocromos
 monocromática
 monocromáticas
 monocromáticos
+monocrática
+monocráticas
+monocráticos
 monocíclica
 monocíclicas
 monocíclicos
@@ -222039,6 +222822,7 @@ muares
 mucamas
 mucambas
 muches
+muchéns
 mucilons
 mucosa
 mucosas
@@ -223120,6 +223904,7 @@ místers
 mística
 místicas
 místicos
+mísulas
 mítica
 míticas
 míticos
@@ -224706,6 +225491,10 @@ nevosos
 nevou
 nevóides
 nevões
+newtoniana
+newtonianas
+newtonianos
+nexos
 neófitos
 neófoba
 neófobas
@@ -224863,6 +225652,7 @@ ninharias
 ninhos
 ninhos de cobra
 ninhos de geada
+ninjas
 ninjetes
 niobitas
 niponiza
@@ -225363,6 +226153,7 @@ nomeião
 nomenclaturas
 nomeou
 nomes
+nomes artísticos
 nomes científicos
 nomes mortos
 nomes próprios
@@ -227617,6 +228408,7 @@ octaméricos
 octanagens
 octanas
 octanos
+octavós
 octavôs
 octaédrica
 octaédricas
@@ -228596,6 +229388,13 @@ olhões
 olifantes
 oligarcas
 oligarquias
+oligofrenias
+oligofrénica
+oligofrénicas
+oligofrénicos
+oligofrênica
+oligofrênicas
+oligofrênicos
 oligoquetas
 oligossacarídeos
 oligárquica
@@ -230919,6 +231718,7 @@ ostricultores
 ostíaca
 ostíacas
 ostíacos
+otakus
 otimistas
 otimiza
 otimizada
@@ -231314,6 +232114,7 @@ ovei
 oveiros
 oveis
 ovelhas
+ovelhas negras
 ovem
 ovemos
 overdoses
@@ -233115,6 +233916,7 @@ panguáveis
 panificadora
 panificadoras
 panificações
+panikes
 panjabis
 pano
 panoramas
@@ -235239,6 +236041,7 @@ pastávamos
 pastáveis
 pastéis
 pastéis de nata
+pastéis de pelo
 pastéis de vento
 patacas
 patacoadas
@@ -235568,15 +236371,20 @@ patrolada
 patroladas
 patrolado
 patrolados
+patrolam
 patrolamos
 patrolando
 patrolara
 patrolaram
+patrolarem
 patrolaria
 patrolas
 patrolasse
+patrolassem
 patrolava
+patrolavam
 patrole
+patrolei
 patrolem
 patrolemos
 patrolo
@@ -237507,6 +238315,9 @@ perambulássemos
 perambulávamos
 perambuláveis
 peras
+peras-abacate
+peras-abacates
+peras-de-advogado
 peras-maçã
 perbromatos
 perca
@@ -238504,6 +239315,7 @@ peripatetismos
 peripatética
 peripatéticas
 peripatéticos
+periquitamboias
 periquitas
 periquito
 periquitos
@@ -240227,6 +241039,7 @@ petrifiques
 petrina
 petrinas
 petrinos
+petroestados
 petrográfica
 petrográficas
 petrográficos
@@ -240333,6 +241146,7 @@ phthisica
 phthisicas
 phthisicos
 physica
+physicas
 pia
 piabas
 piada
@@ -243874,6 +244688,8 @@ polêmicos
 políamos
 polícias
 polícias de choque
+polícias do pensamento
+polícias militares
 polícias secretas
 polículas
 políeis
@@ -244029,6 +244845,11 @@ ponhássemos
 ponhávamos
 ponháveis
 pono
+ponocracias
+ponocratas
+ponocrática
+ponocráticas
+ponocráticos
 pontadas
 pontapeada
 pontapeadas
@@ -244113,6 +244934,7 @@ pontos-G
 pontos críticos
 pontos de exclamação
 pontos de interrogação
+pontos de ônibus
 pontos e vírgulas
 pontos negros
 pontos triplos
@@ -244471,6 +245293,10 @@ pormenorizássemos
 pormenorizávamos
 pormenorizáveis
 pormos
+pornocracias
+pornocrática
+pornocráticas
+pornocráticos
 pornografias
 pornografias infantis
 pornográfica
@@ -245664,6 +246490,7 @@ pratos
 pratos feitos
 pratéis
 praxes
+praxias
 praxinoscópios
 praxiológica
 praxiológicas
@@ -246669,9 +247496,57 @@ prefiramos
 prefiras
 prefiro
 prefixa
+prefixada
+prefixadas
+prefixado
+prefixados
+prefixai
 prefixais
+prefixam
+prefixamos
+prefixando
+prefixara
+prefixaram
+prefixaras
+prefixardes
+prefixarei
+prefixareis
+prefixarem
+prefixaremos
+prefixares
+prefixaria
+prefixariam
+prefixarias
+prefixarmos
+prefixará
+prefixarás
+prefixarão
+prefixaríamos
+prefixaríeis
 prefixas
+prefixasse
+prefixassem
+prefixasses
+prefixaste
+prefixastes
+prefixava
+prefixavam
+prefixavas
+prefixe
+prefixei
+prefixeis
+prefixem
+prefixemos
+prefixes
 prefixos
+prefixou
+prefixámos
+prefixáramos
+prefixáreis
+prefixásseis
+prefixássemos
+prefixávamos
+prefixáveis
 preformistas
 prefácios
 prega
@@ -247413,7 +248288,42 @@ prequelas
 prerrequisitos
 prerrogativas
 presa
+presada
+presadas
+presado
+presados
+presai
+presais
+presam
+presamos
+presando
+presara
+presaram
+presaras
+presardes
+presarei
+presareis
+presarem
+presaremos
+presares
+presaria
+presariam
+presarias
+presarmos
+presará
+presarás
+presarão
+presaríamos
+presaríeis
 presas
+presasse
+presassem
+presasses
+presaste
+presastes
+presava
+presavam
+presavas
 presbíteros
 prescientes
 prescinda
@@ -247522,6 +248432,11 @@ prescrito
 prescritos
 prescritíveis
 prescrições
+prese
+presei
+preseis
+presem
+presemos
 presencia
 presenciada
 presenciadas
@@ -247690,6 +248605,7 @@ preservásseis
 preservássemos
 preservávamos
 preserváveis
+preses
 presida
 presidais
 presidam
@@ -247801,6 +248717,7 @@ presilhávamos
 presilháveis
 preso
 presos
+presou
 pressa
 pressagia
 pressagiada
@@ -248202,6 +249119,13 @@ presunçosas
 presunçosos
 presunções
 presupondo
+presámos
+presáramos
+presáreis
+presásseis
+presássemos
+presávamos
+presáveis
 presépios
 presídios
 preta
@@ -248892,6 +249816,8 @@ prisioneiros da consciência
 prisioneiros de guerra
 pristino
 prisões
+prisões domiciliares
+prisões domiciliárias
 prisões perpétuas
 priva
 privacidades
@@ -250266,6 +251192,9 @@ proliferásseis
 proliferássemos
 proliferávamos
 proliferáveis
+prolixa
+prolixas
+prolixos
 prolonga
 prolongada
 prolongadas
@@ -250603,6 +251532,7 @@ pronominais
 pronta
 prontas
 prontos
+prontos-socorros
 prontuários
 pronuncia
 pronunciada
@@ -253914,6 +254844,7 @@ pánguo
 pápulas
 pára
 pára-brisas
+pára-lamas
 párias
 párocos
 párvula
@@ -253959,6 +254890,8 @@ pães franceses
 pãesinhos
 pãezinhos
 péla
+pélas
+pélo
 pélvica
 pélvicas
 pélvicos
@@ -254062,6 +254995,7 @@ pós-doutorais
 pós-escrita
 pós-escritas
 pós-escritos
+pós-graduações
 pós-humana
 pós-humanas
 pós-humanos
@@ -254798,6 +255732,7 @@ queimadas
 queimado
 queimados
 queimaduras
+queimaduras de terceiro grau
 queimai
 queimais
 queimam
@@ -255517,7 +256452,23 @@ quiques
 quirais
 quirches
 quirguizes
+quiroginastas
+quirografias
+quirográfica
+quirográficas
+quirográficos
+quiromancias
 quiromantes
+quiromântica
+quiromânticas
+quiromânticos
+quiroplastos
+quiroscopias
+quiroscópica
+quiroscópicas
+quiroscópicos
+quirófanos
+quirógrafos
 quis
 quisemos
 quiser
@@ -256904,6 +257855,9 @@ rapidinha
 rapidinhas
 rapidinho
 rapidissimamente
+rapidíssima
+rapidíssimas
+rapidíssimos
 rapieiras
 rapistros
 rapo
@@ -258212,6 +259166,7 @@ realidades
 realidades virtuais
 realimentações
 realistas
+reality shows
 realiza
 realizada
 realizadas
@@ -267136,6 +268091,58 @@ relevásseis
 relevássemos
 relevávamos
 releváveis
+relexifica
+relexificada
+relexificadas
+relexificado
+relexificados
+relexificai
+relexificais
+relexificam
+relexificamos
+relexificando
+relexificara
+relexificaram
+relexificaras
+relexificardes
+relexificarei
+relexificareis
+relexificarem
+relexificaremos
+relexificares
+relexificaria
+relexificariam
+relexificarias
+relexificarmos
+relexificará
+relexificarás
+relexificarão
+relexificaríamos
+relexificaríeis
+relexificas
+relexificasse
+relexificassem
+relexificasses
+relexificaste
+relexificastes
+relexificava
+relexificavam
+relexificavas
+relexifico
+relexificou
+relexificámos
+relexificáramos
+relexificáreis
+relexificásseis
+relexificássemos
+relexificávamos
+relexificáveis
+relexifique
+relexifiquei
+relexifiqueis
+relexifiquem
+relexifiquemos
+relexifiques
 relhas
 reli
 relia
@@ -268007,6 +269014,7 @@ remiti
 remitia
 remitiam
 remitias
+remitida
 remitido
 remitimos
 remitindo
@@ -269631,6 +270639,12 @@ repentina
 repentinas
 repentinos
 repercussões
+repertoriada
+repertoriadas
+repertoriado
+repertoriados
+repertoriei
+repertorio
 repertórios
 repescagens
 repete
@@ -274228,6 +275242,7 @@ retractem
 retractemos
 retractes
 retracto
+retractos
 retractou
 retractámos
 retractáramos
@@ -277514,6 +278529,7 @@ rotastes
 rotativa
 rotativas
 rotativos
+rotatória
 rotatórias
 rotava
 rotavam
@@ -279421,6 +280437,7 @@ sakuras
 saladas
 salafrárias
 salafrários
+salalés
 salamandras
 salames
 salariais
@@ -281352,6 +282369,7 @@ saudássemos
 saudávamos
 saudáveis
 saunas
+sautores
 savanas
 saves
 savitus
@@ -282305,6 +283323,8 @@ segundeis
 segundem
 segundemos
 segundes
+segundinha
+segundinhas
 segundinhos
 segundo
 segundos
@@ -283601,6 +284621,7 @@ seqüestrássemos
 seqüestrávamos
 seqüestráveis
 seqüências
+seqüóia
 seqüóias
 serafins
 serbo-croatas
@@ -283908,7 +284929,57 @@ serrilhadas
 serrilhado
 serrilhados
 serro
+serrota
+serrotada
+serrotadas
+serrotado
+serrotados
+serrotai
+serrotais
+serrotam
+serrotamos
+serrotando
+serrotara
+serrotaram
+serrotaras
+serrotardes
+serrotarei
+serrotareis
+serrotarem
+serrotaremos
+serrotares
+serrotaria
+serrotariam
+serrotarias
+serrotarmos
+serrotará
+serrotarás
+serrotarão
+serrotaríamos
+serrotaríeis
+serrotas
+serrotasse
+serrotassem
+serrotasses
+serrotaste
+serrotastes
+serrotava
+serrotavam
+serrotavas
+serrotei
+serroteis
+serrotem
+serrotemos
 serrotes
+serroto
+serrotou
+serrotámos
+serrotáramos
+serrotáreis
+serrotásseis
+serrotássemos
+serrotávamos
+serrotáveis
 serrou
 serrámos
 serráramos
@@ -284234,9 +285305,11 @@ shoppings
 shots
 showmícios
 shows
+shows de aberrações
 showzaços
 showzões
 shoyus
+shudras
 si
 sialagogos
 sialogogos
@@ -285085,6 +286158,9 @@ singremos
 singres
 singro
 singrou
+singráfica
+singráficas
+singráficos
 singrámos
 singráramos
 singráreis
@@ -286777,6 +287853,8 @@ soccedêsseis
 soccedêssemos
 soccedíamos
 soccedíeis
+soccorro
+soccorros
 soceda
 socedais
 socedam
@@ -286951,9 +288029,11 @@ socioeconômicas
 socioeconômicos
 sociofobias
 socioletos
+sociolinguistas
 sociolinguística
 sociolinguísticas
 sociolinguísticos
+sociolingüistas
 sociolingüística
 sociolingüísticas
 sociolingüísticos
@@ -288109,7 +289189,14 @@ somassem
 somasses
 somaste
 somastes
+somatoconservações
+somatopraxias
+somatotipias
+somatotípica
+somatotípicas
+somatotípicos
 somatórios
+somatótipos
 somava
 somavam
 somavas
@@ -289846,6 +290933,8 @@ suaíles
 suaílis
 sub-regiões
 sub-rogações
+sub-sargentos
+sub-tenentes
 suba
 subaguda
 subagudas
@@ -290493,6 +291582,7 @@ subs
 subsaariana
 subsaarianas
 subsaarianos
+subsargentos
 subscreva
 subscrevais
 subscrevam
@@ -290828,6 +291918,7 @@ substratos
 substâncias
 substâncias cinzentas
 subsídios
+subtenentes
 subterfúgios
 subterrânea
 subterrâneas
@@ -291007,6 +292098,7 @@ subvertêsseis
 subvertêssemos
 subvertíamos
 subvertíeis
+subwoofers
 subártica
 subárticas
 subárticos
@@ -291919,6 +293011,7 @@ sundanesa
 sundanesas
 sundaneses
 sungas
+sunitas
 suntuosa
 suntuosas
 suntuosos
@@ -294128,6 +295221,7 @@ sótãos
 sô
 sôbre-salto
 sôbre-saltos
+sôcos
 sôfrega
 sôfregas
 sôfregos
@@ -294881,6 +295975,7 @@ tanatofóbicos
 tanatológica
 tanatológicas
 tanatológicos
+tanatopraxias
 tanatoses
 tanatórios
 tanchagens
@@ -295088,6 +296183,7 @@ taparia
 tapariam
 taparias
 taparmos
+taparueres
 tapará
 taparás
 taparão
@@ -295399,6 +296495,7 @@ tares
 taria
 tarifa
 tarifas
+tarifaços
 tarja
 tarjado
 tarjai
@@ -295585,6 +296682,7 @@ tartaruguinhas
 tarteiras
 tarteletes
 tartes
+tartãs
 tartéssia
 tartéssias
 tartéssios
@@ -295910,6 +297008,7 @@ taxiastes
 taxiava
 taxiavam
 taxiavas
+taxidermias
 taxie
 taxiei
 taxieis
@@ -296477,7 +297576,9 @@ telefonem
 telefonemas
 telefonemos
 telefones
+telefones celulares
 telefones fixos
+telefones móveis
 telefonias
 telefonias fixas
 telefonistas
@@ -297886,6 +298987,8 @@ thúlias
 tiaras
 tias
 tias-avós
+tias Paulas
+tias paulas
 tiazinhas
 tiazonas
 tibetana
@@ -298343,9 +299446,11 @@ tiolatos
 tiorbas
 tios
 tios-avôs
+tios Paulos
 tios do pavê
 tios maternos
 tios paternos
+tios paulos
 tiossulfatos
 tiossulfúrica
 tiossulfúricas
@@ -298476,6 +299581,7 @@ tiqueis
 tiquem
 tiquemos
 tiques
+tiquitos
 tiquês
 tira
 tiracolos
@@ -302848,6 +303954,7 @@ trasladásseis
 trasladássemos
 trasladávamos
 trasladáveis
+trasorelhos
 traspassada
 traspassadas
 traspassado
@@ -305424,6 +306531,7 @@ trombócitos
 trombótica
 trombóticas
 trombóticos
+trompas
 trompas de Eustáquio
 trompas de Falópio
 trompetas
@@ -306144,7 +307252,6 @@ trópica
 trópicas
 trópicos
 trôcos
-trôços
 tsunamis
 tsunâmis
 tsé-tsés
@@ -307515,6 +308622,13 @@ umbrais
 umbrosa
 umbrosas
 umbrosos
+umbráteis
+umbrática
+umbráticas
+umbráticos
+umbrífera
+umbríferas
+umbríferos
 umedece
 umedecei
 umedeceis
@@ -309514,7 +310628,9 @@ vaio
 vaiou
 vairões
 vais
+vaishyas
 vaivéns
+vaixás
 vaiámos
 vaiáramos
 vaiáreis
@@ -310350,6 +311466,7 @@ varram
 varramos
 varras
 varre
+varredoras de rua
 varredores
 varredores de rua
 varreduras
@@ -310479,6 +311596,7 @@ vasculháveis
 vasectomias
 vasilhas
 vasos
+vasos naturais
 vasos sanitários
 vassala
 vassalas
@@ -314544,6 +315662,7 @@ vitrifiquemos
 vitrifiques
 vitrinas
 vitrines
+vitrolas
 vitupera
 vituperado
 vituperai
@@ -315844,6 +316963,7 @@ walsas
 warholiana
 warholianas
 warholianos
+watts
 webconferências
 weberiana
 weberianas
@@ -316105,11 +317225,14 @@ xeicas
 xeiques
 xelins
 xenartros
+xenodóquios
 xenofobias
 xenofobismos
 xenofóbica
 xenofóbicas
 xenofóbicos
+xenogéneros
+xenogêneros
 xenófoba
 xenófobas
 xenófobos
@@ -316306,6 +317429,9 @@ xique-xiques
 xiris
 xisbúrgueres
 xistos
+xita
+xitado
+xito
 xituculumucumbas
 xixas
 xixis
@@ -316436,6 +317562,7 @@ xoxou
 xucra
 xucras
 xucros
+xudras
 xumbrega
 xumbregado
 xumbregai
@@ -316490,6 +317617,7 @@ xurumbambos
 xuxinhas
 xuxus
 xás
+xátrias
 xávegas
 xântica
 xânticas
@@ -316501,6 +317629,7 @@ xô
 xúxus
 yags
 yakuzas
+yaois
 yogurtes
 youtuberes
 youtubers
@@ -316516,6 +317645,7 @@ zagueiros
 zambiana
 zambianas
 zambianos
+zambujeiros
 zanga
 zangada
 zangadas
@@ -317901,7 +319031,6 @@ zôo
 épicas
 épicos
 épocas
-épochas
 éramos
 érbios
 éreis

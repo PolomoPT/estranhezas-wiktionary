@@ -327,7 +327,6 @@
 |DAV
 |DC
 |DCIAP
-|DDD
 |DDI
 |DDT
 |DECIR
@@ -660,7 +659,6 @@
 |NFA-e
 |NFC-e
 |NFS-e
-|NGB
 |NISS
 |NOM
 |NOVO
@@ -997,6 +995,7 @@
 |UPAC
 |UPE
 |URA
+|URSS
 |USF
 |USF-AN
 |UTAO

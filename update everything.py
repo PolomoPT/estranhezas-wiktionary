@@ -45,3 +45,11 @@ try:
     print("Executed 'criar lista.py' in qualquer categoria")
 except Exception as e:
     print(f"Error executing 'qualquer categoria\\programa\\criar lista.py': {e}")
+
+# Sem lemma
+try:
+    with open("sem lemma\\programa\\criar lista.py", encoding='utf-8') as f:
+        exec(f.read())
+    print("Executed 'criar lista.py' in sem lemma")
+except Exception as e:
+    print(f"Error executing 'sem lemma\\programa\\criar lista.py': {e}")

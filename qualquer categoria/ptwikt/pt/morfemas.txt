@@ -52,6 +52,7 @@
 -diço
 -doiro
 -dor
+-dora
 -douro
 -dura
 -e
@@ -264,6 +265,8 @@ de-
 deca-
 deci-
 demi-
+derma-
+dermo-
 des-
 di-
 dis-
@@ -332,12 +335,14 @@ iocto-
 iota-
 israelo-
 japon-
+jero-
 jov-
 jälki-
 kardec-
 kardeci-
 lax-
 leuco-
+lipo-
 luso-
 macro-
 mal-
@@ -424,6 +429,7 @@ tauro-
 tele-
 teo-
 tera-
+terato-
 termo-
 toco-
 trans-

@@ -51,6 +51,8 @@ apressado come cru
 aqui se faz, aqui se paga
 aqui é que a porca torce o rabo
 as aparências enganam
+atirar barro à parede
+atirar o barro à parede
 ato ou efeito de
 atrás da moita
 avant la lettre
@@ -74,6 +76,7 @@ chi lo sa
 chumbo trocado não dói
 cobra que não anda, não engole sapo
 colocar o carro na frente dos bois
+colocar os pingos nos is
 com as calças arriadas
 com ferro fere, com ferro será ferido
 comme il faut
@@ -101,6 +104,8 @@ de perto
 de quem pode-se depender
 de rastos
 de tanto
+deitar barro à parede
+deitar o barro à parede
 diga-me com quem andas e eu te direi quem és
 dinheiro na mão, calcinha no chão
 diz-me com quem andas e dir-te-ei quem és
@@ -165,10 +170,14 @@ há sempre um dia após o outro
 in se
 inutilia truncat
 isto é
+jogar barro à parede
+jogar o barro à parede
 lamber as botas
 lamber embira
+lançar barro à parede
 lançar ferro
 lançar mão de
+lançar o barro à parede
 lançar poeira aos olhos
 largar do pé
 lavar-se em água de rosas
@@ -204,7 +213,6 @@ mais perdido que cusco em procissão
 mais vale a fé que o pau da barca
 mais vale um pássaro na mão do que dois voando
 malhar em ferro frio
-malhar o ferro enquanto está quente
 mandar brasa
 mandar bronca
 mandar ver
@@ -224,7 +232,6 @@ meter-se no que é da sua conta
 meter a boca no trombone
 meter a foice na roça alheia
 meter bronca
-meter ferro a
 meter mão à obra
 meter nas embiras
 meter o Rossio na Betesga
@@ -343,7 +350,6 @@ passar a perna em
 passar as passas do Algarve
 passar bem
 passar de pato a ganso
-passar ferro em
 passar lotado
 passar nas embiras
 passar nos cobres
@@ -380,7 +386,6 @@ per capita
 per se
 perder a cabeça
 perder a razão
-perder ferro e sinal
 perder o pé de
 perder peso
 pessoa de má morte
@@ -434,7 +439,9 @@ pôr lenha na fogueira
 pôr no gancho
 pôr nos cornos da Lua
 pôr o guizo no gato
+pôr os pingos nos ii
 pôr os pingos nos is
+pôr os pontos nos ii
 pôr pitafe a
 quae sunt caesaris, caesari
 quando o gato sai, os ratos fazem a festa
@@ -584,7 +591,6 @@ tirar de letra
 tirar do rabo
 tirar do sério
 tirar nabos da púcara
-tirar o atraso
 tirar o cavalinho da chuva
 tirar o cavalo da chuva
 tirar o corpo fora

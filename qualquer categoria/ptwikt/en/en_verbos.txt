@@ -53,6 +53,7 @@ abominar
 abonar
 abordar
 aborrecer
+aborrir
 abortar
 abotoar
 abrandar
@@ -142,6 +143,7 @@ acidificar
 acidular
 acinzentar
 acionar
+acirandar
 acirrar
 aclamar
 aclarar
@@ -619,6 +621,7 @@ apostrofar
 apoteosar
 apoteotizar
 apoucar
+apparecer
 appellar
 appellidar
 applicar
@@ -678,6 +681,7 @@ argùir
 argüir
 arianizar
 armar
+armar a barraca
 armar até os dentes
 armazenar
 armoçar
@@ -854,6 +858,7 @@ atropelar
 attacar
 attentar
 attrahir
+attribuir
 atturar
 atualizar
 atuar
@@ -1174,6 +1179,7 @@ calhar
 calibrar
 callejar
 calmar
+calumniar
 caluniar
 calvar
 calçar
@@ -1288,6 +1294,7 @@ chacinar
 chacoalhar
 chafurdar
 chagar
+chaleirar
 chamar
 chamar a atenção
 chamar atenção
@@ -1373,6 +1380,7 @@ cingir
 cintar
 cintilar
 cinzelar
+cirandar
 circuitar
 circular
 circum-navegar
@@ -1746,6 +1754,7 @@ cruzar
 cruzeirar
 cubar
 cubicar
+cucar
 cuiar
 cuidar
 cuidar da própria vida
@@ -1796,6 +1805,7 @@ dar PT
 dar a bunda
 dar a cara a tapa
 dar a entender
+dar a luz
 dar a mão
 dar a mão à palmatória
 dar a mínima
@@ -1852,6 +1862,7 @@ dar o peido mestre
 dar o troco
 dar para
 dar para o gasto
+dar para o torto
 dar pau
 dar pitaco
 dar por isso
@@ -1965,6 +1976,7 @@ deitar fora a criança com a água do banho
 deitar sangue
 deixar
 deixar a desejar
+deixar a peteca cair
 deixar barato
 deixar de
 deixar em paz
@@ -2279,6 +2291,7 @@ desindustrializar
 desinfectar
 desinfetar
 desinflar
+desinformar
 desinscrever
 desinsetizar
 desinstalar
@@ -2890,6 +2903,7 @@ ensangùentar
 ensangüentar
 ensebar
 ensejar
+ensimesmar
 ensinar
 ensinar a missa ao padre
 ensinar a missa ao vigário
@@ -2948,6 +2962,7 @@ envenenar
 envergar
 envergonhar
 envernizar
+envesgar
 enviar
 enviesar
 enviuvar
@@ -3072,6 +3087,8 @@ esfregar
 esfregar sal na ferida
 esfriar
 esfuziar
+esgalhar
+esgalhar o pessegueiro
 esganar
 esganiçar
 esgaravatar
@@ -3174,6 +3191,7 @@ estar-se a cagar
 estar-se nas tintas
 estar a fim
 estar cansado de saber
+estar careca de
 estar com
 estar com a cara boa
 estar com a pulga atrás da orelha
@@ -3182,6 +3200,7 @@ estar com tudo
 estar de chico
 estar na berlinda
 estar para
+estar por um fio
 estarrecer
 estartar
 estatelar
@@ -3293,6 +3312,7 @@ excretar
 excutir
 execrar
 executar
+exegetar
 exemplificar
 exercer
 exercitar
@@ -3377,10 +3397,12 @@ faiar
 faiscar
 falar
 falar com a porta
+falar com as paredes
 falar em línguas
 falar mais do que a boca
 falar mais que a boca
 falar mal
+falar para as paredes
 falar pelos cotovelos
 falar sério
 falcoar
@@ -3398,6 +3420,7 @@ familiarizar
 fanficar
 fantasiar
 fapar
+far
 fardar
 farejar
 farfalhar
@@ -3421,6 +3444,7 @@ fazer a cabeça
 fazer a cama
 fazer a caveira
 fazer a egípcia
+fazer a festa
 fazer amor
 fazer aniversário
 fazer anos
@@ -3440,6 +3464,7 @@ fazer das tripas coração
 fazer de conta
 fazer de gato e sapato
 fazer de tudo
+fazer do limão uma limonada
 fazer doce
 fazer em postas
 fazer esse
@@ -3496,6 +3521,8 @@ ferver
 fervilhar
 festar
 festejar
+festoar
+festonar
 fiar
 ficar
 ficar chato
@@ -3742,6 +3769,7 @@ graduar
 grafar
 grafitar
 gramar
+gramaticalizar
 grampear
 granar
 granizar
@@ -3793,7 +3821,6 @@ harmonizar
 hastear
 haurir
 haver
-haver-de
 haver de
 helenizar
 herborizar
@@ -3944,6 +3971,7 @@ infestar
 infetar
 infiltrar
 infirmar
+infixar
 inflacionar
 inflamar
 inflar
@@ -4200,6 +4228,7 @@ leitar
 lematizar
 lembrar
 ler
+ler as horas
 ler nas entrelinhas
 lerpar
 lesar
@@ -4258,6 +4287,7 @@ locar
 locupletar
 logar
 lograr
+lootear
 lorotar
 lotar
 lotear
@@ -4596,6 +4626,7 @@ nunca dizer nunca
 nutar
 nutrir
 não dar ponto sem nó
+não deixar a peteca cair
 não estar com nada
 não ir com a cara de
 não meter prego nem estopa
@@ -4606,6 +4637,7 @@ não ter onde cair morto
 não ter papas na língua
 não valer um centavo
 não ver a hora
+não é flor que se cheire
 o céu vir abaixo
 o pão que o diabo amassou
 obcecar
@@ -4774,6 +4806,7 @@ pascer
 pasmar
 passar
 passar a bola para
+passar a ferro
 passar a noite em claro
 passar a perna
 passar batido
@@ -4967,6 +5000,7 @@ poder
 poder com
 poer
 poisar
+pojar
 polarizar
 policiar
 polimerizar
@@ -5024,6 +5058,7 @@ preexistir
 prefabricar
 prefaciar
 preferir
+prefixar
 pregar
 pregar aos convertidos
 pregar um susto do caralho
@@ -5044,6 +5079,7 @@ preoccupar
 preocupar
 preparar
 preparar o terreno
+presar
 prescindir
 prescrever
 presenciar
@@ -5446,6 +5482,7 @@ relegar
 relembrar
 reler
 relevar
+relexificar
 relinchar
 relutar
 reluzir
@@ -5494,6 +5531,7 @@ repartir
 repassar
 repelir
 repensar
+repertoriar
 repetir
 repisar
 replantar
@@ -5790,6 +5828,7 @@ seriar
 serigaitar
 serpentear
 serrar
+serrotar
 servir
 servir como uma luva
 sestear
@@ -5845,6 +5884,7 @@ sobrevoar
 socalcar
 socar
 socceder
+soccorrer
 soceder
 sociabilizar
 socializar
@@ -6072,6 +6112,7 @@ ticar
 tietar
 tijolar
 tilintar
+tiltar
 timbrar
 tingir
 tinir
@@ -6206,6 +6247,7 @@ tremar
 tremeluzir
 tremer
 tremer as bases
+tremer como vara verde
 tremular
 trenar
 trepar
@@ -6440,6 +6482,8 @@ vociferar
 vogar
 volatilizar
 voltar
+voltar à estaca zero
+voltar às boas
 voltear
 volver
 vomitar
@@ -6457,6 +6501,7 @@ xavecar
 xeretar
 xerocar
 xingar
+xitar
 xonar
 xotar
 xoxar

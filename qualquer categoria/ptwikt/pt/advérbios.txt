@@ -590,6 +590,7 @@ inicialmente
 ininterruptamente
 injustamente
 inopinadamente
+inquestionavelmente
 inseguramente
 insistentemente
 instantaneamente
@@ -882,6 +883,7 @@ publicamente
 pudicamente
 pulandinho
 qualitativamente
+quando
 quantitativamente
 quase
 quasemente
@@ -1050,6 +1052,7 @@ trasanteontem
 tri
 tribologicamente
 tristemente
+triunfalmente
 trás
 tão
 tão-pouco

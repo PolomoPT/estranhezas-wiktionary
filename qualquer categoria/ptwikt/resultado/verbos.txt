@@ -89,7 +89,6 @@
 |abondar
 |abordoar
 |aborrascar
-|aborrir
 |aborçar
 |aboscar
 |abotecar
@@ -637,7 +636,6 @@
 |aringar
 |aristocratizar
 |arjoar<qq:has gl>
-|armar a barraca
 |armar o maior barraco
 |aromar
 |arpar
@@ -1188,6 +1186,7 @@
 |choscar<qq:has gl>
 |choutar
 |choviscar
+|chuchurrear
 |chuclear
 |chumaçar
 |chumbergar
@@ -1202,7 +1201,6 @@
 |cigarrar
 |cilhar
 |cinchar
-|cirandar
 |circunvencionar
 |circunver
 |cirrar
@@ -1351,7 +1349,6 @@
 |cruentar
 |cruzar os braços
 |cubiçar
-|cucar
 |cucular
 |cucurbitar
 |cucuricar
@@ -1541,6 +1538,7 @@
 |dejejuar
 |dejetar
 |delgaçar
+|delibar
 |delingar
 |delirar
 |delubar
@@ -1687,7 +1685,6 @@
 |desguarnecer
 |desierarquizar
 |desimportar
-|desinformar
 |desinibir
 |desinçar
 |deslanchar
@@ -1938,6 +1935,7 @@
 |encrenquenar<qq:has gl>
 |encrostar
 |encruecer
+|encubar
 |encurralar
 |encurvar
 |endechar
@@ -2020,7 +2018,6 @@
 |ensandecer
 |ensanguinhar
 |ensilar
-|ensimesmar
 |ensinar o padre-nosso ao vigário
 |ensinar o pai-nosso ao vigário
 |ensoleirar
@@ -2177,7 +2174,6 @@
 |esfrangalhar
 |esfumaçar
 |esgalgar
-|esgalhar
 |esgaravelhar<qq:has gl>
 |esgarrar
 |esgateirar
@@ -2253,7 +2249,6 @@
 |estar apertado da brocha
 |estar bem
 |estar bem aviado
-|estar careca de
 |estar com a bola cheia
 |estar com bala na agulha
 |estar com os bofes de fora
@@ -2329,6 +2324,7 @@
 |estroncar
 |estrondar
 |estronçar
+|estruir
 |estugar
 |estupidificar
 |esturricar
@@ -2365,7 +2361,6 @@
 |fachendear<qq:has gl>
 |fadejar
 |falar abobrinha
-|falar com as paredes
 |falar grego
 |falar mais que o homem da cobra
 |falar o português claro
@@ -2924,6 +2919,7 @@
 |licenciar
 |ligar o foda-se
 |lignificar
+|limpar o sebo
 |lingar
 |liquescer
 |liquidificar
@@ -3259,7 +3255,6 @@
 |podometrar
 |poetizar
 |poitar
-|pojar
 |poltronear
 |pombear
 |pombeirar
@@ -3286,7 +3281,6 @@
 |prenomear
 |prenunciar
 |preponderar
-|presar
 |presigar
 |presunho
 |pretejar
@@ -3480,7 +3474,6 @@
 |ressumar
 |restinguir
 |restolhar
-|resulta
 |retangularizar
 |retesiar
 |reticenciar
@@ -3613,7 +3606,6 @@
 |solfejar
 |solhar
 |solidarizar
-|soltavam
 |solvatar
 |solvatizar
 |solver
@@ -3679,6 +3671,7 @@
 |tanoar
 |tapeçar
 |tapizar
+|taquear
 |taquigrafar
 |taralhar
 |taramelear
@@ -3688,6 +3681,7 @@
 |tarimbar
 |tarocar
 |tarrafear
+|tarrincar
 |tartamelar
 |tartamelear
 |tartamudear
@@ -3759,6 +3753,7 @@
 |tiquetaquear
 |tiramolar
 |tirar farinha
+|tirar o atraso
 |tirocinar
 |tisnar
 |titerear
@@ -3903,6 +3898,7 @@
 |vergalhar
 |vernizar
 |verticalizar
+|vesgastar
 |viagear
 |videografar
 |vigar

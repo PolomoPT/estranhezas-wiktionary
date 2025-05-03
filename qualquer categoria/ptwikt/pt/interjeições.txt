@@ -92,6 +92,7 @@ bença
 bingo
 bleh
 blá
+boa madrugada
 boa tarde
 boca de siri
 bom
@@ -328,6 +329,7 @@ nhaque
 nim
 no duro
 nossa
+nossa senhora
 nu
 não
 não fode

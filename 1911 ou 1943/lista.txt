@@ -115,6 +115,7 @@ Piauhy
 Plutarcho
 Polyhymnia
 Prometheu
+Prompto Soccorro
 Rheia
 Rhenânia
 Ruthenia
@@ -245,9 +246,9 @@ annuncio
 anteacto
 anthropophagia
 anthropophago
+apparecer
 apparente
 appellar
-appellidar
 appello
 applicar
 approvar
@@ -288,7 +289,9 @@ attractivo
 attractor
 attracção
 attrahir
+attribuir
 attribuição
+attributo
 attrito
 aucthoridade
 auctoridade
@@ -329,6 +332,8 @@ calligraphia
 callo
 calloso
 calumnia
+calumniador
+calumniar
 camara
 cambio
 cantharo
@@ -403,6 +408,7 @@ comprehender
 comquanto
 comsigo
 comtanto
+comtanto que
 concluhir
 condemnado
 condemnar
@@ -427,6 +433,7 @@ correctivo
 correcto
 corrector
 correcção
+costella
 creada
 creado
 creado mudo
@@ -493,6 +500,7 @@ diccionario
 dictador
 dictadura
 dictatorial
+didactica
 didactico
 differente
 differença
@@ -576,10 +584,12 @@ emmagrecer
 emphyteuse
 emphyteutico
 emquanto
+encomio
 enthusiasmado
 enthusiasmo
 enthusiasta
 epenthese
+epoca
 epocha
 erecto
 erecção
@@ -623,6 +633,7 @@ exhaurir
 exhausto
 exhibir
 existencia
+exquisito
 extender
 extincção
 extractar
@@ -638,6 +649,7 @@ factorial
 factorizar
 factura
 facturar
+falla
 fallar
 figo-da-Índia
 figo da Índia
@@ -669,7 +681,6 @@ grammatico
 gratis
 gráphico
 góthico
-haver-de
 hemorrhagia
 heroe
 heroina
@@ -962,7 +973,6 @@ putrefacção
 pyra
 pyrilampo
 pythão
-pè
 quasi
 radioactividade
 radioactivo
@@ -996,6 +1006,7 @@ reprehender
 reproducção
 resingar
 retractar
+retracto
 retrahir
 retroactividade
 retroactivo
@@ -1007,6 +1018,7 @@ sabbado
 saccharose
 sahida
 sahir
+salto á vara
 sanctuário
 sanguineo
 satyríase
@@ -1045,6 +1057,8 @@ sobrejectivo
 sobrejecção
 sobresaltar
 sobresalto
+soccorrer
+soccorro
 sociolecto
 somno
 subjectivamente
@@ -1067,6 +1081,7 @@ syncope
 syntaxe
 systema
 systematizar
+sómente
 tacticamente
 tambem
 tecto
@@ -1093,6 +1108,7 @@ traducção
 trahidor
 trahir
 trahira
+trahição
 trajecto
 tranquillamente
 tranquillidade
@@ -1100,6 +1116,7 @@ tranquillizar
 tranquillo
 transacção
 traz
+tres
 triumpho
 tumefacção
 typho
@@ -1130,7 +1147,6 @@ zygomatico
 Éschylo
 á
 âmphora
-épocha
 éther
 éthica
 éthico

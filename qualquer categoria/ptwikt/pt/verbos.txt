@@ -2206,6 +2206,7 @@ chover a cântaros
 chover no molhado
 choviscar
 chuchar
+chuchurrear
 chuclear
 chufar
 chumaçar
@@ -2525,6 +2526,7 @@ contradistinguir
 contradizer
 contrafazer
 contrahir
+contraindicar
 contrair
 contraminar
 contrapor
@@ -2984,6 +2986,7 @@ delegar
 deleitar
 deletar
 delgaçar
+delibar
 deliberar
 deliciar
 delimitar
@@ -3948,6 +3951,7 @@ encriptar
 encrostar
 encruecer
 encruzar
+encubar
 encurralar
 encurtar
 encurvar
@@ -4688,6 +4692,7 @@ estrondear
 estronçar
 estropear
 estropiar
+estruir
 estrumar
 estruturar
 estudar
@@ -5977,6 +5982,7 @@ lignificar
 limar
 limitar
 limpar
+limpar o sebo
 lincar
 linchar
 lingar
@@ -6004,6 +6010,7 @@ locupletar
 logar
 lograr
 lomear
+lootear
 lorotar
 lostregar
 lotar
@@ -7412,7 +7419,6 @@ restinguir
 restituir
 restolhar
 restringir
-resulta
 resultar
 resumir
 resvalar
@@ -7751,7 +7757,6 @@ solidarizar
 solidificar
 soltar
 soltar a franga
-soltavam
 solucionar
 soluçar
 solvatar
@@ -7913,6 +7918,7 @@ tapear
 tapetar
 tapeçar
 tapizar
+taquear
 taquigrafar
 tar
 taralhar
@@ -7928,6 +7934,7 @@ tarjar
 tarocar
 tarrafar
 tarrafear
+tarrincar
 tartamelar
 tartamelear
 tartamudear
@@ -8041,6 +8048,7 @@ tiramolar
 tiranizar
 tirar
 tirar farinha
+tirar o atraso
 tiritar
 tirocinar
 tironear
@@ -8195,6 +8203,7 @@ tribofar
 tributar
 tricotar
 trilhar
+trinar
 trincar
 trinchar
 trinfar
@@ -8381,6 +8390,7 @@ versar
 versificar
 verter
 verticalizar
+vesgastar
 vesguear
 vestir
 vetar

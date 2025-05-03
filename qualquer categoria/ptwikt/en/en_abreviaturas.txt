@@ -18,12 +18,16 @@
 19.º
 1ª
 1ªs
+1º cabo
+1º sargento
 1ºs
 2.ª pessoa
 2.º
 20.º
 2ª
 2ªs
+2º cabo
+2º sargento
 2ºs
 3.ª pessoa
 3.º
@@ -103,6 +107,7 @@ Bc.
 C.C.
 C.Q.D.
 CA
+CAPS
 CBR
 CC
 CCJ
@@ -137,6 +142,7 @@ D.
 D.ª
 D/s
 DCE
+DDD
 DEOPS
 DETRAN
 DF
@@ -166,8 +172,10 @@ EUA
 Embrapa
 Enf.
 Eng.
+FAA
 FAB
 FADM
+FAPLA
 FATEC
 FB
 FDP
@@ -234,6 +242,7 @@ MEI
 MG
 MP
 MPB
+MPLA
 MRE
 MS
 MST
@@ -244,6 +253,7 @@ N
 NB
 NE
 NF
+NGB
 NMHO
 NO
 OAB
@@ -391,7 +401,6 @@ UNASUL
 UNITA
 UPP
 URSAL
-URSS
 URV
 USP
 UTI
@@ -404,6 +413,7 @@ VLT
 VSF
 VT
 Valpaços
+Varig
 Vd.
 Vv.
 ZPE
@@ -534,6 +544,7 @@ pq
 pqp
 prc
 prov.
+prr
 prç
 pág.
 põdo
