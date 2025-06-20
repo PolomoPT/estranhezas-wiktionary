@@ -35,6 +35,7 @@
 |-falante
 |-forme
 |-gen-
+|-giro
 |-grado
 |-i-
 |-iar
@@ -50,7 +51,6 @@
 |-língue
 |-língüe
 |-mancia
-|-mania
 |-men
 |-mor
 |-móvel
@@ -101,6 +101,7 @@
 |al-
 |além-
 |amb-
+|an-
 |aquém-
 |ar-
 |ato-
@@ -140,7 +141,6 @@
 |hagio-
 |hedon-
 |helico-
-|helio-
 |hemo-
 |hepta-
 |i-
@@ -188,7 +188,6 @@
 |poet-
 |porri-
 |porta-
-|pro
 |pro-
 |quadri-
 |quadru-

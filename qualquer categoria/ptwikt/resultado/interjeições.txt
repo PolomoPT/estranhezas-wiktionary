@@ -76,7 +76,6 @@
 |calma
 |canudo
 |capiche
-|caracha
 |caracho
 |caraleo
 |caralho de asa
@@ -99,7 +98,6 @@
 |clique
 |coche-coche
 |com licença
-|concho
 |corno
 |crac
 |craque
@@ -186,7 +184,6 @@
 |lerê
 |linha na pipa
 |logicamente
-|lá ele
 |mah
 |maranata
 |mau

@@ -11,7 +11,6 @@ aas
 ajudá-lo
 ao
 aos
-aquêle
 atègora
 bagarai
 ca
@@ -192,6 +191,8 @@ pelas
 pella
 pelo
 pelos
+pola
+polas
 polo
 polos
 pra

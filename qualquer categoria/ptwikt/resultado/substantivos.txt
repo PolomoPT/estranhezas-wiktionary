@@ -99,7 +99,6 @@
 |Alfredino
 |Alfrida
 |Alfrido
-|Algarves
 |Alhariz
 |Aliança do Tocantins
 |Alicorne
@@ -249,7 +248,6 @@
 |Aroeiras
 |Arqueiro
 |Arquico
-|Arracão
 |Arraias
 |Arroio do Padre
 |Arsénia
@@ -470,7 +468,6 @@
 |Canapi
 |Canarinha
 |Canis Major
-|Caniço
 |Canterbury
 |Cantidiana
 |Cantidiano
@@ -614,8 +611,8 @@
 |Clóris
 |Clóvis
 |Cobra
+|Cochim da China
 |Cocito
-|Coina
 |Colectividade Territorial de Mayotte
 |Coletividade Territorial de Mayotte
 |Colinas do Tocantins
@@ -701,7 +698,6 @@
 |Cruzeiro Austral
 |Cunegundes
 |Curado
-|Curaçau
 |Cusco
 |Cutiale
 |Cygnus
@@ -1343,6 +1339,7 @@
 |Ilha Howland
 |Ilha Jarvis
 |Ilha da Irlanda
+|Ilha de Clipperton
 |Ilhas Caiman
 |Ilhas Cocos
 |Ilhas Comores
@@ -1351,6 +1348,8 @@
 |Ilhas Malvinas
 |Ilhas Marianas
 |Ilhas Marianas do Norte
+|Ilhas Menores Afastadas dos Estados Unidos
+|Ilhas Menores Distantes dos Estados Unidos
 |Ilhas Ocidentais
 |Ilhas Virgens dos Estados Unidos
 |Iluminata
@@ -1421,7 +1420,6 @@
 |Iêmem
 |J
 |JNE
-|Jacarezinho
 |Jacaré dos Homens
 |Jacinta
 |Jacintina
@@ -1642,7 +1640,6 @@
 |Lobamba
 |Lobo
 |Lola
-|Lomba
 |Lorran
 |Lorrane
 |Louisiana
@@ -1796,7 +1793,6 @@
 |Mateiros
 |Matemática
 |Matiello
-|Matriz
 |Maurilândia do Tocantins
 |Maurícias
 |Mavorte
@@ -2116,7 +2112,6 @@
 |Pangasinan
 |Paola
 |Paolo
-|Papanicolau
 |Papuásia Nova Guiné
 |Paracleto
 |Paranaguá
@@ -2141,7 +2136,10 @@
 |Paulista
 |Paulo Ramos
 |Pavo
+|Paz Vestefálica
+|Paz Vestfálica
 |Paz da Vestfália
+|Paz da Westfália
 |Paz de Vestefália
 |Paz de Vestfália
 |Paz de Westefália
@@ -2481,6 +2479,7 @@
 |Saitama
 |Salamanca
 |Salamina
+|Salgado
 |Salustiana
 |Salustiano
 |Salva
@@ -2639,6 +2638,7 @@
 |Sisu
 |Siva
 |Smirna
+|Sobrado
 |Sofala
 |Sofio
 |Solange
@@ -2647,6 +2647,7 @@
 |Solenidade do Sagrado Coração de Jesus
 |Solidão
 |Solimar
+|Sonora
 |Springfield
 |Sri
 |Stavka
@@ -2928,7 +2929,6 @@
 |Vila Chã de Braciosa
 |Vila Velha
 |Vilhena
-|Vinhós
 |Vinicius
 |Vinício
 |Viriato
@@ -3001,6 +3001,8 @@
 |a mais
 |a última Coca-Cola do deserto
 |a última bolacha do pacote
+|a-da-gordense
+|a-dos-cunhadense
 |aabora
 |aacheniano
 |aal
@@ -3189,6 +3191,7 @@
 |abrasileiramento
 |abrazô
 |abraçadeira
+|abraço de afogados
 |abre-alas
 |abrego
 |abrente<qq:has gl>
@@ -3196,6 +3199,7 @@
 |abricote
 |abrideira
 |abridor de latas
+|abrigadense
 |abrilada
 |abrimento
 |abronemose
@@ -3283,6 +3287,7 @@
 |acelerando
 |acelga-brava
 |acenso
+|acento principal
 |acento secundário
 |acento tônico
 |acenês
@@ -3303,7 +3308,6 @@
 |achegado
 |achego<qq:has gl>
 |achi
-|achigã
 |achincalhamento
 |achincalhação
 |achincalhe
@@ -3462,7 +3466,6 @@
 |advocacia administrativa
 |advocacia-geral
 |advoga
-|advogado de porta de cadeia
 |advogado de porta de xadrez
 |advogado-geral
 |adão
@@ -3556,6 +3559,7 @@
 |agrafia verbal
 |agravado
 |agregada
+|agrelense
 |agrestia
 |agrinegócio
 |agroboy
@@ -3705,6 +3709,7 @@
 |alcabidechense
 |alcaceira
 |alcacerense
+|alcaidense
 |alcaincense
 |alcainense
 |alcali
@@ -3752,6 +3757,7 @@
 |aldeense
 |aldegalense
 |aldeia-grandense
+|aldeia-viçosense
 |aldenovense
 |aldoarense
 |aldrabeiro
@@ -3826,7 +3832,6 @@
 |algarismo significativo
 |algaroba
 |algarviense
-|algarvio
 |algemia
 |algerife
 |algia
@@ -3859,6 +3864,7 @@
 |aliancismo
 |aliancista
 |alibi
+|aliciador
 |aliciamento
 |aliciação
 |alicorne
@@ -3908,6 +3914,7 @@
 |almocafre
 |almofadão
 |almofalense
+|almofaça
 |almofeira
 |almorreta
 |almorroida
@@ -3940,9 +3947,11 @@
 |alparqueiro
 |alpechim
 |alpeiria
+|alpendoradense
 |alpenduradense
 |alpercateiro
 |alpercatense
+|alpetriniense
 |alpiarcense
 |alpiarçolho
 |alpiche
@@ -3956,6 +3965,7 @@
 |alqueire baiano
 |alqueire pernambucano
 |alqueive
+|alquerubinense
 |alqueve
 |alquevense
 |alquilador
@@ -4012,11 +4022,13 @@
 |alustro
 |alutiiq
 |alvada
+|alvadense
 |alvado
 |alvaiazerense
 |alvaladense
 |alvaranense
 |alvaraz
+|alvarelhense
 |alvarelhão
 |alvarenga
 |alvarenguense
@@ -4042,11 +4054,13 @@
 |alvidramento
 |alvidração
 |alvidrio
+|alviobeirense
 |alvissareiro
 |alvocense
 |alvorense
 |alvorgense
 |alvoriço
+|alvorninhense
 |alvorário
 |alvéloa-amarela
 |alvéloa-cinzenta
@@ -4116,6 +4130,7 @@
 |amerimanga
 |amerrissagem
 |ameródio
+|amialeiro
 |amiba
 |amictório
 |amieira
@@ -4126,7 +4141,6 @@
 |amigo com benefícios
 |amigo de peniche
 |amigo imaginário
-|amigo urso
 |amigo-urso
 |amita
 |amito
@@ -4265,6 +4279,7 @@
 |angarilha
 |angarilho
 |angatubense
+|angeanense
 |angejense
 |angelicense
 |angelicida
@@ -4516,6 +4531,7 @@
 |apiaiense
 |apifobia
 |apitadela
+|apito silencioso
 |apitoxina
 |aplacação
 |apodos
@@ -4565,6 +4581,7 @@
 |apêndix
 |apócrito
 |aquartelamento
+|aquassantense
 |aquecedor solar
 |aquentamento
 |aquesto
@@ -4575,6 +4592,7 @@
 |aquifoliácea
 |aquifoliáceas
 |aquilária
+|aquissantense
 |aquista
 |aqüista
 |ar de família
@@ -4725,6 +4743,7 @@
 |arguidor
 |arguile
 |argumento de autoridade
+|argumentum verbosium
 |ariadne
 |arianismo
 |ariaxé
@@ -4820,7 +4839,6 @@
 |arrangalho<qq:has gl>
 |arranhoense
 |arrasador
-|arraso
 |arrasta
 |arrastador
 |arrasto
@@ -4856,6 +4874,7 @@
 |arrifanense
 |arrife
 |arrifense
+|arripiadense
 |arrisco
 |arrière-pensée
 |arroalho<qq:has gl>
@@ -4864,6 +4883,7 @@
 |arrogante
 |arroiense
 |arrojamento
+|arrombador
 |arronchense
 |arroteense
 |arroteia
@@ -4947,6 +4967,7 @@
 |asnaria
 |aspone
 |aspudo
+|assa-fétida
 |assaforense
 |assassino sequencial
 |assassino serial
@@ -4962,6 +4983,7 @@
 |assenso
 |assentado
 |assentador
+|assentizense
 |assepsia
 |assertivo
 |asserto
@@ -5006,11 +5028,13 @@
 |astorguense
 |astracã
 |astreia
+|astromilense
 |astros
 |astréia
 |asturanense
 |asturo-leonês
 |asu
+|asuais
 |asurini
 |atabalhoamento
 |atachê
@@ -5018,7 +5042,6 @@
 |atadilho
 |ataense
 |atafego<qq:has gl>
-|atafona
 |atafulhamento
 |atalaiense
 |atalante
@@ -5156,6 +5179,7 @@
 |autocross
 |autocuidado
 |autocídio
+|autodescrição
 |autodidatismo
 |autodidaxia
 |autofagia
@@ -5191,6 +5215,7 @@
 |avambraço
 |avancanense
 |avanhandavense
+|avanquense
 |avant-première
 |avant-scène
 |avantagem
@@ -5227,6 +5252,7 @@
 |aversivo
 |aversão de morte
 |aves
+|avessadense
 |avessedo
 |avesseiro
 |avestruzeiro
@@ -5244,6 +5270,7 @@
 |avião de rosca
 |avião-suicida
 |aviônica
+|avoa
 |avoadinha
 |avoamento
 |avoante
@@ -5352,6 +5379,7 @@
 |açúcar-cândi
 |b-learning
 |baamense
+|baamiano
 |baamês
 |baango-lango
 |baar
@@ -5634,7 +5662,6 @@
 |bandonião
 |bandouga
 |bandouna
-|bandulho
 |bandurra
 |bandurrilha
 |bandê
@@ -5708,6 +5735,7 @@
 |barbião
 |barbosense
 |barbucho
+|barbudense
 |barbudo
 |barbários
 |barca-volante
@@ -5792,6 +5820,7 @@
 |barrosense
 |barruada
 |barruço<qq:has gl>
+|bartolomense
 |baru
 |barueriense
 |barulhada
@@ -5811,6 +5840,7 @@
 |basqueiro
 |basquir
 |basta
+|bastardia
 |basto
 |bastonária
 |bastonárias
@@ -5893,7 +5923,6 @@
 |beguine
 |beguino
 |beige
-|beija-mão
 |beijador
 |beijaço
 |beijo de Judas
@@ -5965,6 +5994,7 @@
 |beneficiação
 |benefício de ordem
 |benemerência
+|benesperense
 |benfeitense
 |benfiquense
 |bengaloparlante
@@ -6006,6 +6036,7 @@
 |berrona
 |berroíça
 |berrão
+|bertiandense
 |bertioguense
 |bertorelha<qq:has gl>
 |bertorelha-da-lama<qq:has gl>
@@ -6016,6 +6047,9 @@
 |besbelho
 |beselguense
 |besoiro
+|besouro-bronze
+|besouro-das-rosas
+|besouro-dourado
 |best seller
 |besteirense
 |bestigo
@@ -6025,7 +6059,6 @@
 |betacismo
 |bete
 |betinense
-|beto
 |betting
 |bexigada
 |bexigas
@@ -6086,7 +6119,6 @@
 |bifesteque
 |bifu
 |big fish
-|bigode-de-arame
 |bigodinho de Hitler
 |bigodudo
 |bigorrilha
@@ -6213,6 +6245,7 @@
 |bita
 |bitaca
 |bitacaia
+|bitaranense
 |bite
 |bitelo
 |bitrem
@@ -6220,7 +6253,6 @@
 |bizantinice
 |bizarrice
 |biznesse
-|bizu
 |bizurada
 |biátlon
 |blablá
@@ -6264,6 +6296,7 @@
 |boa-esperancense
 |boa-venturança
 |boa-vistense
+|boalhosense
 |boanovense
 |boas horas
 |boas-práticas
@@ -6516,6 +6549,7 @@
 |borralhara
 |borralheira
 |borralheiro
+|borralhense
 |borraçal
 |borreca<qq:has gl>
 |borrega
@@ -6608,11 +6642,11 @@
 |brama
 |bramadeiro
 |bramido
-|branda
 |brandeiro
 |brandemburguês
 |brandoense
 |branil
+|branquense
 |branquidade
 |branquinha
 |braquissemia
@@ -6672,6 +6706,7 @@
 |brenhense
 |brequefesta
 |brequefeste
+|bretanhense
 |brete
 |bretão antigo
 |breu de colofônia
@@ -6703,6 +6738,7 @@
 |briteirense
 |britelense
 |britense
+|britiandense
 |britónico
 |britônico
 |brivana
@@ -6767,6 +6803,7 @@
 |bródio
 |brômide
 |bua
+|buarquense
 |buba
 |bubela<qq:has gl>
 |bubu
@@ -6893,10 +6930,11 @@
 |business angel
 |businessman
 |buso
+|bustelense
 |bustrofédon
+|bustuense
 |busu
 |busílis
-|busólogo
 |butaca
 |bute
 |butico
@@ -6920,7 +6958,6 @@
 |bácaro
 |bácora
 |báfer
-|bágoa
 |bágua<qq:has gl>
 |bálsamo de copaíba
 |bálsamo do Brasil
@@ -6964,6 +7001,7 @@
 |caatibense
 |cabaceirense
 |cabaceiro-amargoso
+|cabacense
 |cabal
 |cabalacaxengo
 |cabaleta
@@ -6971,6 +7009,7 @@
 |cabalista
 |cabanagem
 |cabaneiro
+|cabanelense
 |cabanense
 |cabardi
 |cabardino
@@ -7144,12 +7183,14 @@
 |cadeira de encosto
 |cadeirado
 |cadeiral
+|cadeirense
 |cadeleira
 |cadelinha
 |cadelo
 |cadeota
 |caderno de encargos
 |cadeta
+|cadimense
 |cadoira
 |cadoiro<qq:has gl>
 |cadolo
@@ -7167,6 +7208,7 @@
 |cafa
 |cafarnauense
 |cafe
+|cafedense
 |cafeeiral
 |cafeicultor
 |cafeteira italiana
@@ -7222,9 +7264,12 @@
 |caicanha
 |caicó
 |caicós
+|caidense
 |caiena
 |caiense
 |caim
+|caimanès
+|caimanês
 |cainca
 |cainga
 |cainho
@@ -7237,7 +7282,6 @@
 |cairel
 |cairense
 |cairina
-|cairo<qq:has gl>
 |cairuense
 |caisuma
 |caiuaense
@@ -7367,6 +7411,7 @@
 |calunga pequena
 |caluniado
 |calva
+|calvariense
 |calvense
 |calvo
 |calvoense
@@ -7382,6 +7427,7 @@
 |cama-de-gato
 |cama-de-vento
 |camacaense
+|camacheiro
 |camachense
 |camaiurá
 |camaleoa
@@ -7396,6 +7442,7 @@
 |camarguense
 |camarinheira
 |camarista
+|camarneirense
 |camaroeiro
 |camaronense
 |camarro
@@ -7485,6 +7532,7 @@
 |campo-alegrense
 |campo-formosense
 |campo-grandense
+|campo-maiorense
 |campo-santo
 |campolidense
 |campomaiorense
@@ -7496,6 +7544,7 @@
 |camândulas
 |camúnia
 |cana-verde
+|canadelense
 |canaense
 |canafrecha
 |canal de televisão
@@ -7542,6 +7591,7 @@
 |candeias
 |candeiense
 |candeio
+|candelariense
 |candemilense
 |candena
 |candibense
@@ -7589,9 +7639,10 @@
 |canheiro
 |canhembora
 |canhenga
-|canhona
+|canhense
 |canhonha
 |canhos
+|canhosense
 |canicarcaça
 |caniceira<qq:has gl>
 |canicense
@@ -7637,7 +7688,6 @@
 |cantroço
 |cantárida
 |canudense
-|canudos
 |canyon
 |canza
 |canzeiro
@@ -7648,6 +7698,7 @@
 |canzá
 |canário-da-terra
 |canário-pardinho
+|canéfora
 |canídromo
 |canúri
 |caol
@@ -7698,7 +7749,6 @@
 |capitalino
 |capitania hereditária
 |capitorra
-|capitão-do-mato
 |capitão-mor
 |capiznon
 |capoa
@@ -7948,7 +7998,6 @@
 |carrinho de rolemã
 |carrinho de rolimã
 |carriçal
-|carro alegórico
 |carro de boi
 |carro de rolimã
 |carro de segurança
@@ -8078,7 +8127,6 @@
 |casevelense
 |cash-flow
 |casinhola
-|casita
 |caso de uso
 |caso gramatical
 |casqueiro
@@ -8180,7 +8228,6 @@
 |caterpílar
 |caterva
 |catete
-|cateterismo
 |catetê
 |catgut
 |catiguaense
@@ -8204,7 +8251,6 @@
 |catraiada
 |catrameço
 |catrefa
-|catrefada
 |catrepada
 |catrevagem
 |catrofa
@@ -8215,7 +8261,6 @@
 |catréfula
 |catsup
 |catua
-|catuaba
 |catual
 |catuense
 |catuga
@@ -8332,7 +8377,6 @@
 |cem-soldense
 |cemba<qq:has gl>
 |cenarista
-|cenceno
 |cenisga
 |ceno
 |cenobita
@@ -8391,6 +8435,7 @@
 |certo
 |ceruda
 |cerume
+|cervanense
 |cervense
 |cesarense
 |cestada
@@ -8430,7 +8475,6 @@
 |chaiene
 |chaincense
 |chaira<qq:has gl>
-|chairo<qq:has gl>
 |chakma
 |chalaça
 |chaleense
@@ -8536,8 +8580,6 @@
 |charuteira
 |chastre
 |chateaubriand
-|chatonildo
-|chatô
 |chauffeur
 |chaulmugra
 |chavacano
@@ -8613,7 +8655,6 @@
 |chibeiro
 |chibiteiro
 |chibos
-|chica
 |chicane
 |chicharro
 |chichewa
@@ -8762,6 +8803,7 @@
 |ciberbullying
 |cibercriminalidade
 |cibercriminoso
+|ciberostracismo
 |ciberpirata
 |cibervadiagem
 |cibite
@@ -8823,6 +8865,7 @@
 |cinta-larga
 |cintilho
 |cinturinha de pilão
+|cinza vulcânica
 |cinza-ardósia
 |cinza-claro
 |cinza-escuro
@@ -8898,6 +8941,7 @@
 |cladística
 |claim
 |clampe
+|clandestinidade
 |claravalense
 |clariciano
 |clarone
@@ -8989,6 +9033,7 @@
 |cocharra
 |cochechas
 |cochinada
+|cochinchina
 |cochino
 |cochó
 |cockpit
@@ -9180,7 +9225,6 @@
 |compango<qq:has gl>
 |companheire
 |companheirismo
-|comparança
 |comparsaria
 |compartilhamento
 |compensador
@@ -9246,6 +9290,7 @@
 |concavadense
 |conceitarraz
 |conceitarrão
+|conceiçanense
 |conceiçoense
 |concelharia<qq:has gl>
 |concelheiro<qq:has gl>
@@ -9256,7 +9301,6 @@
 |concertista
 |concha acústica
 |concheiro
-|concho
 |conchonço
 |conciliarismo
 |conciliábulo
@@ -9300,6 +9344,7 @@
 |confessado
 |confessionalismo
 |confesso
+|confidencialidade
 |confinidade
 |conflitos
 |conflituoso
@@ -9360,6 +9405,22 @@
 |consertada
 |consertador
 |consiliência
+|consoante alveolar
+|consoante bilabial
+|consoante constritiva
+|consoante de ligação
+|consoante fricativa
+|consoante labiodental
+|consoante lateral
+|consoante linguodental
+|consoante nasal
+|consoante oclusiva
+|consoante oral
+|consoante palatal
+|consoante sonora
+|consoante surda
+|consoante velar
+|consoante vibrante
 |consobrinha
 |consobrinho
 |consolense
@@ -9505,6 +9566,7 @@
 |cordislandense
 |cordoalha
 |cordofone
+|cordovense
 |cordovão
 |cordão de isolamento
 |cordão espermático
@@ -9586,6 +9648,7 @@
 |correeiro
 |correiro
 |correlativo
+|correlhanense
 |correligionário
 |corrente elétrica
 |correnteza
@@ -9634,7 +9697,6 @@
 |corunha
 |corunhês
 |coruta
-|coruto
 |corva
 |corvacho
 |corvalense
@@ -9731,6 +9793,7 @@
 |covidário
 |covinhas
 |covinhas de Vênus
+|covoadense
 |cow-pox
 |cowpea
 |coxanga
@@ -9754,7 +9817,6 @@
 |crausta
 |crava
 |cravado
-|craveira
 |craveiro
 |cravelho
 |cravelina
@@ -9776,7 +9838,6 @@
 |creme rinse
 |cremona
 |cremor
-|crendice
 |crentelho
 |creperia
 |crepes
@@ -9793,7 +9854,6 @@
 |crestomatia
 |crestumense
 |creto
-|cretone
 |cretáceo
 |cri
 |crianço
@@ -9811,6 +9871,7 @@
 |criminalismo
 |criminalista
 |criminação
+|criminologista
 |crimpagem
 |criocinese
 |criotecnia
@@ -9827,6 +9888,8 @@
 |cristalógrafo
 |cristas
 |cristelense
+|cristianicida
+|cristianicídio
 |cristinense
 |cristino-castrense
 |cristo
@@ -9853,6 +9916,7 @@
 |cronha
 |cronometragem
 |croque<qq:has gl>
+|croquense
 |croquet
 |croqué
 |crossing-over
@@ -9986,7 +10050,6 @@
 |cuneché
 |cunhada-torta
 |cunhado-torto
-|cunhal
 |cunhense
 |cunichó
 |cunicultor
@@ -10001,6 +10064,7 @@
 |cupê
 |cuquilhada
 |curaca
+|curalhense
 |curatelado
 |curaçaense
 |cureta
@@ -10358,6 +10422,7 @@
 |depressivo
 |deprimido
 |dequegulo
+|dequeísmo
 |derby
 |derelito
 |derivado
@@ -10446,7 +10511,6 @@
 |desejo sexual
 |deselegância
 |desemalhar
-|desembaciador
 |desembarcadoiro
 |desembarcadouro
 |desembargado
@@ -10573,6 +10637,8 @@
 |detritívoro
 |detrás
 |deus das lacunas
+|deus nos acuda
+|deus-nos-acuda
 |deuteragonista
 |devalo<qq:has gl>
 |devanceiro<qq:has gl>
@@ -10586,6 +10652,7 @@
 |device file
 |devido
 |devir
+|devorador
 |devorismo
 |devorista
 |dextrality
@@ -10672,6 +10739,8 @@
 |digno de confiança
 |digrama
 |diktat
+|dilapidador
+|dilapidação
 |dilecção
 |dileção
 |dilmopetismo
@@ -10708,6 +10777,7 @@
 |direito privado
 |direitos humanos
 |diretório acadêmico
+|disbiose
 |disc-jockey
 |disc-jóquei
 |disciplina de trem
@@ -10792,7 +10862,6 @@
 |doa<qq:has gl>
 |doador universal
 |dobadeira
-|dobadoira
 |dobadoura
 |dobrada
 |dobrado bemol
@@ -10848,6 +10917,7 @@
 |dois patinhos na lagoa
 |dojo
 |dol
+|dolce far niente
 |doleta
 |dolo eventual
 |dolor
@@ -10857,6 +10927,7 @@
 |dombasiliense
 |dominador
 |domingo da Páscoa
+|dominguizense
 |dominicense
 |dominiquense
 |dominiquês
@@ -10937,6 +11008,7 @@
 |dualismo
 |dualista
 |duartinense
+|duas-igrejense
 |dubá
 |ducentena
 |ducentenário
@@ -11099,7 +11171,9 @@
 |efélide
 |egipcianista
 |egipcíaco
+|egitanense
 |egitaniense
+|egitano
 |egomania
 |egomaníaco
 |egotismo
@@ -11113,6 +11187,7 @@
 |eirado
 |eirapedrense
 |eirense
+|eirizense
 |eirolense
 |eiró
 |eitada
@@ -11126,6 +11201,7 @@
 |eixo óptico
 |eixola<qq:has gl>
 |eixó
+|ejense
 |ekspreso
 |ela
 |elamita
@@ -11133,7 +11209,6 @@
 |elastância
 |elaína
 |elcosita
-|eldorado
 |electrargol
 |electrencefalograma
 |electrete
@@ -11167,7 +11242,6 @@
 |eletromotância
 |eletrosfera
 |elevado
-|elevações
 |elias-faustense
 |elicitação
 |elipsóide
@@ -11222,7 +11296,6 @@
 |embrulhação
 |embuchar
 |embuda<qq:has gl>
-|embude
 |embusteiro
 |embutidura
 |embutimento
@@ -11367,7 +11440,6 @@
 |engenheiro-residente
 |engivas
 |engo
-|engomadinho
 |engomado
 |engomagem
 |engonhanço
@@ -11448,12 +11520,14 @@
 |envilecimento
 |envira
 |envolta
+|envolvente
 |enxabelha
 |enxabelho
 |enxalavar
 |enxamblador
 |enxameador
 |enxamelha
+|enxamense
 |enxarense
 |enxeda
 |enxergão
@@ -11593,6 +11667,7 @@
 |erva-pombinha
 |erva-roberta
 |erva-sarneira
+|erva-ulmeira
 |ervanço
 |ervatário
 |ervaçal
@@ -11653,6 +11728,7 @@
 |escaque
 |escarabana
 |escargot
+|escarizense
 |escarlata
 |escarpada
 |escarpim
@@ -11665,14 +11741,12 @@
 |escoadura
 |escocha
 |escola de Frankfurt
-|escola de samba
 |escolanovismo
 |escolante<qq:has gl>
 |escolar
 |escolheito
 |escolma<qq:has gl>
 |escolopacídeos
-|escondidas
 |escopro
 |escore
 |escoriação
@@ -11832,6 +11906,7 @@
 |espinheirense
 |espinheiro-grande
 |espinhel
+|espinhelense
 |espinho-de-bananeira
 |espirilo
 |espirilose
@@ -11841,6 +11916,7 @@
 |espiroqueta
 |espirra-canivetes
 |espirulina
+|espitense
 |esplanadense
 |esplenorrafia
 |espojadouro
@@ -12261,10 +12337,13 @@
 |faiense
 |faildense
 |faim
+|faioense
 |faito
 |faixa de pedestre
 |fajanense
 |fajardense
+|fajonense
+|fajozense
 |fajã-grandense
 |fala-verdade
 |falacha
@@ -12295,6 +12374,7 @@
 |falso cognato
 |falso profeta
 |falso sambaqui
+|falsário
 |falácia genética
 |falácia lógica
 |famalicense
@@ -12318,7 +12398,6 @@
 |fanenco
 |fanequeira<qq:has gl>
 |fanfarria
-|fanfarronada
 |fanglomerado
 |fangueirada
 |fangueiro
@@ -12350,6 +12429,7 @@
 |fardeta da polícia
 |fardete
 |fardinha azul
+|farejense
 |farejo
 |farel
 |farfalhar
@@ -12477,6 +12557,7 @@
 |febre-de-malta
 |febre-dos-fenos
 |febre-dos-três-dias
+|febrense
 |fecha
 |fecha-fecha
 |fechada
@@ -12524,6 +12605,7 @@
 |femeaço
 |femeação
 |femeeiro
+|feminicida
 |feminino
 |feminolatria
 |femoca
@@ -12554,6 +12636,7 @@
 |fermento biológico
 |fermi
 |fermilense
+|fernandense
 |fernandopolitano
 |fernãoense
 |ferocidade
@@ -12568,11 +12651,14 @@
 |ferramental
 |ferrancho
 |ferranha
+|ferreirense
 |ferreirinha-alpina
 |ferreirinha-comum
 |ferrejo
+|ferrelense
 |ferrelha
 |ferrenha
+|ferrense
 |ferribote
 |ferro batido
 |ferro de alisar
@@ -12831,9 +12917,7 @@
 |fodas
 |fodaz
 |fodedeira
-|fodilhão
 |fodão<qq:has gl>
-|fofa
 |fofice
 |fofo
 |foforiongo
@@ -12912,6 +12996,7 @@
 |fontainha
 |fontana
 |fontanense
+|fontarcadense
 |fonte aberta
 |fonte de energia
 |fontelense
@@ -12994,6 +13079,7 @@
 |forriel
 |fortalezense
 |fortanogueirense
+|fortiense
 |fortitude
 |força bruta
 |força eletromotriz
@@ -13075,7 +13161,9 @@
 |frase feita
 |frasismo
 |fratelense
+|fraudulência
 |frazoeirense
+|frazoense
 |freamundense
 |frecheiro
 |freelance
@@ -13085,12 +13173,17 @@
 |freinedense
 |freio de arrumação
 |freiria
+|freirizense
 |freirático
 |freixedense
 |freixenista
+|freixense
+|freixialense
+|freixiandense
 |freixonista
 |freixonita
 |frenagem
+|frenação
 |frendense
 |frente de rajada
 |frequencímetro
@@ -13110,6 +13203,7 @@
 |fria
 |friaca
 |friandense
+|friastelense
 |friburguense
 |fricassé
 |fricassê
@@ -13152,7 +13246,6 @@
 |fronça
 |frossense
 |frotilha
-|frouma<qq:has gl>
 |frouxel
 |frouxo
 |frouça
@@ -13189,6 +13282,7 @@
 |fueiro
 |fuel-oil
 |fuelóleo
+|fuga de ideias
 |fuga de memória
 |fugida
 |fugidinho
@@ -13238,7 +13332,6 @@
 |funicular aéreo
 |funila
 |funileira
-|funje
 |funqueiro
 |funçanada
 |funçanata
@@ -13266,7 +13359,6 @@
 |furricada
 |furriel
 |furtador
-|furuncho<qq:has gl>
 |fuscafusca
 |fusco
 |fusco-fusco
@@ -13406,15 +13498,18 @@
 |galego-dourado
 |galego-português antigo
 |galego-português medieval
+|galeguense
 |galeguice
 |galeguista<qq:has gl>
 |galeguização
+|galeira
 |galela
 |galelarês
 |galelo
 |galeote
 |galeriano
 |galerno
+|galerão
 |galezia
 |galfeira
 |galga
@@ -13509,6 +13604,7 @@
 |ganfana
 |gangana
 |ganglionite
+|gangsterismo
 |ganha-dinheiro
 |ganhos
 |ganhotes
@@ -13613,6 +13709,7 @@
 |gatologia
 |gatovelox
 |gatunagem
+|gatunice
 |gaturama
 |gaturamo
 |gaturamo-miudinho
@@ -13622,6 +13719,7 @@
 |gauchês
 |gaudério
 |gauge
+|gaulense
 |gaultéria
 |gaussiano
 |gavejo
@@ -13649,7 +13747,6 @@
 |gelha
 |gelo-baiano
 |gelo-seco
-|gemelgo
 |gemologia
 |gemundense
 |gen
@@ -13752,6 +13849,7 @@
 |ginefilia
 |ginessexual
 |ginessexualidade
+|ginetense
 |gingebia
 |ginjeira-da-terra
 |ginjeira-do-brasil
@@ -13820,6 +13918,7 @@
 |godelo
 |godeme
 |godilhão
+|godinense
 |gofé
 |goga
 |gogada
@@ -13839,6 +13938,7 @@
 |gola direita
 |gola reversa
 |golada<qq:has gl>
+|golanense
 |golas
 |golbol
 |goleganense
@@ -13875,6 +13975,7 @@
 |golgiossomo
 |golgueira
 |golobado
+|golpe baixo
 |golpe de Estado
 |golpe de vista
 |golpe militar
@@ -13910,7 +14011,6 @@
 |gordinho
 |gordura visceral
 |gorga
-|gorjal
 |gorontalo
 |gorrião
 |gorrucho
@@ -13937,7 +14037,6 @@
 |grafologista
 |graftização
 |grafética
-|grainço
 |gralha-de-bico-vermelho
 |gralheirense
 |gramadense
@@ -14016,10 +14115,10 @@
 |grelhado
 |grelheira
 |grenache
-|grenal
 |grenat
 |grenho
 |gresca
+|gresufense
 |grevas
 |gricha
 |gricho
@@ -14039,6 +14138,7 @@
 |gritador
 |gritos
 |griô
+|groelandês
 |grogoió
 |grogoiô
 |grogojó
@@ -14061,7 +14161,6 @@
 |gruneiro
 |grunge
 |grunha
-|grunho
 |grupamento
 |grupo consonantal
 |grupo consonântico
@@ -14134,6 +14233,7 @@
 |guarânia
 |guasca
 |guataparaense
+|guatemalês
 |guavira
 |guaxima-roxa
 |guaxo
@@ -14193,7 +14293,6 @@
 |guitarra portuguesa
 |guitolão
 |guizos
-|guiço
 |gulaima
 |gulapa
 |guleima
@@ -14264,7 +14363,6 @@
 |hagiólogo
 |hagiómaco
 |hagiômaco
-|haicai
 |haikai
 |hair stylist
 |hairstylist
@@ -14353,6 +14451,7 @@
 |hegeliano
 |hegemonia cultural
 |heideggerianismo
+|helcose
 |helenismo
 |heleno
 |helenoparlante
@@ -14363,7 +14462,6 @@
 |heliocromia
 |heliodon
 |heliodorense
-|heliofobia
 |heliografia
 |heliogravura
 |helioplastia
@@ -14447,6 +14545,7 @@
 |herma
 |hermafrodito
 |hermes
+|hermetismo
 |hermínio
 |hernioso
 |herniário
@@ -14565,7 +14664,6 @@
 |hipocentauro
 |hipoderme
 |hipodermose
-|hipogeu
 |hipologia
 |hipomania
 |hipomenorreia
@@ -14813,6 +14911,7 @@
 |idade da pedra lascada
 |idade da pedra polida
 |idade provecta
+|idaense
 |idanhense
 |ideia fixa
 |identidade cultural
@@ -14840,6 +14939,7 @@
 |igbo
 |ignobilidade
 |ignorantão
+|ignoratio elenchi
 |ignosticismo
 |ignávia
 |igrapiunense
@@ -14906,7 +15006,6 @@
 |imbira
 |imbirapatanga
 |imbituvense
-|imbu
 |imbuição
 |imigo
 |imigrantense
@@ -15103,12 +15202,14 @@
 |inimigo figadal
 |ininciando
 |ininterrupção
+|injuriador
 |injustiçamento
 |inocenciense
 |inortodoxia
 |inovador
 |inquedança<qq:has gl>
 |inquirição
+|inquisidor
 |inquisição
 |inro
 |insaciabilidade
@@ -15273,6 +15374,7 @@
 |irgo
 |irish coffee
 |irite
+|irivense
 |irlandofonia
 |irlandoparlante
 |irlandês antigo
@@ -15535,6 +15637,7 @@
 |jari
 |jarimba
 |jarinuense
+|jarmelense
 |jarolda
 |jaronda
 |jarovização
@@ -15551,7 +15654,6 @@
 |jauense
 |java
 |javardeiro
-|javardo
 |javardo-glauco
 |javari
 |javaril
@@ -15743,6 +15845,7 @@
 |judeu-espanhol
 |judicação
 |jugada
+|jugueirense
 |juguete
 |juhuri
 |juiz de casamento
@@ -15761,6 +15864,7 @@
 |jumentada
 |jumirinense
 |juncalense
+|junceirense
 |juncras<qq:has gl>
 |jundiaiense
 |jungo
@@ -16041,6 +16145,7 @@
 |kukluxismo
 |kukluxista
 |kulanita
+|kular
 |kullerudita
 |kumyk
 |kundalini
@@ -16085,6 +16190,7 @@
 |labeique
 |labeique-de-três-barbilhos
 |labiadas
+|labiodental
 |labor infantil
 |laboração
 |labroide
@@ -16113,10 +16219,10 @@
 |ladoeirense
 |lados
 |ladrador
-|ladral
 |ladranho
 |ladrido
 |ladriço
+|ladroagem
 |ladroeira
 |ladroíço<qq:has gl>
 |lafaietense
@@ -16152,6 +16258,7 @@
 |lajota
 |lakota
 |lala
+|lalinense
 |lamaceiro
 |lamacense
 |lamarosense
@@ -16182,6 +16289,7 @@
 |lameirense
 |lameirão
 |lamela
+|lamelense
 |lamense<qq:has gl>
 |lamiáceas
 |lamosense
@@ -16217,6 +16325,7 @@
 |languidez
 |lanha
 |lanhelense
+|lanhense
 |lanhesense
 |lanho
 |lanhosense
@@ -16334,10 +16443,12 @@
 |lavacolhense
 |lavadeira-mascarada
 |lavadela
+|lavador de dinheiro
 |lavadora
 |lavanco
 |lavinense
 |laviniense
+|lavoense
 |lavor infantil
 |lavradiense
 |lavrado
@@ -16349,6 +16460,7 @@
 |layout man
 |layoutman
 |laz
+|lazarinense
 |lazeira
 |lazes
 |lazo
@@ -16374,6 +16486,7 @@
 |legalismo
 |legalista
 |legibilidade
+|legis actio
 |legismo
 |legoeiro<qq:has gl>
 |legonha<qq:has gl>
@@ -16435,6 +16548,7 @@
 |leocadense
 |leomilense
 |leonesismo
+|leonês antigo
 |leopardos-das-neves
 |leopoldense
 |leopon
@@ -16526,6 +16640,7 @@
 |libra-massa
 |libres
 |liceidade
+|liceiense
 |licenciado
 |licenciamento
 |licencioso
@@ -16567,6 +16682,7 @@
 |limerância
 |limerência
 |limiaco
+|limiano
 |limiense
 |limitante
 |limnociclo
@@ -16714,6 +16830,7 @@
 |locução pronominal
 |locução substantiva
 |locução verbal
+|lodarense
 |lodoeiro
 |loeste
 |log in
@@ -16831,6 +16948,7 @@
 |luddista
 |luddita
 |ludiano
+|ludibrioso
 |ludificação
 |ludo
 |ludoterapia
@@ -16856,6 +16974,7 @@
 |lumpectomia
 |lumpemproletariado
 |lunfardo
+|lunistício
 |lunária
 |lunário
 |lupercais
@@ -16973,7 +17092,6 @@
 |língua-de-vaca
 |língua-de-veado
 |língua-fonte
-|líqüido
 |lírio peruano
 |lírio-fedorento
 |líster
@@ -17103,6 +17221,7 @@
 |magori
 |magosto<qq:has gl>
 |magrinha
+|magueijense
 |maguilho
 |maguindanao
 |mah-jong
@@ -17228,6 +17347,7 @@
 |malpiquense
 |malpíghia
 |malquisto
+|maltense
 |malunga
 |malungo
 |maluquete
@@ -17258,6 +17378,7 @@
 |mamalogia
 |mamaltar
 |mamanwa
+|mamarrosense
 |mamata
 |mambar
 |mambu
@@ -17447,6 +17568,7 @@
 |marantes
 |maranteu
 |marapuamense
+|maratequense
 |marati
 |marauense
 |maravilhoso
@@ -17573,6 +17695,7 @@
 |marrote
 |marselhês
 |marshalês
+|marteleirense
 |martelete
 |martelinho
 |martemoto
@@ -17659,11 +17782,13 @@
 |materialismo histórico
 |materialismo histórico dialético
 |materialização
+|mateusense
 |matinense
 |mato sem cachorro
 |mato-grossense-do-sul
 |matosinheiro
 |matrescência
+|matricense
 |matricida
 |matricária
 |matricídio
@@ -17734,6 +17859,7 @@
 |medeiro
 |medeirosnetense
 |medeixes
+|medelense
 |medelinense
 |medianeiro
 |mediastino
@@ -17775,7 +17901,6 @@
 |meia-cancha
 |meia-concunhada
 |meia-cunhada
-|meia-idade
 |meia-noute
 |meia-prima
 |meia-sobrinha
@@ -17824,6 +17949,7 @@
 |meita
 |meixedense
 |meixela<qq:has gl>
+|meixomilense
 |mejengra
 |mekeo
 |mel de dedo
@@ -17859,7 +17985,6 @@
 |melito
 |melografia
 |melomaníaco
-|melopéia
 |melquetrefe
 |melra
 |melrense
@@ -17889,6 +18014,7 @@
 |mendes-pimentelense
 |mendicante
 |mendicidade
+|mendiguense
 |mendinho
 |mendoncense
 |mengo
@@ -17983,10 +18109,8 @@
 |mesta
 |mesto<qq:has gl>
 |mestrando
-|mestre de cerimônias
 |mestre-cuca
 |mestre-de-obras
-|mestre-sala
 |mesunhice
 |mesura
 |meta-humano
@@ -18098,7 +18222,6 @@
 |milhagem
 |milharadense
 |milheira
-|milheiro
 |milheiroense
 |milho miúdo
 |milho-de-grilo
@@ -18187,6 +18310,7 @@
 |mirgã
 |mirindiba
 |mirindiba-doce
+|miriágono
 |miriâmetro
 |mirliton
 |mirobrigense
@@ -18282,6 +18406,8 @@
 |modulagem
 |modulação
 |modus
+|modus ponendo ponens
+|modus ponens
 |moedor de carne
 |moedor de grãos
 |moedor de malte
@@ -18299,6 +18425,7 @@
 |moicanos
 |moinheira<qq:has gl>
 |moinheiro<qq:has gl>
+|moinhense
 |moirão
 |moisés
 |moiteira
@@ -18319,6 +18446,7 @@
 |moleia
 |moleirinha
 |molejo
+|molelense
 |molenguice
 |molequeira
 |molequice
@@ -18364,6 +18492,7 @@
 |mondé
 |monecra
 |monema
+|monforteiro
 |monfortense
 |mongaguaense
 |mongoloparlante
@@ -18473,6 +18602,7 @@
 |morte súbita
 |morte violenta
 |morte-em-pé
+|mortificador
 |mortualha
 |mortugabense
 |mortuário
@@ -18497,6 +18627,7 @@
 |mostarda-preta
 |mosteia
 |mosteirense
+|mosteiroense
 |motar
 |motard
 |motete
@@ -18556,6 +18687,7 @@
 |mpakwithi
 |muafo
 |muafos
+|muambeiro
 |mucambo
 |muchacho
 |muchete
@@ -18632,6 +18764,7 @@
 |muná
 |mura
 |murapiranga
+|murense
 |muricídeo
 |muringa
 |muritibano
@@ -18818,6 +18951,7 @@
 |narcotraficante
 |narguile
 |narguilê
+|naricense
 |nariganga
 |narodnik
 |narom
@@ -18898,13 +19032,13 @@
 |nefróloga
 |nefrólogo
 |negalho
-|negativa
 |negaça
 |negligê
 |negrada
 |negraça
 |negreira
 |negreirense
+|negrelense
 |negrilhal
 |negrilho
 |negro spiritual
@@ -19001,6 +19135,7 @@
 |nickname
 |nico
 |nicolaíta
+|nidense
 |nielo
 |nietzschianismo
 |nife
@@ -19046,6 +19181,7 @@
 |no man's land
 |no-show
 |nobre arte
+|nobreguense
 |noca
 |nocada
 |noda
@@ -19254,7 +19390,6 @@
 |núcleo terrestre
 |núcleo trófico
 |núcleo vegetativo
-|núcula
 |número abstracto
 |número abstrato
 |número inteiro
@@ -19265,7 +19400,6 @@
 |núveo
 |o
 |o caralho a quatro
-|o cão chupando manga
 |o máximo
 |oba
 |obcecação
@@ -19315,6 +19449,7 @@
 |octogenário
 |octossílabo
 |octozena
+|ocultação
 |odeceixense
 |odemirense
 |odiado
@@ -19352,6 +19487,7 @@
 |oganésson
 |ogham
 |oiampi
+|oianense
 |oiapoquense
 |oil
 |oirama
@@ -19369,6 +19505,7 @@
 |okurigana
 |olavete
 |olavismo
+|oldroense
 |oledense
 |oleoduto
 |oleína
@@ -19380,7 +19517,6 @@
 |olhar 43
 |olharapo
 |olhizaino
-|olho por olho, dente por dente
 |olho rasgado
 |olho-de-sapiranga
 |olho-de-sogra
@@ -19392,6 +19528,7 @@
 |olivalense
 |olivanense
 |oliveira-do-paraíso
+|oliveirinhense
 |oliventino
 |olmeiro
 |olonetsiano
@@ -19494,7 +19631,6 @@
 |orelha-de-rato
 |orelha-de-rato-dos-herbolários
 |orelha-marinha
-|orexia
 |orfeão
 |orgevão
 |orgivão
@@ -19515,6 +19651,7 @@
 |oriolense
 |orisa
 |orisá
+|orizense
 |orjavão
 |orkutiano
 |orlandiense
@@ -19529,6 +19666,7 @@
 |ornitófilo
 |orofaringe
 |orok
+|orquense
 |orquestração
 |orquialgia
 |orreta
@@ -19550,6 +19688,8 @@
 |orômetro
 |os homens
 |os hômi
+|os seus
+|os teus
 |osage
 |osculatório
 |osmologia
@@ -19770,6 +19910,7 @@
 |palavão
 |paleio
 |paleobiologia
+|paleocanal
 |paleoneurobiologia
 |paleoterritório
 |palerma
@@ -19792,10 +19933,10 @@
 |palilheira<qq:has gl>
 |palilho<qq:has gl>
 |palingenesia
+|palmacense
 |palmarense
 |palmatoada
 |palmatória do mundo
-|palmazense
 |palmeiral
 |palmela
 |palmelense
@@ -19884,7 +20025,6 @@
 |papaieira
 |papalvo
 |papangu
-|papanicolau
 |paparico
 |paparoca
 |paparote
@@ -20038,8 +20178,6 @@
 |parrameiro
 |parranda
 |parreco
-|parro
-|parrolo
 |parrulo<qq:has gl>
 |partejo
 |participação de mercado
@@ -20049,7 +20187,6 @@
 |parturiente
 |partícipe
 |parusia
-|parva
 |parvada<qq:has gl>
 |parvalhada<qq:has gl>
 |parvoada<qq:has gl>
@@ -20199,6 +20336,7 @@
 |pecebismo
 |pecebista
 |pecedobista
+|pechanense
 |peco
 |pecuarista
 |peculatário
@@ -20209,7 +20347,6 @@
 |pedaço de asno
 |pedaço-de-asno
 |pedaços
-|peddy-paper
 |pedernal
 |pederneirense
 |pedestrianismo
@@ -20242,6 +20379,7 @@
 |pedraça
 |pedraço
 |pedregulhense
+|pedreirense
 |pedrense
 |pedrinopolense
 |pedrinopolitano
@@ -20278,6 +20416,7 @@
 |peessedista
 |pega-rapaz
 |pegas
+|pegonense
 |peguilho
 |pegulhal
 |pegulho
@@ -20291,7 +20430,6 @@
 |peitas
 |peite<qq:has gl>
 |peitolé
-|peituga
 |peixa de bacalhau
 |peixe grande
 |peixe-anjo
@@ -20342,7 +20480,6 @@
 |peloura
 |pelourico
 |pelro
-|peltasta
 |peluda
 |pelugem
 |pelão
@@ -20350,6 +20487,8 @@
 |pemba
 |pen drive
 |pena de morte
+|penafielense
+|penajoiense
 |penalismo
 |penalista
 |penamaiorense
@@ -20363,7 +20502,6 @@
 |pendericalho
 |pendilhense
 |pendorelhos
-|pendura
 |pendural
 |pendurelho
 |pendẽça
@@ -20392,6 +20530,8 @@
 |pensamento positivo
 |penso higiénico
 |penso rápido
+|pentacontágono
+|pentacoságono
 |pentadactilia
 |pentadactilidade
 |pentadecaedro
@@ -20492,6 +20632,7 @@
 |perninha de grilo
 |perolense
 |peroração
+|peroselense
 |perosinhense
 |perpetuidade
 |perpétua
@@ -20608,6 +20749,7 @@
 |pexerica
 |pexigo
 |pexigueiro
+|pexito
 |pexote
 |peça rara
 |peçanhense
@@ -20618,6 +20760,7 @@
 |piacururu
 |piadoso
 |pialo
+|pianense
 |piano de armário
 |piano de vidro
 |piano de válvulas
@@ -20645,13 +20788,13 @@
 |picaroto
 |picas
 |pichaim
-|pichel
 |pichelaria
 |picheleiro
 |pichilemino
 |pichorra
 |pickle
 |picle
+|pico-pedrense
 |picoense
 |picolé de carne
 |picometro
@@ -20665,6 +20808,7 @@
 |picão
 |pidgin nigeriano
 |pidão
+|piedadense
 |piedense
 |pieira
 |piense
@@ -20720,6 +20864,7 @@
 |pinguelo
 |pinguinhas
 |pingulim
+|pinhal-novense
 |pinhalnovense
 |pinheirense
 |pinheiro-bravo
@@ -20959,6 +21104,7 @@
 |poa
 |pobre de espírito
 |pocaricense
+|poceirense
 |pocha
 |pocinheira
 |pocket book
@@ -20976,6 +21122,8 @@
 |poder soberano
 |podiatria
 |podoa
+|pododermatite
+|pododermatite asséptica difusa
 |podomancia
 |podridão
 |poejo
@@ -20989,7 +21137,6 @@
 |poia
 |poinsétia
 |poisa
-|poita
 |poitão
 |poiá
 |pojo
@@ -21056,6 +21203,7 @@
 |pomarense
 |pombalense
 |pombeira
+|pombeirense
 |pombeiro
 |pombinha
 |pombinhos
@@ -21100,11 +21248,13 @@
 |ponto alto
 |ponto atrás
 |ponto colateral
+|ponto cota
 |ponto da partida
 |ponto de função
 |ponto de montagem
 |ponto de restauração
 |ponto de restauro
+|ponto de toque
 |ponto eletrônico
 |ponto haste
 |ponto lista
@@ -21131,12 +21281,14 @@
 |por ceca e meca
 |porangabense
 |porcariço
+|porchense
 |porco-bravo
 |porco-do-mato
 |porco-montês
 |porcosomem
 |pordentros
 |porfirião
+|pormaior
 |pornochanchada
 |pornofonia
 |pornógrafo infantil
@@ -21164,8 +21316,11 @@
 |portland
 |portmanteau word
 |porto-covense
+|porto-formosense
 |porto-monicense
 |porto-monizense
+|porto-mosense
+|porto-riquense
 |porto-salvense
 |porto-santense
 |porto-segurense
@@ -21216,7 +21371,6 @@
 |poucas e boas
 |poucas ideia
 |pouco
-|poula<qq:has gl>
 |poule
 |poulo<qq:has gl>
 |pound
@@ -21564,7 +21718,7 @@
 |protogoidélico
 |protogrego
 |protoidioma
-|protoindo-iraniano
+|protoindoiraniano
 |protoiraniano
 |protojapônico
 |protologismo
@@ -21573,7 +21727,6 @@
 |prototocariano
 |prototupi
 |prototupis
-|protético
 |prouveia
 |provedor de acesso
 |provençal antigo
@@ -21686,7 +21839,6 @@
 |pulsímetro
 |pultrudir
 |pulunga
-|punga
 |punheteiro
 |punibilidade
 |punidor
@@ -21775,7 +21927,6 @@
 |pértigo
 |pêndula
 |pênfigo
-|pêro
 |pêxego
 |pícaro<qq:has gl>
 |pídgin
@@ -21816,7 +21967,6 @@
 |púchiga
 |púciga
 |púmice
-|pútega
 |pútegas
 |q
 |qamis
@@ -21831,6 +21981,7 @@
 |quadratriz
 |quadratura
 |quadraturista
+|quadrazenho
 |quadraço
 |quadriciclo
 |quadricromia
@@ -21920,6 +22071,7 @@
 |queixos
 |queixudo
 |quejando
+|quelfense
 |quelha
 |quelho
 |queluzense
@@ -21948,6 +22100,7 @@
 |querelado
 |querelante
 |querena
+|querencense
 |querença
 |querogrilo
 |querrobia
@@ -22091,6 +22244,7 @@
 |rabo-de-palha
 |rabo-de-palha-de-bico-vermelho
 |rabo-leva
+|rabo-peixense
 |rabopeixense
 |rabudo
 |rabugem
@@ -22127,6 +22281,7 @@
 |radioemissora
 |radioemissão
 |radiola
+|radiopatrulheiro
 |radícula
 |rafada
 |rafanidose
@@ -22141,7 +22296,6 @@
 |raiadela
 |raial
 |raid
-|raide
 |raigrás
 |rail
 |railhe
@@ -22179,6 +22333,7 @@
 |rame-rame
 |ramequim
 |ramerrão
+|raminhense
 |ramoaaina
 |ranca
 |rancalho<qq:has gl>
@@ -22192,6 +22347,8 @@
 |ranco
 |rancolho
 |randeeira<qq:has gl>
+|randense
+|ranense
 |rangalheira<qq:has gl>
 |range
 |ranhadense
@@ -22228,6 +22385,7 @@
 |rascasso
 |rascasso-de-pintas
 |rascoa
+|rascão
 |rasga-mortalha
 |rasgamento
 |rasgão
@@ -22309,6 +22467,7 @@
 |recambejo
 |recamo
 |recapturar
+|recardanense
 |recaredense
 |recavém
 |receiver
@@ -22397,16 +22556,19 @@
 |reflexividade
 |reflexão tardia
 |refoiense
+|refontourense
 |reforma agrária
 |reformismo
 |reforço alimentar
 |refugalho<qq:has gl>
 |refugiense
 |regada
+|regadense
 |regatão
 |regenta
 |regia
 |regibó
+|regildense
 |regionalista
 |registrador de deslocamento
 |registrense
@@ -22480,6 +22642,7 @@
 |remanchão
 |remansense
 |remasse
+|remediense
 |remelhense
 |remendão
 |remoque
@@ -22519,7 +22682,6 @@
 |repontão
 |repos
 |reposta
-|reposteiro
 |repoupo
 |repouseira
 |representado
@@ -22596,6 +22758,7 @@
 |retrama
 |retransmissor
 |retratista
+|retrato falado
 |retração
 |retreta
 |retrinco<qq:has gl>
@@ -22623,6 +22786,7 @@
 |reverendo
 |reversibilidade
 |revindicação
+|revinhadense
 |revista aos quadradinhos
 |revista de banda desenhada
 |revista de quadradinhos
@@ -22643,6 +22807,8 @@
 |riana
 |ribadavense
 |ribadense
+|ribafriense
+|ribamarense
 |ribas<qq:has gl>
 |ribatejano
 |ribatuense
@@ -22698,6 +22864,7 @@
 |rio-grandino
 |rio-maiorense
 |rio-mauense
+|rio-moinhense
 |rio-pirense
 |rio-pretano
 |rio-realense
@@ -22719,6 +22886,7 @@
 |risoles
 |rita
 |riversulense
+|rivofrigidense
 |rizicultor
 |rizicultura
 |riádigo
@@ -22748,7 +22916,6 @@
 |rodeira
 |rodeiro
 |rodelense
-|rodilha
 |rodoanel
 |rodoiro
 |rodomoço
@@ -22847,7 +23014,6 @@
 |roxo-rei
 |roxo-terra
 |roça-roça
-|roçadeira
 |roças
 |roço
 |rua da amargura
@@ -22873,6 +23039,7 @@
 |ruma
 |rumba
 |rumorejo
+|runense
 |rupestre
 |rupícola
 |ruquibo
@@ -22932,6 +23099,7 @@
 |saaraui
 |saarauí
 |saba
+|sabarizense
 |sabatinador
 |sabatinando
 |sabatismo
@@ -23020,6 +23188,7 @@
 |salgueirense
 |salgueirinha
 |salinense
+|salirense
 |salish
 |salmanticense
 |salmantino
@@ -23078,6 +23247,7 @@
 |samideano
 |samisém
 |samoco
+|samodense
 |samorano
 |samorense
 |samori
@@ -23103,7 +23273,6 @@
 |sanduicheiro
 |sanduicheria
 |sandálias da humildade
-|sanefa
 |sanfinense
 |sanfonado
 |sanfoneiro
@@ -23295,10 +23464,12 @@
 |scroll
 |seabrense
 |seareiro
+|searense
 |seba
 |sebalense
 |sebastianense
 |sebo nas canelas
+|sebolidense
 |secada
 |secadal
 |sechuana
@@ -23314,7 +23485,6 @@
 |securitário
 |sedeca
 |sedeiro
-|sedela
 |sedenho
 |sedentariedade
 |sedentarismo
@@ -23326,6 +23496,7 @@
 |sega
 |segada
 |segadeira
+|segadense
 |segmentação
 |segmentos
 |segre
@@ -23354,6 +23525,7 @@
 |seixaleiro
 |seixalense
 |seixebra<qq:has gl>
+|seixense
 |seixezelense
 |selado
 |selaria
@@ -23435,6 +23607,7 @@
 |sento-seense
 |senóide
 |separa o visgo
+|sepinense
 |septenzena
 |septicida
 |septicémia
@@ -23442,12 +23615,16 @@
 |sepédi
 |sequeirense
 |sequeiro
+|sequeiroense
 |sequilho
 |sequilo
 |seqüestrador
 |ser vivente
+|serafonense
 |serena
 |serendipista
+|serf alto
+|serf baixo
 |sergipanês
 |seri
 |seriado de cinema
@@ -23459,6 +23636,7 @@
 |seringal
 |sermo vulgaris
 |sermondense
+|sernandense
 |seroense
 |seropedicense
 |serpense
@@ -23506,6 +23684,7 @@
 |sesimbrense
 |sesoto
 |sesquipedaliofobia
+|sesquipedalofobia
 |sessação
 |sessenta-e-nove
 |sessentena
@@ -23638,7 +23817,6 @@
 |sinal-da-cruz
 |sinalagma
 |sinalagmaticidade
-|sinalefa
 |sinaleira
 |sinalética
 |sinapismo
@@ -23699,6 +23877,7 @@
 |sirim<qq:has gl>
 |siripuã
 |siriruia
+|sirénio
 |siríaco clássico
 |sisa
 |sisifismo
@@ -23731,6 +23910,7 @@
 |soajo
 |soalha
 |soalhanense
+|soalheirense
 |soalheiro
 |soarense
 |sobeira
@@ -23874,6 +24054,8 @@
 |somonte<qq:has gl>
 |sona
 |sone
+|sonegador
+|sonegamento
 |sonetista
 |songbook
 |sonhar
@@ -24024,6 +24206,7 @@
 |subverbete
 |subversão da ordem constitucional
 |subvocalização
+|subxerife
 |sucedido
 |sucho
 |sucker
@@ -24158,6 +24341,7 @@
 |são-martinhense
 |são-mateuense
 |são-mateusense
+|são-miguelense
 |são-pauleiro
 |são-pedrense
 |são-pedro
@@ -24178,6 +24362,7 @@
 |sêmis
 |sênio
 |sífano
+|sílaba postônica
 |sílaba pretónica
 |sílaba pretônica
 |sílaba subtônica
@@ -24224,6 +24409,7 @@
 |taboquense
 |tabosense
 |tabouqueiro
+|tabuadense
 |tabueiro
 |tabulação
 |tabule
@@ -24244,6 +24430,7 @@
 |tae-kwon-do
 |tagalho
 |tagaloparlante
+|tagildense
 |taguaiense
 |tai
 |taiada
@@ -24354,7 +24541,6 @@
 |tapeceiro
 |taperoaense
 |taperoense
-|taperu
 |tapetão
 |tapiraiense
 |tapiramutense
@@ -24365,7 +24551,6 @@
 |tapoer
 |tapua
 |tapuias
-|tapuru
 |taquaralense
 |taquaritinguense
 |taquaritubano
@@ -24373,6 +24558,7 @@
 |taquarivaiense
 |taquifemia
 |taquimetria
+|taquipsiquia
 |taquisfigmia
 |taquígrafo
 |tarabaiense
@@ -24547,6 +24733,7 @@
 |telheirense
 |telheiro
 |telho
+|telonense
 |telugoparlante
 |telão
 |telémetro
@@ -24595,6 +24782,7 @@
 |tentilhão-comum
 |tentredo
 |tentredém
+|tentugalense
 |tenuidade
 |tenífugo
 |teobromina
@@ -24644,6 +24832,7 @@
 |terminação nominal
 |terminação verbal
 |terminografia
+|terminótica
 |termo guarda-chuva
 |termo-higrômetro
 |termoluminescência
@@ -24794,6 +24983,7 @@
 |tira-olho
 |tirada
 |tiranicida
+|tiranicídio
 |tiranos
 |tirante
 |tirantes
@@ -24820,7 +25010,6 @@
 |tittle
 |titubeação
 |tlingit
-|toalha de rosto
 |toari
 |tobiano
 |tobó
@@ -24843,6 +25032,7 @@
 |toiça
 |tojal
 |tojalense
+|tojeirense
 |tojeiro
 |tojo-molar
 |tojolabal
@@ -24923,6 +25113,7 @@
 |torcatense
 |torcionário
 |torco
+|torcázio
 |torda
 |torda-anã
 |torense
@@ -24931,11 +25122,13 @@
 |torgueira
 |torgueiro
 |torna
+|tornadense
 |torneamento
 |tornel
 |tornozeleira eletrónica
 |torpeza
 |torquês
+|torradense
 |torrandeira
 |torranense
 |torredeitense
@@ -24960,9 +25153,9 @@
 |toucado
 |touguense
 |touguinhense
+|touguinhoense
 |toupa
 |toura
-|toural
 |toureiros
 |tourense
 |touriguense
@@ -25252,6 +25445,7 @@
 |tristura
 |tritagonista
 |triticultura
+|tritriacontágono
 |trituração
 |triunvirado
 |trivialização
@@ -25294,6 +25488,7 @@
 |trondão
 |tronos
 |tronqueira
+|tronquense
 |tropas
 |tropeada
 |tropicalização
@@ -25331,7 +25526,7 @@
 |trêpulo
 |três-lagoense
 |três-oitão
-|tríduo
+|tríada
 |tríglifo
 |tríler
 |trílogo
@@ -25562,7 +25757,6 @@
 |umbrela
 |umbro
 |umbroso
-|umbu
 |umburana
 |umburanense
 |umbuzada
@@ -25583,6 +25777,7 @@
 |underwear
 |unense
 |unha de fome
+|unhaense
 |unheiro
 |unhense
 |unicameralista
@@ -25634,6 +25829,7 @@
 |urgueiral
 |uropígio
 |urqueirense
+|urrense
 |urreta
 |ursada
 |urselo
@@ -25645,7 +25841,6 @@
 |urupás
 |urupê
 |ururau
-|urutu
 |uruçuquense
 |urzal
 |urzedo
@@ -25688,7 +25883,6 @@
 |vacilação
 |vacum
 |vacão
-|vademécum
 |vadiação
 |vagabo
 |vagalume
@@ -25709,10 +25903,12 @@
 |valboense
 |valcavalense
 |valdense
+|valdigense
 |valdoarquense
 |vale da estranheza
 |vale-figueirense
 |vale-pereirense
+|vale-santareno
 |vale-transporte
 |valecambrense
 |valeguense
@@ -25750,6 +25946,8 @@
 |valvarguense
 |valverdense
 |vampe
+|vandalização
+|vandomense
 |vanessa
 |vangana
 |vangloriado
@@ -25786,6 +25984,8 @@
 |varzeapense
 |varzedense
 |varzeense
+|varzielense
+|varzinense
 |varíola do macaco
 |varíola dos macacos
 |vasa
@@ -25868,6 +26068,7 @@
 |ventor
 |ventos
 |ventosa
+|ventosense
 |ventre livre
 |ventrecha
 |ventrilha
@@ -25904,6 +26105,7 @@
 |verbo causativo
 |verbo composto
 |verbo copulativo
+|verbo de movimento
 |verbo defectivo
 |verbo depoente
 |verbo derivado
@@ -26071,6 +26273,7 @@
 |vidaguense
 |vide de enforcado
 |videirense
+|videmontense
 |videoarte
 |videoclip
 |videofone
@@ -26186,6 +26389,7 @@
 |virosfera
 |virugem<qq:has gl>
 |virulência
+|visada
 |visagismo
 |visagista
 |visavó
@@ -26209,6 +26413,7 @@
 |vitoriense
 |vitrificação
 |vitrinista
+|vitriolagem
 |vitualhas
 |viveza
 |vividez
@@ -26229,7 +26434,9 @@
 |vogal de ligação
 |vogal média
 |vogal palatal
+|vogal tônica
 |vogal velar
+|vogal átona
 |voile
 |vol-au-vent
 |volatim
@@ -26262,7 +26469,6 @@
 |vougo<qq:has gl>
 |vouguense
 |vox populi, vox Dei
-|voxel
 |voz de polichinelo
 |voz de vamos dormir
 |voz do povo, voz de Deus
@@ -26388,7 +26594,7 @@
 |xaual
 |xavantense
 |xavantino
-|xaxim
+|xavelha
 |xebra<qq:has gl>
 |xebre<qq:has gl>
 |xebroada
@@ -26591,7 +26797,6 @@
 |zimbabwiano
 |zimbrada
 |zimbradura
-|zimbreiro
 |zimbrinada
 |zimosimetria
 |zimoterapia
@@ -26791,6 +26996,7 @@
 |éfode
 |égloga
 |élitro
+|éolo
 |épica
 |épura
 |érico-cardosense
@@ -26842,5 +27048,4 @@
 |úria
 |úsnea
 |ǃxóõ
-|Ουρουγουάη
 |استاد

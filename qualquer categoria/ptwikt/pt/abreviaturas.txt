@@ -548,6 +548,7 @@ GPIAAF
 GPP
 GQ
 GRG
+GSP
 GTC
 Gr
 HBP
@@ -649,6 +650,7 @@ JIC
 JO
 JS
 JSD
+KSK
 L
 LAC
 LBV
@@ -677,6 +679,7 @@ LPDP
 LPP
 LRP
 LSD
+LTE
 LU.CA
 M
 MA
@@ -939,6 +942,7 @@ QG
 QI
 QNQ
 QPS
+QZP
 R.O.
 RAC
 RAEM
@@ -1076,7 +1080,6 @@ SUDAM
 SUDENE
 SUNAB
 SUS
-Saara
 Sanscr
 Senatran
 Sr.

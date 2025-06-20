@@ -669,6 +669,7 @@ albujar
 alcachinar
 alcachofrar
 alcalificar
+alcalinizar
 alcandorar-se
 alcantilar
 alcançar
@@ -2899,7 +2900,6 @@ deceinar
 decemplicar
 decepar
 decepcionar
-decer
 dechavar
 decidir
 decifrar
@@ -3006,6 +3006,7 @@ demolir
 demonizar
 demonstrar
 demorar
+demostrar
 demover
 denegar
 denegrir
@@ -3351,6 +3352,7 @@ desligar
 deslindar
 deslizar
 deslocar
+deslogar
 deslumbrar
 desluzir
 desmaiar
@@ -4952,6 +4954,7 @@ feriar
 ferir
 fermentar
 ferrar
+ferroar
 ferrolhar
 fertilizar
 fertir
@@ -5702,6 +5705,7 @@ internetar
 interpolar
 interpor
 interpretar
+interrogar
 interromper
 interver
 intervir
@@ -6202,6 +6206,7 @@ mestrar
 mestrear
 metamorfosear
 meter
+meter o bedelho
 meter o loco
 meter à bolina
 metralhar
@@ -6979,6 +6984,7 @@ pulsar
 pulular
 pulverizar
 puncionar
+pungir
 punhetar
 punir
 punçar
@@ -7768,6 +7774,7 @@ somergulhar
 someter
 sondar
 sonear
+sonegar
 sonhar
 sopesar
 sopitar
@@ -8442,6 +8449,7 @@ vlogar
 voar
 vocalizar
 vociferar
+voejar
 vogar
 volatilizar
 volcar

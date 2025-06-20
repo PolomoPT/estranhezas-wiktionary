@@ -6,6 +6,7 @@
 -ão
 Abril
 Achaia
+Achiles
 Achilles
 Agosto
 Alcyone
@@ -28,8 +29,8 @@ Babylónia
 Bartholomeu
 Belgica
 Bosphoro
+Brazil
 Bruxellas
-Byblo
 Byblos
 Bósphoro
 Calypso
@@ -58,13 +59,14 @@ Eschylo
 Esmyrna
 Esphinge
 Esphynge
+Estados Unidos do Brazil
 Ethiopia
 Ethiópia
 Ethyopia
 Eurydice
+Extremadura
 Fevereiro
 Guahyba
-Helsinquia
 Hygeia
 Hygia
 Hymeneo
@@ -170,6 +172,7 @@ accumular
 accumulo
 accusar
 acetyleno
+acreano
 acrolectal
 acrolecto
 acrolitho
@@ -219,7 +222,8 @@ agua
 aguia
 aguia real
 ahi
-ahinda
+alcohol
+alcool
 alem
 alfarrabio
 alivio
@@ -228,6 +232,7 @@ alliviado
 allivio
 allucinação
 almario
+alpha
 alphabeto
 altheia
 alumno
@@ -235,6 +240,7 @@ amharico
 amphitheatro
 ampolla
 amygdala
+analphabeto
 analysta
 ancora
 annal
@@ -259,6 +265,7 @@ aquellas
 aquelle
 aquelles
 aquillo
+arameano
 archaista
 archeologia
 archipelago
@@ -300,6 +307,7 @@ authoridade
 autodidacta
 autopsia
 avido
+açoreano
 açucar
 bahia
 bahiano
@@ -433,6 +441,7 @@ correctivo
 correcto
 corrector
 correcção
+cortez
 costella
 creada
 creado
@@ -633,6 +642,7 @@ exhaurir
 exhausto
 exhibir
 existencia
+exquisitice
 exquisito
 extender
 extincção
@@ -664,12 +674,14 @@ fracção
 francez
 franceza
 frequencia
+fructa
 fructo
 funccionalidade
 funccionalmente
 funccionamento
 funccionar
 gallo
+gazeo
 geraes
 geógrapho
 gloria
@@ -738,6 +750,8 @@ inhabilidade
 inhabitado
 inhabitavel
 inherencia
+inherente
+inherentemente
 inhumano
 inicio
 injectar
@@ -854,6 +868,7 @@ neodymio
 ninguem
 nocturnal
 nocturno
+numero
 objectar
 objectiva
 objectivamente
@@ -879,6 +894,7 @@ ophídio
 opposição
 opposto
 optimamente
+optimista
 optimizado
 optimizar
 optimização
@@ -898,6 +914,8 @@ patria
 patriarcha
 patriarchado
 patrimonio
+penna
+peor
 permittir
 pessego
 phagocyto
@@ -938,6 +956,7 @@ pomo-de-Adão
 poncto
 ponctualidade
 por emquanto
+porque
 practicar
 praseodymio
 predilecto
@@ -1061,6 +1080,8 @@ soccorrer
 soccorro
 sociolecto
 somno
+sosinhamente
+sosinho
 subjectivamente
 subjectividade
 subjectivo
@@ -1082,6 +1103,8 @@ syntaxe
 systema
 systematizar
 sómente
+sósinho
+sózinho
 tacticamente
 tambem
 tecto
@@ -1117,6 +1140,7 @@ tranquillo
 transacção
 traz
 tres
+tribu
 triumpho
 tumefacção
 typho
@@ -1152,4 +1176,3 @@ zygomatico
 éthico
 éthnico
 íschio
-œsophago

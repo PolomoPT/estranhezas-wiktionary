@@ -8,6 +8,7 @@
 |a cabo de
 |a cada cabeça, uma sentença
 |a caravana passa e os cães ladram
+|a cerca de
 |a cereja do bolo
 |a coisa tá preta
 |a contrario sensu
@@ -20,6 +21,7 @@
 |a maçã não cai longe da árvore
 |a maçã não cai muito longe da árvore
 |a menina dos olhos
+|a nível de
 |a olhos vistos
 |a passo e passo
 |a perigo
@@ -35,6 +37,7 @@
 |amigos, amigos, negócios à parte
 |amor de verão não sobe a serra
 |amor se paga com amor
+|ao encontro de
 |ao endireito de
 |ao jeito de
 |ao léu de
@@ -43,6 +46,11 @@
 |aos quatro ventos
 |apressado come cru
 |aqui é que a porca torce o rabo
+|argumentum ad Hitlerum
+|argumentum ad Nazium
+|argumentum ad antiquitatem
+|argumentum ad crumenam
+|argumentum magister dixit
 |as aparências enganam
 |atirar barro à parede
 |atirar o barro à parede
@@ -83,6 +91,7 @@
 |de baldão
 |de boa na lagoa
 |de copa e cozinha
+|de encontro a
 |de hoje a
 |de já hoje
 |de mim para mim
@@ -99,7 +108,6 @@
 |do bom e do melhor
 |dois bicudos não se beijam
 |dura lex, sed lex
-|dá um ar
 |e alguma coisa
 |e batatinha
 |e bolinha
@@ -113,12 +121,14 @@
 |em casa de ferreiro, espeto de amieiro
 |em casa de ferreiro, espeto de pau
 |em consequência de
+|em nível de
 |em ponto de bala
 |em pé de guerra
 |em si
 |em time que está ganhando não se mexe
 |em vida e morte
 |entre a cruz e a caldeirinha
+|entre a cruz e a espada
 |entre a espada e a parede
 |entre a pera e o queijo
 |entre uma rocha e um lugar duro
@@ -132,7 +142,9 @@
 |exatamente igual
 |f1
 |fada sensata
+|fallacia non causae ut causae
 |fama volat
+|ferver a galerão
 |filho feio não tem pai
 |fiscal da natureza
 |fora de propósito
@@ -148,6 +160,7 @@
 |há muitas maneiras de esfolar um gato
 |há sempre um dia após o outro
 |in se
+|inimigo público
 |inutilia truncat
 |isto é
 |jogar barro à parede
@@ -210,7 +223,6 @@
 |meter mão à obra
 |meter nas embiras
 |meter o Rossio na Betesga
-|meter o bedelho
 |meter o braço em
 |meter o gadanho
 |meter o nariz em
@@ -225,6 +237,7 @@
 |mil novecentos e guaraná com rolha
 |misturar alhos com bugalhos
 |mode quê
+|modus tollens
 |mofas com a pomba na balaia
 |molear o garrão
 |molhar o bico
@@ -256,6 +269,7 @@
 |no tempo dos afonsinhos
 |noblesse oblige
 |nobreza obriga
+|non causae ut causae
 |nos tempos afonsinos
 |nota-bem
 |não bater a bota com a perdigota
@@ -275,6 +289,7 @@
 |não ter tempo para se coçar
 |não é morte de homem
 |o bicho pegar
+|o crime não compensa
 |o dinheiro não aceita desaforo
 |o exemplo arrasta
 |o melhor é
@@ -357,10 +372,12 @@
 |perder o pé de
 |perder peso
 |pessoa de má morte
+|petitio principii
 |pirar na batatinha
 |pisar em ovos
 |pisar no tomate
 |plantar bananeira
+|plurium interrogationum
 |ponto por ponto
 |por amor de mim
 |por artes de berliques e berloques
@@ -376,6 +393,8 @@
 |por tudo e por nada
 |por um triz
 |por via das dúvidas
+|post hoc
+|post hoc ergo propter hoc
 |pouco se lixar
 |pra cada panela há uma tampa
 |pregar o olho
@@ -406,6 +425,7 @@
 |pôr pitafe a
 |pôr-se à coca
 |quae sunt caesaris, caesari
+|quanti minoris
 |quanto a mim
 |que nem
 |que é uma beleza
@@ -449,6 +469,14 @@
 |rebentar a castanha na boca a alguém
 |rebolar no mato
 |recuperar os sentidos
+|reductio ad Castrum
+|reductio ad Hitlerum
+|reductio ad Leninum
+|reductio ad Marxum
+|reductio ad Maum
+|reductio ad Nazium
+|reductio ad Stalinum
+|reductio ad absurdum
 |reduzir à expressão mais simples
 |ri melhor quem ri por último
 |rir a bandeiras despregadas
@@ -507,6 +535,7 @@
 |sobre si
 |sofrer tratos de polé
 |sopas de cavalo cansado
+|status quaestionis
 |struggle for life
 |sua milhagem pode variar
 |subir pelas paredes

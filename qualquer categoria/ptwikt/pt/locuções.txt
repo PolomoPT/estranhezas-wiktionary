@@ -10,6 +10,7 @@ a cabo de
 a cada cabeça, uma sentença
 a caravana passa e os cães ladram
 a cavalo dado não se olham os dentes
+a cerca de
 a cereja do bolo
 a coisa tá preta
 a contrario sensu
@@ -24,6 +25,7 @@ a maré não está pra peixe
 a maçã não cai longe da árvore
 a maçã não cai muito longe da árvore
 a menina dos olhos
+a nível de
 a olhos vistos
 a passo e passo
 a perigo
@@ -41,6 +43,7 @@ amigo na necessidade é amigo de verdade
 amigos, amigos, negócios à parte
 amor de verão não sobe a serra
 amor se paga com amor
+ao encontro de
 ao endireito de
 ao jeito de
 ao léu de
@@ -50,6 +53,11 @@ aos quatro ventos
 apressado come cru
 aqui se faz, aqui se paga
 aqui é que a porca torce o rabo
+argumentum ad Hitlerum
+argumentum ad Nazium
+argumentum ad antiquitatem
+argumentum ad crumenam
+argumentum magister dixit
 as aparências enganam
 atirar barro à parede
 atirar o barro à parede
@@ -94,6 +102,7 @@ danado por
 de baldão
 de boa na lagoa
 de copa e cozinha
+de encontro a
 de grão em grão a galinha enche o papo
 de hoje a
 de já hoje
@@ -112,7 +121,6 @@ diz-me com quem andas e dir-te-ei quem és
 do bom e do melhor
 dois bicudos não se beijam
 dura lex, sed lex
-dá um ar
 e alguma coisa
 e batatinha
 e bolinha
@@ -129,6 +137,7 @@ em boca fechada não entra mosquito
 em casa de ferreiro, espeto de amieiro
 em casa de ferreiro, espeto de pau
 em consequência de
+em nível de
 em ponto de bala
 em pé de guerra
 em relação a
@@ -137,6 +146,7 @@ em time que está ganhando não se mexe
 em vida e morte
 entendedores entenderão
 entre a cruz e a caldeirinha
+entre a cruz e a espada
 entre a espada e a parede
 entre a pera e o queijo
 entre uma rocha e um lugar duro
@@ -151,7 +161,9 @@ exatamente como
 exatamente igual
 f1
 fada sensata
+fallacia non causae ut causae
 fama volat
+ferver a galerão
 filho de peixe, peixinho é
 filho feio não tem pai
 fiscal da natureza
@@ -168,6 +180,7 @@ há mais de uma maneira de se esfolar um gato
 há muitas maneiras de esfolar um gato
 há sempre um dia após o outro
 in se
+inimigo público
 inutilia truncat
 isto é
 jogar barro à parede
@@ -235,7 +248,6 @@ meter bronca
 meter mão à obra
 meter nas embiras
 meter o Rossio na Betesga
-meter o bedelho
 meter o braço em
 meter o gadanho
 meter o nariz em
@@ -248,6 +260,7 @@ mil novecentos e bolinha
 mil novecentos e guaraná com rolha
 misturar alhos com bugalhos
 mode quê
+modus tollens
 mofas com a pomba na balaia
 molear o garrão
 molhar o bico
@@ -280,6 +293,7 @@ no tempo do Ary Pistola
 no tempo dos afonsinhos
 noblesse oblige
 nobreza obriga
+non causae ut causae
 nos tempos afonsinos
 nota-bem
 não bater a bota com a perdigota
@@ -299,7 +313,9 @@ não ter nada com o peixe
 não ter senão a noite e o dia
 não ter tempo para se coçar
 não é morte de homem
+o barato sai caro
 o bicho pegar
+o crime não compensa
 o dinheiro não aceita desaforo
 o exemplo arrasta
 o hábito não faz o monge
@@ -317,6 +333,7 @@ o sujo falando do mal lavado
 o tiro sair pela culatra
 o último a rir é o que ri melhor
 olhar por cima do ombro
+olho por olho, dente por dente
 olho vivo e pé ligeiro
 onde Judas perdeu as botas
 onde a coruja dorme
@@ -389,6 +406,7 @@ perder a razão
 perder o pé de
 perder peso
 pessoa de má morte
+petitio principii
 pimenta no cu dos outros é refresco
 pimenta nos olhos dos outros é refresco
 pingar de sono
@@ -396,6 +414,7 @@ pirar na batatinha
 pisar em ovos
 pisar no tomate
 plantar bananeira
+plurium interrogationum
 ponto por ponto
 por amor de mim
 por artes de berliques e berloques
@@ -412,6 +431,8 @@ por tudo e por nada
 por um triz
 por via das dúvidas
 porra de
+post hoc
+post hoc ergo propter hoc
 pouco se lixar
 pra cada panela há uma tampa
 pregar o olho
@@ -445,6 +466,7 @@ pôr os pontos nos ii
 pôr pitafe a
 quae sunt caesaris, caesari
 quando o gato sai, os ratos fazem a festa
+quanti minoris
 quanto a mim
 que nem
 que é uma beleza
@@ -493,6 +515,14 @@ rapar de
 rebentar a castanha na boca a alguém
 rebolar no mato
 recuperar os sentidos
+reductio ad Castrum
+reductio ad Hitlerum
+reductio ad Leninum
+reductio ad Marxum
+reductio ad Maum
+reductio ad Nazium
+reductio ad Stalinum
+reductio ad absurdum
 reduzir à expressão mais simples
 ri melhor quem ri por último
 rir a bandeiras despregadas
@@ -553,6 +583,7 @@ sim e não
 sobre si
 sofrer tratos de polé
 sopas de cavalo cansado
+status quaestionis
 struggle for life
 sua milhagem pode variar
 subir pelas paredes

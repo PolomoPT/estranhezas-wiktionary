@@ -44,7 +44,6 @@ c
 c/
 ca
 cara a cara
-cerca de
 com
 como
 consoante
@@ -98,7 +97,6 @@ mais do que
 mais que
 menos
 n'
-na
 na frente de
 na sequência de
 nas mãos de

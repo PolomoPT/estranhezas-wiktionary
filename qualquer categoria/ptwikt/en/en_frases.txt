@@ -18,6 +18,7 @@ NMHO
 QED
 VSF
 a/c
+a Internet não perdoa
 a bem da verdade
 a conta, por favor
 a dar com pau
@@ -26,6 +27,7 @@ a fim de que
 a mil
 a mil pelo Brasil
 a noite é uma criança
+a par
 abram alas
 abre-te sésamo
 acho que sim
@@ -68,6 +70,7 @@ coisa e tal
 com amigos assim, quem precisa de inimigos
 com licença
 com o perdão da palavra
+com os copos
 com que cara
 com uma mão na frente e a outra atrás
 comassim
@@ -203,6 +206,7 @@ noves fora
 num passe de mágica
 nunca diga nunca
 nunca digas nunca
+nunca se sabe
 não brinca
 não custa nada
 não deu outra
@@ -356,10 +360,12 @@ vsf
 vtnc
 vá tomar no cu
 às armas
+é a vida
 é assim que a banda toca
 é bom que
 é mole
 é mole ou quer mais
+é o que é
 é proibido fumar
 é que
 último, mas não menos importante

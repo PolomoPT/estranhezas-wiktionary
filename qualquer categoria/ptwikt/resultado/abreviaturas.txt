@@ -21,7 +21,6 @@
 |ABC
 |ABIC
 |ABP
-|AC
 |ACEP
 |ACHE
 |ACIB
@@ -320,7 +319,6 @@
 |Copom
 |DAAA
 |DANFE
-|DAP
 |DASP
 |DATAPREV
 |DATASUS
@@ -373,7 +371,6 @@
 |E.S.D.E.
 |E.T.
 |E/S
-|EAD
 |EAM
 |EB
 |EBC
@@ -397,7 +394,6 @@
 |EMBRATUR
 |EMFA
 |EMP
-|ENEM
 |ENSE
 |EP
 |ERC
@@ -486,6 +482,7 @@
 |GPP
 |GQ
 |GRG
+|GSP
 |GTC
 |Gr
 |HBP
@@ -576,6 +573,7 @@
 |JO
 |JS
 |JSD
+|KSK
 |L
 |LAC
 |LBV
@@ -600,6 +598,7 @@
 |LPP
 |LRP
 |LSD
+|LTE
 |LU.CA
 |M
 |MAAC
@@ -702,7 +701,6 @@
 |PADDE
 |PAEF
 |PAF
-|PANC
 |PATRI
 |PBV
 |PCA
@@ -809,6 +807,7 @@
 |QFP
 |QNQ
 |QPS
+|QZP
 |R.O.
 |RAC
 |RAU
@@ -924,7 +923,6 @@
 |SUDAM
 |SUDENE
 |SUNAB
-|Saara
 |Sanscr
 |Senatran
 |TAA
@@ -953,7 +951,6 @@
 |TN
 |TNC
 |TNSC
-|TO
 |TPR
 |TRAg
 |TRC

@@ -1,4 +1,5 @@
 -a
+-able
 -acho
 -ada
 -ado
@@ -118,6 +119,7 @@
 -gráfico
 -ia
 -iano
+-ible
 -ice
 -icho
 -ico
@@ -155,6 +157,7 @@
 -logo
 -lândia
 -lógico
+-mania
 -megalia
 -mente
 -mento
@@ -169,6 +172,7 @@
 -nomia
 -o
 -o(a)
+-o-
 -oca
 -oco
 -oico
@@ -179,6 +183,7 @@
 -ona
 -onímia
 -opia
+-orexia
 -ose
 -oso
 -oto
@@ -223,6 +228,7 @@
 -ângulo
 -ão
 -ção
+-ésimo
 -éu
 -ência
 -ês
@@ -363,6 +369,7 @@ glico-
 greco-
 halo-
 hecto-
+helio-
 hemi-
 hetero-
 hexa-
@@ -376,6 +383,7 @@ homeo-
 homo-
 horti-
 icno-
+icono-
 ictio-
 im-
 in-
@@ -408,6 +416,7 @@ nict-
 nipo-
 oligo-
 omni-
+onco-
 onfalo-
 oni-
 onico-

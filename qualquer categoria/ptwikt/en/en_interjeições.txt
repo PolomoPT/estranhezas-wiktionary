@@ -163,6 +163,7 @@ capaz
 cara
 caraca
 caracas
+caracha
 carago
 carai
 caralho
@@ -190,6 +191,7 @@ com a breca
 como
 como tas
 comofas
+concho
 corsa
 coé
 credo
@@ -332,12 +334,14 @@ kkk
 kkkj
 krl
 ladrão
+laiá-laiá
 lasqueira
 lgc
 licença
 literal
 lol
 lá
+lá ele
 lógico
 m*rda
 macacos me mordam
@@ -464,6 +468,7 @@ pocotó
 pode crer
 pode pá
 pois sim
+pomba
 pombas
 ponto final
 por favor
@@ -481,6 +486,7 @@ pronto
 protesto
 prr
 pru
+pscio
 psit
 psiu
 pudera
@@ -534,6 +540,7 @@ santinho
 saravá
 saúde
 scrr
+se faz favor
 se fode
 sei
 seloko

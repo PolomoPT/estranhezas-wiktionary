@@ -100,6 +100,7 @@
 -gamia
 -gen-
 -geno
+-giro
 -grado
 -grafia
 -grafo
@@ -237,6 +238,7 @@ al-
 além-
 amb-
 ambi-
+an-
 andro-
 ante-
 anti-
@@ -375,6 +377,7 @@ oni-
 oniro-
 oro-
 orto-
+paleo-
 pan-
 para-
 patri-
@@ -395,7 +398,6 @@ porno-
 porri-
 porta-
 pre-
-pro
 pro-
 proto-
 pré-

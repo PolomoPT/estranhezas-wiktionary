@@ -248,7 +248,9 @@
 |granularidades
 |habilidades
 |habitabilidades
+|heliofobias
 |hereditariedades
+|heresiologias
 |heroicidades
 |hidrologias
 |higroscopicidades
@@ -261,6 +263,7 @@
 |hostilidades
 |humidades
 |humildades
+|iconologias
 |idades
 |idades da pedra
 |idades do bronze
@@ -369,6 +372,7 @@
 |maternidades
 |maturidades
 |mediunidades
+|meias-idades
 |mendacidades
 |mentalidades
 |mercadologias
@@ -540,6 +544,7 @@
 |transitividades
 |trindades
 |trivialidades
+|tropicalidades
 |ubiquidades
 |ubiqùidades
 |ubiqüidades
@@ -560,6 +565,7 @@
 |veleidades
 |velocidades
 |velocidades angulares
+|velocidades da luz
 |velocidades de escape
 |venalidades
 |veracidades

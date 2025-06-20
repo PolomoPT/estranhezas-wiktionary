@@ -39,8 +39,6 @@
 |nonde
 |o'er
 |pelaí
-|pola<qq:has gl>
-|polas
 |pr'um
 |prali
 |procê

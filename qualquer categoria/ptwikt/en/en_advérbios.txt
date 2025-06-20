@@ -28,6 +28,7 @@ a justo título
 a longo prazo
 a milhão
 a passo de caracol
+a penantes
 a plena luz do dia
 a ponto de
 a porta fechada
@@ -180,6 +181,7 @@ afu
 afàvelmente
 agamicamente
 agilmente
+aginha
 agitadamente
 agnaticamente
 agnosticamente
@@ -385,6 +387,8 @@ ao acaso
 ao ar livre
 ao aveso
 ao avesso
+ao calhas
+ao chou
 ao contrário
 ao deus-dará
 ao fim e ao cabo
@@ -572,6 +576,7 @@ bis
 bissemanalmente
 blz
 boemiamente
+bofé
 bonito
 boèmiamente
 boémiamente
@@ -761,6 +766,7 @@ cà
 cá
 câ
 cândidamente
+cêrca
 cõtudo
 d.C.
 da boca para fora
@@ -782,6 +788,7 @@ de bandeja
 de boa vontade
 de bom grado
 de borla
+de braços abertos
 de cabeça
 de cabeça para baixo
 de cabo a rabo
@@ -831,6 +838,7 @@ de onde em onde
 de papel passado
 de par em par
 de permeio
+de pernas para o ar
 de perto
 de ponta-cabeça
 de ponta cabeça
@@ -1298,6 +1306,7 @@ gradativamente
 gradualmente
 graficamente
 grafologicamente
+grafològicamente
 gramaticalmente
 grandemente
 grandiloquentemente
@@ -1444,6 +1453,7 @@ inglesmente
 ingènuamente
 ingénuamente
 ingênuamente
+inherentemente
 inicialmente
 inimaginavelmente
 ininterruptamente
@@ -2154,6 +2164,7 @@ segundo as más línguas
 seguramente
 seguro
 segũdo
+seica
 seja como for
 selectivamente
 seletivamente
@@ -2220,6 +2231,7 @@ sombriamente
 somente
 sonicamente
 sorrateiramente
+sosinhamente
 sossegadamente
 soteriologicamente
 sozinhamente
@@ -2260,6 +2272,7 @@ sério
 sò
 sòbriamente
 sòmente
+sòzinhamente
 sòzinho
 só
 só por cima do meu cadáver
@@ -2438,6 +2451,7 @@ zelosamente
 zonalmente
 zoologicamente
 à beira
+à bessa
 à beça
 à borla
 à canzana
@@ -2462,6 +2476,7 @@ zoologicamente
 à queima-roupa
 à risca
 à toa
+à velocidade da luz
 à venda
 à ventura
 à vista

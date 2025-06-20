@@ -24,7 +24,6 @@
 |adoidado
 |adoito<qq:has gl>
 |adonde
-|aginha<qq:has gl>
 |agás<qq:has gl>
 |alargadamente
 |aldemenos
@@ -95,7 +94,6 @@
 |boamente
 |bofá
 |bofás
-|bofé
 |breve
 |bão
 |cabalisticamente
@@ -366,6 +364,7 @@
 |parodicamente
 |passadamente
 |passeninho<qq:has gl>
+|passim
 |passo
 |passo-a-passo
 |pelaí
@@ -429,6 +428,7 @@
 |sub-repticiamente
 |subsidiariamente
 |substantivamente
+|supinamente
 |suso
 |sussa
 |sãmente
