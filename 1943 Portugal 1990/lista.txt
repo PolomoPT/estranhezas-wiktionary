@@ -2,6 +2,7 @@ Abril
 Agosto
 Dezembro
 Fevereiro
+Floreal
 Janeiro
 Julho
 Junho
@@ -37,6 +38,8 @@ actualização
 actualmente
 actuar
 actuação
+acupunctor
+acupunctura
 acção
 adjectivamente
 adjectivar
@@ -52,13 +55,16 @@ baptizar
 basilecto
 bijectivo
 bijecção
-bissectriz
 calefacção
 caçador-recolector
 caçadora-recolectora
 circunspecção
-co-adopção
+co-operação
+co-secante
+co-seno
+co-tangente
 coacção
+coarctar
 coleccionador
 coleccionar
 colectivamente
@@ -211,6 +217,7 @@ protector
 protectorado
 protecção
 putrefacção
+radiactivo
 radioactividade
 radioactivo
 rarefacção

@@ -84,11 +84,19 @@ finally:
 
 
 input_file_path = 'sem 1931\\lista.txt'
-output_file_path = 'sem 1931\\oxitonas.txt'
+output_file_path = 'sem 1931\\oxitonas_sem_marcacao.txt'
 
 with open(input_file_path, 'r', encoding='utf-8') as input_file, open(output_file_path, 'w', encoding='utf-8') as output_file:
     for line in input_file:
         match_exceções = re.search('(cú|nú)( |-)', line) or re.search('(cú|nú)$', line) or re.search('^(í|ú)$', line)
         match_busca = re.search('(?<![a|e|ei|o|u])(í|ú|ís|ús)$', line) or re.search('(?<![a|e|ei|o|u])(í|ú|ís|ús)( |-)', line)
         if match_busca and not match_exceções:
+            output_file.write("|"+line)
+
+output_file_path = 'sem 1931\\paroxitonas.txt'
+
+with open(input_file_path, 'r', encoding='utf-8') as input_file, open(output_file_path, 'w', encoding='utf-8') as output_file:
+    for line in input_file:
+        match_busca = re.search('(?<=[á|é|í|ó|ú]).*(i|u|is|us)$', line) or re.search('(?<=[á|é|í|ó|ú]).*(i|u|is|us)( |-)', line)
+        if match_busca:
             output_file.write("|"+line)

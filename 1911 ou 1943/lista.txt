@@ -12,6 +12,7 @@ Agosto
 Alcyone
 Alpheu
 Amaltheia
+Andarahy
 Andromeda
 Antichristo
 Antigo Egypto
@@ -66,7 +67,9 @@ Ethyopia
 Eurydice
 Extremadura
 Fevereiro
+Floreal
 Guahyba
+Hespanha
 Hygeia
 Hygia
 Hymeneo
@@ -84,13 +87,16 @@ Jethro
 Judah
 Julho
 Junho
+Macao
 Macedonia
 Maio
 Malachias
+Manaos
 Marathona
 Março
 Nabuchodonosor
 Nictheroy
+Nitheroy
 Novembro
 Occidente
 Odysseu
@@ -138,6 +144,7 @@ Theodoro
 Thessalia
 Thessália
 Thucydides
+Tupan
 Vienna
 Zephiro
 Zephyro
@@ -166,6 +173,7 @@ accionista
 acclarar
 accolher
 accommodar
+accompanhar
 accordar
 accreditar
 accumular
@@ -197,6 +205,8 @@ actualização
 actualmente
 actuar
 actuação
+acupunctor
+acupunctura
 acção
 adherir
 adhesão
@@ -245,6 +255,7 @@ analysta
 ancora
 annal
 annel
+anniquilar
 anno
 annual
 annualmente
@@ -300,9 +311,12 @@ attribuir
 attribuição
 attributo
 attrito
+auassú
 aucthoridade
 auctoridade
 augmentar
+authenticar
+authentico
 authoridade
 autodidacta
 autopsia
@@ -311,6 +325,7 @@ açoreano
 açucar
 bahia
 bahiano
+balla
 ballão
 baptismal
 baptismo
@@ -326,7 +341,6 @@ bibliotheca
 bibliothecário
 bijectivo
 bijecção
-bissectriz
 bocca
 brazileiro
 bromelia
@@ -360,6 +374,7 @@ cavalleiro
 cavallo
 caçador-recolector
 caçadora-recolectora
+cemiterio
 ceo
 cerimonia
 chamaleão
@@ -373,12 +388,20 @@ chimico
 chirurgião
 chirúrgico
 christão
+chronica
+chronicamente
 chrónica
+cincoenta
 circumstancia
 circunspecção
 ciumes
-co-adopção
+clitoris
+co-operação
+co-secante
+co-seno
+co-tangente
 coacção
+coarctar
 coccyx
 cohibir
 cohorte
@@ -390,6 +413,10 @@ colectivizar
 colectivização
 colector
 colecção
+collaborador
+collaborar
+collaborativo
+collaboração
 collar
 collarinho
 collecta
@@ -417,7 +444,6 @@ comquanto
 comsigo
 comtanto
 comtanto que
-concluhir
 condemnado
 condemnar
 condemnação
@@ -617,6 +643,7 @@ estenographar
 estereotypo
 esthetica
 estomachal
+estomago
 estrella
 estylo
 esóphago
@@ -684,6 +711,8 @@ gallo
 gazeo
 geraes
 geógrapho
+giboia
+giraffa
 gloria
 gotta
 gotteira
@@ -696,6 +725,7 @@ góthico
 hemorrhagia
 heroe
 heroina
+hespanhol
 historia
 hollandez
 hombro
@@ -759,6 +789,7 @@ injectividade
 injectivo
 injecção
 innato
+inoffensivo
 insecticida
 insecto
 insectologia
@@ -790,6 +821,7 @@ jacto
 janella
 juizo
 juncção
+kilojoule
 lagryma
 laryngite
 leccionar
@@ -845,10 +877,13 @@ monarcha
 monographia
 monophthongo
 musculo
+mussulmano
 myopia
 myosótis
 myrrha
 myrtillo
+mysterio
+mysterioso
 mytho
 n'aquella
 n'aquellas
@@ -865,6 +900,7 @@ naquelle
 naquelles
 naquillo
 neodymio
+nickel
 ninguem
 nocturnal
 nocturno
@@ -882,6 +918,13 @@ occidental
 occidente
 occupação
 odio
+offender
+offendido
+offensa
+offensiva
+offensivamente
+offensivo
+offensor
 offerecer
 official
 officina
@@ -901,10 +944,12 @@ optimização
 optimo
 ordinario
 orthographia
+osso semi-lunar
 outomno
 p'ra
 pae
 paiz
+panella
 panno
 parabens
 parochia
@@ -943,6 +988,7 @@ phimose
 phlegma
 phleugma
 phleuma
+phonologia
 phosphato
 photographar
 photographia
@@ -962,6 +1008,7 @@ praseodymio
 predilecto
 predilecção
 prelecção
+princeza
 principe
 principio
 privilegio
@@ -977,6 +1024,7 @@ projectar
 projecto
 projector
 projecção
+prometter
 prompto
 proposito
 proteccionismo
@@ -993,6 +1041,7 @@ pyra
 pyrilampo
 pythão
 quasi
+radiactivo
 radioactividade
 radioactivo
 rarefacção
@@ -1047,7 +1096,6 @@ scenario
 scenico
 scepticismo
 sceptico
-sceticismo
 schisto
 sciencia
 sciente
@@ -1070,10 +1118,16 @@ selectividade
 selectivo
 selecto
 selecção
+semi-deus
+semi-final
+semi-nu
 semi-recta
+serio
 sobre-salto
 sobrejectivo
 sobrejecção
+sobresahir
+sobresair
 sobresaltar
 sobresalto
 soccorrer
@@ -1094,6 +1148,7 @@ successo
 succumbir
 sufficiente
 suite
+superficie
 susceptivel
 syllogismo
 sylphide
@@ -1107,6 +1162,7 @@ sósinho
 sózinho
 tacticamente
 tambem
+taxi
 tecto
 teem
 theatro
@@ -1121,6 +1177,7 @@ thesouro
 theta
 thio
 thorax
+throno
 tinctura
 tiracollo
 tracheia
@@ -1128,16 +1185,19 @@ tractado
 tractor
 tracção
 traducção
+tragedia
 trahidor
 trahir
 trahira
 trahição
+trahyra
 trajecto
 tranquillamente
 tranquillidade
 tranquillizar
 tranquillo
 transacção
+transito
 traz
 tres
 tribu
@@ -1159,6 +1219,7 @@ vectorial
 veem
 vehemente
 vehementemente
+vicio
 villa
 vintem
 violencia

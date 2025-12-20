@@ -1,3 +1,4 @@
+|cirigüela
 |adeqüei
 |adeqüeis
 |adeqüemos
@@ -16,6 +17,13 @@
 |averígüe
 |averígüem
 |averígües
+|bigüei
+|bigüeis
+|bigüemos
+|bígüe
+|bígüem
+|bígües
+|cirigüelas
 |ensangüentada
 |ensangüentadas
 |ensangüentados

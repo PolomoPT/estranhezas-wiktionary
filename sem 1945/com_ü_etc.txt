@@ -1,3 +1,4 @@
+|cirigüela
 |ecolingüística
 |ecolingüístico
 |etnolingüística
@@ -29,6 +30,13 @@
 |averígüe
 |averígüem
 |averígües
+|bigüei
+|bigüeis
+|bigüemos
+|bígüe
+|bígüem
+|bígües
+|cirigüelas
 |ecolingüística
 |ecolingüísticas
 |ecolingüísticos

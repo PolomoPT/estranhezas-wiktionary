@@ -40,6 +40,7 @@
 |antigüidades
 |antologias
 |antropologias
+|anualidades
 |anuidades
 |anulabilidades
 |aplicabilidades
@@ -72,6 +73,7 @@
 |authoridades
 |autoridades
 |avaliabilidades
+|axiologias
 |balanços de probabilidades
 |banalidades
 |barbaridades
@@ -97,6 +99,7 @@
 |cavidades
 |celebridades
 |celeridades
+|cenofobias
 |ciclabilidades
 |cidades
 |cidades dormitório
@@ -196,6 +199,7 @@
 |eternidades
 |etimologias
 |etimologias populares
+|etiologias
 |etiopatologias
 |etymologias
 |eurofobias
@@ -218,6 +222,7 @@
 |fecundidades
 |felicidades
 |feminilidades
+|ferocidades
 |fertilidades
 |festividades
 |fidedignidades
@@ -256,6 +261,7 @@
 |higroscopicidades
 |hiperatividades
 |hipersensibilidades
+|hispanidades
 |hombridades
 |homofobias
 |honestidades
@@ -359,9 +365,11 @@
 |licenciosidades
 |linearidades
 |localidades
+|locomobilidades
 |longevidades
 |loquacidades
 |luminosidades
+|lusitanidades
 |magnanimidades
 |maioridades
 |malacologias
@@ -382,6 +390,7 @@
 |metrologias
 |microgravidades
 |microvilosidades
+|misofobias
 |mitologias
 |mocidades
 |modalidades
@@ -391,11 +400,14 @@
 |moralidades
 |morbidades
 |morbilidades
+|morfofonologias
 |morfologias
 |mortalidades
 |multiplicidades
 |municipalidades
 |nacionalidades
+|nanobiotecnologias
+|nanotecnologias
 |nasalidades
 |natalidades
 |naturalidades
@@ -403,7 +415,10 @@
 |necessidades
 |necrofobias
 |nefrotoxicidades
+|negatividades
+|neofobias
 |nescidades
+|neuroimunologias
 |neutralidades
 |normalidades
 |nosologias
@@ -424,12 +439,14 @@
 |ornitofobias
 |otorrinolaringologias
 |paleontologias
+|palinologias
 |pansexualidades
 |parentalidades
 |paridades
 |particularidades
 |passabilidades
 |passividades
+|paternidades
 |patologias
 |peculiaridades
 |penalidades
@@ -437,6 +454,7 @@
 |periculosidades
 |permeabilidades
 |perniciosidades
+|perpetuidades
 |perplexidades
 |personalidades
 |perversidades
@@ -448,6 +466,8 @@
 |polaridades
 |popularidades
 |porosidades
+|portugalidades
+|positividades
 |possibilidades
 |potencialidades
 |pouquidades
@@ -530,6 +550,7 @@
 |tecnologias
 |temporalidades
 |tenacidades
+|teratologias
 |tipicidades
 |tipologias
 |tonalidades
@@ -549,11 +570,13 @@
 |ubiqùidades
 |ubiqüidades
 |umidades
+|umidades relativas
 |unanimidades
 |unidades
 |unidades astronómicas
 |unidades astronômicas
 |unidades de medida
+|unidades habitacionais
 |unidades lógicas aritméticas
 |universalidades
 |universidades
@@ -568,9 +591,11 @@
 |velocidades da luz
 |velocidades de escape
 |venalidades
+|venereologias
 |veracidades
 |verdades
 |versatilidades
+|verticalidades
 |virilidades
 |viscosidades
 |vivacidades
