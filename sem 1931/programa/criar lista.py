@@ -22,8 +22,8 @@ connection = mariadb.connect(
 
 # Connect
 try:
+    # Get all Portuguese lemmas not in the category
     with connection.cursor(dictionary=True) as cursor:
-        # Get all Portuguese lemmas in the 1931 category
         sql = """
         SELECT DISTINCT page_title
         FROM page
@@ -43,11 +43,11 @@ try:
         results = cursor.fetchall()
         with open("sem 1931\\lista.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
+    # Get all Portuguese non-lemmas that do not link to pages in the category
     with connection.cursor(dictionary=True) as cursor:
-        # Get all Portuguese non-lemmas that do not link to pages in the 1931 category
         sql = """
         SELECT DISTINCT page_title
         FROM page
@@ -75,13 +75,17 @@ try:
         results = cursor.fetchall()
         with open("sem 1931\\lista.txt", "a", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
                 
 finally:
     connection.close()
 
+
+##
+## Palavras sem a categoria "pré-1931" que tenham acento agudo em oxítonas com i e u
+##
 
 input_file_path = 'sem 1931\\lista.txt'
 output_file_path = 'sem 1931\\oxitonas_sem_marcacao.txt'
@@ -92,6 +96,10 @@ with open(input_file_path, 'r', encoding='utf-8') as input_file, open(output_fil
         match_busca = re.search('(?<![a|e|ei|o|u])(í|ú|ís|ús)$', line) or re.search('(?<![a|e|ei|o|u])(í|ú|ís|ús)( |-)', line)
         if match_busca and not match_exceções:
             output_file.write("|"+line)
+
+##
+## Palavras paroxítonas que têm acento agudo e não teriam segundo a norma de 1931 (TODO: NÃO FUNCIONA)
+##
 
 output_file_path = 'sem 1931\\paroxitonas.txt'
 

@@ -22,7 +22,6 @@ connection = mariadb.connect(
 # Connect
 try:
     with connection.cursor(dictionary=True) as cursor:
-        # Get all Portuguese lemmas not in pre-1990 categories
         sql = """
         SELECT DISTINCT page_title
         FROM page
@@ -37,9 +36,13 @@ try:
         results = cursor.fetchall()
         with open("1943 Portugal 1990\\lista.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
                 
 finally:
     connection.close()
+
+##
+## PALAVRAS MARCADAS COMO PRÉ-1943 e PRÉ-1990
+##

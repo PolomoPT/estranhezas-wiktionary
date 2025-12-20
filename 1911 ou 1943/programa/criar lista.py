@@ -23,7 +23,6 @@ connection = mariadb.connect(
 # Connect
 try:
     with connection.cursor(dictionary=True) as cursor:
-        # Get all Portuguese lemmas not in pre-1990 categories
         sql = """
         SELECT DISTINCT page_title
         FROM page
@@ -36,18 +35,22 @@ try:
         results = cursor.fetchall()
         with open("1911 ou 1943\\lista.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
                 
 finally:
     connection.close()
 
+##
+## PRÉ-1911 COM ACENTO
+##
+
 input_file_path = '1911 ou 1943\\lista.txt'
 output_file_path = '1911 ou 1943\\com acento.txt'
 
 with open(input_file_path, 'r', encoding='utf-8') as input_file, open(output_file_path, 'w', encoding='utf-8') as output_file:
     for line in input_file:
-        match = re.search('â|á|à|ä|ê|é|è|ë|í|ì|ï|ô|ó|ò|ö|ú|ù|ü', line) ##diárese só por precaução
+        match = re.search('â|á|à|ä|ê|é|è|ë|í|ì|ï|ô|ó|ò|ö|ú|ù|ü', line) ##diérese só por precaução
         if match:
             output_file.write("|"+line)

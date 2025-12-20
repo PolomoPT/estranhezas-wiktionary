@@ -35,7 +35,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\abreviaturas.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -51,7 +51,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\adjetivos.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -67,7 +67,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\advérbios.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -83,7 +83,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\artigos.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -99,7 +99,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\conjunções.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -115,7 +115,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\contrações.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -131,7 +131,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\interjeições.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -147,7 +147,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\locuções.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -163,7 +163,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\morfemas.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -179,7 +179,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\numerais.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -195,7 +195,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\preposições.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -211,7 +211,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\pronomes.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -227,7 +227,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\substantivos.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -243,7 +243,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\verbos.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
@@ -259,7 +259,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\ptwikt\\pt\\portugalego.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
 finally:

@@ -22,8 +22,8 @@ connection = mariadb.connect(
 
 # Connect
 try:
+    # Get all Portuguese lemmas
     with connection.cursor(dictionary=True) as cursor:
-        # Get all Portuguese lemmas not in the Brazil pre-1990 category
         sql = """
         SELECT DISTINCT page_title
         FROM page
@@ -36,11 +36,12 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\lista.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
+
+    # Get all Portuguese non-lemmas
     with connection.cursor(dictionary=True) as cursor:
-        # Get all Portuguese non-lemmas that do not link to pages in the Brazil pre-1990 category
         sql = """
         SELECT DISTINCT page_title
         FROM page
@@ -53,7 +54,7 @@ try:
         results = cursor.fetchall()
         with open("qualquer categoria\\nonlemma.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
                 
@@ -64,7 +65,7 @@ lemma_file_path = 'qualquer categoria\\lista.txt'
 nonlemma_file_path = 'qualquer categoria\\nonlemma.txt'
 
 ##
-## CO e RE seguido de H
+## CO- e RE- seguido de H
 ##
 
 co_re_file_path = 'qualquer categoria\\listas diversas\\co_re.txt'

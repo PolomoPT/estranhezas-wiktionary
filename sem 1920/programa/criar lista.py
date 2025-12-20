@@ -23,7 +23,7 @@ connection = mariadb.connect(
 # Connect
 try:
     with connection.cursor(dictionary=True) as cursor:
-        # Get all Portuguese lemmas not in the pre-1920 category
+        # Get all Portuguese lemmas not in the category
         sql = """
         SELECT DISTINCT page_title
         FROM page
@@ -43,11 +43,11 @@ try:
         results = cursor.fetchall()
         with open("sem 1920\\lista.txt", "w", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
     with connection.cursor(dictionary=True) as cursor:
-        # Get all Portuguese non-lemmas that do not link to pages in the pre-1920 category
+        # Get all Portuguese non-lemmas that do not link to pages in the category
         sql = """
         SELECT DISTINCT page_title
         FROM page
@@ -75,12 +75,16 @@ try:
         results = cursor.fetchall()
         with open("sem 1920\\lista.txt", "a", encoding="utf-8") as file:
             for result in results:
-                page_title = result["page_title"].decode("utf-8")  # Decode bytes to string
+                page_title = result["page_title"].decode("utf-8")
                 page_title = page_title.replace("_", " ")
                 file.write(page_title + "\n")
                 
 finally:
     connection.close()
+
+##
+## Palavras sem a categoria "pré-1920" que usem acento grave para hiato ou qù gù
+##
 
 input_file_path = 'sem 1920\\lista.txt'
 ü_file_path = 'sem 1920\\com_ù_etc.txt'
@@ -92,6 +96,10 @@ with open(input_file_path, 'r', encoding='utf-8') as input_file, open(ü_file_pa
         if match_ì_ù or match_ù:
             output_file.write("|"+line)
 
+##
+## Palavras sem a categoria "pré-1920" que usem acento agudo para adverbios em -mente
+##
+
 mente_file_path = 'sem 1920\\com_mente.txt'
 
 with open(input_file_path, 'r', encoding='utf-8') as input_file, open(mente_file_path, 'w', encoding='utf-8') as output_file:
@@ -100,4 +108,4 @@ with open(input_file_path, 'r', encoding='utf-8') as input_file, open(mente_file
         if match:
             output_file.write("|"+line)
 
-##TODO: lista de palavras com ü que não tem com ù, lista de palavras com mente que não tem com agudo...
+##TODO: lista de palavras com ü que não tem forma com ù, lista de palavras com -mente e acento grave que não têm forma com agudo...
