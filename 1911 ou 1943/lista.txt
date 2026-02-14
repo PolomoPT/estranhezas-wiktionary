@@ -120,6 +120,7 @@ Phocida
 Phénix
 Phócida
 Piauhy
+Piumhy
 Plutarcho
 Polyhymnia
 Prometheu
@@ -141,6 +142,8 @@ Terpsichore
 Thaddeu
 Theobaldo
 Theodoro
+Theresina
+Therezina
 Thessalia
 Thessália
 Thucydides
@@ -205,8 +208,6 @@ actualização
 actualmente
 actuar
 actuação
-acupunctor
-acupunctura
 acção
 adherir
 adhesão
@@ -241,6 +242,7 @@ alliança
 alliviado
 allivio
 allucinação
+allusivo
 almario
 alpha
 alphabeto
@@ -256,6 +258,7 @@ ancora
 annal
 annel
 anniquilar
+anniversario
 anno
 annual
 annualmente
@@ -263,6 +266,7 @@ annuncio
 anteacto
 anthropophagia
 anthropophago
+anus
 apparecer
 apparente
 appellar
@@ -294,6 +298,7 @@ assucar
 assumpto
 assumpção
 assyriologia
+athleta
 atmosphera
 atmospherico
 atravez
@@ -336,11 +341,13 @@ basilecto
 bello
 bemaventurança
 beneficio
+bi-sectriz
 bibliophilia
 bibliotheca
 bibliothecário
 bijectivo
 bijecção
+bisectriz
 bocca
 brazileiro
 bromelia
@@ -401,7 +408,6 @@ co-secante
 co-seno
 co-tangente
 coacção
-coarctar
 coccyx
 cohibir
 cohorte
@@ -455,6 +461,7 @@ conjuncto
 conjuncção
 connectar
 connexão
+consciencia
 conteudo
 contracto
 contracção
@@ -486,6 +493,7 @@ cyprestal
 cysto
 céo
 cíthara
+côr-de-rosa
 d'ahi
 d'ali
 d'aquella
@@ -599,6 +607,7 @@ electrocutar
 electrodeposição
 electrofisiologia
 electromagneticamente
+electromagnetismo
 electromobilidade
 electromotor
 electronegatividade
@@ -760,6 +769,7 @@ inactividade
 inacção
 inclue
 inclues
+inconsciencia
 incorrectamente
 incorrecto
 indifferente
@@ -819,6 +829,7 @@ isomorphismo
 itinerario
 jacto
 janella
+juiza
 juizo
 juncção
 kilojoule
@@ -926,6 +937,8 @@ offensivamente
 offensivo
 offensor
 offerecer
+offerta
+offertar
 official
 officina
 officio
@@ -998,6 +1011,7 @@ phthisico
 physica
 pillar
 plenario
+policia
 pomo-de-Adão
 poncto
 ponctualidade
@@ -1219,6 +1233,7 @@ vectorial
 veem
 vehemente
 vehementemente
+vestuario
 vicio
 villa
 vintem

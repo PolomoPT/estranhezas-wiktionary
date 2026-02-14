@@ -1,4 +1,5 @@
 Alá akbar
+Boas Festas
 Deus te ouça
 Jesus
 Jesus Cristo
@@ -8,7 +9,7 @@ OK
 Ok
 PQP
 Virgem Maria
-a
+a/languages M to Z
 a casa caiu
 abaixo
 abracadabra
@@ -21,7 +22,6 @@ af
 afe
 aff
 affs
-afirmativo
 afs
 agh
 agora já foi
@@ -38,6 +38,7 @@ ai, meu canário
 ajuda
 ala
 alakazam
+alavantu
 alavantú
 aleluia
 allahu akbar
@@ -59,6 +60,7 @@ aqui d'el-rei
 ara
 argh
 arigatô
+arre
 arrego
 arriba
 arrivederci
@@ -66,6 +68,7 @@ assim
 assino embaixo
 ata
 atchim
+atá
 até
 até-logo
 até breve
@@ -95,6 +98,7 @@ bangue
 bap
 barbaridade
 baril
+bas tarde
 basta
 beleuza
 beleza
@@ -113,15 +117,23 @@ blhac
 blhec
 blz
 boa
+boa noite
+boa noute
 boa pergunta
 boa sorte
+boa tarde
 boas
+boas festas
+boas noites
+boas noutes
+boas tardes
 boceta
 bola pra frente
 bolas
 bom
 bom apetite
 bom dia
+bons dias
 bons sonhos
 bora
 bravo
@@ -167,10 +179,13 @@ caracha
 carago
 carai
 caralho
+caralhos me fodam
 caramba
+carambola
 caraças
 catapimba
 catapimbas
+caçamba
 certeza
 certo
 changê
@@ -203,6 +218,7 @@ cruzes
 crás
 créu
 cuata
+cucu
 cuidado
 currupaco
 cuti
@@ -211,6 +227,7 @@ céus
 cê que sabe
 cê é louco
 dane-se
+dasse
 de acordo
 de jeito nenhum
 de nada
@@ -241,6 +258,7 @@ eim
 eita
 eita, piula
 em guarda
+ena
 ent
 entendeu
 então
@@ -264,6 +282,8 @@ fap
 faz favor
 faz o L
 fds
+fechado
+fechou
 feito
 feliz aniversário
 fica com Deus
@@ -281,10 +301,12 @@ fosca-se
 fosga-se
 fudeu
 fui
+fum
 fónix
 gente
 gostosuras ou travessuras
 grande coisa
+gratiluz
 graças
 graças a Deus
 grácias
@@ -317,6 +339,7 @@ isso
 isso aí
 isto
 iéca
+iê
 iúpi
 judiação
 jura
@@ -348,6 +371,7 @@ macacos me mordam
 madeira
 magina
 mal aí
+man
 mano
 mas, né
 mds
@@ -376,7 +400,6 @@ namaste
 namastê
 nananinanão
 naõ
-negativo
 nem
 nem pensar
 nenhenhém
@@ -477,7 +500,6 @@ por gentileza
 por obséquio
 por que será
 porra
-positivo
 poxa
 poça
 pqp
@@ -510,6 +532,7 @@ pô
 quac
 qual é
 qualé
+que bicho te mordeu?
 que foi
 que isso
 que mané
@@ -669,10 +692,12 @@ xis
 xiu
 xuá
 xô
+yes
 zum
 zzz
 zás
 zé fini
+à vontade
 ámen
 âmen
 ânimo

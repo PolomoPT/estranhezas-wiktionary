@@ -85,6 +85,7 @@
 |bipolaridades
 |bondades
 |braquilogias
+|brevidades
 |brutalidades
 |caducidades
 |calamidades
@@ -107,6 +108,7 @@
 |citologias
 |claridades
 |combatividades
+|comicidades
 |communidades
 |comodidades
 |compatibilidades
@@ -250,6 +252,7 @@
 |gibosidades
 |governabilidades
 |grandes penalidades
+|grandiosidades
 |granularidades
 |habilidades
 |habitabilidades
@@ -315,9 +318,11 @@
 |inconstitucionalidades
 |incredulidades
 |indignidades
+|indispensabilidades
 |indisponibilidades
 |individualidades
 |indivisibilidades
+|inevitabilidades
 |infalibilidades
 |infelicidades
 |inferioridades
@@ -349,6 +354,7 @@
 |irresponsabilidades
 |irritabilidades
 |islamofobias
+|jocosidades
 |jovialidades
 |laicidades
 |latinidades
@@ -458,6 +464,7 @@
 |perplexidades
 |personalidades
 |perversidades
+|phonologias
 |piedades
 |piezeletricidades
 |piroforicidades
@@ -529,6 +536,7 @@
 |sociabilidades
 |sociedades
 |sociofobias
+|sodades
 |sofrologias
 |solubilidades
 |sonoridades

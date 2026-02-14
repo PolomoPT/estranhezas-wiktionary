@@ -5,6 +5,15 @@ cento
 cinco
 cincoenta
 cinquenta
+cinquenta e cinco
+cinquenta e dois
+cinquenta e nove
+cinquenta e oito
+cinquenta e quatro
+cinquenta e seis
+cinquenta e sete
+cinquenta e três
+cinquenta e um
 cinqùenta
 cinqüenta
 corenta
@@ -44,13 +53,32 @@ laque
 lequessá
 meia
 mil
+mil contra
 mil novecentos e bolinha
 mil novecentos e guaraná com rolha
 milhentos
 nove
 novecentos
 noventa
+noventa e cinco
+noventa e dois
+noventa e nove
+noventa e oito
+noventa e quatro
+noventa e seis
+noventa e sete
+noventa e três
+noventa e um
 oitenta
+oitenta e cinco
+oitenta e dois
+oitenta e nove
+oitenta e oito
+oitenta e quatro
+oitenta e seis
+oitenta e sete
+oitenta e três
+oitenta e um
 oito
 oitocentos
 onze
@@ -58,7 +86,11 @@ oyto
 quarenta
 quarenta e cinco
 quarenta e dois
+quarenta e nove
+quarenta e oito
 quarenta e quatro
+quarenta e seis
+quarenta e sete
 quarenta e três
 quarenta e um
 quarẽta
@@ -71,12 +103,31 @@ seis
 seiscentos
 seix
 sessenta
+sessenta e cinco
+sessenta e dois
+sessenta e nove
+sessenta e oito
+sessenta e quatro
+sessenta e seis
+sessenta e sete
+sessenta e três
+sessenta e um
 sete
 setecentos
 setenta
+setenta e cinco
+setenta e dois
+setenta e nove
+setenta e oito
+setenta e quatro
+setenta e seis
+setenta e sete
+setenta e três
+setenta e um
 seys
 treis
 tres
+treuze
 treze
 trezentos
 trinta

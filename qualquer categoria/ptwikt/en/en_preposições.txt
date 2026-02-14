@@ -1,5 +1,5 @@
 100
-a
+a/languages M to Z
 a cabo de
 a caminho de
 a despeito de
@@ -42,7 +42,6 @@ até que
 atê
 c
 c/
-ca
 cara a cara
 com
 como
@@ -109,6 +108,7 @@ para cima de
 para com
 pelas mãos de
 pelo bem de
+per
 pera
 perante
 perto de
@@ -154,3 +154,4 @@ vérsus
 à luz de
 às custas de
 às expensas de
+ę

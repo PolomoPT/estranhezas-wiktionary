@@ -28,7 +28,6 @@
 |abalorecer<qq:has gl>
 |abaloufar<qq:has gl>
 |abalsar
-|abaluartar
 |abananar
 |abandejar
 |abandoar
@@ -41,7 +40,6 @@
 |abarbelar
 |abarracar
 |abarrancar
-|abarregar
 |abarreirar
 |abarretar
 |abarruntar
@@ -134,6 +132,7 @@
 |aburilar
 |aburrinhar
 |abvolar
+|abysmar
 |acaboclar
 |acabramar
 |acachafundar
@@ -155,7 +154,6 @@
 |acajadar
 |acalcanhar
 |acalcar
-|acalorar
 |acamaradar
 |acambaiar
 |acambetar
@@ -178,7 +176,6 @@
 |acaramular
 |acarapinhar
 |acardumar
-|acarear
 |acaridar
 |acaroar<qq:has gl>
 |acarpetar
@@ -214,7 +211,6 @@
 |achavascar
 |achimpar
 |achinar
-|achincalhar
 |achinesar
 |achocalhar
 |acidar
@@ -230,7 +226,6 @@
 |acocar
 |acochambrar
 |acochar<qq:has gl>
-|acocorar
 |acogular
 |acoirelar
 |acoitadar
@@ -261,7 +256,6 @@
 |acucar
 |acuendar
 |aculear
-|aculturar
 |acunhar
 |acupuncturar
 |acurar
@@ -269,10 +263,11 @@
 |acurrar
 |acurvar
 |adamar
+|adegar
 |adejar
 |adensar
 |adicar
-|adimplir
+|adietar
 |adir
 |adivinhar chuva
 |adjurar
@@ -300,7 +295,6 @@
 |aferroar
 |aferrolhar
 |afervar
-|afervorar
 |aficar<qq:has gl>
 |aficionar
 |afidalgar
@@ -310,7 +304,6 @@
 |aflautar
 |afleimar
 |afocinhar
-|afofar
 |afoitar
 |afolhar
 |afordar
@@ -350,7 +343,6 @@
 |agricultar
 |agrisalhar
 |aguarelar
-|agudizar
 |aguentar mão
 |aguerrir
 |aguilhar
@@ -378,8 +370,8 @@
 |alanzoar
 |alapear<qq:has gl>
 |alassar<qq:has gl>
-|albardar
 |alborar<qq:has gl>
+|alborotar
 |albujar
 |alcachinar
 |alcachofrar
@@ -404,7 +396,6 @@
 |alfombrar
 |alforjar
 |algaliar
-|algaraviar
 |alimpar
 |alinhavar
 |almarear
@@ -440,6 +431,7 @@
 |amadurar
 |amalhar
 |amalhoar<qq:has gl>
+|amamotar
 |amancebar-se
 |amanezar
 |amangar
@@ -448,7 +440,6 @@
 |amarasmar
 |amarelecer
 |amarfanhar
-|amargurar
 |amaricar
 |amarizar
 |amariçar
@@ -535,6 +526,7 @@
 |anicar<qq:has gl>
 |anichar
 |aniilar
+|anilar
 |aninar
 |anisar
 |anonadar
@@ -597,6 +589,8 @@
 |apoular
 |apousentar
 |apouvigar<qq:has gl>
+|apparelhar
+|appostar
 |aprazar
 |apreijar<qq:has gl>
 |apreseirar
@@ -623,7 +617,6 @@
 |aranhar
 |ardilhar
 |arelar<qq:has gl>
-|arengar
 |argalhar<qq:has gl>
 |argamassar
 |argolar
@@ -632,6 +625,7 @@
 |aringar
 |aristocratizar
 |arjoar<qq:has gl>
+|armadilhar
 |armar o maior barraco
 |aromar
 |arpar
@@ -658,7 +652,6 @@
 |arreguichar
 |arreguilar
 |arreguiçar<qq:has gl>
-|arreitar
 |arreliar
 |arrelvar
 |arreminar-se
@@ -685,7 +678,6 @@
 |arrouçar
 |arroxar
 |arruaçar
-|arrudiar
 |arruelar
 |arrugar
 |arruçar
@@ -752,11 +744,11 @@
 |atonizar
 |atontar
 |atopar
-|atorar
 |atossicar
 |atoutinhar<qq:has gl>
 |atoxicar
 |atrafegar-se
+|atramar
 |atrancar
 |atrapar
 |atrecer
@@ -765,6 +757,7 @@
 |atricular
 |atrolhar
 |atronar
+|attender
 |attenuar
 |atuir
 |atulhar
@@ -773,6 +766,7 @@
 |aturrear
 |aturujar<qq:has gl>
 |auditar
+|auditorar
 |aurificar
 |aurir
 |ausentar-se
@@ -792,7 +786,6 @@
 |aveludar
 |avençar
 |avesulhar<qq:has gl>
-|avexar
 |avigorar
 |avinhar
 |aviscar<qq:has gl>
@@ -806,6 +799,7 @@
 |azabumbar
 |azagaiar
 |azamboar
+|azinhavrar
 |aziumar
 |azoar
 |azoeirar
@@ -849,11 +843,11 @@
 |balroar
 |bambalear
 |bambar
-|bambear
 |bambinar
 |bamboar
 |bamburrar
 |bancar o difícil
+|bandar
 |bandejar
 |bandir
 |banzar
@@ -863,6 +857,7 @@
 |bardar
 |barquejar
 |barranhar
+|barrer
 |barroar
 |barrotar
 |barrotear
@@ -870,13 +865,11 @@
 |barruçar<qq:has gl>
 |barulhar
 |batear
-|bater bolacha
 |bater com a cola na cerca
 |bater com a língua nos dentes
 |bater na mesma tecla
 |bater o olho
 |bater o queixo
-|bater perna
 |bater pratos
 |bater roupa
 |beber do próprio veneno
@@ -895,16 +888,13 @@
 |besantar
 |besbelhar<qq:has gl>
 |bestializar
-|bestificar
 |betonar
 |betumar
 |bexigar
 |bicicletar
-|biciclizar
 |bifar
 |bigodear
 |bilar
-|bilhardar
 |bilontrar
 |bimbalhar
 |binar
@@ -921,6 +911,7 @@
 |bizantinizar
 |blaterar
 |bocanhar
+|bocelar
 |bodejar
 |bofetear
 |boirar<qq:has gl>
@@ -976,11 +967,11 @@
 |bronquear
 |broslar
 |bruar<qq:has gl>
+|brunchar
 |brutalizar
 |bufonear
 |bugiar
 |buibilar
-|buildar
 |buir
 |bular
 |bulatar
@@ -1083,7 +1074,6 @@
 |canjonjar
 |cantar de galo
 |cantar pedra
-|caotizar
 |capengar
 |caprificar
 |capsular
@@ -1107,7 +1097,6 @@
 |casamatar
 |casar no padre
 |cassumbular
-|castelhanizar
 |castiçar
 |castrapear<qq:has gl>
 |castrapizar<qq:has gl>
@@ -1130,6 +1119,7 @@
 |ceannaich
 |cedilhar
 |ceivar<qq:has gl>
+|celebrizar
 |centuplicar
 |cercar galinha
 |cercilhar
@@ -1142,10 +1132,10 @@
 |chalrar
 |chalrear
 |chamar na chincha
-|chamar nomes
 |chamar pelo gregório
 |chamar à atenção
 |chanfalhar
+|chapiscar
 |chapiçar
 |chapuçar
 |chaquiçar
@@ -1200,10 +1190,8 @@
 |circunvencionar
 |circunver
 |cirrar
-|ciscar
 |ciumar
 |cladear
-|claudicar
 |clivar
 |co-administrar
 |coadministrar
@@ -1212,7 +1200,6 @@
 |cocar
 |cochar
 |cocoricar
-|codar
 |codear
 |codinhar
 |codirigir
@@ -1223,7 +1210,6 @@
 |coinar
 |coiquinhar
 |colar grau
-|colar o velcro
 |colheitar<qq:has gl>
 |colimar
 |colinear
@@ -1253,8 +1239,10 @@
 |commitar
 |compadrear
 |compaginar
+|comparticipar
 |compendiar
 |complanar
+|complazer
 |complete
 |complexificar
 |comportar-se como se
@@ -1280,11 +1268,15 @@
 |conivir
 |conjuminar
 |consciencializar
+|consecutir
 |consensar
 |consertado
+|consinar
+|consirar
 |consoar
 |consonar
 |constelar
+|contabilizar
 |contar vantagem
 |conteirar
 |contingenciar
@@ -1297,9 +1289,7 @@
 |conversar de homem para homem
 |convolar
 |convolver
-|copar
 |copidescar
-|corcovar
 |corcovear
 |cornetar
 |cornudar
@@ -1317,7 +1307,6 @@
 |cosmopolizar
 |costumizar
 |cotizar
-|counterar
 |coutar
 |couçar
 |coxinhar
@@ -1416,6 +1405,7 @@
 |dar de cara
 |dar de goleada
 |dar desconto
+|dar em
 |dar linha
 |dar linha na pipa
 |dar na balda
@@ -1470,6 +1460,7 @@
 |dar uma barrigada
 |dar uma cantada
 |dar uma foda
+|dar uma guaribada
 |dar uma manta
 |dar uma no cravo e outra na ferradura
 |dar uma secada
@@ -1490,12 +1481,13 @@
 |deboiçar
 |deborcar
 |debouçar
+|debrear
 |debruar
 |debulhar a sangue
 |decatar<qq:has gl>
 |deceinar
 |decemplicar
-|dechavar
+|decer
 |decimalizar
 |decimar
 |decorticar
@@ -1504,8 +1496,6 @@
 |decuplar
 |dedecorar
 |dedignar-se
-|dedo-durar
-|defasar
 |defaunar
 |deflegmar
 |defletir
@@ -1535,8 +1525,8 @@
 |delgaçar
 |delibar
 |delingar
-|delirar
 |delubar
+|demarrar
 |demasiar
 |demonizar
 |demostrar
@@ -1559,22 +1549,18 @@
 |desacolher
 |desacougar<qq:has gl>
 |desacoutar
-|desadornar
 |desagaloar
 |desagarrar
 |desajeitar
 |desajoujar
 |desajudar
-|desajustar
 |desalegrar
 |desaleitar
-|desalinhar
 |desamamentar
 |desamodorrar
 |desamoriar
 |desamparar a loja
 |desanexar
-|desapertar
 |desapor
 |desapossar
 |desapropriar
@@ -1604,15 +1590,18 @@
 |descantear
 |descapacitar-se
 |descapar
+|descapitalizar
 |descascar abacaxi
 |descascar um abacaxi
 |descaçar
 |descer do palco
 |descer o braço em
-|desclassificar
+|descomedir
+|descompilar
 |descomprometer
 |desconcentrar
 |desconvir
+|descorar
 |descordar
 |descoutar
 |descravizar
@@ -1622,19 +1611,17 @@
 |desdoirar
 |desdolarizar
 |deseducar
+|desemalhar
 |desembainhar
 |desembaçar
 |desembebedar
 |desembriagar
-|desempacotar
 |desempanar
 |desemparar
-|desempoeirar
 |desemprenhar
 |desenamorar
 |desenatar
 |desencabar
-|desencaixar
 |desencaixotar
 |desencapetar
 |desencher
@@ -1671,6 +1658,7 @@
 |desfolhar
 |desformar
 |desforçar
+|desfranzir
 |desgaleguizar<qq:has gl>
 |desgrampear
 |desgranar
@@ -1680,14 +1668,14 @@
 |desguarnecer
 |desierarquizar
 |desimportar
-|desinibir
+|desindexar
 |desinçar
-|deslanchar
 |deslargar
 |deslassar
 |deslaçar
 |desleigar
 |desleitar
+|deslembrar
 |deslumbrar
 |desluzir
 |desmalhar
@@ -1696,7 +1684,6 @@
 |desmunhecar
 |desnacionalizar
 |desnatar
-|desnaturalizar
 |desnaturar
 |desnegociar
 |desneixar
@@ -1718,6 +1705,7 @@
 |despreocupar
 |desprevenir
 |despropositar
+|despudorar
 |desquarar
 |desqueitar
 |desquerer
@@ -1749,7 +1737,6 @@
 |desverticalizar
 |desviscerar
 |desvitalizar
-|desviver
 |detiver
 |detratar
 |devagar se vai ao longe
@@ -1762,7 +1749,6 @@
 |diagramar
 |dicar
 |difluir
-|diluviar
 |discrepar
 |disformar
 |disgregar
@@ -1789,6 +1775,7 @@
 |dormir com os peixes
 |dormir no Senhor
 |dormir sobre o caso
+|doudejar
 |doutorar
 |draivar
 |ebulir
@@ -1804,7 +1791,6 @@
 |egualar
 |elar
 |electrolisar
-|eletrocutir
 |eliciar
 |eligir
 |elitizar
@@ -1840,7 +1826,6 @@
 |embolizar
 |embolorar
 |embolorecer
-|embolsar
 |embornecer
 |emborrachar
 |emborrear<qq:has gl>
@@ -1852,8 +1837,10 @@
 |embucetar
 |embugar
 |embuligar
+|emburacar
 |emburrar
 |embutigar
+|eminenciar
 |empaiolar
 |empalmar
 |empandorgar
@@ -1863,7 +1850,6 @@
 |empar
 |emparentar
 |empaupicar
-|empedrar
 |empelicar
 |empelouricar
 |empernar
@@ -1877,6 +1863,7 @@
 |empombar
 |emporcar
 |empossar
+|empostar
 |empoçar
 |empresar
 |emproar
@@ -1914,10 +1901,8 @@
 |encinhar
 |encirrar<qq:has gl>
 |encistar
-|encobertar
 |encodar
 |encoirar
-|encomiar
 |enconar
 |enconicar<qq:has gl>
 |encorar
@@ -1930,18 +1915,15 @@
 |encrostar
 |encruecer
 |encubar
-|encurralar
 |encurvar
 |endechar
 |endegar
 |endentar
 |endigar
-|endoudecer
 |endrominar
 |enfarar
 |enfastiar
 |enfeixar
-|enfermar
 |enfiar bufa no cordão
 |enfiar os pés pelas mãos
 |enfonchar<qq:has gl>
@@ -1967,7 +1949,6 @@
 |engonar
 |engonhar
 |engoniar
-|engordurar
 |engoumar<qq:has gl>
 |engradar
 |engrampar
@@ -1990,7 +1971,6 @@
 |ennobrecer
 |enodoar
 |enorgulhecer
-|enovelar
 |enquerir
 |enquistar
 |enquizilar
@@ -2008,7 +1988,6 @@
 |enroupar
 |ensalmar
 |ensamblar
-|ensandecer
 |ensanguinhar
 |ensilar
 |ensinar o padre-nosso ao vigário
@@ -2062,7 +2041,6 @@
 |enveredar
 |envergonhar o corpo
 |envidar
-|envidraçar
 |envilecer
 |envinagrar
 |enxabelhar
@@ -2076,12 +2054,10 @@
 |ençoufar<qq:has gl>
 |epidemiar
 |epilogar
-|equivaler
 |erar
 |eriçar
 |erriçar
 |ervar
-|esbaforir
 |esbagoar<qq:has gl>
 |esbandalhar
 |esbandeirar
@@ -2174,14 +2150,13 @@
 |esgaçar
 |esgoldrejar
 |esgorjar
+|esguardar
 |esguviar
 |esligar<qq:has gl>
 |esmaiar
 |esmechar
 |esmendrelhar<qq:has gl>
 |esmerihar
-|esmerilar
-|esmerilhar
 |esmerujar
 |esmichar
 |esmilhar
@@ -2219,6 +2194,7 @@
 |espessar
 |espevitar
 |espiar a fateixa
+|espingardear
 |espir<qq:has gl>
 |espitacar
 |espoldrar
@@ -2227,6 +2203,8 @@
 |esporrear
 |esporrir
 |espostejar
+|espragatar
+|espraiar
 |espreiar
 |espuir
 |esquincar
@@ -2281,7 +2259,6 @@
 |esterçar
 |estilingar
 |estinhar
-|estofar
 |estojar
 |estombalhar<qq:has gl>
 |estomentar
@@ -2299,6 +2276,7 @@
 |estrancilhar
 |estrancinhar
 |estrangalhar
+|estrangeirar
 |estrangeirizar
 |estransilhar
 |estrançar
@@ -2333,6 +2311,7 @@
 |exaustar
 |exautorar
 |excursionar
+|excusar
 |exemplar
 |exiguificar
 |exorar
@@ -2340,12 +2319,11 @@
 |exordiar
 |expender
 |experimentar do próprio veneno
-|expiar
 |expluir
 |exprimentar
 |exsolver
-|extrapolar
 |extremar
+|extroverter-se
 |fabular
 |fabulizar
 |fac-similar
@@ -2354,7 +2332,6 @@
 |fachendear<qq:has gl>
 |fadejar
 |falar abobrinha
-|falar grego
 |falar mais que o homem da cobra
 |falar o português claro
 |falcatruar
@@ -2384,7 +2361,6 @@
 |fazer cerimónia
 |fazer cerimônia
 |fazer como se
-|fazer corpo mole
 |fazer de gato sapato
 |fazer de gato-sapato
 |fazer dinheiro
@@ -2399,6 +2375,7 @@
 |fazer ovo
 |fazer picadinho
 |fazer pé de alferes
+|fazer questão de
 |fazer sinal
 |fazer sucesso
 |fazer um jeito
@@ -2450,6 +2427,7 @@
 |flautear
 |flavorizar
 |flectir
+|flirtar
 |florecer
 |fofar
 |foragir
@@ -2528,6 +2506,7 @@
 |frontear
 |fronteirar
 |frouxar
+|fructificar
 |frufrulhar
 |frufrutar
 |frulhar
@@ -2584,7 +2563,6 @@
 |ganhar corpo
 |ganizar
 |garimbar
-|garimpar
 |garrular
 |gasear
 |gastar o latim
@@ -2621,7 +2599,6 @@
 |gomar
 |gongorar
 |gorentar<qq:has gl>
-|gorfar
 |gorgolar
 |gosmar
 |gougar
@@ -2632,12 +2609,15 @@
 |gralhar
 |gralhear
 |graliar
+|gramaticar
+|grammaticar
 |grampar
 |granular
 |graxear
 |grelar
 |grichar
 |grolar<qq:has gl>
+|grupar
 |guarir
 |guarnir
 |guedelhar
@@ -2665,6 +2645,7 @@
 |hierarquizar
 |hilarizar
 |hiperligar
+|hipostasiar
 |hipotisar
 |hispanificar
 |hispar-se
@@ -2680,7 +2661,6 @@
 |homicidiar
 |homiliar
 |hominizar
-|homogenizar
 |honestar
 |honestizar
 |honorificar
@@ -2725,14 +2705,13 @@
 |impaludar
 |imparcializar
 |impassibilizar
-|impender
 |imperfeiçoar
 |imperializar
 |impersonalizar
 |impertinenciar
 |impeticar
+|impostar
 |imprar
-|inadimplir
 |incardinar
 |incender
 |incertar
@@ -2765,12 +2744,13 @@
 |internetar
 |interver
 |inticar
-|intrujar
+|introverter
 |inumar
+|invaginar
 |inventar a roda
 |invidar
-|invitar
 |involucrar
+|involuir
 |inçar
 |ir a Roma e não ver o papa
 |ir a pique
@@ -2782,12 +2762,10 @@
 |ir ao pau
 |ir ao pelo a
 |ir aos ares
-|ir aos pés
 |ir catar coquinho
 |ir de
 |ir de base
 |ir direto ao ponto
-|ir em cana
 |ir muito longe
 |ir no pelo
 |ir no pio
@@ -2828,7 +2806,6 @@
 |jarundar
 |jaspear
 |jeremiar
-|jiboiar
 |jobar
 |jogar dinheiro pela janela
 |jogar gasolina na fogueira
@@ -2886,6 +2863,7 @@
 |lastrar
 |latar<qq:has gl>
 |later
+|lateralizar
 |latricar<qq:has gl>
 |laurear
 |lazarar
@@ -2906,7 +2884,6 @@
 |lexicografar
 |libar
 |librar
-|licenciar
 |ligar o foda-se
 |lignificar
 |limpar o sebo
@@ -2971,7 +2948,6 @@
 |marcejar
 |marchetar
 |marear
-|marfar
 |maridar
 |marinhar
 |marmelar
@@ -3008,6 +2984,7 @@
 |messar
 |mestiçar
 |mestrear
+|metaforizar
 |metamorfosear
 |meter o loco
 |meter à bolina
@@ -3017,15 +2994,14 @@
 |mezinhar
 |michar
 |microchipar
-|mictar
 |migar
 |mimicar
 |miniaturar
-|miniaturizar
 |minorar
 |minuir
 |minusculizar
 |miquear
+|mitridatizar
 |mocar
 |mocosar
 |mofar
@@ -3040,7 +3016,6 @@
 |monarquiar
 |monger
 |monodiar
-|morangar
 |morcegar
 |morder mais do que consegue mastigar
 |morder o pó
@@ -3050,6 +3025,7 @@
 |mostrar a que veio
 |mostrar com quantos paus se faz uma canoa
 |mostrar com quantos paus se faz uma jangada
+|mostrar serviço
 |moçar
 |muchetar
 |muganhar
@@ -3068,6 +3044,7 @@
 |namorichar
 |namoriscar
 |narcisar
+|narcisar-se
 |narcotizar
 |nausear
 |navalhar
@@ -3097,7 +3074,6 @@
 |nicotizar
 |nigelar
 |nimbar
-|ninar
 |ninhar
 |niquelizar
 |nitratar
@@ -3113,6 +3089,7 @@
 |nomenclaturar
 |nortear
 |noscar
+|novar
 |novelar
 |nuançar
 |nuclear
@@ -3123,7 +3100,6 @@
 |oberar
 |obfirmar
 |objectivar
-|objurgar
 |oblatar
 |obligar
 |obliquar
@@ -3139,9 +3115,9 @@
 |obstringir
 |obumbrar
 |ocar
-|ofertar
 |oirar
 |onanizar
+|opacificar
 |orear
 |orelhar
 |orgulhecer
@@ -3150,6 +3126,7 @@
 |orçamentar
 |oscarizar
 |osmar<qq:has gl>
+|ossificar
 |ostomizar
 |ougar
 |ourejar
@@ -3157,6 +3134,7 @@
 |outonar
 |ouviar<qq:has gl>
 |pacer
+|pacientar
 |padrear
 |paganizar
 |pagar um mico
@@ -3188,12 +3166,11 @@
 |passar por cima
 |passar por cima de
 |passar roupa
+|passinhar
 |patear
 |patolar
 |pegar na cabra para outro mamar
-|peidar na farofa
 |peinar
-|peitar
 |pejar
 |pejorar
 |pendular
@@ -3213,6 +3190,7 @@
 |perolar
 |perorar
 |perquirir
+|pertinir
 |pespegar
 |pessoalizar
 |petar<qq:has gl>
@@ -3225,6 +3203,7 @@
 |pindongar
 |pinocar
 |pinoquear
+|pipar
 |pipilar
 |pirulitar-se
 |pisar na tábua
@@ -3237,9 +3216,7 @@
 |pleiar
 |pletorar
 |plicar
-|pluralizar
 |pobradar
-|pocar
 |podometrar
 |poetizar
 |poitar
@@ -3257,6 +3234,7 @@
 |praxar
 |preambular
 |preaquecer
+|prear
 |precatar
 |precificar
 |preconceber
@@ -3269,19 +3247,18 @@
 |prenomear
 |prenunciar
 |preponderar
+|presentar
 |presigar
 |presunho
 |pretejar
 |primar
 |produtizar
-|produz
 |proer<qq:has gl>
 |profanizar
 |profaçar
 |profundar
 |prolatar
 |promandar
-|prometter
 |propagandear
 |propalar
 |propelir
@@ -3299,6 +3276,7 @@
 |pungir
 |punçar
 |punçoar
+|purpurar
 |purpurear
 |puxar ferro
 |pôr-se a panos
@@ -3331,15 +3309,18 @@
 |quotizar
 |rabejar
 |rabunhar<qq:has gl>
+|racializar
 |racizar
 |radiar
 |radiodifundir
 |radioemitir
+|radiografar
 |raer
 |rafar
 |raivecer
 |rajar
 |ramar
+|rancificar
 |ranhar
 |rançar
 |rapinar
@@ -3347,11 +3328,12 @@
 |rasar
 |rasgar o capote
 |rasourar
+|readaptar
 |realentar
-|realizou
 |rebar
 |rebate
 |rebolcar
+|rebrotar
 |rebulhar
 |rebulir
 |rebunhar
@@ -3365,7 +3347,6 @@
 |recommendar
 |recongraçar
 |reconvir
-|recordou
 |recovar
 |recriminar
 |rectangularizar
@@ -3380,7 +3361,6 @@
 |reempregar
 |reencetar
 |reenrolar
-|reentrar
 |reestartar
 |reexaminar
 |refatorar
@@ -3400,19 +3380,20 @@
 |regravar
 |reificar
 |reimprimir
+|reincluir
+|reinserir
 |reintegrar
 |reinterpretar
 |rejurar
-|relampaguear
 |relampar
 |relancear
-|relativizar
-|relatou
 |relentar
 |relingar
+|relocar
 |reloucar<qq:has gl>
 |relumbrar
 |relumear<qq:has gl>
+|remaescer
 |remanchar
 |remar contra a maré
 |rememorar
@@ -3441,8 +3422,6 @@
 |repletar
 |repotrear
 |represar
-|repristinar
-|reproduzem
 |reprover
 |requeimar
 |rer
@@ -3454,6 +3433,7 @@
 |ressaber
 |ressequir
 |resservir
+|ressocializar
 |ressolhar
 |ressoprar
 |ressudar
@@ -3461,6 +3441,7 @@
 |restinguir
 |restolhar
 |retangularizar
+|retemperar
 |retesiar
 |reticenciar
 |retoiçar
@@ -3478,16 +3459,18 @@
 |reverdecer
 |reverencia
 |revirar os olhos
-|revolucionar
+|revolutear
 |rexurdir<qq:has gl>
 |rifar<qq:has gl>
 |riflar
+|rigidificar
 |rijar
 |rimasse
 |ringir
 |ritmar
 |riçar
 |robechar
+|roborar
 |robustecer
 |rocegar
 |rodas
@@ -3522,12 +3505,14 @@
 |sair pela tangente
 |salaiar<qq:has gl>
 |salar
+|saldar
 |salhar
 |saloucar<qq:has gl>
 |sambar em cima
 |sambar na cara
 |samblar
 |samear
+|samicar
 |samplar
 |samplear
 |sandar
@@ -3538,13 +3523,12 @@
 |sarjar
 |satanizar
 |satirizar
-|saçaricar
-|saçarico
 |schedular
+|seccionar
+|secretariar
 |sementar<qq:has gl>
 |semostrar
 |sencenar
-|sensibilizar
 |sentir-se um peixe fora d'água
 |ser bom de não prestar
 |ser da conta de
@@ -3560,6 +3544,7 @@
 |sevar
 |severizar
 |seviciar
+|sextavar
 |siar
 |sichar
 |siderar
@@ -3577,6 +3562,7 @@
 |sobreaguar
 |sobrelevar
 |sobrematar
+|sobremedicar
 |sobreolhar
 |sobrepensar
 |sobrerrestar
@@ -3586,8 +3572,8 @@
 |sobrevalorizar
 |soficar<qq:has gl>
 |sofrear
-|sofreu
 |soitar
+|sojugar
 |solenizar
 |solfejar
 |solhar
@@ -3603,7 +3589,6 @@
 |sotopor
 |soutar
 |sovalhar
-|streamar
 |subastar
 |subir à cabeça
 |substabelecer
@@ -3611,17 +3596,17 @@
 |subtitular
 |subutilizar
 |sudrar
+|sufragar
 |sujigar
-|sumonar
 |superintender
 |superlativar
 |superlotar
+|superpor
 |supliciar
 |supracitar
 |supre
 |supuser
 |surpreende
-|surpreendeu
 |surpresar
 |surribar
 |surucar
@@ -3715,14 +3700,13 @@
 |terrincar
 |terrorar
 |terrorizar
-|tesar
 |tesoirar
-|tesourar
 |testavilhar
 |testificar
 |testilhar
 |tetanizar
 |textualizar
+|theatralizar
 |tibar
 |tilar
 |tildar
@@ -3731,7 +3715,6 @@
 |timpanizar
 |tinchar
 |tingar
-|tingiu
 |tintas
 |tintinar
 |tipografar
@@ -3743,7 +3726,6 @@
 |tisnar
 |titerear
 |titubar
-|titubear
 |tocar safira
 |togar
 |toirear
@@ -3759,7 +3741,6 @@
 |tombolar
 |tonalizar
 |tonar
-|tonificar
 |tonsurar
 |tontear
 |topetar
@@ -3772,7 +3753,6 @@
 |torturas
 |torvelinhar
 |toscanejar
-|totalizar
 |totemizar
 |toxicar
 |traguer
@@ -3796,11 +3776,13 @@
 |traspassar
 |trastejar
 |tratorar
+|trautar
 |travejar
 |traçam
 |treler
 |tremelicar
 |tremilicar
+|trepanar
 |trepidar
 |trescalar
 |tresnoitar
@@ -3868,6 +3850,7 @@
 |variegar
 |vascolejar
 |vascularizar
+|vassalar
 |veicular
 |vencelhar<qq:has gl>
 |vender farinha
@@ -3895,6 +3878,7 @@
 |virilizar
 |viscar<qq:has gl>
 |vistoriar
+|vitalizar
 |vive
 |viçar
 |voejar

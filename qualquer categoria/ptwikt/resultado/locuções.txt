@@ -29,14 +29,55 @@
 |a verdade é reta
 |a vingança se come fria
 |a vingança é um prato que se come frio
+|ab intestato
 |abaixo de
+|aberratio delicti
+|aberratio ictus
+|aberratio personae
+|accessio temporis
+|accidentalia negotii
+|ad corpus
+|ad diem
+|ad judicia
+|ad mensuram
+|ad negotia
 |ad quem
+|affectio maritalis
+|affectio societatis
 |alegria de pobre dura pouco
+|aliena gratia
+|alieni juris
 |além de
 |além de toda a expressão
 |amigos, amigos, negócios à parte
 |amor de verão não sobe a serra
 |amor se paga com amor
+|animus abutendi
+|animus aemulandi
+|animus ambulandi
+|animus celandi
+|animus confitendi
+|animus contrahendi
+|animus custodiendi
+|animus damni vitandi
+|animus decipiendi
+|animus delinquendi
+|animus derelinquendi
+|animus detinendi
+|animus differendi
+|animus dolendi
+|animus domini
+|animus donandi
+|animus falsificandi
+|animus fraudandi
+|animus furandi
+|animus laedandi
+|animus manedi
+|animus nocendi
+|animus occidendi
+|animus possidendi
+|animus praevaricandi
+|animus simulandi
 |ao encontro de
 |ao endireito de
 |ao jeito de
@@ -49,8 +90,24 @@
 |argumentum ad Hitlerum
 |argumentum ad Nazium
 |argumentum ad antiquitatem
+|argumentum ad baculum
+|argumentum ad consequentiam
 |argumentum ad crumenam
+|argumentum ad ignorantiam
+|argumentum ad lapidem
+|argumentum ad lucrum
+|argumentum ad metum
+|argumentum ad misericordiam
+|argumentum ad nauseam
+|argumentum ad novitatem
+|argumentum ad pauper
+|argumentum ad populum
+|argumentum ad ridiculum
+|argumentum ad superbiam
+|argumentum ad temperantiam
+|argumentum ad verecundiam
 |argumentum magister dixit
+|arrastar pela lama
 |as aparências enganam
 |atirar barro à parede
 |atirar o barro à parede
@@ -62,6 +119,8 @@
 |beleza não se põe à mesa
 |bichim
 |bom de
+|botar a barba de molho
+|botar as barbas de molho
 |brinca, brincando
 |burro velho não toma ensino
 |cachorro mordido de cobra tem medo de linguiça
@@ -72,8 +131,11 @@
 |chega de
 |cheio de nove horas
 |chi lo sa
+|chorar como bezerro desmamado
 |chumbo trocado não dói
 |cobra que não anda, não engole sapo
+|colocar a barba de molho
+|colocar as barbas de molho
 |colocar o carro na frente dos bois
 |colocar os pingos nos is
 |com as calças arriadas
@@ -101,12 +163,15 @@
 |de quem pode-se depender
 |de rastos
 |de tanto
+|deitar a barba de molho
+|deitar as barbas de molho
 |deitar barro à parede
 |deitar o barro à parede
 |dinheiro na mão, calcinha no chão
 |diz-me com quem andas e dir-te-ei quem és
 |do bom e do melhor
 |dois bicudos não se beijam
+|dois erros não fazem um acerto
 |dura lex, sed lex
 |e alguma coisa
 |e batatinha
@@ -142,7 +207,6 @@
 |exatamente igual
 |f1
 |fada sensata
-|fallacia non causae ut causae
 |fama volat
 |ferver a galerão
 |filho feio não tem pai
@@ -160,10 +224,10 @@
 |há muitas maneiras de esfolar um gato
 |há sempre um dia após o outro
 |in se
-|inimigo público
 |inutilia truncat
 |isto é
 |jogar barro à parede
+|jogar na parede e chamar de lagartixa
 |jogar o barro à parede
 |lamber as botas
 |lamber embira
@@ -209,7 +273,6 @@
 |mandar bronca
 |mandar ver
 |marcar sob pressão
-|massa atômica
 |matar a charada
 |matar aula
 |matar cachorro a grito
@@ -233,6 +296,7 @@
 |meter os pés pelas mãos
 |meter-se consigo
 |meter-se no que é da sua conta
+|mico de circo
 |mil novecentos e bolinha
 |mil novecentos e guaraná com rolha
 |misturar alhos com bugalhos
@@ -410,10 +474,13 @@
 |puxar o saco
 |puxar um ronco
 |pássaros da mesma pena voam juntos
+|pão, pão, queijo, queijo
+|pôr a barba de molho
 |pôr a coberto
 |pôr a mão no fogo
 |pôr a nu
 |pôr alguém nos cornos da lua
+|pôr as barbas de molho
 |pôr em dia
 |pôr em xeque
 |pôr no gancho
@@ -446,8 +513,10 @@
 |queimar os miolos
 |queimar os últimos cartuchos
 |quem bem ama bem castiga
+|quem cabritos vende e cabras não tem, de algum lado lhe vêm
 |quem cala, consente
 |quem com ferro fere, com ferro será ferido
+|quem conta um conto aumenta um ponto
 |quem desdenha quer comprar
 |quem muito quer, nada tem
 |quem não pode com mandinga, não carrega patuá
@@ -488,7 +557,6 @@
 |rolar de rir
 |roncar o pau
 |sair bem na fotografia
-|sair da casinha
 |sair de linha
 |sair do ar
 |sair do armário
@@ -586,7 +654,6 @@
 |tomar chá de sumiço
 |tomar conta
 |tomar ferro
-|tomar no cu
 |tomar parte
 |tomar por
 |tomar tenência
@@ -624,12 +691,14 @@
 |valer a pena
 |varrer a sua testada
 |varrer do mapa
+|varrer para debaixo do tapete
 |velar armas
 |vender o peixe como comprar
 |vender o seu peixe
 |vender por garapa
 |ver a avó pela greta
 |ver com quantos paus se faz uma canoa
+|ver o cu à carriça
 |ver o que é bom para tosse
 |ver o que é bom pra tosse
 |ver o sol nascer quadrado

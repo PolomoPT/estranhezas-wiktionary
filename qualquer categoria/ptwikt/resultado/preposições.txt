@@ -1,3 +1,4 @@
+|a
 |a fim
 |a menos que
 |a par de
@@ -24,18 +25,19 @@
 |em conseqüência de
 |em direção a
 |em lugar de
+|em matéria de
 |em oposição a
 |em troca de
 |empós
 |escontra
 |mais
 |mediante
-|per
 |por amor de
 |por intermédio de
 |por mode
 |por mor de
 |prà
+|relativamente a
 |salvante
 |salvo
 |senão

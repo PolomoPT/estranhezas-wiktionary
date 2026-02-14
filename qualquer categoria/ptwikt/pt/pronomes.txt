@@ -24,16 +24,22 @@ algũa
 ambas
 ambes
 ambos
+aquel
 aquela
 aquelas
 aquele
 aqueles
+aquella
+aquellas
+aquelle
+aquelles
 aqueloutro
 aquessa
 aquesse
 aquesta
 aqueste
 aquesto
+aquillo
 aquilo
 as
 bulhufas
@@ -64,7 +70,12 @@ ele mesmo
 ele próprio
 eles
 elezinho
+ella
+ellas
+elle
+elles
 elu
+ende
 essa
 essas
 esse
@@ -93,7 +104,10 @@ m'
 me
 mecê
 menos
+meritíssima
+meritíssimas
 meritíssimo
+meritíssimos
 mesma
 mesmas
 mesme
@@ -101,6 +115,8 @@ mesmo
 meu
 meus
 mi
+mia
+mias
 mim
 minha
 minhas
@@ -127,6 +143,8 @@ nosso
 nossos
 nós
 o
+o mesmo
+o senhor
 ocê
 os
 ou

@@ -3,6 +3,7 @@
 ... sim, ... não
 100 por cento
 Att
+D+
 DC
 PF
 a.C.
@@ -21,6 +22,7 @@ a eito
 a esmo
 a ferro e fogo
 a fio
+a fortiori
 a fundo
 a granel
 a grosso modo
@@ -33,11 +35,13 @@ a plena luz do dia
 a ponto de
 a porta fechada
 a portas fechadas
+a posteriori
 a preço de banana
 a princípio
 a priori
 a pé
 a quantas anda
+a quo
 a rodo
 a saber
 a sangue frio
@@ -97,9 +101,11 @@ acidentalmente
 acidulamente
 acima
 acima de tudo
+acintosamente
 acolá
 aconselhavelmente
 acostumadamente
+acremente
 acrimoniosamente
 acriticamente
 acrobaticamente
@@ -171,6 +177,7 @@ afinal
 afinal de contas
 afirmadoramente
 afirmativamente
+afirmativo
 aflitamente
 aflitivamente
 afluentemente
@@ -383,8 +390,10 @@ antrorsamente
 anualmente
 anularmente
 anunciadamente
+aná
 ao acaso
 ao ar livre
+ao atá
 ao aveso
 ao avesso
 ao calhas
@@ -526,6 +535,7 @@ atrás das grades
 attractivamente
 atualmente
 atuarialmente
+atá
 atè
 até
 até a segunda ordem
@@ -533,6 +543,7 @@ até debaixo d'água
 até o cu fazer bico
 até que enfim
 atê
+audaciosamente
 audazmente
 audiovisualmente
 audivelmente
@@ -552,9 +563,12 @@ avonde
 avondo
 aynda
 azedamente
+azulmente
+aã
 aí
 bacteriologicamente
 bagarai
+baixa da égua
 banalmente
 basicamente
 bastante
@@ -574,6 +588,7 @@ biogeograficamente
 biologicamente
 bis
 bissemanalmente
+bizarramente
 blz
 boemiamente
 bofé
@@ -582,6 +597,7 @@ boèmiamente
 boémiamente
 boêmiamente
 brandamente
+bravamente
 braçalmente
 brevemente
 brilhantemente
@@ -604,6 +620,7 @@ canonicamente
 cansadamente
 caoticamente
 cara a cara
+caracteristicamente
 caramente
 caridosamente
 carinhosamente
@@ -626,6 +643,7 @@ cerca
 cerebralmente
 certamente
 certo
+chronicamente
 chus
 cientificamente
 cientìficamente
@@ -633,6 +651,7 @@ cineticamente
 cinicamente
 cirurgicamente
 civilmente
+clandestinamente
 claramente
 claro
 climatologicamente
@@ -688,6 +707,7 @@ comsigo
 comumente
 comummente
 comunicavelmente
+conceitualmente
 conceptualmente
 concetualmente
 concisamente
@@ -755,6 +775,11 @@ cruamente
 crucialmente
 cruelmente
 crás
+crìticamente
+críticamente
+crònicamente
+crónicamente
+crônicamente
 cuando
 cuidadosamente
 culposamente
@@ -768,6 +793,7 @@ câ
 cândidamente
 cêrca
 cõtudo
+d+
 d.C.
 da boca para fora
 da boca pra fora
@@ -810,6 +836,7 @@ de jeito
 de jeito algum
 de jeito maneira
 de lambuja
+de letra
 de maneira alguma
 de maneira nenhuma
 de mansinho
@@ -845,7 +872,6 @@ de ponta cabeça
 de pontacabeça
 de porta em porta
 de pouquinho em pouquinho
-de praxe
 de preferência
 de primeira
 de propósito
@@ -881,6 +907,7 @@ de viés
 de volta
 debaixo
 debilmente
+decentemente
 decerto
 decididamente
 declaradamente
@@ -899,6 +926,7 @@ demasiado
 democraticamente
 demonicamente
 demonstravelmente
+dende
 denovo
 dentro
 deontologicamente
@@ -952,6 +980,7 @@ deveras
 devidamente
 devotamente
 dia e noite
+diabolicamente
 diacronicamente
 diagonalmente
 dialogalmente
@@ -1033,6 +1062,7 @@ efetivamente
 effectivamente
 eficazmente
 egoistamente
+egoisticamente
 egualmente
 ei
 eis
@@ -1098,12 +1128,14 @@ em vão
 em última análise
 embaixo
 embora
+ementes
 emfim
 eminentemente
 emocionalmente
 empiricamente
 en passant
 encantadoramente
+encima
 endemicamente
 endotermicamente
 energeticamente
@@ -1119,6 +1151,7 @@ enraivecidamente
 ent
 entaõ
 entonces
+entre o cão e o lobo
 entre outros
 entre quatro paredes
 entrementes
@@ -1176,6 +1209,7 @@ etiologicamente
 etnograficamente
 etnologicamente
 etologicamente
+eufemisticamente
 eventualmente
 evidentemente
 ex.
@@ -1243,6 +1277,7 @@ fisiologicamente
 fixamente
 fluentemente
 focalmente
+fonemicamente
 foneticamente
 fonicamente
 fonologicamente
@@ -1281,6 +1316,7 @@ furiosamente
 furtivamente
 futilmente
 fàcilmente
+fácilmente
 fìsicamente
 gastronomicamente
 genealogicamente
@@ -1288,6 +1324,7 @@ genericamente
 generosamente
 geneticamente
 gentilmente
+genuinamente
 genèricamente
 geograficamente
 geologicamente
@@ -1315,8 +1352,10 @@ gratuitamente
 gravemente
 gravitacionalmente
 grosseiramente
+grosso modo
 grotescamente
 grátis
+habilidosamente
 habilmente
 habitualmente
 harmonicamente
@@ -1328,6 +1367,7 @@ heroicamente
 heròicamente
 hidraulicamente
 hidrologicamente
+hierarquicamente
 higienicamente
 hilariantemente
 hipoteticamente
@@ -1393,10 +1433,12 @@ in vitro
 inaceitavelmente
 inacreditavelmente
 inadequadamente
+inadvertidamente
 inapropriadamente
 inaudivelmente
 incalculavelmente
 incansavelmente
+incertamente
 incessantemente
 incidentalmente
 incidentemente
@@ -1417,9 +1459,11 @@ incorrectamente
 incorretamente
 incrivelmente
 inda
+indecentemente
 indefinidamente
 indelicadamente
 independentemente
+indeterminadamente
 indevidamente
 indiferentemente
 indirectamente
@@ -1428,6 +1472,7 @@ indiscretamente
 indiscutivelmente
 indistintamente
 individualmente
+indomitamente
 indubitavelmente
 industriosamente
 inegavelmente
@@ -1543,6 +1588,7 @@ lamentavelmente
 languidamente
 largamente
 lateralmente
+latitudinalmente
 lealmente
 legalmente
 legitimamente
@@ -1565,10 +1611,12 @@ liturgicamente
 livremente
 localmente
 logicamente
+logisticamente
 logo
 longamente
 longanimemente
 longe
+longitudinalmente
 longânimemente
 loucamente
 louvavelmente
@@ -1591,10 +1639,14 @@ mais tarde
 majestosamente
 majoritariamente
 mal
+mal-e-mal
 mal e mal
+mal e parcamente
 mal e porcamente
+malemal
 maliciosamente
 mamente
+mango
 manifestamente
 maningue
 mano a mano
@@ -1613,6 +1665,7 @@ mechanicamente
 mecânicamente
 medianamente
 medicamente
+medicinalmente
 mega
 meigamente
 meio
@@ -1636,11 +1689,13 @@ meteorologicamente
 meticulosamente
 metodicamente
 metodologicamente
+metricamente
 mexicanamente
 microbiologicamente
 milagrosamente
 milhões
 minuciosamente
+miraculosamente
 miserabilissimamente
 miseravelmente
 miserrimamente
@@ -1650,6 +1705,7 @@ mnemonicamente
 modalmente
 moderadamente
 modestamente
+momentaneamente
 monossilabicamente
 monotonamente
 monstruosamente
@@ -1662,6 +1718,7 @@ mt
 mui
 muito
 muito pelo contrário
+mulhermente
 mundialmente
 mundo afora
 musicalmente
@@ -1680,6 +1737,7 @@ na contramão
 na descontra
 na dúvida
 na estica
+na faixa
 na frente
 na hora
 na lata
@@ -1705,6 +1763,7 @@ naum
 naõ
 necessariamente
 negativamente
+negativo
 negligentemente
 nem
 nem a pau
@@ -1725,6 +1784,7 @@ nervosamente
 neurologicamente
 nim
 nimigalha
+nitidamente
 nn
 no Dia de São Nunca
 no Dia de São Nunca à tarde
@@ -1739,7 +1799,9 @@ no limiar de
 no mais
 no momento
 no máximo
+no papel
 no pelo
+no relento
 no susto
 no vamo ver
 no último
@@ -1759,6 +1821,8 @@ nunca
 nunca mais
 não
 não obstante
+nìtidamente
+nítidamente
 nẽ
 o quanto
 o quanto antes
@@ -1775,6 +1839,8 @@ obstinadamente
 obviamente
 ocasionalmente
 ocidentalmente
+ofensivamente
+offensivamente
 oficialmente
 oftalmologicamente
 ogano
@@ -1835,7 +1901,9 @@ para variar
 paradoxalmente
 paralelamente
 paranormalmente
+parcamente
 parcialmente
+pari passu
 participialmente
 particularmente
 passivamente
@@ -1919,6 +1987,7 @@ por extenso
 por favor
 por fim
 por goleada
+por hora
 por incrível que pareça
 por nada
 por omissão
@@ -1961,6 +2030,7 @@ portuguesmente
 porventura
 porém
 positivamente
+positivo
 possivelmente
 posteriormente
 postumamente
@@ -2020,14 +2090,21 @@ prontamente
 pronto
 proporcionalmente
 propositadamente
+propositalmente
 propriamente
 prov.
 provar por a mais b
 provavelmente
 provisoriamente
+provocadoramente
+provocantemente
+provocativamente
+provocatoriamente
 provàvelmente
 proximamente
 prudentemente
+pràticamente
+práticamente
 pré-natalmente
 pré-treino
 próximo
@@ -2035,6 +2112,7 @@ pseudocientificamente
 psicologicamente
 publicamente
 puramente
+pão, pão, queijo, queijo
 pés no chão
 qdo
 qnd
@@ -2045,10 +2123,12 @@ qualquer dia desses
 quando
 quando muito
 quando o inferno congelar
+quando se amarrava cachorro com linguiça
 quano
 quanto
 quanu
 quarta
+quarta-feira
 quase
 quasi
 quaze
@@ -2057,6 +2137,7 @@ que
 que fosse
 que nem
 que seja
+que só
 que tal
 que é de
 que é uma beleza
@@ -2066,6 +2147,7 @@ quem sabe
 questionavelmente
 quimicamente
 quinta
+quinta-feira
 quinzenalmente
 quiça
 quiçà
@@ -2117,11 +2199,13 @@ respeitosamente
 respetivamente
 responsavelmente
 resumidamente
+resumindo e concluindo
 riba
 ricamente
 ridiculamente
 rigidamente
 rigorosamente
+rispidamente
 ritmicamente
 ritualisticamente
 ritualmente
@@ -2134,6 +2218,10 @@ ruralmente
 ràpidamente
 rápido
 rés
+rìgidamente
+rìspidamente
+rígidamente
+ríspidamente
 s
 sabiamente
 sabidamente
@@ -2141,6 +2229,7 @@ sacrilegamente
 sagazmente
 salvo
 samicas
+sarcasticamente
 sardonicamente
 satiricamente
 satisfatoriamente
@@ -2194,6 +2283,7 @@ serenamente
 seriamente
 severamente
 sexta
+sexta-feira
 sexualmente
 sic
 significantemente
@@ -2206,9 +2296,11 @@ similarmente
 simpaticamente
 simples assim
 simplesmente
+simplificadamente
 simultaneamente
 sinceramente
 sincronicamente
+sine die
 sinfonicamente
 singelamente
 sinistramente
@@ -2425,6 +2517,7 @@ vez ou outra
 vez por outra
 via de regra
 vice-versa
+vice e versa
 vice versa
 vigilantemente
 vigorosamente
@@ -2450,6 +2543,7 @@ yá
 zelosamente
 zonalmente
 zoologicamente
+à-toa
 à beira
 à bessa
 à beça
@@ -2462,11 +2556,13 @@ zoologicamente
 à distância
 à força
 à frente
+à la carte
 à letra
 à mercê
 à moda antiga
 à mostra
 à noite
+à outrance
 à pai Adão
 à paisana
 à parte

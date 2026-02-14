@@ -13,6 +13,7 @@ abalar as estruturas
 abalienar
 abalizar
 abalroar
+abaluartar
 abanar
 abancar
 abandalhar
@@ -22,10 +23,12 @@ abandonar
 abar
 abarbar
 abarcar
+abarregar
 abarrotar
 abastar
 abastardar
 abastecer
+abastionar
 abater
 abaular
 abdicar
@@ -34,6 +37,7 @@ abeberar
 abençoar
 aberrar
 abespinhar
+abestar
 abicar
 abirritar
 abismar
@@ -81,7 +85,6 @@ abundar
 aburguesar
 abusar
 acabar
-acabar com
 acabar com o sofrimento
 acabar de
 acabar em pizza
@@ -89,12 +92,14 @@ acabrunhar
 academizar
 acalentar
 acalmar
+acalorar
 acamar
 acampar
 acanalar
 acanhar
 acaramelar
 acarditar
+acarear
 acariciar
 acarinhar
 acarretar
@@ -111,6 +116,7 @@ accionar
 acclarar
 accolher
 accommodar
+accompanhar
 accordar
 accreditar
 accumular
@@ -139,6 +145,7 @@ achar
 achar menos
 achatar
 achegar
+achincalhar
 achocolatar
 acicatar
 acidificar
@@ -153,6 +160,7 @@ aclimatar
 aclimatizar
 acobardar
 acobertar
+acocorar
 acoimar
 acolher
 acometer
@@ -187,6 +195,7 @@ actualizar
 actuar
 acuar
 acudir
+aculturar
 acuminar
 acumular
 acupunturar
@@ -207,6 +216,7 @@ adherir
 adiantar
 adiar
 adicionar
+adimplir
 aditar
 adivinhar
 adjectivar
@@ -243,6 +253,7 @@ advocar
 advogar
 aerar
 aerossolizar
+aerotransportar
 afadigar
 afagar
 afamar
@@ -257,6 +268,7 @@ afeiçoar
 afeminar
 aferir
 aferventar
+afervorar
 afetar
 affectar
 affirmar
@@ -274,6 +286,7 @@ afligir
 aflorar
 afluir
 afobar
+afofar
 afogar
 afogar as mágoas
 afogar o ganso
@@ -316,6 +329,7 @@ agradar
 agradar a gregos e troianos
 agradecer
 agrafar
+agrar
 agravar
 agredir
 agregar
@@ -323,6 +337,7 @@ agrilhoar
 agrupar
 aguar
 aguardar
+agudizar
 aguentar
 aguentar os cavalos
 aguilhoar
@@ -350,6 +365,7 @@ alarmar
 alastrar
 alaudar
 alavancar
+albardar
 albergar
 alcaguetar
 alcalinizar
@@ -376,8 +392,10 @@ alfabetizar
 alfaiatar
 alfinetar
 alforriar
+algaraviar
 algemar
 algoritmizar
+algraviar
 alhear
 aliançar
 aliar
@@ -448,6 +466,7 @@ amar
 amarelar
 amargar
 amargar banco
+amargurar
 amarrar
 amarrar o burro
 amarrotar
@@ -477,6 +496,7 @@ amochar
 amofinar
 amolar
 amolecer
+amolegar
 amolentar
 amolgar
 amontar
@@ -531,6 +551,7 @@ aninhar
 aniquilar
 anistiar
 aniversariar
+anniquilar
 anodizar
 anoitecer
 anojar
@@ -545,6 +566,7 @@ antecipar
 antedatar
 anteparar
 antepor
+anteriorizar
 antever
 antidotar
 antipatizar
@@ -626,6 +648,7 @@ apostrofar
 apoteosar
 apoteotizar
 apoucar
+apoupar
 apparecer
 appellar
 appellidar
@@ -679,6 +702,7 @@ arcar
 arder
 arear
 arejar
+arengar
 arfar
 argentar
 arguir
@@ -708,6 +732,7 @@ arrasar
 arrastar
 arrastar os pés
 arrastar pela lama
+arrastrar
 arrazoar
 arrear
 arrebanhar
@@ -727,6 +752,7 @@ arregaçar as mangas
 arregimentar
 arreglar
 arreigar
+arreitar
 arrematar
 arremedar
 arremessar
@@ -751,13 +777,17 @@ arrotar
 arrotar postas de pescada
 arroubar
 arroxear
+arrozar
 arruar
+arrudiar
 arrufar
 arruinar
 arrulhar
 arrumar
 arseniar
 arterializar
+artesoar
+artesonar
 articular
 artificializar
 artilhar
@@ -829,6 +859,7 @@ atenuar
 ater
 aterrar
 aterrissar
+aterrizar
 aterrorizar
 atesar
 atestar
@@ -844,6 +875,7 @@ atiçar
 atochar
 atolar
 atomizar
+atorar
 atordoar
 atormentar
 atracar
@@ -870,6 +902,7 @@ atturar
 atualizar
 atuar
 atucanar
+atufar
 atupir
 aturar
 aturdir
@@ -885,6 +918,7 @@ aureolar
 auscultar
 ausentar
 autenticar
+authenticar
 auto-sabotar
 autocompletar
 autografar
@@ -911,6 +945,8 @@ avergonhar
 averiguar
 avermelhar
 avessar
+avexar
+avezar
 aviadar
 aviar
 aviesar
@@ -948,6 +984,7 @@ babujar
 bacharelar
 badalar
 bafejar
+baforar
 bagunçar
 bailar
 bainhar
@@ -968,6 +1005,7 @@ balir
 balizar
 baloiçar
 balouçar
+bambear
 bambolear
 banalizar
 bancar
@@ -997,6 +1035,7 @@ bater a caçoleta
 bater as botas
 bater bem
 bater bola
+bater bolacha
 bater cara
 bater com as doze
 bater em retirada
@@ -1007,6 +1046,7 @@ bater o pé
 bater palma
 bater palmas
 bater papo
+bater perna
 bater ponto
 bater punheta
 bater um fio
@@ -1035,12 +1075,16 @@ benzer
 berrar
 berçar
 bestar
+bestificar
 besuntar
 betar
 bicar
 bichar
+biciclizar
 bicotar
 bifurcar
+biguar
+bilhardar
 bimbar
 binocular
 bioacumular
@@ -1073,6 +1117,7 @@ boiar
 boicotar
 bojar
 bolar
+bolchevizar
 bolear
 bolinar
 bolir
@@ -1097,6 +1142,7 @@ botar na conta do papa
 botar o pau na mesa
 botar pra foder
 botar pra quebrar
+botear
 botinar
 botocar
 boxar
@@ -1126,7 +1172,9 @@ brunir
 brustolar
 bruxulear
 bufar
+buffar
 bugar
+buildar
 bulhar
 bulir
 bumbar
@@ -1151,6 +1199,7 @@ cachir
 cacimbar
 cadastrar
 cadear
+cadelizar
 caducar
 cafeinar
 cafetinar
@@ -1176,8 +1225,10 @@ cair na estrada
 cair no sono
 cair o cu da bunda
 cair por terra
+caitar
 calafetar
 calandrar
+calangar
 calar
 calar a boca
 calcar
@@ -1214,6 +1265,7 @@ canonizar
 cansar
 cantar
 cantarolar
+caotizar
 capacitar
 capar
 capear
@@ -1254,6 +1306,9 @@ cascatear
 casquilhar
 casquinar
 cassar
+castar
+castelar
+castelhanizar
 castigar
 castrar
 catalisar
@@ -1308,7 +1363,9 @@ chagar
 chaleirar
 chamar
 chamar a atenção
+chamar ao pão, pão e ao queijo, queijo
 chamar atenção
+chamar nomes
 chamar o Hugo
 chamar o hugo
 chamejar
@@ -1404,6 +1461,7 @@ circunvagar
 cirilizar
 cisalhar
 cisar
+ciscar
 cismar
 cismar na morte da bezerra
 citar
@@ -1412,6 +1470,7 @@ clamar
 clarear
 clarificar
 classificar
+claudicar
 clicar
 climatizar
 clipar
@@ -1424,7 +1483,10 @@ coagir
 coagular
 coalescer
 coalhar
+coalizar
 coar
+coarctar
+coartar
 coassinar
 coaxar
 cobiçar
@@ -1433,6 +1495,7 @@ cobrir
 cocegar
 cochichar
 cochilar
+codar
 codificar
 coerir
 coevoluir
@@ -1451,6 +1514,8 @@ coitar
 colaborar
 colapsar
 colar
+colar o velcro
+colar velcro
 colear
 coleccionar
 colecionar
@@ -1465,6 +1530,7 @@ colhêr
 colidir
 coligar
 coligir
+collaborar
 collar
 collectar
 collocar
@@ -1517,6 +1583,8 @@ compadecer
 comparar
 comparecer
 compartilhar
+compartimentalizar
+compartimentar
 compartir
 compatibilizar
 compelir
@@ -1558,7 +1626,6 @@ concertar
 conciliar
 concitar
 conclamar
-concluhir
 concluir
 concluyr
 concordar
@@ -1568,6 +1635,7 @@ concretar
 concretizar
 concruir
 concruyr
+concubinar
 condecorar
 condemnar
 condenar
@@ -1690,10 +1758,13 @@ convulsionar
 cooperar
 cooptar
 coordenar
+copar
+coparticipar
 copiar
 copiar e colar
 copular
 corar
+corcovar
 coringar
 coriscar
 cornar
@@ -1724,12 +1795,14 @@ cotar
 cotejar
 cotovelar
 coucear
+counterar
 coxear
 cozer
 cozinhar
 cozinhar o galo
 coçar
 crackear
+craftar
 craquear
 crasear
 crashar
@@ -1846,9 +1919,7 @@ dar de ombros
 dar de si
 dar distância
 dar duro
-dar em
 dar em cima
-dar em cima de
 dar espetáculo
 dar fé
 dar graças
@@ -1875,6 +1946,7 @@ dar o nó
 dar o peido mestre
 dar o que falar
 dar o troco
+dar ouvidos
 dar para
 dar para o gasto
 dar para o torto
@@ -1890,6 +1962,7 @@ dar ruim
 dar satisfação
 dar satisfações
 dar sopa
+dar sopa ao azar
 dar tilt
 dar trela
 dar um bolo
@@ -1928,6 +2001,7 @@ debilitar
 debitar
 debochar
 debruçar
+debuffar
 debugar
 debulhar
 debutar
@@ -1940,6 +2014,7 @@ dececionar
 decender
 decepar
 decepcionar
+dechavar
 decidir
 decifrar
 declamar
@@ -1955,12 +2030,16 @@ decotar
 decrescer
 decretar
 decuplicar
+dedar
 dedetizar
 dedicar
 dedignar
 dedilhar
+dedo-durar
+dedodurar
 dedurar
 deduzir
+defasar
 defecar
 defender
 defenestrar
@@ -2011,6 +2090,7 @@ delimitar
 delinear
 delinquir
 delir
+delirar
 delongar
 deludir
 demandar
@@ -2065,6 +2145,7 @@ desabafar
 desabalroar
 desabar
 desabilitar
+desabitar
 desabituar
 desabonar
 desabotoar
@@ -2081,6 +2162,8 @@ desacordar
 desacostumar
 desacreditar
 desactivar
+desadornar
+desafetar
 desafiar
 desafinar
 desafivelar
@@ -2092,7 +2175,9 @@ desagravar
 desagregar
 desaguar
 desaguisar
+desajustar
 desalentar
+desalinhar
 desalojar
 desalvorar
 desamarrar
@@ -2108,6 +2193,7 @@ desapaixonar
 desaparafusar
 desaparecer
 desapegar
+desapertar
 desapontar
 desapparecer
 desaprender
@@ -2129,9 +2215,12 @@ desatar
 desatarraxar
 desatinar
 desativar
+desatolar
 desautorizar
 desavergonhar
 desavir
+desavisar
+desbanir
 desbaratar
 desbastar
 desbloquear
@@ -2147,6 +2236,7 @@ descambar
 descampar
 descansar
 descansar em paz
+descaracterizar
 descarar
 descarbonizar
 descarnar
@@ -2162,6 +2252,7 @@ descer
 descer a lenha
 descer o cacete
 descercar
+desclassificar
 descobrir
 descodificar
 descolar
@@ -2170,6 +2261,7 @@ descolorar
 descolorir
 descomentar
 descomer
+descompactar
 descomplicar
 descompor
 descomprimir
@@ -2178,6 +2270,7 @@ desconchavar
 descondenar
 desconectar
 desconfiar
+desconfigurar
 desconfortar
 descongelar
 desconhecer
@@ -2200,6 +2293,8 @@ desconvidar
 desconvocar
 descoroçoar
 descortinar
+descosturar
+descredenciar
 descrer
 descrever
 descriminalizar
@@ -2229,12 +2324,15 @@ desembrulhar
 desembuchar
 desemerdar
 desemmaranhar
+desempacotar
 desempatar
 desempenhar
 desemperrar
 desempoar
+desempoeirar
 desempregar
 desencadear
+desencaixar
 desencalhar
 desencaminhar
 desencanar
@@ -2258,6 +2356,7 @@ desenrolar
 desenroscar
 desenrugar
 desentender
+desentenebrecer
 desenterrar
 desentranhar
 desenvencilhar
@@ -2270,6 +2369,7 @@ desertificar
 desescalar
 desesperar
 desestabilizar
+desestimular
 desestruturar
 deseuropeizar
 desfalcar
@@ -2280,6 +2380,7 @@ desfazer
 desfechar
 desferir
 desfiar
+desfibrilar
 desfigurar
 desfilar
 desfivelar
@@ -2303,11 +2404,13 @@ designar
 desiludir
 desimpedir
 desincentivar
+desinchar
 desindustrializar
 desinfectar
 desinfetar
 desinflar
 desinformar
+desinibir
 desinscrever
 desinsetizar
 desinstalar
@@ -2318,6 +2421,8 @@ desionizar
 desistir
 desjejuar
 desjudicializar
+deslanar
+deslanchar
 deslastrar
 deslegitimar
 desleixar
@@ -2340,6 +2445,7 @@ desmembrar
 desmentir
 desmerecer
 desmielinizar
+desmilitarizar
 desminar
 desmistificar
 desmitificar
@@ -2349,6 +2455,8 @@ desmontar
 desmoralizar
 desmoronar
 desmotivar
+desnasalizar
+desnaturalizar
 desnazificar
 desnivelar
 desnortear
@@ -2386,9 +2494,11 @@ despir
 despirocar
 despistar
 desplantar
+desplugar
 despojar
 despolarizar
 despolitizar
+despoluir
 despontar
 desposar
 despovoar
@@ -2398,17 +2508,21 @@ despreguiçar
 desprender
 despresilhar
 despressurizar
+desprestigiar
 desprezar
 desprogramar
 desproporcionar
 desproteger
 desprover
 desqualificar
+desratizar
 desregulamentar
 desregular
+desregularizar
 desrespeitar
 dessalinizar
 desseguir
+dessensibilizar
 dessulfurar
 dessulfurizar
 destacar
@@ -2425,6 +2539,7 @@ destorcer
 destrancar
 destransicionar
 destratar
+destravar
 destrinchar
 destrinçar
 destrocar
@@ -2446,6 +2561,7 @@ desviar
 desvincular
 desvirginar
 desvirtuar
+desviver
 detalhar
 detectar
 deter
@@ -2491,6 +2607,7 @@ dilapidar
 dilatar
 diligenciar
 diluir
+diluviar
 dimensionar
 diminuir
 dinamitar
@@ -2602,6 +2719,7 @@ ecolocalizar
 economizar
 edificar
 editar
+editora
 educar
 efectivar
 efectuar
@@ -2624,6 +2742,7 @@ elencar
 eletrificar
 eletrizar
 eletrocutar
+eletrocutir
 eletrolisar
 elevar
 elevar-se às alturas
@@ -2652,6 +2771,7 @@ embarangar
 embaraçar
 embarcar
 embargar
+embarricar
 embasar
 embasbacar
 embater
@@ -2664,12 +2784,15 @@ embelezar
 embevecer
 embirrar
 embolar
+embolotar
+embolsar
 embonecar
 emborcar
 emboscar
 embotar
 embotelhar
 embranquecer
+embrasar
 embravecer
 embrenhar
 embriagar
@@ -2703,6 +2826,7 @@ empatar
 empavesar
 empecer
 empedernir
+empedrar
 empenar
 empenhar
 emperiquitar
@@ -2718,10 +2842,12 @@ emplacar
 empoar
 empobrecer
 empoderar
+empoeirar
 empolar
 empoleirar
 empolgar
 emporcalhar
+empratar
 empreender
 empregar
 emprehender
@@ -2788,14 +2914,17 @@ encher linguiça
 encher o pé
 encher o saco
 encher os pacovás
+encimar
 enclausurar
 enclavinhar
+encobertar
 encobrir
 encoleirar
 encolerizar
 encolher
 encolher os ombros
 encomendar
+encomiar
 encompridar
 encontrar
 encorajar
@@ -2806,10 +2935,13 @@ encortinar
 encostar
 encostar às boxes
 encravar
+encrencar
 encrespar
 encriptar
 encruzar
 encruzilhar
+encucar
+encurralar
 encurtar
 endemoniar
 endereçar
@@ -2819,6 +2951,7 @@ endividar
 endoidar
 endoidecer
 endossar
+endoudecer
 endoutrinar
 endurecer
 enegrecer
@@ -2835,6 +2968,7 @@ enfatizar
 enfear
 enfeitar
 enfeitiçar
+enfermar
 enferrujar
 enfezar
 enfiar
@@ -2846,6 +2980,7 @@ enformar
 enfraquecer
 enfrentar
 enfronhar
+enfumaçar
 enfurecer
 engabelar
 engaiolar
@@ -2874,6 +3009,7 @@ engolir sapo
 engolir seco
 engomar
 engordar
+engordurar
 engrandecer
 engravatar
 engravecer
@@ -2888,6 +3024,7 @@ enguiçar
 enjoar
 enlamear
 enlanguescer
+enlarguecer
 enlatar
 enlaçar
 enlear
@@ -2897,6 +3034,7 @@ enlutar
 enmendar
 enobrecer
 enojar
+enovelar
 enquadrar
 enrabar
 enraivecer
@@ -2918,12 +3056,14 @@ enrustir
 ensaboar
 ensacar
 ensaiar
+ensandecer
 ensanduichar
 ensanguentar
 ensangùentar
 ensangüentar
 ensebar
 ensejar
+ensementar
 ensimesmar
 ensinar
 ensinar a missa ao padre
@@ -2940,6 +3080,7 @@ entardecer
 entediar
 entelhar
 entender
+entenebrecer
 enternecer
 enterrar
 entesar
@@ -2973,6 +3114,7 @@ entrincheirar
 entristecer
 entronar
 entronizar
+entubar
 entumescer
 entupir
 entusiasmar
@@ -2986,6 +3128,9 @@ envergonhar
 envernizar
 envesgar
 enviar
+enviar pix
+enviar um pix
+envidraçar
 enviesar
 enviuvar
 envolver
@@ -3000,10 +3145,13 @@ enxugar
 enxugar gelo
 epitomizar
 equacionar
+equalizar
 equilibrar
 equipar
 equiparar
+equivaler
 equivocar
+eqüalizar
 erguer
 erguer o nariz
 erigir
@@ -3013,6 +3161,7 @@ erradicar
 errar
 eructar
 erupcionar
+esbaforir
 esbaldar
 esbanjar
 esbardalhar
@@ -3126,6 +3275,8 @@ esmagar
 esmaltar
 esmar
 esmerar
+esmerilar
+esmerilhar
 esmigalhar
 esmiuçar
 esmolar
@@ -3135,8 +3286,6 @@ esnobar
 espacear
 espairecer
 espalhar
-espalhar-se como um rastilho de pólvora
-espalhar-se como um relâmpago
 espalmar
 espanar
 espancar
@@ -3214,7 +3363,6 @@ estar-se nas tintas
 estar a fim
 estar cansado de saber
 estar careca de
-estar com
 estar com a cara boa
 estar com a pulga atrás da orelha
 estar com bicho-carpinteiro
@@ -3252,9 +3400,11 @@ estipular
 estirar
 estivar
 estocar
+estofar
 estoirar
 estolar
 estontear
+estoquear
 estornar
 estorricar
 estorvar
@@ -3286,6 +3436,7 @@ estrupidar
 estruturar
 estudar
 estufar
+estunar
 estupeficar
 estuprar
 esturrar
@@ -3340,6 +3491,7 @@ exegetar
 exemplificar
 exercer
 exercitar
+exfoliar
 exhalar
 exhaurir
 exhibir
@@ -3361,6 +3513,7 @@ expedir
 expelir
 experienciar
 experimentar
+expiar
 expirar
 explanar
 explicar
@@ -3398,9 +3551,12 @@ extraditar
 extrahir
 extrair
 extranhar
+extrapolar
 extratar
 extravasar
 extraviar
+extrudar
+extrudir
 exudar
 exultar
 exumar
@@ -3423,6 +3579,7 @@ falar
 falar com a porta
 falar com as paredes
 falar em línguas
+falar grego
 falar mais do que a boca
 falar mais que a boca
 falar mal
@@ -3453,6 +3610,7 @@ fardar
 farejar
 farfalhar
 farmar
+farpar
 fartar
 fascinar
 fatiar
@@ -3486,7 +3644,9 @@ fazer caso
 fazer cocó
 fazer cocô
 fazer companhia
+fazer corpo mole
 fazer correr muita tinta
+fazer cu-doce
 fazer cu doce
 fazer cócegas
 fazer das tripas coração
@@ -3514,19 +3674,24 @@ fazer o diabo
 fazer o pino
 fazer o possível e o impossível
 fazer ouvidos moucos
+fazer oó
 fazer parte
 fazer pender a balança
 fazer piscinas
+fazer pix
 fazer ponte
 fazer pouco
 fazer questão
+fazer renúncia
 fazer rodeios
 fazer sala
 fazer sentido
 fazer sexo
 fazer tempestade em copo d'água
+fazer tesourinha
 fazer tijolo
 fazer tipo
+fazer um pix
 fazer uma tempestade num copo de água
 fazer vista grossa
 fazer voar
@@ -3537,6 +3702,7 @@ fechar com chave de ouro
 fecundar
 feder
 federalizar
+feedar
 felicitar
 feltrar
 feminizar
@@ -3554,6 +3720,7 @@ festejar
 festoar
 festonar
 fiar
+fibrilar
 ficar
 ficar chato
 ficar com o pé atrás
@@ -3565,6 +3732,7 @@ ficar enfiado
 ficar esperto
 ficar no aguardo
 ficar para trás
+ficcionalizar
 fichar
 fidelizar
 figurar
@@ -3623,6 +3791,7 @@ folhar
 folhear
 foliar
 fomentar
+fonar
 forjar
 formalizar
 formar
@@ -3652,6 +3821,7 @@ fracassar
 fraccionar
 fracionar
 fracturar
+fragar
 fragmentar
 franjar
 franquear
@@ -3725,12 +3895,16 @@ gamar
 gangrenar
 ganhar
 ganhar a vida
+ganhar pix
+ganhar um pix
 ganir
+gankar
 ganzar
 garantir
 garavetar
 gargalhar
 gargarejar
+garimpar
 garoar
 garranchar
 garrir
@@ -3766,14 +3940,17 @@ germinar
 gestar
 gesticular
 gestualizar
+getulhar
 ginasticar
 gingar
 girar
+givar
 glissar
 globalizar
 gloriar
 glorificar
 glosar
+glotalizar
 goelar
 gofrar
 golear
@@ -3785,6 +3962,7 @@ gongar
 googlar
 googlear
 gorar
+gorfar
 gorgolejar
 gorjear
 gostar
@@ -3816,8 +3994,10 @@ gravitar
 gregar
 grelhar
 gretar
+griefar
 grifar
 grilar
+grindar
 gripar
 grisar
 gritar
@@ -3852,11 +4032,11 @@ hastear
 haurir
 haver
 haver de
+healar
 helenizar
 herborizar
 herdar
 hesitar
-hevar
 hibernar
 hibridar
 hibridizar
@@ -3877,6 +4057,7 @@ hitar
 homenagear
 homiziar
 homogeneizar
+homogenizar
 homologar
 honrar
 horrorizar
@@ -3891,6 +4072,7 @@ humidecer
 humidificar
 humildar
 humilhar
+hypar
 idealizar
 idear
 identificar
@@ -3919,6 +4101,7 @@ impactar
 impar
 impedir
 impelir
+impender
 imperar
 impermeabilizar
 impermear
@@ -3948,6 +4131,7 @@ imputar
 imundar
 imunizar
 inactivar
+inadimplir
 inalar
 inativar
 inaugurar
@@ -4034,6 +4218,7 @@ inquietar
 inquinar
 inquirir
 inscrever
+insculpir
 insensibilizar
 inserir
 insinar
@@ -4094,6 +4279,8 @@ introduzir
 introjectar
 introjetar
 intrometer
+intrujar
+intubar
 intuir
 intumescer
 inundar
@@ -4109,12 +4296,14 @@ inverter
 investigar
 investir
 inviabilizar
+invitar
 invocar
 iodar
 ionizar
 ir
 ir ao cu
 ir aos arames
+ir aos pés
 ir atrás
 ir com a cara
 ir com os porcos
@@ -4124,8 +4313,11 @@ ir de vela
 ir dessa para melhor
 ir desta para melhor
 ir direto ao assunto
+ir em cana
 ir em frente
 ir embora
+ir para a cama
+ir para a cama com
 ir para a cucuia
 ir para o brejo
 ir para o caralho
@@ -4135,6 +4327,7 @@ ir pra cucuia
 ir preso
 ir pro brejo
 ir pro caralho
+ir prò caralho
 ir pró caralho
 ir tomar banho
 ir à merda
@@ -4144,6 +4337,7 @@ irar
 iriar
 irisar
 irradiar
+irregularizar
 irrigar
 irritar
 irrogar
@@ -4154,6 +4348,7 @@ islamizar
 isolar
 italianizar
 italicizar
+itemizar
 iterar
 içar
 jactar
@@ -4166,6 +4361,7 @@ jardinar
 javrar
 jazer
 jejuar
+jiboiar
 joeirar
 jogar
 jogar a toalha
@@ -4214,13 +4410,16 @@ lactar
 ladear
 ladrar
 ladrilhar
+lagar
 lagartear
+lagostar
 laicizar
 lajear
 lamber
 lambujar
 lambuzar
 lambuçar
+lamelar
 lamentar
 laminar
 lampejar
@@ -4286,6 +4485,7 @@ levitar
 liar
 liberar
 libertar
+licenciar
 licitar
 lidar
 liderar
@@ -4334,6 +4534,7 @@ ludibriar
 ludificar
 lufar
 luitar
+lurar
 lustrar
 lutar
 luxar
@@ -4353,6 +4554,7 @@ madurar
 magnetizar
 magnificar
 magoar
+mainar
 mais-querer
 mais velho que o cagar em cócoras
 maisquerer
@@ -4378,6 +4580,8 @@ mandar
 mandar bala
 mandar brasa
 mandar embora
+mandar pix
+mandar um pix
 mandar ver
 mandingar
 manear
@@ -4397,9 +4601,11 @@ manufaturar
 manuscrever
 manusear
 manutenir
+mapear
 maquiar
 maquilhar
 maquinar
+marafar
 maragatear
 marar
 maratonar
@@ -4409,6 +4615,7 @@ marcar bobeira
 marcar touca
 marchar
 marejar
+marfar
 margar
 marginalizar
 marinar
@@ -4468,6 +4675,7 @@ melecar
 melgar
 melhorar
 melindrar
+melodramatizar
 memorar
 memoriar
 memorizar
@@ -4489,11 +4697,15 @@ mesmerizar
 mestrar
 metabolizar
 meter
+meter a colher
 meter a mão na massa
 meter fita
 meter o bedelho
+meter o louco
+meter o nariz
 meter o pau
 meter o pé
+meter o rabo entre as pernas
 meter os pés pelas mãos
 meter uma lança em África
 metilar
@@ -4504,12 +4716,15 @@ mexer com
 mexericar
 miar
 micar
+microfilmar
+mictar
 migrar
 mijar
 mijar contra o vento
 mijar fora do penico
 milhar
 militar
+militarizar
 mimar
 mimetizar
 mimir
@@ -4518,6 +4733,7 @@ mineralizar
 minerar
 mingar
 minguar
+miniaturizar
 minimizar
 ministrar
 minuciar
@@ -4548,6 +4764,8 @@ modificar
 modular
 moer
 moer o juízo
+mogar
+moirar
 moitar
 moldar
 moldurar
@@ -4564,6 +4782,7 @@ monopolizar
 monotongar
 montar
 moquear
+morangar
 morar
 morder
 mordiscar
@@ -4586,6 +4805,7 @@ mossegar
 mostrar
 motejar
 motivar
+mourar
 mourejar
 mover
 movimentar
@@ -4634,11 +4854,13 @@ negligenciar
 negociar
 negoçar
 neocolonizar
+nerdar
 nerfar
 neutralizar
 nevar
 nhanhar
 nidificar
+ninar
 niponizar
 niquelar
 nitrar
@@ -4664,7 +4886,6 @@ nunca dizer nunca
 nutar
 nutrir
 não dar ponto sem nó
-não deixar a peteca cair
 não estar com nada
 não ir com a cara de
 não meter prego nem estopa
@@ -4673,6 +4894,7 @@ não querer ver nem pintado
 não ser grande espingarda
 não ter onde cair morto
 não ter papas na língua
+não valer o que come
 não valer um centavo
 não ver a hora
 não é flor que se cheire
@@ -4684,6 +4906,7 @@ objectar
 objetar
 objetificar
 objetivar
+objurgar
 obliterar
 obrar
 obrigar
@@ -4712,7 +4935,10 @@ ofegar
 ofender
 oferecer
 oferendar
+ofertar
+offender
 offerecer
+offertar
 offrecer
 oficializar
 oficiar
@@ -4723,6 +4949,7 @@ oitavar
 olear
 olhar
 olhar antes de saltar
+oligopolizar
 olvidar
 ombrear
 omitir
@@ -4873,6 +5100,7 @@ patologizar
 patrocinar
 patrolar
 patrulhar
+paudurecer
 pausar
 pautar
 pavimentar
@@ -4889,16 +5117,20 @@ pedir a mão em casamento
 pedir arrego
 pedir penico
 pegar
+pegar a visão
 pegar ar
 pegar de empurrão
 pegar fogo
 pegar leve
 pegar no pé
 pegar o jeito
+pegar o touro pelos cornos
 pegar onda
 pegar para Cristo
 pegar por empurrão
 peidar
+peidar na farofa
+peitar
 pelar
 pelear
 peleijar
@@ -4946,6 +5178,7 @@ perfurar
 perguntar
 perigar
 perlavar
+perlustrar
 permanecer
 permear
 permitir
@@ -4979,6 +5212,7 @@ petiscar
 petrificar
 pezar
 photographar
+photoshopar
 piar
 picar
 picar a mula
@@ -5003,6 +5237,7 @@ pintalgar
 pintar
 pintar e bordar
 pintar o sete
+pinçar
 piorar
 pipetar
 pipocar
@@ -5031,12 +5266,15 @@ planear
 planejar
 planger
 planificar
+planilhar
 plantar
 plasmar
 plastificar
 pleitear
 plotar
 plugar
+pluralizar
+pocar
 podar
 poder
 poder com
@@ -5062,6 +5300,7 @@ por
 porejar
 porfiar
 pormenorizar
+porrar
 portar
 posar
 posicionar
@@ -5070,7 +5309,9 @@ possibilitar
 possuir
 postar
 postergar
+posteriorizar
 postular
+potar
 potencializar
 potenciar
 potocar
@@ -5082,10 +5323,12 @@ praguejar
 prantear
 praticar
 prazer
+prebendar
 precarizar
 precaver
 preceder
 preceituar
+precindir
 precintar
 precipitar
 precisar
@@ -5103,7 +5346,6 @@ preferir
 prefixar
 pregar
 pregar aos convertidos
-pregar um susto do caralho
 pregar uma peça
 preguntar
 prejudicar
@@ -5168,6 +5410,7 @@ proferir
 professar
 profetizar
 profissionalizar
+profitar
 prognosticar
 programar
 progredir
@@ -5180,6 +5423,7 @@ proliferar
 prolongar
 promanar
 prometer
+prometter
 promiscuir
 promover
 promulgar
@@ -5255,6 +5499,8 @@ pòr
 pôr
 pôr a mão na massa
 pôr chifres em
+pôr os pontos nos ii
+pôr os pontos nos is
 pôr os pés em polvorosa
 quadrangular
 quadrar
@@ -5327,6 +5573,7 @@ rarefazer
 rascar
 rascunhar
 rasgar
+rasgar a camisa
 raspar
 rastejar
 rastelar
@@ -5336,7 +5583,6 @@ rasurar
 ratar
 ratear
 ratificar
-re-jogar
 reabastecer
 reabilitar
 reabrir
@@ -5349,6 +5595,8 @@ reagir
 reagrupar
 reajustar
 realizar
+realizar pix
+realizar um pix
 realojar
 realçar
 reanalisar
@@ -5362,6 +5610,7 @@ reassegurar
 reassistir
 reatar
 reativar
+reavaliar
 reaver
 reavivar
 rebaixar
@@ -5386,6 +5635,8 @@ recapturar
 recarregar
 recear
 receber
+receber pix
+receber um pix
 receitar
 recentralizar
 recepcionar
@@ -5407,6 +5658,7 @@ recomeçar
 recompensar
 recompor
 reconciliar
+reconectar
 reconfirmar
 reconfortar
 reconhecer
@@ -5415,6 +5667,7 @@ reconsiderar
 reconstituir
 reconstruir
 recontar
+recontextualizar
 reconvocar
 recopiar
 recordar
@@ -5435,6 +5688,7 @@ recusar
 redar
 redarguir
 redatar
+redecorar
 redefinir
 redemocratizar
 redescobrir
@@ -5452,17 +5706,22 @@ redrar
 redundar
 reduzir
 reeleger
+reembalar
 reembolsar
 reencarnar
 reencher
 reencontrar
+reenforçar
+reentrar
 reenviar
+reerguer
 reescrever
 reestruturar
 refazer
 referenciar
 referendar
 referir
+refillar
 refinar
 refirir
 reflectir
@@ -5507,6 +5766,7 @@ reincidir
 reindustrializar
 reiniciar
 reinstalar
+reintroduzir
 reinventar
 reinventar a roda
 reiterar
@@ -5518,16 +5778,20 @@ rejubilar
 rejuntar
 rejuvenescer
 relacionar
+relampaguear
+relampear
 relampejar
 relançar
 relar
 relatar
+relativizar
 relaxar
 relegar
 relembrar
 reler
 relevar
 relexificar
+religar
 relinchar
 relutar
 reluzir
@@ -5536,6 +5800,7 @@ remandar
 remanejar
 remanescer
 remar
+remarcar
 remasterizar
 rematar
 remedar
@@ -5558,12 +5823,14 @@ render
 renderizar
 rendilhar
 renegar
+renegociar
 renhir
 renomear
 renovar
 rentabilizar
 rentar
 rentear
+renuir
 renumerar
 renunciar
 reocorrer
@@ -5571,6 +5838,7 @@ reocupar
 reordenar
 reorganizar
 reoxidar
+repairar
 reparar
 repartir
 repassar
@@ -5587,6 +5855,7 @@ repor
 reportar
 repostar
 repousar
+repovoar
 repreender
 reprehender
 representar
@@ -5594,6 +5863,7 @@ reprimendar
 reprimir
 repriorizar
 reprisar
+repristinar
 reprocessar
 reprochar
 reproduzir
@@ -5613,6 +5883,7 @@ requisitar
 resbalar
 rescaldar
 rescindir
+rescrever
 resenhar
 reservar
 resetar
@@ -5627,6 +5898,7 @@ resingar
 resistir
 resmungar
 resolver
+respawnar
 respeitar
 respigar
 respingar
@@ -5650,6 +5922,7 @@ ressurgir
 ressuscitar
 restabelecer
 restar
+restartar
 restaurar
 restituir
 restringir
@@ -5673,6 +5946,7 @@ retractar
 retrahir
 retrair
 retrancar
+retransicionar
 retratar
 retribuir
 retroceder
@@ -5699,6 +5973,7 @@ revitalizar
 reviver
 revogar
 revoltar
+revolucionar
 revolver
 rezar
 rezingar
@@ -5727,6 +6002,7 @@ roer
 rogar
 rojar
 rolar
+rolezar
 romanizar
 romper
 roncar
@@ -5749,6 +6025,7 @@ ruir
 rumar
 rumiar
 ruminar
+runar
 russificar
 sabadar
 sabatinar
@@ -5799,6 +6076,7 @@ sambar
 sanar
 sancionar
 sanduichar
+sanfonar
 sangrar
 sanscritizar
 santificar
@@ -5807,6 +6085,7 @@ sapecar
 saponificar
 saquear
 saracotear
+saracutiar
 saraivar
 sarar
 sarrafar
@@ -5816,6 +6095,9 @@ satisfazer
 saturar
 saudar
 sayr
+saçaricar
+scanear
+scanearizar
 scintilar
 scintillar
 secar
@@ -5848,6 +6130,7 @@ semear
 semelhar
 semicerrar
 sengar
+sensibilizar
 sensualizar
 sentar
 sentenciar
@@ -5874,11 +6157,13 @@ serenar
 seriar
 serigaitar
 serpentear
+serralhar
 serrar
 serrotar
 servir
 servir como uma luva
 sestear
+setar
 sexar
 sextar
 sexualizar
@@ -5897,6 +6182,7 @@ sincopar
 sincretizar
 sincronizar
 singrar
+sinonimizar
 sinterizar
 sintetizar
 sintonizar
@@ -5915,10 +6201,12 @@ sobraçar
 sobre-estimar
 sobreaquecer
 sobrecarregar
+sobreestimar
 sobrepassar
 sobrepor
 sobrepujar
 sobrerrepresentar
+sobresahir
 sobresair
 sobresaltar
 sobressair
@@ -5976,6 +6264,7 @@ sorver
 sospeitar
 sospeytar
 sossegar
+sossegar o facho
 sotaquear
 soterrar
 sovar
@@ -5987,6 +6276,7 @@ standardizar
 star
 startar
 sticar
+streamar
 stressar
 studar
 suar
@@ -6033,6 +6323,7 @@ sujeitar
 sulcar
 sumariar
 sumir
+sumonar
 sumular
 superar
 superestimar
@@ -6132,6 +6423,7 @@ tentar
 tentar a sorte
 teorizar
 ter
+ter a mania
 ter a ver
 ter bicho-carpinteiro
 ter como
@@ -6153,6 +6445,9 @@ terminar em pizza
 terraformar
 terrar
 terçar
+tesar
+teso
+tesourar
 testar
 testemunhar
 texturizar
@@ -6190,6 +6485,7 @@ tiritar
 tironear
 tirotear
 titilar
+titubear
 titular
 toar
 tocaiar
@@ -6198,6 +6494,7 @@ tocar no assunto
 tocar punheta
 tocar à punheta
 tochar
+tokenizar
 tolerar
 tolher
 tomar
@@ -6214,6 +6511,7 @@ tomar parte
 tomar partido
 tomar uma
 tombar
+tonificar
 topar
 torar
 torcer
@@ -6222,13 +6520,16 @@ tornar
 tornear
 torpedear
 torrar
+torresmar
 torturar
 tosar
 tosquiar
 tossir
 tostar
+totalizar
 tourear
 trabalhar
+trackear
 tractar
 traduzir
 trafegar
@@ -6278,11 +6579,13 @@ transumar
 transvasar
 trançar
 trapacear
+trapar
 traquear
 traquejar
 trasfegar
 trasladar
 tratar
+traumatizar
 trautear
 travar
 travessar
@@ -6338,6 +6641,7 @@ trolar
 trollar
 trombar
 trombetear
+tronchar
 tropar
 tropear
 tropeçar
@@ -6366,10 +6670,12 @@ tutelar
 tutorar
 tweetar
 twittar
+txopelar
 têr
 uberizar
 ufanar
 uivar
+ultar
 ultimar
 ultrajar
 ultrapassar
@@ -6385,6 +6691,7 @@ unhar
 unificar
 uniformizar
 unir
+unir o útil ao agradável
 universalizar
 untar
 untar as mãos a alguém
@@ -6441,6 +6748,7 @@ vaziar
 vedar
 vegetar
 velar
+velarizar
 velejar
 vellejar
 vencer
@@ -6479,6 +6787,7 @@ vestir a camisa
 vestir o paletó de madeira
 vetar
 vexar
+vezar
 viabilizar
 viajar
 viajar na maionese
@@ -6546,13 +6855,14 @@ vozear
 vulcanizar
 vulgarizar
 vulnerar
+wardar
 webnamorar
 wikificar
-workar
 xavecar
 xeretar
 xerocar
 xingar
+xisnovar
 xitar
 xonar
 xotar
@@ -6581,3 +6891,4 @@ zumbir
 zunir
 zurrar
 zurzir
+🦞

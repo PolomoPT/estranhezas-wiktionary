@@ -72,7 +72,9 @@ décimo
 décimo primeiro
 décimo segundo
 décuplo
+dúplice
 dúzia
+enésimo
 googol
 googolplex
 mil
@@ -116,6 +118,7 @@ octingêntuplo
 octodécuplo
 octogésimo
 octogíntuplo
+octúplice
 oitavo
 oitenta
 oitenta e cinco
@@ -139,6 +142,7 @@ quadragíntuplo
 quadrilhão
 quadringentésimo
 quadringêntuplo
+quadrúplice
 quarenta
 quarenta e cinco
 quarenta e dois
@@ -169,6 +173,7 @@ quinquagíntuplo
 quinta
 quintilhão
 quinto
+quintúplice
 quinze
 quádruplo
 quíntuplo
@@ -183,6 +188,7 @@ septendécuplo
 septilhão
 septuagésimo
 septuagíntuplo
+septúplice
 sessenta
 sessenta e cinco
 sessenta e dois
@@ -221,6 +227,7 @@ sexcêntuplo
 sexta
 sextilhão
 sexto
+sextúplice
 sétima
 sétimas
 sétimo

@@ -77,6 +77,7 @@ balalão
 banzai
 baralho
 barbaridade
+bas tarde
 basta
 batata
 bau-bau
@@ -86,13 +87,16 @@ beleza
 belê
 bem-vindes
 bem-vindo
+bem feito
 bem haja
 benza Deus
 bença
+bestial
 bingo
 bleh
 blá
 boa madrugada
+boa manhã
 boa tarde
 boca de siri
 bom
@@ -156,6 +160,7 @@ chupa
 churra
 chuta
 chuta que é macumba
+ché
 ciao
 claro
 clique
@@ -252,7 +257,6 @@ fruta que caiu
 fruta que partiu
 fu
 fum
-gado demais
 gentes
 gerônimo
 godeme
@@ -364,11 +368,11 @@ oquei
 ora
 ora essa
 orra
-os brancos que se entendam
 ota
 oxalá
 oxe
 oxente
+oxi
 paciência
 papagaio
 parado
@@ -541,6 +545,7 @@ viva
 vixe
 vixi
 vote
+vrum
 vá
 vá a merda
 vá de retro
@@ -551,6 +556,7 @@ vá pro diabo que te carregue
 vá pro inferno
 vá se catar
 vá às brisas
+xau
 xazam
 xebra
 xebre

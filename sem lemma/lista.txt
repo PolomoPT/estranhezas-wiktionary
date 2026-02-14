@@ -9,6 +9,7 @@ agrilhôo
 amaldiçôo
 amontôo
 amôres
+amôres-perfeitos
 aperfeiçôo
 apregôo
 apóia
@@ -64,6 +65,7 @@ dêste
 dêstes
 dôo
 ecôo
+editôres
 ensabôo
 entôo
 escôo
@@ -81,6 +83,7 @@ hás-de
 hão-de
 inclue
 inclues
+inglêses
 leilôo
 lêem
 magôo
@@ -102,6 +105,7 @@ naquillo
 nêle
 nêles
 objectivas
+portuguêses
 povôo
 prevêem
 prà
@@ -115,6 +119,7 @@ relêem
 revêem
 sôo
 teem
+têrmos
 ubèrrimamente
 vae
 veem

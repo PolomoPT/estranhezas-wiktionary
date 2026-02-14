@@ -1,13 +1,14 @@
 |'cês
-|6
 |Vossa Eminência
 |Vossa Magnificência
 |Vossa Reverendíssima
 |Vossa Santidade
 |Vossa Senhoria
+|a
 |abó
 |alguéns
 |ambes
+|aquel
 |aqueloutro
 |aquessa
 |aquesse
@@ -33,6 +34,7 @@
 |ele mesmo
 |ele próprio
 |elezinho
+|ende
 |essoutra
 |essoutras
 |essoutro
@@ -41,13 +43,17 @@
 |ilu
 |inúmeros
 |le
-|lhufas
 |m'
 |mecê
+|meritíssima
+|meritíssimas
+|meritíssimos
 |mesma
 |mesmas
 |mesme
 |mesmo
+|mia
+|mias
 |minhe
 |mo
 |moça
@@ -85,4 +91,3 @@
 |vossoria
 |vossuncê
 |vossência
-|xongas

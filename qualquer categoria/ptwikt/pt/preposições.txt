@@ -50,6 +50,7 @@ em consequência de
 em conseqüência de
 em direção a
 em lugar de
+em matéria de
 em oposição a
 em relação a
 em troca de
@@ -84,6 +85,8 @@ por mor de
 pra
 prà
 pró
+quanto a
+relativamente a
 salvante
 salvo
 segundo

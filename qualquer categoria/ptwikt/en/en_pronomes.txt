@@ -1,4 +1,5 @@
 'cê
+6
 Sua Alteza
 Sua Majestade
 Suas Majestades
@@ -10,7 +11,7 @@ Vossa Excelência
 Vossa Majestade
 Vossa Majestade Imperial
 Vossas Majestades
-a
+a/languages M to Z
 a gentchi
 a gente
 a gênti
@@ -66,7 +67,6 @@ demais
 determinada
 determinadas
 determinados
-dms
 ela
 ela mesma
 elas
@@ -103,6 +103,7 @@ la
 las
 lhe
 lhes
+lhufas
 lo
 los
 maningue
@@ -115,6 +116,7 @@ meu
 meus
 mi
 mim
+min
 minha
 minhas
 muita
@@ -261,6 +263,7 @@ vários
 vç
 vçs
 vós
+xongas
 ysto
 êle
 êles

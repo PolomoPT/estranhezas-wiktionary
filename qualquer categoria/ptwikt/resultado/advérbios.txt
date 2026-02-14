@@ -1,5 +1,6 @@
 |a cachão
 |a olho
+|abarrisco
 |abastadamente
 |abaxo
 |abinício
@@ -15,15 +16,22 @@
 |acaloradamente
 |acarão<qq:has gl>
 |acelerando
+|acentuadamente
 |acerca
+|acertadamente
 |acinte
 |acirradamente
 |acó
 |acô<qq:has gl>
+|adebaixo
 |adedentro
+|adefora
+|adeleve
+|adelonge
 |adoidado
 |adoito<qq:has gl>
 |adonde
+|afincadamente
 |agás<qq:has gl>
 |alargadamente
 |aldemenos
@@ -48,6 +56,7 @@
 |antão
 |ao labarente<qq:has gl>
 |apositivamente
+|aprofundadamente
 |apuradamente
 |após
 |aquase
@@ -62,10 +71,12 @@
 |arredor
 |arreio<qq:has gl>
 |arreu
+|ascendentemente
 |asseguradamente
 |assemade<qq:has gl>
 |assiduamente
 |assomade<qq:has gl>
+|assumidamente
 |atempadamente
 |atoutinhadelas<qq:has gl>
 |atrabiliariamente
@@ -75,7 +86,6 @@
 |atrasado
 |atrasmente
 |atropeladamente
-|atá
 |autobiograficamente
 |avançadamente
 |axiologicamente
@@ -101,25 +111,34 @@
 |cacaranhas
 |cajo
 |caladamente
-|caracteristicamente
 |cartograficamente
+|casuisticamente
 |catastroficamente
 |cenograficamente
 |cerce
 |chega
+|ciclicamente
 |cinematograficamente
 |cinquenta/cinquenta
 |circunspectamente
-|clandestinamente
 |claustrofobicamente
 |commummente
+|complementarmente
+|complexivamente
+|compreensivelmente
 |comprovadamente
 |conaturalmente
+|concentradamente
+|concretamente
+|condignamente
 |confiadamente
 |conforme
 |confusamente
 |consante
+|consensualmente
 |consonte
+|contabilisticamente
+|contenciosamente
 |contino
 |continuadamente
 |contrafundo
@@ -130,50 +149,61 @@
 |corcunhas
 |coreograficamente
 |correndinho
+|correntemente
+|crescentemente
 |criptograficamente
 |cristãmente
+|criteriosamente
 |dançandinho
 |daquela<qq:has gl>
 |de cote<qq:has gl>
 |debalde
 |debaxo
+|decisivamente
+|defensivamente
 |definidamente
 |demograficamente
 |demoniacamente
 |demoradamente
-|dende
 |denodadamente
 |densamente
 |depreciativamente
 |derredor
 |desadequadamente
 |descontroladamente
+|desejavelmente
 |desenxabidamente
 |desgraciosamente
+|desportivamente
 |desproporcionalmente
 |desregradamente
 |determinadamente
 |detidamente
 |devera
 |dignamente
+|disciplinarmente
 |discograficamente
 |discriminadamente
 |discutidamente
 |distritalmente
+|documentalmente
 |dolosamente
 |donde
 |dorosamente
+|doutamente
 |draconianamente
 |duramente
 |ecograficamente
 |educacionalmente
 |educativamente
+|eficientemente
+|efusivamente
 |electricamente
 |em miúdos
 |em tela cheia
-|ementes
 |emmentes
 |encarecidamente
+|ende
 |entanto
 |entonce
 |entredia
@@ -187,33 +217,42 @@
 |escassamente
 |escrupulosamente
 |escuramente
+|esmagadoramente
 |esmeradamente
+|estatutariamente
 |estenograficamente
 |estereotipicamente
 |estonces
 |estratigraficamente
-|eufemisticamente
 |exaustivamente
 |excentricamente
 |excepto
 |exclusive
+|exemplarmente
+|exponencialmente
+|exteriormente
 |extrabarreiras
 |extramuros
 |extrinsecamente
 |farisaicamente
 |faticamente
 |fatidicamente
+|febrilmente
 |femininamente
 |fifty-fifty
 |figuradamente
 |fininho
 |finitamente
+|flagrantemente
 |fortuitamente
 |forward
 |fraudulentamente
 |frente-a-frente
+|fundadamente
+|fundamentadamente
 |fundo
 |futuramente
+|garantidamente
 |geoestrategicamente
 |geomorfologicamente
 |glè
@@ -221,7 +260,6 @@
 |harto
 |heraldicamente
 |heterossexualmente
-|hierarquicamente
 |historiograficamente
 |holograficamente
 |homossexualmente
@@ -234,33 +272,45 @@
 |iconograficamente
 |ignobilmente
 |ignominiosamente
+|ilegitimamente
 |imagiologicamente
 |imediato
+|impreterivelmente
 |imprevistamente
 |impropriamente
 |impudicamente
+|impunemente
 |in
 |inagora
 |inapercebidamente
 |incautamente
+|inclusivamente
 |incompativelmente
 |incongruentemente
 |inconstantemente
 |incontinênti
 |incógnito
-|indeterminadamente
+|indelevelmente
 |indignamente
 |indiscriminadamente
 |indivisivelmente
+|industrialmente
 |inextricavelmente
+|informaticamente
 |infra
 |inseguramente
+|institucionalmente
+|intelectualmente
 |intencionadamente
+|interinamente
 |inté
+|inversamente
 |iradamente
 |irmãmente
 |irrefletidamente
 |irrespectivo
+|irreversivelmente
+|irrevogavelmente
 |irritantemente
 |isomorficamente
 |jamé
@@ -273,14 +323,15 @@
 |legislativamente
 |lento
 |leve
+|liminarmente
 |limpo
 |linguisticamente
 |liso
 |logaritmicamente
 |lombalgicamente
-|longitudinalmente
 |ludicamente
 |maciçamente
+|magistralmente
 |magnificamente
 |maino<qq:has gl>
 |mal-mal
@@ -296,6 +347,7 @@
 |manso
 |masculinamente
 |massivamente
+|materialmente
 |mei
 |melancholicamente
 |melhor
@@ -309,10 +361,8 @@
 |mineralogicamente
 |minimamente
 |minoritariamente
-|miraculosamente
 |modernamente
 |moito
-|momentaneamente
 |monocordicamente
 |monograficamente
 |muite
@@ -331,7 +381,6 @@
 |neca
 |necrologicamente
 |nefandamente
-|negativo
 |nente
 |nessora
 |neurobiologicamente
@@ -341,26 +390,31 @@
 |nimiamente
 |nominalmente
 |nostalgicamente
+|notoriamente
 |noutrora
+|nutricionalmente
 |nõ
 |obliquamente
 |obscuramente
 |ociosamente
 |odiosamente
 |off
+|oficiosamente
 |omnimodamente
 |oncologicamente
 |onlaine
 |onte
 |opacamente
+|opcionalmente
 |operosamente
+|oportunamente
+|organicamente
 |organizadamente
 |orograficamente
 |ortopedicamente
 |ousadamente
 |outrures
 |pagãmente
-|parcamente
 |parodicamente
 |passadamente
 |passeninho<qq:has gl>
@@ -377,12 +431,19 @@
 |pousão<qq:has gl>
 |precedentemente
 |precipuamente
+|precocemente
+|presencialmente
 |prestes
+|pretensamente
+|primente
 |primorosamente
+|prioritariamente
+|proativamente
+|processualmente
 |prodigamente
 |profeticamente
 |prolificamente
-|propositalmente
+|promptamente
 |prosaicamente
 |prosodicamente
 |prosperamente
@@ -396,8 +457,11 @@
 |quotidianamente
 |racistamente
 |radiograficamente
+|reconhecidamente
+|recorrentemente
 |redondamente
 |refece
+|reiteradamente
 |rejo<qq:has gl>
 |repente
 |repetido
@@ -409,9 +473,10 @@
 |rotineiramente
 |sadicamente
 |salvificamente
-|sarcasticamente
+|sazonalmente
 |scilicet
 |seguido
+|selvaticamente
 |sentenciosamente
 |sequera
 |seraficamente
@@ -423,22 +488,29 @@
 |soberbamente
 |sobre
 |sobreposse
+|solidariamente
 |somentes
 |stonce
 |sub-repticiamente
 |subsidiariamente
 |substantivamente
+|superiormente
 |supinamente
 |suso
 |sussa
 |sãmente
 |tacitamente
 |taquigraficamente
+|taxativamente
 |tefe-tefe
 |telegraficamente
 |televisivamente
 |tempestivamente
+|tendencialmente
+|termicamente
 |terrificamente
+|territorialmente
+|theatralmente
 |tipograficamente
 |tira-que-tira
 |tode
@@ -449,6 +521,7 @@
 |toxicologicamente
 |transitoriamente
 |transversalmente
+|tremendamente
 |tribologicamente
 |trás
 |tão só
@@ -458,10 +531,13 @@
 |técnico-juridicamente
 |ulo<qq:has gl>
 |ulteriormente
+|validamente
 |variamente
 |velaí<qq:has gl>
 |velhacamente
 |veridicamente
+|vertiginosamente
+|vincadamente
 |virulentamente
 |vividamente
 |à tona

@@ -58,7 +58,6 @@ choro de puta Deus não escuta
 conhecimento é poder
 cão que ladra não morde
 cão que late não morde
-dar sopa ao azar
 de boas intenções está cheio o inferno
 de boas intenções está o inferno cheio
 de boas intenções o inferno está cheio
@@ -77,11 +76,13 @@ dinheiro não cresce em árvore
 dinheiro não cresce em árvores
 dinheiro não dá em árvore
 dinheiro não dá em árvores
+direitos humanos para humanos direitos
 diversidade é o tempero da vida
 diz-me com quem andas
 diz-me com quem andas, dir-te-ei quem és
 em Roma, como os romanos
 em Roma sê romano
+em briga de marido e mulher, não se mete a colher
 em casa de ferreiro, o espeto é de pau
 em terra de cego, quem tem um olho é rei
 em time que está ganhando, não se mexe
@@ -125,7 +126,6 @@ nunca é tarde para aprender
 nunca é tarde para se aprender
 não existe almoço de graça
 não existe almoço grátis
-não fede, nem cheira
 não há carne sem osso
 não há fumaça sem fogo
 não há lugar como nosso lar
@@ -138,7 +138,6 @@ o barato sai caro
 o bicho vai pegar
 o bom filho a casa torna
 o bom é inimigo do ótimo
-o buraco é mais embaixo
 o céu é o limite
 o espírito está pronto, mas a carne é fraca
 o homem põe e Deus dispõe
@@ -153,7 +152,6 @@ o pior cego é aquele que não quer ver
 o que conta é a intenção
 o que está feito está feito
 o que não mata, engorda
-o que os olhos não veem, o coração não sente
 o que os olhos não veem o coração não sente
 o que vem de baixo não me atinge
 o sangue é mais grosso que a água
@@ -161,7 +159,6 @@ o silêncio é ouro
 o tempo cura tudo
 o tempo e a maré não esperam por ninguém
 o tempo voa
-oito ou oitenta
 olho por olho, dente por dente
 onde há fumaça, há fogo
 onde há fumo, há fogo
@@ -170,7 +167,6 @@ os cães ladram, mas a caravana passa
 os fins justificam os meios
 os incomodados que se mudem
 os opostos se atraem
-ou oito, ou oitenta
 papagaio velho não aprende a falar
 para bom entendedor, meia palavra basta
 pau que nasce torto nunca se endireita
@@ -187,6 +183,9 @@ primeiro estranha-se, depois entranha-se
 promessa é dívida
 quando a esmola é demais, o santo desconfia
 quando a esmola é grande, o santo desconfia
+quando a água bate na bunda, a gente aprende a nadar
+quando a água bate na bunda, ou você nada ou afunda
+quando a água bate na bunda, ou você nada ou morre afogado
 quando em Roma, faça como os romanos
 quando minguar a lua, não comeces coisa alguma
 quando minguar a lua, não comeces cousa algua
@@ -201,6 +200,7 @@ quem ama, castiga
 quem ama o feio, bonito lhe parece
 quem avisa amigo é
 quem cala consente
+quem com ferro fere com ferro será ferido
 quem conta um conto acrescenta um ponto
 quem corre cansa, quem anda alcança
 quem espera sempre alcança
@@ -242,6 +242,7 @@ toda regra tem exceção
 toda regra tem uma exceção
 todos os caminhos levam a Roma
 tudo fica bem quando acaba bem
+tudo o que vem à rede é peixe
 tudo que vai volta
 tudo que é bom acaba
 um dia da caça, outro do caçador

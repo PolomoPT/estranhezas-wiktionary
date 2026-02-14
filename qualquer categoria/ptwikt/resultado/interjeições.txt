@@ -29,7 +29,6 @@
 |apre
 |araã
 |arrasou
-|arre
 |arre égua
 |arrebentou
 |arreda
@@ -51,13 +50,15 @@
 |bau-bau
 |baubau
 |bazinga
+|bem feito
 |bem-vindes
 |benza Deus
 |bença
+|bestial
 |bleh
 |blá
 |boa madrugada
-|boa tarde
+|boa manhã
 |boca de siri
 |bosta
 |brucutu
@@ -94,6 +95,7 @@
 |churra<qq:has gl>
 |chuta
 |chuta que é macumba
+|ché
 |ciao
 |clique
 |coche-coche
@@ -155,8 +157,6 @@
 |fruta que caiu
 |fruta que partiu
 |fu
-|fum
-|gado demais
 |gentes
 |gerônimo
 |godeme
@@ -226,8 +226,8 @@
 |oquei
 |ora essa
 |orra
-|os brancos que se entendam
 |ota
+|oxi
 |paciência
 |papagaio
 |parado

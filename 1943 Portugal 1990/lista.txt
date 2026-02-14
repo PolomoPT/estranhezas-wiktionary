@@ -38,8 +38,6 @@ actualização
 actualmente
 actuar
 actuação
-acupunctor
-acupunctura
 acção
 adjectivamente
 adjectivar
@@ -64,7 +62,6 @@ co-secante
 co-seno
 co-tangente
 coacção
-coarctar
 coleccionador
 coleccionar
 colectivamente
@@ -121,6 +118,7 @@ electrocutar
 electrodeposição
 electrofisiologia
 electromagneticamente
+electromagnetismo
 electromobilidade
 electromotor
 electronegatividade
